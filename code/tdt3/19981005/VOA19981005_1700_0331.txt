@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981005.1700.0331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices closed lower Monday after a weekend meeting of world 
+financial officials here in Washington failed to ease concerns over 
+a slowing global economic growth. The Dow Jones industrial average 
+lost 63 points to finish the day at 7,721. I'm Robert Burns, VOA News. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0209 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says urgent action is needed to avoid a global economic 
+meltdown. Mr. Clinton addressed financial leaders at today's annual 
+meeting of the world bank and international monetary fund in Washington. 
+He described the global situation as serious. But he added stability 
+can return if the world's leading economic powerhouses work together. 
+</TEXT>
+</DOC>

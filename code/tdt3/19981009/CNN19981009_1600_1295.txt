@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1295 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mike Sammond, "Headline Sports." The American league championship 
+series continues tonight in Cleveland with the Yankees and Indians 
+tied at one game apiece. Andy pettitte will start against bartolo 
+colon. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.1600.1658 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll be back in two minutes with a fresh look at all the day's news, 
+including what fed chariman Alan Greenspan is saying about the future 
+of the U.S. economy. I'm Kathleen Kennedy. You're with "Headline News." 
+</TEXT>
+</DOC>

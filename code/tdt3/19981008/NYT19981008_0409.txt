@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO> NYT19981008.0409 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As the reporting season for corporate earnings begins, Wall Street 
+analysts seem to agree that profits will decline a few percentage 
+points in the third quarter, ending an almost seven-year run of intoxicating 
+profit gains. The bigger question is what happens next. Will this 
+be just a brief headache or are earnings going to turn into a real 
+hangover? ``It is the great issue for the market now,'' said Thomas 
+Doerflinger, an investment strategist at Paine Webber. What's worse, 
+even if earnings growth resumes next year, will that be enough to 
+put the stock market back on track? The fall in semiconductor stocks 
+the last two days, despite indications that the industry is turning 
+around, may mean that even moderate gains in profits won't be enough 
+to satisfy the crowd. And while the Dow Jones industrial average recovered 
+most of its losses by the end of trading Thursday, the Nasdaq Composite 
+index, the market yardstick that measures the performance of many 
+of the fastest-growing and most popular technology stocks, absorbed 
+another sharp blow. Until recently, investors could almost count on 
+pleasant surprises from companies reporting earnings that consistently 
+exceeded expectations. That hope now seems to be vanishing and many 
+investors are tuning out those strategists who continue to sing even 
+a mildly positive tune. ``We're still looking for up earnings,'' said 
+Byron Wien, the U.S. investment strategist at Morgan Stanley Dean 
+Witter. ``And in almost every conversation I have with clients, they 
+challenge me. `There is no way earnings will go up,' they say.'' The 
+reaction Thursday to a new report from Abby Joseph Cohen, the closely 
+followed market strategist for Goldman Sachs &AMP; Co. who has been 
+a longtime bull, showed just how touchy investors were. In a note 
+to Goldman clients before the stock market opened, Ms. Cohen said 
+that she was lowering her forecast for operating earnings _ which 
+are adjusted to remove the impact of one-time writeoffs and other 
+charges _ for the stocks in the Standard &AMP; Poor's 500 index. That 
+announcement helped send Wall Street sharply lower when the market 
+opened. Still, her outlook remains quite positive in a climate where 
+pessimism seems to be growing. She predicted that earnings for this 
+year would end up about 5 percent above 1997 results and she forecast 
+another 7 percent gain in 1999. That's down, but only a bit, from 
+her earlier forecast of 8 percent growth for 1998 and 8.9 percent 
+for 1999. Indeed, as Wien's and Ms. Cohen's forecasts show, a lot 
+of big names on Wall Street continue to bet that any profit dip in 
+the third quarter will be little more than a hiccup. While they are 
+not expecting the percentile growth in earnings to roar back to the 
+bullish double-digit pace of the mid-1990s, they are still counting 
+on profits to keep improving. Douglas Cliggott, the U.S. equity strategist 
+at J.P. Morgan Securities, is forecasting 2 percent earnings growth 
+in 1999 even though his firm's economists predict a mild recession 
+next year. Two forces drove the stock market forward during the incredible 
+bull run that began in 1991. One was rapid earnings growth. The other 
+was the flow of billions of dollars from ordinary investors out of 
+other assets into stocks, powering Wall Street to record highs this 
+summer even as earnings growth was really slowing down. With the bull 
+market in retreat, strategists are looking for something to spur the 
+market to climb again, to encourage investors to gaze over the valley. 
+A return to steady earnings growth could fit the bill. But the performance 
+this week of Advanced Micro Devices and other semiconductor stocks 
+shows that even good earnings news may be easily overwhelmed by uncertainty 
+about the current economic outlook. On Tuesday, Advanced Micro reported 
+that strong sales of its K6-2 computer microprocessor had returned 
+the company, unexpectedly, to profitability in the third quarter. 
+Following better-than-expected earnings from Motorola the day before, 
+it was a signal that the industry, which includes the chip giant, 
+Intel, might be turning around. But Advanced Micro's stock plunged, 
+falling 20.8 percent Wednesday and 11.1 percent Thursday. The Philadelphia 
+semiconductor index, which tracks 16 companies in the industry, dropped 
+3.4 percent Wednesday and another nine-tenths of 1 percent Thursday. 
+According to several analysts, the chance for an overall earnings 
+rebound requires several diverse elements to fall into place. The 
+economy must avoid a recession, chip makers must make a comeback next 
+year, energy prices need to stabilize near their current levels and 
+the dollar has to come down to levels that help American exporters 
+sell more abroad. All that is possible. But the price of oil, which 
+had jumped 27 percent to $16.14 a barrel from Aug. 12 to the end of 
+September, has dropped back this month to $14.42 a barrel. Alan Greenspan, 
+chairman of the Federal Reserve, says the prospects for economic growth 
+are worsening. And while the dollar is down sharply against the German 
+mark and the Japanese yen from its highs this summer, it remains relatively 
+strong against the currencies of America's other major trading partners. 
+Ms. Cohen, Doerflinger and Wein are all expecting the economy to stay 
+out of a recession. Doerfliner is forecasting earnings growth of almost 
+7 percent next year and Wien is predicting 2 percent earnings growth. 
+Ms. Cohen does acknowledge that Asia has still not bottomed out and 
+that Latin America is showing ``unexpected weakness.'' Wien said that 
+``the momentum of the economy is still good, consumer confidence is 
+still good and the Fed is easing.'' Apart from the overall economy, 
+these strategists argue that the hardest-hit industries, like semiconductors 
+and energy, do not need to return to robust earnings growth but merely 
+stop this year's slide to push 1999 earnings higher. According to 
+Doerflinger, earnings from the energy industry plunged 29 percent 
+in the first nine months of this year compared with the same period 
+in 1997. ``If energy earnings are just flat, that would be an improvement,'' 
+he said. The recent dollar decline will also add to the bottom line 
+of a lot of U.S. companies next year if its exchange rates just stay 
+where they are. A lower dollar means that earnings from abroad will 
+increase when they are translated back into cheaper dollars. But not 
+all strategists share this measured optimism about earnings. Marshall 
+Acuff, the equity strategist at Salomon Smith Barney, and Mitchell 
+Held, the firm's chief economist, are predicting a 1.1 percent decline 
+in earnings next year. Held's forecast is based on a weaker economy, 
+a rally in the dollar, continued poor performance from financial companies 
+and downward pressure on profit margins _ because prices can't rise 
+much and may even fall. For investors, this range of forecasts by 
+market strategists may not be all that comforting. But it is clearly 
+more in line with the current outlook and, thus, less likely to lead 
+to the kind of profit disappointments that have sent stocks lower. 
+The same cannot be said for the earnings forecasts assembled by the 
+hordes of analysts who predict earnings for individual companies in 
+the Standard &AMP; Poor's index of 500 stocks. These forecasters, 
+according to First Call, are expecting an 18.1 percent surge in earnings 
+next year. ``I would be happier if they were much lower,'' said Acuff. 
+``Then I could say that stock market prices reflect the worst.'' 
+</TEXT>
+</DOC>

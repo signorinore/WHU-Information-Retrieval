@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> ABC19981007.1830.1235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We have been taken up this week with the value of privacy. Privacy 
+lost in the minds of many people. But not all, and we'll get to that. 
+But first we're going to take "A closer look" at privacy and the telephone. 
+It's the most familiar invasion of privacy that people are dealing 
+with. The image of government listening in has been with us for a 
+long time. In some places, with very good reason. ABC's John Miller 
+reports from Los Angeles. There are 6.5 million telephones in L.A. 
+and for years in California, only federal authorities could use a 
+legal wiretap. Then, in 1989, California passed a law targeting drug 
+dealers that allows police to use wiretaps when all other investigative 
+techniques have failed. What's the wiretapping trend here in L.A.? 
+To wiretap a lot and to wiretap everybody. Kathy quant, a lawyer in 
+the public defender's office, charges that police in L.A. are using 
+wiretaps as a first step, not a last resort as required by law, and 
+that many thousands of people are being overheard improperly. Every 
+wire, everything we've sought has all been judicially authorized. 
+The district attorney's office says since 1993, they have only applied 
+for 90 wiretap orders. But the number of wiretap orders does not reflect 
+the number of people being overheard. This one wiretap order allowed 
+police to listen in on 350 different telephones and for a long time. 
+The average wiretap lasts 30 days. Not in Los Angeles. It lasted almost 
+two years. Prosecutors say some of the taps lead them to drugs and 
+drug money, but most of the taps seem to lead nowhere while grossly 
+violating privacy. In one case, five L.A. public pay phones were tapped. 
+Police listened to 131,000 conversations, resulting in no arrests. 
+California law requires that when a wiretap is concluded, the authorities 
+have to notify everyone who was overheard, especially people who were 
+not suspects. Now, the D.A.'s office admits, in most cases, they never 
+told anyone. It was indeed an oversight. There's no question about 
+it. Oversights that legal scholars say could bring privacy lawsuits 
+and cause convictions to be overturned. While prosecutors and defense 
+lawyers grapple over the legality of thousands of intercepted conversations, 
+no branch of government seems to be too eager to take the lead in 
+getting to the bottom of all this. Not the attorney general, not the 
+judges, not the legislature. Right now, L.A.'s big brother story seems 
+to be a political hot potato. John Miller, ABC News, Los Angeles. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1117 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more business news even after the markets are closed, check out 
+our web site. You'll find it at cnnfn.com. 
+</TEXT>
+</DOC>

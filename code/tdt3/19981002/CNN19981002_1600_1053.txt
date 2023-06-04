@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981002.1600.1053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+shares of revlon slumped 12 3/8. the cosmetics maker said its earnings 
+will fall short of wall street's expectations. revlon also closed 
+three factories overseas as a result of the global economic turmoils. 
+</TEXT>
+</DOC>

@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> NYT19981008.0417 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Basically, two winning themes emerged in a quarter so dismal that 
+gains of less than 2 percent could catapult a mutual fund into the 
+top 10 among domestic diversified stock funds: plays on falling interest 
+rates, and an overall search for safety. The Vanguard Wellesley Income 
+fund, with a combination of stocks and bonds that neatly tied together 
+both themes, ranked seventh among diversified domestic stock funds; 
+its quarterly return was 1.65 percent. Many of its stocks are utilities, 
+which have come into their own after struggling in red-hot markets. 
+Another winner, the Copley Fund, took 10th place with a return of 
+0.97 percent, also helped by a heavy weighting of utility shares. 
+Among purer plays, Strong American Utilities, up 4.89 percent, ranked 
+fourth among specialized funds. And a newfangled investment, Barr 
+Rosenberg Market Neutral, ranked sixth among diversified funds, with 
+a return of 1.9 percent. It aims for a steady return regardless of 
+what happens in the market. The managers of the four funds talked 
+about how they coped and what might lie ahead. ``We've had a good 
+portfolio all along,'' said William H. Reaves, who runs Strong American 
+Utilities, with $216.5 million in assets. ``We've just come into a 
+period when the sun is shining on our stocks for a change.'' Among 
+the fund's holdings are shares in electric utilities (38.5 percent), 
+telecommunications (34 percent), energy (13 percent) and gas utilities 
+(8 percent). The climate for utilities stocks has been particularly 
+good, he said, because the slowing earnings growth trend of industrial 
+companies and falling interest rates have made the dividends paid 
+by utilities companies more attractive. As of Sept. 30, the fund yielded 
+2.44 percent. Reaves said he had been building his position in electric 
+utility stocks throughout the year, ``as the deregulation process 
+moves along in state after state.'' One favorite is Ameren, now 7 
+percent of the fund's portfolio. Ameren, based in St. Louis, yields 
+6 percent. Another large holding, 7.1 percent of the portfolio, is 
+Nipsco, a natural-gas and electric company based in Merrillville, 
+Ind. ``We see good dividend growth and 8 percent per-share earnings 
+growth over the next three years,'' Reaves said. In telecommunications, 
+his largest position is Ameritech (8.1 percent of the portfolio). 
+``We expect dividend payments to increase about 6 percent a year, 
+and earnings per share at 12 percent,'' he said. Other favorites: 
+Bell Atlantic (7.2 percent) and the SBC Corp. (6.6 percent). Reaves 
+expects the good times to continue for utilities ``as long as we have 
+slow growth and until the trend of interest rates turns up.'' Barr 
+Rosenberg Market Neutral, with $310 million in assets, has also been 
+shining. William Jump, the portfolio engineer, aims to buy stocks 
+he thinks are undervalued and then ``neutralize'' the risk by selling 
+short (that is, selling borrowed shares of) an equal amount of stocks 
+he sees as overvalued. If the prices of the shorted stocks fall, as 
+expected, the borrowed securities can be replaced with shares that 
+cost less. Over all, the combination is intended to produce a fund 
+with the same risk levels as intermediate bonds, but with higher returns. 
+``Our goal is to beat Treasury bills by 5{ percent to 6 percent a 
+year, which is about 10 or 11 percent in the current interest-rate 
+environment,'' Jump said. 
+</TEXT>
+</DOC>

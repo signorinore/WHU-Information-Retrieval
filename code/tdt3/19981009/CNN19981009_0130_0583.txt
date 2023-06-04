@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0583 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A genetic defect may be responsible for causing colon and lung cancer. 
+Dr. Steve Salvatore reports. Yankee slugger Darryl Strawberry is fighting 
+colon cancer. Former Orioles player and coach Cal Ripken Sr. Is battling 
+lung cancer. Now, doctors believe they've uncovered a powerful new 
+tool to fight the nation's number-two killer. We know it's involved 
+in colon and lung cancer, and there's very strong suspicion that it's 
+involved in breast cancer, cervical cancer, head and neck cancer, 
+and maybe some others as well. Researchers at the University of Texas 
+southwestern medical center at Dallas discovered a Gene that works 
+to control the growth of cancer cells. Here's how it works -- the 
+Gene produces a protein that removes phosphate from molecules that 
+regulate cell growth, keeping the cells under control. When the Gene 
+does not work properly, phosphate builds up, the cells divide out 
+of control and develop into cancer. Now that scientists have discovered 
+this Gene, and know how it works, they hope to use it to suppress 
+tumor growth. If we can figure out how to stop that or how to remove 
+those phosphates and get that balance back into normal levels, that 
+should turn off the tumor. And researchers say it might be possible 
+to test if someone's at risk within the next two to three years. If 
+you identify a population at risk for death, it's much, much easier 
+to get them to change their behavior. Both to never start smoking 
+in the beginning, and to stop if they are smoking and have this high-risk 
+Gene. Scientists are currently undertaking a massive effort called 
+the human genome project to identify all 70,000-80,000 human genes 
+in the next two to three years. Once that's done, they say all of 
+the cancer genes will be identified. And that will lead to better 
+treatments, prevention, and possibly even a cure. In the long run, 
+it's very clear that we will discover how to cure cancer. It's a question 
+of time and a question of complete understanding. This is a major 
+step in that direction. Dr. Steve Salvatore, CNN, New York. 
+</TEXT>
+</DOC>

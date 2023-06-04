@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.1600.1594 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First, a look at the world's highest bungee jump from a building. 
+A New Zealand man took the plunge today off the sky tower in auckland. 
+</TEXT>
+</DOC>

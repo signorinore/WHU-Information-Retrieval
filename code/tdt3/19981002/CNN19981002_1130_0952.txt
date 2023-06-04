@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0952 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks have been all over the map today. Some modest gains in the 
+early going gave way to steep losses. 
+</TEXT>
+</DOC>

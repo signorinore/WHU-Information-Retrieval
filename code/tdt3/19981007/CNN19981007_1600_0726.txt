@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0726 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Welcome to another year of CNN's "cold and flu report." With the season 
+of sniffles and sneezes starting up again, CNN will bring you a new 
+report each week about colds, flu and the latest news on how to deal 
+with them. October and November are the months to get your yearly 
+flu vaccine. Typically, these vaccines consist of killed influenza 
+viruses. And when you get injected with them, your body develops protective 
+antibodies against influenza. Flu vaccines don't provide perfect protection, 
+but they do greatly reduce the odds of catching the flu. 
+</TEXT>
+</DOC>

@@ -1,0 +1,133 @@
+<DOC>
+<DOCNO> NYT19981005.0393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Adding an immigration case and five other new cases to the term that 
+opened Monday, the Supreme Court agreed to clarify the law on leniency 
+for refugees who seek to remain in the United States despite having 
+committed crimes in their home countries. The justices accepted the 
+Clinton administration's appeal of a ruling in favor of a Guatemalan 
+who, as a student leader in Guatemala, had burned 10 buses and vandalized 
+stores while demonstrating against the government. He had entered 
+the United States illegally in 1993 and, when faced with deportation 
+the next year, requested asylum and the ``withholding of deportation,'' 
+a form of administrative relief granted by immigration officials in 
+the name of the attorney general. Although an immigration judge granted 
+his request, finding that he had established a ``well-founded fear'' 
+of political reprisal in Guatemala, the Immigration and Naturalization 
+Service appealed. The service argued that the man, Juan Anibal Aguirre-Aguirre, 
+was ineligible for leniency, citing a provision of the immigration 
+law that denies relief to an alien who has ``committed a serious nonpolitical 
+crime outside the United States.'' An immigration appeals board agreed 
+with the agency, but its ruling was overturned last year by the U.S. 
+Court of Appeals for the 9th Circuit, in San Francisco. That court 
+ruled that the Board of Immigration Appeals should not have simply 
+applied the law automatically, but should have weighed a number of 
+factors, including the seriousness of the offenses when balanced against 
+the seriousness of the reprisals Aguirre faced, and the nature of 
+the crime in proportion to the political situation and objectives. 
+In its Supreme Court appeal, Immigration and Naturalization Service 
+vs. Aguirre-Aguirre, No. 97-1754, the administration essentially takes 
+the view that decisions of immigration officials on whether to proceed 
+with deportation or grant administrative relief is not subject to 
+second-guessing by the courts. The Court of Appeals ``failed to give 
+due deference'' to the Board of Immigration Appeals and ``improperly 
+substituted its judgment'' for that of the board, the administration 
+told the justices. The court's reaction to these arguments could indicate 
+how the justices will respond to other immigration cases now making 
+their way through the courts in the wake of Congress' sharp curtailment 
+two years ago of aliens' ability to challenge adverse administrative 
+decisions. Several federal appeals courts have ruled in the past few 
+months that immigration decisions cannot be completely insulated from 
+judicial review and that, at least in certain circumstances, aliens 
+must be given access to federal courts. Most recently, in a major 
+ruling late last month, the U.S. Court of Appeals for the 2nd Circuit, 
+in New York, rejected the administration's view and ruled that Congress 
+lacked authority to deprive federal courts of jurisdiction to hear 
+habeas corpus petitions from immigrants who are in custody and who 
+are challenging deportation orders. The six new cases the justices 
+accepted on Monday brought to 51 the number now available for decision 
+during the new term. The court denied review Monday in some 1,700 
+cases that had accumulated since the last term ended in June. One 
+unusual feature on Monday was the extent to which the justices undertook 
+to reformulate the legal questions posed by the cases they agreed 
+to take on. Typically, the court simply announces that review has 
+been granted, presumably on the terms presented by the lawyer who 
+brings the case. In the immigration case Monday, for example, the 
+court simply said ``granted.'' But in the five other cases, the justices 
+actually rewrote the questions, sharpening the focus and limiting 
+their review to those questions that were logically interrelated. 
+In one case, in which the lawyer offered a full page of what he described 
+to the court as ``a cascading series of sub-issues,'' the justices 
+boiled the matter down to two questions and six lines of type. Although 
+it is too early in the term to tell whether the justices are taking 
+a new and more aggressive approach to managing their docket, the action 
+Monday may reflect their frustration with cases in recent terms in 
+which the underlying issue was important but the presentation was 
+too unfocused to let the court make much headway. Here are some of 
+the highlights of the opening day: Disability Policy The court agreed 
+to resolve a dispute among the lower federal courts over the relationship 
+between the Americans With Disabilities Act and receipt of Social 
+Security disability benefits. The disabilities act, a 1990 federal 
+law, prohibits employers from discriminating against ``a qualified 
+individual with a disability,'' meaning someone who is able to work, 
+although perhaps with reasonable accommodations to the disability. 
+The question in this case, Cleveland vs. Policy Management Systems, 
+No. 97-1008, is whether receipt of disability benefits under Social 
+Security creates a presumption that the employee is not able to work 
+and is therefore not covered by the disabilities act. The extent of 
+disability necessary to qualify for Social Security benefits is considerable: 
+a person must be unable ``to engage in any substantial gainful activity'' 
+in the economy. Some federal courts have ruled that a person who qualifies 
+as disabled for Social Security purposes is, by virtue of that fact, 
+outside the disabilities act's protection. In this case, the U.S. 
+Court of Appeals for the 5th Circuit, in New Orleans, established 
+a presumption to that effect, and dismissed a disabilities act suit 
+brought against an employer by a woman who had collected Social Security 
+benefits following a stroke. The woman argued that her subsequent 
+dismissal from her job violated the disabilities act. Reporters' Access 
+Without comment, the court turned down an appeal from a coalition 
+of news organizations, including The New York Times, challenging denial 
+of public access this year to court hearings and legal motions connected 
+to the Whitewater independent counsel's investigation into the Lewinsky 
+matter and to assertions of privileges raised by grand jury witnesses. 
+Hearings on claims of executive privilege and lawyer-client privilege 
+by White House officials were not announced in advance and took place 
+behind closed doors. The U.S. Court of Appeals for the District of 
+Columbia Circuit ruled on May 5 that the First Amendment did not provide 
+a right of access to proceedings that were ``ancillary'' to a grand 
+jury investigation. In their appeal, Dow Jones vs. Clinton, No. 97-1959, 
+the news organizations said the ruling ``effectively bars the public 
+from meaningful and timely access to information of overwhelming public 
+interest.'' Drug Testing Also without comment, the court refused to 
+hear a challenge to an Indiana school district's drug testing policy, 
+under which any student who wants to participate in any extracurricular 
+activity must agree to be subject to random testing for alcohol, illegal 
+drugs and cigarettes. The policy, upheld earlier this year by the 
+U.S. Court of Appeals for the 7th Circuit, in Chicago, goes considerably 
+beyond a student drug-testing policy the Supreme Court upheld three 
+years ago in an Oregon case that applied only to student athletes. 
+In that case, the court found that an existing drug problem and the 
+role of athletes as student leaders justified the policy. In Rush 
+County, Ind., a rural area with no evidence of a drug problem, the 
+policy applies to members of the French club, the Future Homemakers 
+of America, the library club and many others. The Indiana Civil Liberties 
+Union challenged the policy on behalf of a student who had volunteered 
+to videotape football games but was barred from doing so because he 
+refused to submit to random drug testing. The case was Todd vs. Rush 
+County Schools, No. 97-2021. Lawyer Search The court agreed to decide 
+whether two Los Angeles prosecutors violated a defense lawyer's due 
+process rights by having him held and searched in a separate room 
+of the courthouse while his client was required to testify before 
+a grand jury. The prosecutors are appealing a ruling by the 9th Circuit 
+that in its timing and motivation _ to prevent the lawyer from consulting 
+with his client _ the search amounted to an unreasonable interference 
+with the right of the lawyer, Paul L. Gabbert, to practice his profession. 
+Gabbert was representing Traci Baker, a defense witness in the trial 
+of Lyle and Erik Menendez for murdering their parents. The prosecutors 
+had obtained a warrant to search Gabbert to see if he was carrying 
+a letter to Baker from Lyle Menendez, her former boyfriend. No letter 
+was discovered. The case is Conn vs. Gabbert, No. 97-1802. 
+</TEXT>
+</DOC>

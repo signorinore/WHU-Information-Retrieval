@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> MNB19981002.2100.1585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now to check on the weather with our friend meteorologist Janice 
+huff of WNBC-TV in New York City. Tonight we're watching a very powerful 
+storm system across the central portion of the country. It has been 
+producing thunderstorms and Texas seeing tornadoes north of Fort Worth. 
+Otherwise, across the west, California pretty dry, as well as the 
+east coast. Temperatures, 40's to the north. Right now, Orlando 80. 
+56 in Denver. Tonight's lows, in a row, 30's, 40's 50's, 60's, 70's, 
+quite a range. Tomorrow's highs, very cool over the northern Rockies. 
+0's for the southwest and central and southern Texas. Showers in Seattle, 
+59. Denver warms up to 68. Chicago in the 50's. Washington, D.C., 
+some showers, around 68 degrees. Cool in the northeast and New England. 
+Meanwhile, it remains warm and very humid for this time of the year 
+through the southeast and southwest, cold and rainy across the Rockies 
+and northwest. 
+</TEXT>
+</DOC>

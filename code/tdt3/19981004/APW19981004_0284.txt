@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> APW19981004.0284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The National Union of Metalworkers ended a five-week long strike on 
+Sunday by spare-part makers in the auto industry after agreeing on 
+wage hikes. The strike was called off after union members endorsed 
+the latest wage proposals, which include raises of up to 10 percent. 
+The country's seven auto manufacturers had been nearly shut down because 
+of a shortage of components caused by the strike. 
+</TEXT>
+</DOC>

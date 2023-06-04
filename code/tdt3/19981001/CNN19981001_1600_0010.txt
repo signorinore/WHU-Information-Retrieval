@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0010 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another downward spiral on Wall Street today. Preliminary figures 
+show the Dow Jones industrial average fell 220 points on top of yesterday's 
+237-point slide. The steep downturn has been fueled by worries Tuesday's 
+interest rate cut by the federal reserve wasn't big enough to stem 
+the tide of global financial turmoil. Investors are also expressing 
+concern over third-quarter profits. We'll have more on the Dow's plunge 
+in "Dollars & Sense," at 16 minutes past the hour. 
+</TEXT>
+</DOC>

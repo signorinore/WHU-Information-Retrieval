@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0987 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The price of orange juice will start going up in about two months. 
+Agriculture officials say Florida's orange crop is down 22%, because 
+a wet spring and a dry, hot summer stunted tree growth and caused 
+fruit to drop before it was ready. This season's harvest will be the 
+smallest in five years. 
+</TEXT>
+</DOC>

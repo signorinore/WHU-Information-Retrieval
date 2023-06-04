@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981009.0379 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Muni bonds almost always make sense for investors in high tax brackets, 
+because federal income taxes, which go as high as 39.6 percent, can 
+take a big chunk from the coupon income of Treasury securities; income 
+from munis is generally not subject to federal taxes. Today, however, 
+the tax advantage of municipals makes sense for people in any tax 
+bracket, largely because the yield of municipal securities with maturities 
+of five years or more is nearly the same as the before-tax yield on 
+comparable United States Treasury securities for the first time in 
+more than a decade. Usually, muni yields are only 80 percent to 85 
+percent of Treasury yields. The highest-quality 30-year muni, for 
+example, was recently yielding about 4.64 percent, or 98 percent of 
+the yield of a 30-year Treasury bond, said Richard J. Moynihan, director 
+of municipal securities at the Dreyfus Corp. After taxes, an investor 
+in the 36 percent tax bracket, for example, would wind up with a yield 
+of 3.03 percent on the 30-year Treasury, only 65 percent as much as 
+the investor in munis, Moynihan said. (Put another way, the tax-equivalent 
+yield of that muni for this investor is 7.25 percent.) And an investor 
+in the 28 percent bracket would wind up with an after-tax yield of 
+only 3.4 percent on the 30-year Treasury bond, just 73 percent as 
+much as the muni. ``The value is screamingly there in municipals,'' 
+Moynihan said. Kenneth Willmann, who oversees fixed-income securities 
+at USAA Investment Management in San Antonio, agreed. ``If you pay 
+any federal tax at all, you are better off in municipals,'' Willmann 
+said. ``That's maybe a rash statement, but that's pretty close to 
+true.'' For investors with less than $100,000 available for a muni 
+portfolio, mutual funds are generally the best way to go. That's because 
+muni bonds are generally sold in lots of $25,000, meaning it would 
+take $100,000 to get a reasonably well-diversified portfolio of four 
+issues. Of course, fund investors give up an important protection 
+enjoyed by people who hold bonds outright: If a bond is held to maturity, 
+the principal is repaid. A fund makes no such promise. Municipal yields 
+are relatively high because low interest rates this year prompted 
+record issuance of new munis as well as refinancings of older issues. 
+The extra supply put downward pressure on prices throughout the muni 
+market, pushing up yields, which move in the opposite direction. Prices 
+of Treasuries, meanwhile, rose to 30-year highs, as Americans and 
+foreign investors _ many of whom receive no tax benefit from munis 
+_ rushed into Treasuries, pushing down yields. What happens next? 
+If global equities markets stabilize and the United States stock market 
+pulls out of its slump, Treasury prices could fall. The ``devil's 
+advocate'' view, said Eric Jacobson, a fixed-income analyst at Morningstar 
+Inc., the financial publisher in Chicago, is that prices of munis 
+would follow suit. The more common opinion, Jacobson said, is that 
+the municipal market is cheap and that there is plenty of room for 
+prices to rise. If the economy slows or even slips into recession, 
+municipal securities will provide more income than Treasuries after 
+taxes, and they will resist credit depreciation more than bonds issued 
+by corporations, he said. Making the case for general obligation bonds, 
+which are backed by the full faith and credit of a municipality, he 
+said, ``Most city governments have done a good job of putting their 
+fiscal house in order over the last few years, so it'll be a pretty 
+slow process of deterioration if they are hurt by recession.'' Still, 
+investors worrying about a recession might want to steer clear of 
+some of the best-performing funds, which can be loaded with ``nonrated'' 
+municipal bonds, or securities issued by weaker municipalities. A 
+lot of managers think that the current yields on many weaker credits 
+are not high enough to compensate investors for the risk, Jacobson 
+said. So while good managers can pick their way through weaker credits, 
+many are choosing instead to buy high-quality muni bonds. Investors 
+looking for managers who can take advantage of carefully researched 
+bargains among higher-yielding, nonrated securities should stay away 
+from high-yield municipal bond funds that are often required to have 
+a big percentage in lower-quality issues, said Michael J. Chasnoff, 
+a financial planner in Cincinnati. ``If you want a fund that can be 
+more opportunistic, you need a national fund,'' Chasnoff said. What 
+else should investors watch for in a muni fund? Low operating expenses, 
+Chasnoff said, because even superior returns may not compensate for 
+extra costs. He recommends funds with expense ratios below the average 
+of their peer group _ 1.10 percent for long-term national municipal 
+funds, for instance, according to Morningstar. And what about single-state 
+muni funds? These often make sense for investors who live in a state 
+with high taxes, like California or New York, because the income will 
+be exempt from state as well as federal taxes. The downside of a single-state 
+fund is that it offers less diversification by making an investor 
+dependent on the local economy. 
+</TEXT>
+</DOC>

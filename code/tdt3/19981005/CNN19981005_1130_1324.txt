@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.1130.1324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In auto racing, Mark Martin took the checkered flag in Sunday's running 
+of the UAW GM 500. 
+</TEXT>
+</DOC>

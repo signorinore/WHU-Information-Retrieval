@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981002.1600.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+beginning monday, there'll be a new way to buy u.s. government treasuries. 
+you'll be able to set up a treasury direct account and buy securities 
+over the phone. the new phone service joins an internet buy-direct 
+program that began operating last month. that service sold $9 million 
+in bills and in its first two weeks. the phone number to call, is 
+-- you'll find out what's available, and what you need to do to make 
+a purchase. 
+</TEXT>
+</DOC>

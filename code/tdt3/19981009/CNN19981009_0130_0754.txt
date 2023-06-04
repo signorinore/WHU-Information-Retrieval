@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0754 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories are next. Then in consumer news -- students are finding 
+it harder to get into the big name business schools. Last year, Tom 
+Brandon had an accident at work. hi, jim. hey, tom. I'll take care 
+of that. Thanks, Jim. Today, his left arm is a Boston elbow... developed 
+by the liberty mutual research center. hey, tom. I'll take care of 
+that. Oh, thanks, Dan. - It's the most versatile artificial arm in 
+the world. - hey, tom. I'll take care of that. Thanks. - So now Tom 
+can pretty much do any job... - hi, honey. He wants to. Oh, you're 
+all wet. You take care of that, Tom. Safer, more secure lives. That's 
+the freedom of liberty. 
+</TEXT>
+</DOC>

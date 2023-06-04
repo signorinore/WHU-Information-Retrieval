@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+While the house talked impeachment, Mr. Clinton announced a plan to 
+expand the number of HMO's that accept Medicare patients. 
+</TEXT>
+</DOC>

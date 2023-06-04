@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0268 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department has filed an antitrust lawsuit against visa 
+and Mastercard on charges they're limiting credit card competition. 
+The government says together, visa and Mastercard account for 75% 
+of all credit card purchases. It's challenging a rule that prevents 
+banks that issue their cards from doing business with smaller companies 
+like American express and discover. American consumers have simply 
+lost out. They have lost the benefit of vigorous competition between 
+the two largest credit card networks, which means that they have not 
+enjoyed the innovation that competition brings. Visa says Americans 
+have unlimited choices in credit cards, and is promising to fight 
+the lawsuit in court. In a few moments we will talk with a consumer 
+advocate about what the lawsuit could mean for you and your credit 
+cards. . 
+</TEXT>
+</DOC>

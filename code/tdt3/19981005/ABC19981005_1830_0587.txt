@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981005.1830.0587 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Japanese government is considering gift certificates as it tries 
+to stimulate the economy. Every Japanese citizen, 125 million of them, 
+would get a $220 certificate, which the government hopes they will 
+spend. Thus stimulating the economy. 
+</TEXT>
+</DOC>

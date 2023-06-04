@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> APW19981008.0822 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Prices on the Amsterdam Stock Exchange closed sharply lower Thursday, 
+as a nervous market was dragged down by a weakening dollar and losses 
+on key international bourses, particularly Tokyo. The 27-share AEX-index 
+closed down 29.44 points, or 3.4 percent, at 827.67 points, but slightly 
+up from its lowest level of 807.83 points earlier today. Most major 
+European bourses suffered losses Thursday, partially due to the Tokyo 
+exchange closing lower earlier in the day. But the overriding negative 
+influence for Dutch traders came from the sharp worldwide slide of 
+the dollar. In Amsterdam, the U.S. currency, at 1455 GMT, stood at 
+1.81 guilders, down from 1.82 guilders late Wednesday. Earlier in 
+the session, the dollar fell as low as 1.79, the first time since 
+June 1997 that it had fallen below the 1.80-guilder mark. The Dutch 
+stock market is highly dollar-sensitive, as a number of index companies 
+derive much of their overseas revenues in dollars. 
+</TEXT>
+</DOC>

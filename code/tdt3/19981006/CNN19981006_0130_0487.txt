@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0487 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new federal government study finds cold breakfast cereals are the 
+number one source of key vitamins and minerals for American children. 
+But researchers at the national cancer institute say children should 
+eat more fruits and vegetables which have naturally occurring nutrients 
+and contain fiber and cancer-fighting substances. 4,000 children between 
+2 and 18 years of age were studied for a two year period beginning 
+in 1989. 
+</TEXT>
+</DOC>

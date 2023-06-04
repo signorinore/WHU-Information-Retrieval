@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981007.0547 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A planeload of mushrooms found to contain a radioactive substance 
+was scrapped by Bulgarian authorities. The mushrooms, picked in southern 
+Bulgaria and destined for export, contained radioactive cesium-137, 
+Peter Konstantinov of the National Institute Hydrology and meteorology 
+told the daily 24 Chassa for a story Wednesday. Konstantinov was quoted 
+as saying the radiation probably came from the 1986 Chernobyl nuclear 
+reactor disaster in Ukraine. The report didn't give the amount of 
+mushrooms destroyed or specify the degree of radioactivity. It also 
+did not say their destination. 
+</TEXT>
+</DOC>

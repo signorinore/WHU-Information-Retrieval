@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0539 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. Isolated rain and snow in the northwest 
+for Saturday morning. Heavier rainfall from northern Louisiana into 
+the Great Lakes due to an area of low pressure and also a trough of 
+low pressure. As we look into Sunday morning and Saturday evening, 
+not much changes. The rain continues in lower Mississippi valley into 
+the northeast and scattered snow showers along with rain over the 
+northern Rockies. Nice weather, however, throughout the weekend over 
+the southern Rockies and west Texas. High temperatures show becoming 
+a fall -- or that fall is here, actually. Highs on Saturday generally 
+in the 40s, 50s and 60s over the northern half of the country. It's 
+going to be hot in Texas with highs in the 90s. Your extended forecast 
+showing some severe weather possible from the Great Lakes all the 
+way to the Texas/Louisiana coastline. Cooler temperatures over the 
+northern half of the country throughout the extended forecast period. 
+The strong thunderstorms push southward from the dakotas into Iowa, 
+to the gulf coast on Monday. And then on Tuesday, the stronger thunderstorms 
+push northward from Arkansas into the Great Lakes where we could see 
+an icy mix of rain and snow. 
+</TEXT>
+</DOC>

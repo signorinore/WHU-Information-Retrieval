@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981005.2000.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial Average lost 63 points 
+to close at 7721. Declines led advances by a 3 to 1 margin in heavy 
+trading. This is NPR. 
+</TEXT>
+</DOC>

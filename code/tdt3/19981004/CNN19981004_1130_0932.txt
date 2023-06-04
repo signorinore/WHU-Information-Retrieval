@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981004.1130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the house Judiciary committee is 
+expected to vote tomorrow on authorizing formal impeachment hearings 
+for President Clinton. A full house vote could come by Friday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981001.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Merrill Lynch &AMP; Co. said on Thursday that it had $1.4 billion 
+of financial exposure to Long-Term Capital Management, the speculative 
+hedge fund it helped rescue from bankruptcy last week. Merrill Lynch 
+said it covered this exposure, which comes largely from serving as 
+a major banker for Long-Term Capital, by requiring the hedge fund 
+to provide cash and government bonds as collateral. But if Long-Term 
+Capital had collapsed, the value of the hedge fund's derivatives might 
+have sunk rapidly, causing steep losses at Merrill. Merrill Lynch 
+was a leading member of the consortium of 14 big financial companies 
+that injected $3.6 billion into the hedge fund to stave off bankruptcy. 
+Merrill has said that it participated in that bailout because it feared 
+that Long-Term Capital's collapse would damage the world financial 
+system. A Merrill spokesman said on Thursday that the firm's large 
+exposure to the fund did not influence its decision to partake in 
+the rescue. ``We have said that even if there were a distress liquidation, 
+given the secure collateral any loss would be fully manageable,'' 
+said Tim Gilles, a Merrill spokesman. ``That was not the motivation 
+for us to join. Our concern was the potential for disruption in global 
+markets.'' Though almost all the big Wall Street firms had dealings 
+with Long-Term Capital, which is based in Greenwich, Conn., Merrill's 
+ties were arguably among the closest. The firm was an early equity 
+investor in the fund, contributing $15 million at its 1994 inception. 
+Before this week's recapitalization, that amount had already dwindled 
+to $2 million, the firm said. Moreover, Merrill has a deferred compensation 
+plan for senior executives that allows them to channel a portion of 
+their income to Long-Term Capital. A total of 123 top executives there, 
+including its chairman, David Komansky, have invested $22 million. 
+Merrill officials deny that their personal stakes in Long-Term Capital 
+influenced their decision to rescue the fund. They argue that all 
+the top executives have much larger personal stakes in Merrill itself, 
+and that they would not steer the company to take an action that was 
+not in the interest of shareholders generally. Though Long-Term Capital 
+is easily Merrill's most important client in the hedge fund world, 
+other hedge funds owe it $700 million, most of that fully collateralized, 
+the company said. Other banks and brokerage houses are also detailing 
+the risks they took serving as underwriters, counterparties and lenders 
+to hedge funds like Long-Term Capital, which lost huge sums of capital 
+with ill-fated bets on world stock and bond markets. The Chase Manhattan 
+Corp. has said it has $3.2 billion in total hedge fund exposure. Bankers 
+Trust has said hedge funds owe it a total of about $875 million. Both 
+banks have said they consider their exposure well backed by collateral. 
+Both are also part of the Long-Term Capital rescue effort, but it 
+was not clear how much of their total exposure was attributable to 
+debts of that one hedge fund. Meanwhile, Italy's Foreign Exchange 
+Office, a unit of the Bank of Italy, the country's central bank, said 
+it had invested $100 million in the hedge fund and loaned it another 
+$150 million. The bank said it expected to have the loan repaid now 
+that Long-Term Capital was rescued. It equity investment was reduced 
+in value by 90 percent, but the bank said it made stellar returns 
+in previous years on its investment in the fund. Antonello Biagioli, 
+the foreign exchange office's co-director, told Bloomberg News that 
+the bank invested in Long-Term Capital, in part, to tap the expertise 
+in derivatives of the firm's partners, including the Nobel prize winner 
+Myron Scholes and John Meriwether, Long-Term Capital's chairman. Merrill's 
+exposure to Long-Term Capital includes the risk it takes by serving 
+as a counterparty to derivatives owned by Long-Term Capital _ taking 
+the other side of the hedge fund's bets, the company said. The investment 
+bank also made loans to Long-Term Capital in return for assets like 
+government bonds, a transaction known as repos. 
+</TEXT>
+</DOC>

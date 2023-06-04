@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0877 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Beginning today, the federal government will require airlines to ask 
+U.S. citizens boarding international flight to name a next of Kin. 
+The information is designed to make it easier for airlines to contact 
+the relatives of crash victims more quickly. Passengers will not be 
+required to provide the information. 
+</TEXT>
+</DOC>

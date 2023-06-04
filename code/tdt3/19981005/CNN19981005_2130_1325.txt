@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.2130.1325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the nba is another step closer to losing regular season games because 
+of labor disputes for the first time in history. the league announced 
+today the cancellation of its remaining 89 preseason games. 
+</TEXT>
+</DOC>

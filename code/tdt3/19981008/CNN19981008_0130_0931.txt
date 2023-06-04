@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the justice department is suing 
+credit card giants visa and Mastercard for allegedly limiting competition. 
+The companies deny the charges. 
+</TEXT>
+</DOC>

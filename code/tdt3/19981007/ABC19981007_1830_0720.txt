@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981007.1830.0720 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other news today, the government reports that the death rate for 
+AIDS is at its lowest since the government started keeping track. 
+Drugs are hoping people with AIDS live longer. The total number of 
+people living with HIV keeps going up. 40,000 more people are infected 
+every year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was another losing day for stocks. Another big losing day for stocks. 
+Kitty pilgrim has the closing numbers from New York. Kitty, good afternoon. 
+Good afternoon, Chuck. Thanks. Stocks fell sharply today, but bonds 
+soared. Investors sent reeling by plunging markets around the world 
+and worries that Tuesday's interest rate cut by the federal reserve 
+will not be enough to stem the tide of global financial turmoil. Many 
+feel the ripple effects will take a toll on the U.S. economy. The 
+broader markets were hit just as hard, with the NASDAQ composite falling 
+81 points, nearly 5%. 
+</TEXT>
+</DOC>

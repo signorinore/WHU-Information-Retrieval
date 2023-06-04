@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is calling for urgent steps to jump-start the stalled 
+global economy. And diplomatic efforts are intensifying to avoid NATO 
+air strikes against Yugoslavia. 
+</TEXT>
+</DOC>

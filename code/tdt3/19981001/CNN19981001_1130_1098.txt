@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.1130.1098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- the selloff continues, now the Dow Jones industrial 
+average is down 160 points. The NASDAQ is off 62 points. That's "Dollars 
+& Sense." Back to you, Catherine. 
+</TEXT>
+</DOC>

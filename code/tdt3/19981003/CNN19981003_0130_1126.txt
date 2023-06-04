@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981003.0130.1126 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street ended a troubled week with a rally. Investors gained confidence 
+Friday, Buoyed in part by President Clinton's announcement of a rescue 
+package to help the failing global economy. After two days of losses, 
+the Dow Jones industrials finished up 152 points to close at 7784. 
+For the week the Dow was down 244 points. 
+</TEXT>
+</DOC>

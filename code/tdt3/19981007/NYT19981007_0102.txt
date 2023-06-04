@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981007.0102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As awareness of the Year 2000 problem has spread, a wide gulf has 
+opened between computer consultants, who say many companies are dangerously 
+vulnerable, and Wall Street analysts, most of whom have been telling 
+investors there is little to worry about. Now, thanks to new guidelines 
+from the Securities and Exchange Commission, this debate is about 
+to get something that has been in short supply: public information 
+about how most companies are doing in assessing and reducing their 
+risks. The new data will appear in reports filed with the SEC in the 
+coming weeks summing up corporate earnings for the quarter that ended 
+Wednesday. In response to previous prodding from the agency, a majority 
+of the 10,000 or so publicly traded companies that file quarterly 
+and annual earnings reports started mentioning Year 2000 concerns 
+in filings earlier this year. The new reports, though, will be the 
+first for most of them since the agency, alarmed at how vague and 
+limited most disclosures had been, issued more specific Year 2000 
+guidelines two months ago. The SEC guidelines have been viewed positively 
+in Congress, which on Thursday sent President Clinton a bill allowing 
+companies to exchange information on their Year 2000 readiness or 
+put such information on the World Wide Web without fear that the information 
+could be used against them in a lawsuit if it turned out to be wrong. 
+The protection does not cover knowingly false or reckless statements. 
+The Year 2000 problem, also known as the Millennium Bug, stems from 
+the longstanding practice of using just two numbers in computer code 
+to stand for the year, as in ``98'' for 1998. Computers, software 
+and electronic devices may read ``00'' as 1900 instead of 2000 and 
+crash or create inaccurate data. The SEC wants companies to discuss 
+specifically how much they expect to spend to cope with this problem, 
+assess how far along they are in identifying and dealing with their 
+problems and describe what, if any, contingency plans they are making. 
+It is also requiring reasonable ``worst-case scenarios.'' The agency 
+also recommended that all companies consider a variety of disclosures 
+that might not be required, like the percentage of their information-technology 
+budget being used on Year 2000 projects, whether other information-technology 
+investments were being delayed and what outside resources were being 
+used to verify that repairs were successful. ``Because the lack of 
+information regarding your preparations for the Year 2000 could seriously 
+undermine the confidence investors place in your company, it is imperative 
+that you provide thorough, meaningful disclosure on this topic,'' 
+said SEC Chairman Arthur Levitt in a letter to more than 9,000 chief 
+executives. Investors have been given a hint of what the new disclosures 
+may look like from companies that filed reports covering the three 
+months that ended June 30. The SEC requested that they voluntarily 
+observe the new guidelines and many made at least a partial stab at 
+it. Year 2000 consultants say the model to date is probably the Phillips 
+Petroleum report for the quarter that ended June 30, which was filed 
+in mid-August. The Year 2000 disclosure by Phillips ran more than 
+1,250 words, over five times the length of the previous quarter. It 
+noted that although the overall Year 2000 project was ``on schedule,'' 
+a piece of it _ the introduction of new software from the Oracle Corp. 
+that would retire a number of defective programs _ was running far 
+enough behind schedule that the company had developed contingency 
+plans. Phillips said it planned to decide by the end of the third 
+quarter whether or not to rely fully on Oracle. (The company decided 
+on Thursday that the contingency plan would not be needed, according 
+to Del Clark, director of Year 2000 issues for Phillips.) Phillips 
+also disclosed that it had spent $20 million of its projected $58 
+million budget and that most of the rest _ $21 million _ would go 
+to fix or replace chips in machinery and other ``embedded systems.'' 
+Mallinckrodt, a St. Louis-based medical equipment and supplies company, 
+was less detailed and more confident in its 10-K report for the fiscal 
+year that ended June 30, which was filed last week. ``Based on accomplishments 
+to date, no contingency plans are expected to be needed and therefore 
+none have been developed,'' Mallinckrodt said. The same report might 
+make some investors wonder whether Mallinckrodt is too complacent, 
+because it disclosed that the company was still assessing what it 
+might have to fix or replace in its research, manufacturing, and facility 
+management operations _ areas where embedded systems are common. The 
+new data should give a snapshot of corporate America's Year 2000 readiness 
+and may force some companies to look at the problems more closely. 
+``I expect investors to begin voting with their feet by March,'' said 
+Jeff Jinnett, a New York lawyer. ``It could be a minefield for companies 
+that don't pay a lot of attention to what they are disclosing.'' Some 
+Year 2000 consultants doubt, though, that enough reliable information 
+will emerge from the new filings to allow investors to make worthwhile 
+judgments. ``The guidelines are window dressing unless we have random 
+audits in order to determine whether companies are disclosing accurately,'' 
+said Louis Marcoccio, Year 2000 director at the Gartner Group in Stamford, 
+Conn. Marcoccio said Gartner's research suggested that nearly nine 
+out of 10 companies were publicly underestimating their Year 2000 
+problems, either knowingly or inadvertently. NYT-10-04-98 1843EDT 
+</TEXT>
+</DOC>

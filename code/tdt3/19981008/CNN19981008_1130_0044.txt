@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981008.1130.0044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+But first -- stock prices on Wall Street have taken a sharp dive in 
+early trading this morning. Right now, the Dow Jones industrial average 
+is down 147 points. Broader indicators are also lower. U.S. stocks 
+appear to be following a sell-off that began in Tokyo today and moved 
+through Europe. J.P. Morgan has said they think the U.S. will enter 
+a resection in 1999. 
+</TEXT>
+</DOC>

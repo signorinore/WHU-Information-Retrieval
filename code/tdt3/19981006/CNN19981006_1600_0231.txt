@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The financial crisis in Asia is having a big impact on certain U.S. 
+exports. The U.S. treasury department says no state has been spared. 
+Asian purchases of industrial machinery and computers made in Nevada 
+are off 55%. Ohio manufacturers report a 27% decline, and those in 
+Virginia say business is off 32%. 
+</TEXT>
+</DOC>

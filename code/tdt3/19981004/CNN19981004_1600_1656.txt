@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981004.1600.1656 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The day ace top stories are two minutes away, including the latest 
+from Washington on a possible impeachment inquiry. I'm Kate snow, 
+this is "Headline News." 
+</TEXT>
+</DOC>

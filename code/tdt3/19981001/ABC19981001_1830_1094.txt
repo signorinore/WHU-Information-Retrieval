@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> ABC19981001.1830.1094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We're going to take "A closer look" tonight, as we do periodically, 
+at the potential chaos that may yet be caused by the so-called "millennium 
+bug." Just to review, the problem, or bug, is this -- the date, they 
+only read the last two digits. Most of you know this. So when it gets 
+to be the year 2000, many computers will see the 00 and think it is 
+1900. What that might do to everything that runs with computer chips 
+is the nightmare. Last night, the city of Lubbock, Texas, underwent 
+a comprehensive test, trying to make sure that when the calendar turns 
+to January 1st, 2000, it won't be the night the lights went out in 
+Texas -- the lights and everything else. Here's ABC's James Walker. 
+At Lubbock's emergency operations center, they are pretending it's 
+January 1st, 2000 and the millennium bug is spreading havoc. Most 
+of southeast Lubbock is without gas right now. The airline has lost 
+communications to headquarters. I have no radio communication out 
+of here at all. They are trying to simulate what might happen if all 
+kinds of machines malfunctioned because small computer chips misread 
+the date on January 1st, 2000. We have so many computer chips embedded 
+in so many pieces of equipment, and we simply don't know which ones 
+will function and which ones will not, so our mission is to find out. 
+Example -- there are embedded chips in the fire department's poison 
+gas detector, in the machines that fill the firefighters air bottles. 
+And while the manufacturer says the electronics that operate this 
+truck's engine, transmission and ladder will work in the year 2000, 
+fire officials are preparing for the worst. We can get confirmation 
+all day that it's okay, but that doesn't tell me, 100%. They can't 
+say, 100% for sure that this truck will work on that day. What lesson 
+has Lubbock learned from the drill? That it is not enough for the 
+city alone to be prepared. It failed. The generator you bought, failed. 
+Lubbock like cities everywhere depend on outside suppliers, like manufacturers, 
+gas and electronic companies. If you think your city is as on top 
+of the year 2000 problem as Lubbock is, think again. In a survey of 
+thousands of cities and towns across the country, almost 80% haven't 
+even started working on it. And what do you say to those who will 
+hear, see this piece and say, "Lubbock, you're a bunch of alarmists"? 
+We hope they're right. We hope they're right but we're not willing 
+to take that risk. James Walker, ABC News, Lubbock. 
+</TEXT>
+</DOC>

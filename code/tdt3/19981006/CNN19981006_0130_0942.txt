@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+International finance ministers meeting in Washington are worried 
+about a worsening crisis. They heard President Clinton's plan to jump-start 
+the world's economy. 
+</TEXT>
+</DOC>

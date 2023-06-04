@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And secretary of state Madeleine Albright has dispatched U.S. envoy 
+Richard Holbrooke to Yugoslavia. Holbrooke will attempt to convince 
+Serbian President Slobodan Milosevic to stop the violence in Kosovo. 
+More on those stories and others in 15 minutes. 
+</TEXT>
+</DOC>

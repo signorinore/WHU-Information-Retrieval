@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981004.1130.0156 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is getting a "no impeachment" vote from former President 
+Gerald Ford. Mr. Ford took over when Richard Nixon resigned in 1974 
+under the threat of impeachment. 
+</TEXT>
+</DOC>

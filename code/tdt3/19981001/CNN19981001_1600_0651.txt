@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0651 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is unveiling an initiative to warn people about mail 
+fraud. The postal service plans to send postcards that warn about 
+gimmicks like sweepstakes where you have to pay a fee or buy something 
+to collect a reward. Scams have cost Americans up to a billion a year 
+and target the elderly. 
+</TEXT>
+</DOC>

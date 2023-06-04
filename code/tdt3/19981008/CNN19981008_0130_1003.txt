@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981008.0130.1003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the government's suit against visa and Mastercard it lists smart 
+cards as one of the casualties of decreased competition among credit 
+card companies. Rick Lockridge looks at what Americans are missing. 
+Plastic, the twin rulers of revolving debt. Visa and Mastercard. Americans 
+make 75% of their credit card purchases with one or the other. So 
+dominant are these two cards that the justice department alleges that 
+they have effectively prevented the newer, smarter credit card technologies 
+from getting a foothold in America the way the so-called smart cards 
+have in Europe. Smart cards are smarter than traditional credit cards 
+thanks to an embedded microchip that stores more kinds of customer 
+data and the allows more flexible usage than the magnetic strips on 
+the backs of traditional cards. But are Americans ready to abandon 
+an old system that works for this? I don't want to use a smart card 
+unless there are a lot of merchants who have smart card readers. The 
+merchants don't wanna undertake the expense of the smart card readers 
+unless a lot of people have the cards. In France you can use the vetaille 
+smart card to pay for a doctor's visit. And when do you, the card 
+stores your updated patient information. Smart card proponents say 
+built-in security features ensure that the consumers money and privacy 
+are protected. That can be in your cards or in your pocket. This means 
+privacy and not big brother. But some experts say there is no guarantee 
+that Americans will embrace smart card technology even if the government 
+can loosen visa and Mastercard's alleged stranglehold on the American 
+credit card market. This technology for smart cards is still somewhat 
+immature. Look for the rise in Internet commerce to possibly decide 
+this issue. Studies show consumers don't like giving their credit 
+card numbers over the net. And new supersecure smart cards under development 
+just for Internet shopping could tilt the balance and force American 
+card issuers to get a little smarter. Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

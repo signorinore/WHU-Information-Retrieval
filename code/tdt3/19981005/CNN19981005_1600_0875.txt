@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0875 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+15-year-old Michael Carneal has pleaded guilty, but mentally ill, 
+to shooting and killing three high-school classmates in Kentucky last 
+December. As part of a plea bargain, he will receive a life sentence 
+with no chance of parole for 25 years. 
+</TEXT>
+</DOC>

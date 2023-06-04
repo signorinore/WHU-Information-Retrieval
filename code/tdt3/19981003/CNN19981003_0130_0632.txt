@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0632 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's new ammunition in the fight against E. Coli. Doctors say they 
+may have discovered a drug strong enough to battle the deadly bacteria 
+and win. Linda ciampa reports. Mary Beth and Anna Dooley are strong 
+and healthy today. But a few months ago, they were very sick, hospitalized 
+with severe E. Coli infections. They were so sick they could not even 
+hold down sips of water. No food whatsoever. The Dooley girls recovered. 
+And they helped doctors learn more about a new experimental drug that 
+may be able to do what no other drug has yet accomplished -- fight 
+the deadly E. Coli bacteria. The girls were part of a clinical trial 
+that's testing a new drug called synsorb pk. It acts like a toxin 
+sponge. The compound is taken by the patient, it goes straight to 
+the gut because it can't go anywhere else. It's an insoluble product, 
+and once in the gut, it specifically reacts with the toxins produced 
+by E. Coli, inactivates the toxins, which is then excreted out of 
+the body as waste. Researchers say the new drug may be able to prevent 
+E. Coli from advancing to its most dangerous stage. And if the infection 
+does reach that stage, the new drug may still be able to help by preventing 
+life-threatening complications. Dr. Barry warshaw treated the Dooley 
+girls. This is a very logical treatment that has a lot of promise, 
+and so I am excited about it. There have been other treatments tried, 
+specific treatments tried over the years. And so far none have panned 
+out. The dooleys don't know if the new drug helped in the girls' recoveries. 
+They may have gotten placebos. And they don't know how the girls contracted 
+the bacteria. But the dooleys say they feel good knowing if final 
+testing of synsorb pk goes as planned, other kids and adults sickened 
+by E. Coli could have a new drug by the end of next year. Linda ciampa, 
+CNN, Atlanta. 
+</TEXT>
+</DOC>

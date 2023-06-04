@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." It's 
+going to be another cool day in the northwest and portions of the 
+northeast, with 50 degree high temperatures in the forecast. A wedge 
+of warmer air back through the plains, though, will push temperatures 
+into the 70s and the 80s. Look for some 90s in the southwest. Forecast 
+calling for more wet weather in the northeast both today and on into 
+tomorrow, as lingering showers will remain in New England tomorrow. 
+Showers will be moving out of the pacific northwest into the northern 
+Rockies, where we'll even see some higher-elevation snows as cooler 
+weather filters in through much of the southeast over the next several 
+days. A look now at the extended forecast. On Sunday, rain and thunderstorms 
+through the upper midwest back through the plains. Showers in the 
+pacific northwest, and some lingering showers in the northeast. On 
+Monday, cool temperatures filter in through the upper midwest. Rain 
+will continue. Scatter thunderstorms will continue as well, back through 
+the plains states. As temperatures warm up in portions of the west, 
+on Tuesday we'll find a pretty good chance of showers in the pacific 
+northwest and rain will continue from the Great Lakes and extending 
+into the southeast. For more weather information, you can log in to 
+CNN.com. 
+</TEXT>
+</DOC>

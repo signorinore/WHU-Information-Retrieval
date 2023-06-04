@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+some health news that will make your mother proud. A new study indicates 
+Americans are eating more vegetables. Health experts say that's important 
+because eating better helps reduce the risk of cancer. But mom might 
+not like this part so much. Many of the vegetables aren't green or 
+leafy they're deep fried. According to the study, Americans ate 19% 
+more vegetables between 1970 and 1995. But 25% of those vegetables 
+are French fries, which contain a lot of fat and few nutrients. Dieticians 
+also say the cancer-reducing benefits of vegetables can't be obtained 
+from a bottle. I always tell people there are 40 known nutrients that 
+you need to eat every day. Unfortunately, the 40 nutrients aren't 
+found in pills. Your better chances are to eat them in foods and there 
+are nutrients in food that we don't know exist yet that will help. 
+You're much better off if you eat the real thing. 
+</TEXT>
+</DOC>

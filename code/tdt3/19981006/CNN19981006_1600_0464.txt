@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." A trough of low pressure is extending across 
+the Mississippi valley and into the gulf coast. Showers and thunderstorms 
+will be numerous along this area of low pressure, as the front moves 
+through the Great Lakes and into the central gulf. A high pressure 
+Ridge will build in behind this, so fair skies and cooler temperatures 
+are expected for the southern plains and the Rockies, but a new pacific 
+storm system begins to enter the forecast, with showers possible from 
+near San Francisco, northward into the puget sound. Temperatures will 
+generally be in the 50s and 60s on Wednesday across the northern tier, 
+with 70s and 80s in the south. You will see some 90s across the desert 
+southwest. High temperatures will approach the 40s across portions 
+of southern and southeast Alaska. Fairbanks sees a high of 34. Hilo 
+will partly cloudy, and temperatures will be in the 80s. The extended 
+forecast continues shower and thunderstorm chances across the eastern 
+seaboard on Thursday, with rain showers possible in the pacific northwest. 
+Temperatures will remain cool in the north and cooling across the 
+northwest, as we head into Saturday. 
+</TEXT>
+</DOC>

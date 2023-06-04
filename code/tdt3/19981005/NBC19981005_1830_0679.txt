@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981005.1830.0679 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+High anxiety over the world's economic crisis sent Wall Street into 
+a tailspin for a while today, at one point down as much as 232 points. 
+But the Dow rebounded at the end of the day, to close down only 59 
+points. The NASDAQ also down, 79 points. 
+</TEXT>
+</DOC>

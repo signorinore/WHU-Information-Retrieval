@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0667 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many Boston restaurants are now smoke-free. Under new city regulations 
+1,400 of Boston's eateries must seat smokers and non-smokers in partitioned 
+areas. Since many restaurants are too small to make that accommodation 
+smokers will have to light up outside. The laws don't apply to bars 
+or private clubs. 
+</TEXT>
+</DOC>

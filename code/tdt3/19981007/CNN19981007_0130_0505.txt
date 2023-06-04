@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981007.0130.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. A 
+frontal system stretches from an area of low pressure across Hudson 
+bay through the Great Lakes and into the gulf of Mexico. We'll expect 
+some showers and storms to develop along this front. This is the same 
+weather system that wreaked havoc through the central plains and produced 
+flooding rainfall across Kansas, Nebraska and into Missouri. In the 
+pacific northwest, here comes a frontal system that will keep temperatures 
+a bit on the cool side, mostly 50s and 60s there. Also 50s and 60s 
+from Quebec and Ontario into Minnesota and across into the Ohio valley 
+into the northeast and New England. But 70s and 80s dominate across 
+the southern third of the U.S. gusty trade winds for the Hawaiian 
+islands, and afternoon showers are forecasted for the Caribbean. In 
+the extended forecast for Thursday, 80s and 90s dominate the desert 
+southwest. 50s and 60s are still wrapped around the Great Lakes region. 
+It's going continue to be showery and windy for the pacific northwest. 
+For more weather information, you can log onto CNN.com. 
+</TEXT>
+</DOC>

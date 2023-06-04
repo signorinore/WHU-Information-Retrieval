@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0684 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Maybe the grass isn't always greener even in sunny California. University 
+psychologists studied 1,900 college students in California, Ohio and 
+Michigan and found they were equally happy with their lives. Researchers 
+say it appears the advantages of a state like California are often 
+over-estimated. They say their findings suggest people's expectations 
+about happiness don't always measure up to real life. 
+</TEXT>
+</DOC>

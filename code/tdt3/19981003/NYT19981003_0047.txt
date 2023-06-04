@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> NYT19981003.0047 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If you wanted to send a message to a bunch of aliens in outer space, 
+how could you be sure they would understand it? Would you make the 
+message rich in the opaque minutia of modern science and write it 
+in code? Would you assume that beings from other planets are more 
+intelligent _ much more intelligent? In 1974, Frank Drake composed 
+such a missive in binary code and, unsure of its readability, bounced 
+it off just one earthling. But the clever subject was no ordinary 
+mortal. He was Carl Sagan, the astronomer and science popularizer 
+who died two years ago. He took the test in 1974 over lunch at the 
+Cornell University faculty club, and he passed with flying colors. 
+``I'd give him an A,'' Drake, now a professor emeritus of astronomy 
+and astrophysics at the University of California at Santa Cruz, said 
+last week. ``He got all the message very quickly except for one group 
+of characters. And once I helped him with that, he got the rest right 
+away. I think if he had taken it home or back to his office, he would 
+have gotten the whole thing.'' But Drake acknowledges that most ordinary 
+earthlings would be baffled by the message. And whether extraterrestrials 
+would get it is anyone's guess. A few weeks after the Sagan quiz, 
+Drake had the message beamed from the Arecibo observatory in Puerto 
+Rico toward M13, a dense cluster of hundreds of thousands of old stars 
+orbiting the fringes of the Milky Way. The federal government pulled 
+the plug on the search for alien life in 1993, but scientists financed 
+with private donations returned to Arecibo last month to renew their 
+search. There has been no answer to the long-ago message. Sagan, a 
+pioneer in trying to communicate with aliens, had his own ideas about 
+space talk that relied heavily on drawings. With Drake's help, Sagan 
+designed the messages that went on the Pioneer 10 and Pioneer 11 space 
+probes, which were destined to zoom out of the solar system, perhaps 
+eventually to the farthest reaches of the galaxy. Sagan's drawings, 
+etched on a small plaque, were easy to understand _ if you happened 
+to have human-like eyeballs. The pictures showed a naked man and woman 
+standing in front of the Pioneer spacecraft. Nearby was a diagram 
+of the solar system and the probe zooming away from the third planet. 
+Harder to get were a galactic map showing the Sun's location and a 
+picture of a hydrogen atom, whose radiating wavelength (8.3 inches) 
+was the key to map distances. In contrast, Drake's missive was blasted 
+through space on a simple beam of radio waves. His binary format, 
+the simplest of codes, made the message as intelligible as possible. 
+In theory, radio waves would spread far more broadly through space 
+than Sagan's plaque would travel, and have a better chance of reaching 
+an audience. Assuming, of course, that human bias and hubris had not 
+rendered the whole enterprise futile from the start. In 1974, when 
+Drake was director of Arecibo, the world's largest radiotelescope, 
+250 guests and speakers who had assembled in the damp heat of the 
+Puerto Rican jungle heard the binary message over a loudspeaker as 
+the radio waves sped upwards. For slightly more than three minutes, 
+the sound filled the air, trilling back and forth between the two 
+tones of the binary code. To some participants it seemed a sad song 
+full of yearning, even if its underlying message was indecipherable. 
+``On that hot afternoon in the tropics, I saw women in sleeveless 
+dresses rub chills from their arms,'' Drake recalled. ``I saw the 
+eyes of sober scientists fill with tears.'' Today, the cipher is still 
+zooming outward. At the speed of light, it will reach M13 in about 
+21,000 years. A reply from any aliens who happen to be listening in 
+as the signal passes will presumably take a similarly long time. Decoding 
+the message, Drake conceded, would take ``all the great minds'' of 
+an alien race. ``Even if it is not all deciphered, they'd get the 
+message,'' he said. ``It's the same with any message we receive. Just 
+the existence of such a message would be a bombshell'' because it 
+would prove the existence of extraterrestrials. 
+</TEXT>
+</DOC>

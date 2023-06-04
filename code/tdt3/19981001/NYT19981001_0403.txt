@@ -1,0 +1,119 @@
+<DOC>
+<DOCNO> NYT19981001.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Parrying a rare wave of criticism, Federal Reserve Chairman Alan Greenspan 
+on Thursday defended the central bank's role in averting the collapse 
+of Long-Term Capital Management LP, saying that it had acted out of 
+concern for the stability of the financial markets rather than a desire 
+to assist the investment firm's wealthy owners. Appearing before the 
+House Banking Committee alongside William McDonough, the president 
+of the Federal Reserve Bank of New York, Greenspan built a case that 
+it was the central bank's responsibility to play a role in addressing 
+a crisis whose effects could extend far beyond the fate of Long-Term 
+Capital's owners, investors and lenders. ``Financial market participants 
+were already unsettled by recent global events,'' Greenspan said, 
+referring to the spread into Russia and Latin America of the financial 
+crisis that began last year in Asia. ``Had the failure of LTCM triggered 
+the seizing up of markets, substantial damage could have been inflicted 
+on many market participants, including some not directly involved 
+in the firm, and could have potentially impaired the economies of 
+many nations, including our own,'' Greenspan said. Greenspan is usually 
+heaped with praise for his stewardship of the economy when he appears 
+before Congress. But Thursday, two days after cutting interest rates 
+by one-quarter point to help insulate the United States from the global 
+crisis, he heard respectful but nonetheless pointed questions and 
+doubts from members of both parties about the Federal Reserve's involvement 
+in saving a risky investment fund that catered to some of the wealthiest 
+people. The lawmakers expressed considerable reservations about the 
+Federal Reserve's decision to use its influence to buy some time for 
+Long-Term Capital last week by helping to arrange a $3.6 billion rescue 
+package from a group of big banks and investment houses. And they 
+asked whether the Fed and other regulators should do more to regulate 
+hedge funds and their sophisticated financial dealings. Rep. Spencer 
+Bachus, R-Ala., said the message from Washington to welfare mothers 
+and small businesses had been ``that it's not the job of the federal 
+government to rescue you.'' The same message, he said, ``ought to 
+also apply to rich Greenwich, Connecticut, investors who are multimillionaires, 
+that we ought to use the same standards that we've used on the welfare 
+mothers on these large hedge funds.'' Rep. Bruce Vento, D-Minn., said 
+there seemed to be a gap between free market theory and decisions 
+made by policy-makers. ``We hear a lot of speeches about free enterprise 
+and the marketplace, but a lot of folks don't like to practice it,'' 
+he said. ``The problem we have as representing our constituencies 
+is that there seem to be two rules, a double standard: one for Main 
+Street and another one for Wall Street.'' Rep. Jim Leach, R-Iowa, 
+the committee's chairman, questioned whether the Fed's efforts to 
+put together a rescue package raised antitrust concerns. He also questioned 
+whether it had undermined a separate offer from a group including 
+multibillionaire investor Warren Buffett and Goldman, Sachs &AMP; 
+Co. The terms of that offer were reportedly less attractive to Long-Term 
+Capital's owners, including its founder, John Meriwether, than the 
+deal later struck by the group assembled by the Federal Reserve. ``Perhaps 
+the only smart deal of the month that Long-Term Capital did was they 
+played the Fed off against another party,'' Leach said. Other members 
+seemed to be searching in frustration for ways to contain the risks 
+posed by a small number of investment firms operating outside the 
+regulatory system, that use vast amounts of borrowed money to make 
+sophisticated financial market bets. ``I hope that we are going to 
+be comforted that the regulators do now, in fact, have plans in place 
+that would help avert such unfortunate circumstances in our future,'' 
+said Rep. Richard Baker, R-La. Greenspan, however, stuck to his position 
+that it would be difficult or even counterproductive to impose more 
+direct regulation on the sophisticated investment firms known as hedge 
+funds. Regulating hedge funds, Greenspan said, would drive them to 
+operate from other nations with looser regulatory structures, undermining 
+the ability of the United States to monitor them even indirectly through 
+their lenders and investors. The best way to rein in gambling by those 
+firms, Greenspan said, was to encourage their lenders to assess more 
+rigorously the risks they are taking, and deny credit to those whose 
+bets become unwise. In that way, he said, banking supervisors and 
+other regulators can act as a second line of defense by pushing lenders 
+to make sure their risk assessments are adequate. Under questioning 
+from members of the committee, Greenspan admitted that same approach 
+had failed in the case of Long-Term Capital Management. But he said 
+such failures were inevitable in markets, that he had been surprised 
+at how few there had been in the last five years and that he expected 
+more of them in the future. Moreover, he said, if the financial system 
+is unwilling to assume risks, the economy's ability to grow would 
+be impaired. ``Let's not presume that the ideal outcome is more regulation,'' 
+Greenspan said. Under pressure from members of the committee to explain 
+why Long-Term Capital's troubles justified help from the Fed in arranging 
+a rescue plan, Greenspan and McDonough said no taxpayer money was 
+used and that the case should not be seen as a precedent for future 
+intervention in the marketplace by the central bank. Indeed, they 
+said, although the Fed brought all the players together, the deal 
+that emerged stripped Long-Term Capital's owners of all but 10 percent 
+of their stakes. In the long run, Greenspan said, the plan ``may well 
+work to reduce the ultimate losses to the original owners of LTCM, 
+but that was a byproduct, perhaps unfortunate, of the process.'' He 
+acknowledged, however, that the case raised questions about what economists 
+call moral hazard _ the idea that rescuing investors from a bet gone 
+bad encourages further overly risky bets. But wiping out investors 
+through a forced liquidation of the sort that Long-Term Capital faced 
+would have made investors perhaps too frightened to take risks, Greenspan 
+said, hurting the economy's ability to grow. As a result, he suggested, 
+it is appropriate to intervene in the markets to stem potential panic. 
+``Risk taking is a necessary condition for wealth creation,'' he said. 
+``The optimum degree of risk aversion should be governed by rational 
+judgments about the marketplace, not the fear flowing from fire sales.'' 
+Rep. Maurice Hinchey, D-N.Y., pressed Greenspan on his opposition 
+to further regulation of exotic securities called derivatives, which 
+are essentially bets on the direction of stocks, bonds, currencies 
+and interest rates. Greenspan replied that the ``degree of supervision 
+and regulation of the over-the-counter derivatives market is quite 
+adequate to maintain a degree of stability in the system.'' He supported 
+language in a spending bill now before Congress that would prevent 
+the Commodity Futures Trading Commission from proceeding with an effort 
+to develop tighter regulations on derivatives. But Brooksley Born, 
+the chairwoman of the Commodity Futures Trading Commission, later 
+stepped up her warnings of the perils of not requiring more disclosure 
+from banks and investment firms of their derivatives positions. ``This 
+lack of basic information about the positions held by OTC derivatives 
+users and the nature and extent of their exposures potentially allows 
+OTC derivatives market participants to take positions that may threaten 
+our regulated markets or, indeed, our economy with any federal agency 
+knowing about it,'' Ms. Born told the committee. 
+</TEXT>
+</DOC>

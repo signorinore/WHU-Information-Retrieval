@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If buying on the Internet is how you shop, Congress is trying to keep 
+that tax-free. The Senate overwhelmingly approved a land-Mark legislation 
+that bans new state and local taxes on the Internet for three years. 
+The Bill, which is similar to one passed by the house, prohibits new 
+taxes on Internet access and electronic commerce. The Senate passed 
+the Bill by a vote of 96 to 2. President Clinton is expected to sign 
+the Bill once its differences are hammered out by the house and Senate. 
+</TEXT>
+</DOC>

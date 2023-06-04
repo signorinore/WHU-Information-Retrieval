@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0987 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Technology stocks took a beating on Wall Street Thursday as the markets 
+suffered another day of losses. Investors' fears of a global recession 
+led to an early drop in the Dow of 275 points, but the market recovered. 
+The Dow Jones industrials ended down nine points, closing at 7731. 
+</TEXT>
+</DOC>

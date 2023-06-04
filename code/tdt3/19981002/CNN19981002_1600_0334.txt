@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+california authorities say they're finding more dead birds as a result 
+of an oil spill near a national marine sanctuary. they say among the 
+32 birds killed were two endangered brown pelicans. crews are cleaning 
+up the ten-mile slick by using shipping logs. they're also using photos 
+from a commercial satellite to try and track down the tanker that's 
+responsible. so far, they've collected 5,500 pounds of oily debris. 
+</TEXT>
+</DOC>

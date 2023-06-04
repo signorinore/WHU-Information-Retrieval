@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981008.2130.1481 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Ladies home journal" has ranked the best 200 places for women to 
+live in the United States. Ann arbor, Michigan, is number one, followed 
+by Madison, Wisconsin, and scottsdale, Arizona. The magazine rated 
+cities based on crime, education, health and child care. 
+</TEXT>
+</DOC>

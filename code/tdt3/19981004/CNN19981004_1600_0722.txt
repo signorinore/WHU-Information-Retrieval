@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981004.1600.0722 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington, people are flocking to the national gallery of art 
+for a rare glimpse of Vincent Van gogh's work. 72 paintings by the 
+Dutch master are on display, including landscapes and self-portraits. 
+They will be on display in Washington until January 3rd. The exhibit 
+will then move to the Los Angeles county museum of art. 
+</TEXT>
+</DOC>

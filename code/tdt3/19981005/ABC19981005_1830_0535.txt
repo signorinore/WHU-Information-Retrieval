@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981005.1830.0535 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here are some other notes here on Wall Street today the Dow Jones 
+industrials which was down 200 points in the afternoon rallied to 
+close down just 58 1/2 points at 7076. 7726. On the NASDAQ market 
+they lost 78 points to close at 1536. 
+</TEXT>
+</DOC>

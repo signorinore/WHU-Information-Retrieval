@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- visa and Mastercard are vowing to defend 
+their policies in court. The justice department sued them today, claiming 
+they're limiting competition. 
+</TEXT>
+</DOC>

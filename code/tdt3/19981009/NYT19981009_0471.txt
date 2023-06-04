@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981009.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The war of words between the Whitewater independent counsel and the 
+White House escalated again Friday when Kenneth Starr accused one 
+of President Clinton's lawyers of deceiving the Supreme Court and 
+wrongly accusing prosecutors of misconduct. On Monday, Clinton filed 
+a brief in the Supreme Court implying that Starr misled a federal 
+appeals court in June. The brief noted that Starr had argued that 
+impeachment was too remote an issue for the judges to consider in 
+deciding whether Bruce Lindsey, a deputy White House counsel, could 
+refuse to answer certain questions because they were protected by 
+the lawyer-client privilege. Three days after making that argument, 
+Starr secretly filed a motion with a different court asking for permission 
+to make an impeachment referral to Congress. In response, Starr issued 
+a statement Friday evening that declared that Neil Eggleston, Clinton's 
+top lawyer on privilege issues, ``has deceived the Supreme Court and 
+the public by falsely accusing this office of misconduct.'' ``Mr. 
+Eggleston is misrepresenting the facts,'' Starr said. ``In the oral 
+argument, the independent counsel said that because no Articles of 
+Impeachment were pending, it was `premature' for the court to decide 
+whether attorney-client privilege applies to government attorneys 
+in impeachment proceedings in the House of Representatives.'' Starr 
+also said he had noted in his argument to the appeals court that the 
+independent counsel's office had an obligation by law to report evidence 
+of impeachable offenses to Congress. Eggleston replied Friday night 
+that Starr's statement had failed to address the issues raised in 
+the White House's brief, namely that Starr's office was busily preparing 
+an impeachment referral while telling the court that consideration 
+of possible impeachment was ``premature.'' ``Mr. Starr plainly conveyed 
+to the Court of Appeals that the White House's argument that the independent 
+counsel was improperly acting as a stalking horse for Congress in 
+the impeachment process was too remote and speculative for the court 
+to consider,'' Eggleston said. ``In fact, only three days after that 
+argument, he informed the special division of his intent to submit 
+a report to Congress recommending the impeachment of the president.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981006.0289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+France Telecom has tapped IBM to develop software that would allow 
+the 6 million users of the Minitel system to access the Internet, 
+according to a report Tuesday in the Wall Street Journal. The Minitel, 
+a screen and keyboard console linked to the telephone, has since the 
+early 1980s given users access to a variety of information services 
+in France, but its Internet access has been limited to E-mail messages. 
+France Telecom could announce the project Tuesday, according to the 
+newspaper. A spokesman for the Paris-based telecom operator declined 
+to comment on the report. 
+</TEXT>
+</DOC>

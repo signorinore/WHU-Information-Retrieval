@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981009.1830.0668 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still on the money tonight, in Brazil investors were encouraged by 
+the international monetary fund's endorsement. The government's plans 
+for economic reform, the Brazilian stock market today went up nearly 
+6%. 
+</TEXT>
+</DOC>

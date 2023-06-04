@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News." Good afternoon, I'm Kathleen Kennedy, in today for 
+Chuck Roberts. Thanks for joining us. Investors took a beating today 
+as stocks, the dollar, and the usually Placid treasuries market plummeted. 
+Unofficially, the Dow Jones industrial average closed at about down 
+10 points. It had been down 273 points early in trading. Meanwhile, 
+the world's fourth largest bank, J.P. Morgan, is predicting a recession 
+for 1999. While some banks have predicted slower economic growth next 
+year, Morgan is the first to forecast a major economic downturn. Stay 
+with "Headline News" for complete coverage of the markets in "Dollars 
+& Sense" at 16 past the hour. 
+</TEXT>
+</DOC>

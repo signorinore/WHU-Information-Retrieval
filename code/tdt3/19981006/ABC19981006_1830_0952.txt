@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> ABC19981006.1830.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We are doing a series on privacy this week -- privacy lost. Last night 
+we looked at how vulnerable we are to our employers if they choose 
+to look through E-mail and voice mail, which they very often do. Tonight, 
+we make it all too clear how much there is to be learned about us 
+without too much effort. What you make, what you eat, what you owe, 
+what you buy. There is an electronic biography of you out there. Here's 
+ABC's Gina Smith. Melissa sands used to think of her private life 
+as just that. Private. Then we showed her what we found on the Internet. 
+This is your tax information. oh, my god. And this is your husband, 
+your ex-husband's name? Oh, yes. Do you recognize any of these names 
+and numbers? These are all the people who live around me, their names, 
+their addresses. There are dozens of so-called "information brokers" 
+operating online. Using just sands' name and her address from the 
+phone book, they were able to get her property records, financial 
+information, driving records, even her social security number. wow! 
+All for $116. You could find civil suits, bankruptcies, liens, judgments. 
+Those are all quick and easy searches that are really affordable today. 
+a lot of the information was always public, but it never was so easy 
+to get. You had to know what courthouse was holding the records and 
+you had to be willing to sift through a lot of files or pay a private 
+detective to do it for you. Now, all that information is just a few 
+keystrokes away. We are on the verge of a very serious privacy problem 
+in this country. David sobel is a privacy activist. He says the next 
+big threat is corporate America. It's starting to collect all kinds 
+of information on what customers buy and how much they spend, even 
+at the corner grocery. Health or life insurance companies might be 
+interested in accessing these grocery store data bases to assess the 
+dietary habits. And God help you if you buy a pack of cigarettes at 
+the grocery store. And that gets scanned in and tied to your name. 
+What you buy on the Internet also leaves a data trail. The web site 
+for Victoria's secret may no longer be your secret. A prospective 
+employer might find your buying habits very interesting. Combine that 
+type of information with the public information already available 
+about you, and soon there will be detailed profiles available on everyone, 
+ensuring that virtually nothing you do will ever be private again. 
+Gina Smith, ABC News, vista, California. 
+</TEXT>
+</DOC>

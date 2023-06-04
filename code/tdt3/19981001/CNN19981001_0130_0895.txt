@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0895 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- house republicans say they want a broad, 
+Watergate-style inquiry of President Clinton if it is necessary. Democrats 
+want a more narrow investigation. Congress is expected to release 
+more documents from Ken Starr's report on Friday. 
+</TEXT>
+</DOC>

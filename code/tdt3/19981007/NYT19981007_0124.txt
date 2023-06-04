@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> NYT19981007.0124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+France Telecom, which pioneered the quirky Minitel online information 
+service years before anyone ever heard of the World Wide Web, announced 
+plans Wednesday to bring its aging child into the modern world. Working 
+with IBM Corp., the French telephone company said it would develop 
+a network to let customers surf the Internet with simple and cheap 
+screen-based telephones, which would also be inexpensive. If all goes 
+according to plan, the new devices would give technophobic customers 
+access to the Internet without using a more complex personal computer. 
+Though the Minitel system would continue to exist, with its homely 
+little terminals and its proprietary network, the company hopes many 
+people will simply gravitate to the newer system and its allure of 
+worldwide access. IBM is supposed to deliver a prototype networking 
+system by the end of this year, and France Telecom officials hope 
+to start commercial service by the end of 1999. Minitel, which was 
+begun 15 years ago by the French government, was one of the first 
+online consumer information services. Conceived as a way to bring 
+advanced communications to ordinary people, the Minitel came before 
+personal computers had Windows, before America Online and long before 
+the World Wide Web. And when the World Wide Web exploded in popularity, 
+allowing people to flit to computers around the world with a few mouse 
+clicks, the Minitel remained almost obstinately old-fashioned. It 
+remains slow, has no graphics and offers access to little outside 
+France. But it remains popular in its home country, where it has about 
+15 million users and is host to about 25,000 services. ``This is not 
+the end of Minitel, but we have to prepare for the future,'' said 
+Jean-Jacques Damlamlin, vice president for development at France Telecom. 
+``Some people are not willing to use PCs for electronic commerce, 
+but they are willing to see us provide a substitute for their Minitels.'' 
+Minitel may be slow and dull to watch, but it is simple, cheap and 
+free from hackers. It generates billions of francs worth of fees from 
+electronic commerce, from train reservations to flower deliveries. 
+Old-fashioned or not, political leaders and many industry experts 
+worry that Minitel's enduring popularity has held back the Internet 
+in France. In a speech in August 1997, Prime Minister Lionel Jospin 
+startled many people by suggesting just that. Minitel, he said, ``could 
+be hindering the development of new and promising applications of 
+information technology.'' Under the agreement announced Wednesday, 
+IBM is to develop a new networking platform that connects a new generation 
+of Internet devices. Unlike most other Internet access providers, 
+France Telecom would take responsibility for maintaining and upgrading 
+the software on individual terminals. Most of the management and navigational 
+information, including profiles of users and their bookmarks of favorite 
+Web sites, would be held within the telephone company's network rather 
+than in the terminals. But France Telecom executives, who refused 
+to say how much money would go into the new contract, acknowledged 
+there were many uncertainties. The biggest is whether the new screen-based 
+telephones will be cheap enough to attract customers. With computer 
+prices low and falling, company executives say they still do not know 
+for certain whether the new devices have enough price advantage to 
+be economically viable. Though IBM, which is based in Armonk, N.Y., 
+is developing the networking system, France Telecom wants other companies 
+to build the terminals. Company officials say they want to encourage 
+a wide array of equipment manufacturers, and that one of the reasons 
+they chose IBM was that the American computer giant has very little 
+interest in building terminals. ``We want the system to be completely 
+open,'' Damlamlin said. NYT-10-06-98 1956EDT 
+</TEXT>
+</DOC>

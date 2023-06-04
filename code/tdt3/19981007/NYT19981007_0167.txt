@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981007.0167 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+There is virtual. And then there is fake. The Tonka Workshop is fake. 
+Specifically, it is a plastic play set that straps onto a keyboard 
+so children 3 and older can use ``tools'' when prompted by a CD-ROM 
+character named Tonka Joe. ``Using the (italics)actual(end italics) 
+plastic hammer, spray-paint can or screwdriver,'' the press release 
+explains, ``kids control virtual tools in a world full of building 
+and exploring on the computer screen. The unique play set lets kids 
+work on several projects, from robots to toy houses and spaceships. 
+They'll sharpen their tool skills at the Tool Olympics and use their 
+tools to discover the mysteries of the Junk Shop. Once they've earned 
+their Master Tool license, they're ready to hop in the Tonka Workshop 
+van and head out to virtual, on-site fix-it missions.'' Let's talk 
+about tools for a second. A tool is a way of channeling energy to 
+shape or change an object, be it real or virtual. A hammer is a tool. 
+Scissors are a tool. A word processor is a tool. Hypertext markup 
+language is a tool. There are tools that work in a virtual environment, 
+but there is no such thing as a virtual tool. A plastic drill that 
+depresses the Caps Lock key is not a tool. It isn't virtual. It's 
+fake. Of course, we've been giving fake tools to children for years. 
+Plastic hammers for boys, plastic ovens for girls. But we have never 
+given them the idea that fake tools could accomplish real tasks. And 
+that is the underlying assumption of this toy. You select a project 
+from the on-screen Drawing Board, where all the projects have been 
+conveniently drawn for you. In this universe, construction requires 
+no planning, and you're not allowed to design anything yourself. Then 
+Tonka Joe says, in a voice eerily reminiscent of Phil Hartman's, ``Since 
+you're so good with tools, you do the building while I read the instructions.'' 
+``Cut out the pieces for the sled with your saw.'' So you jerk the 
+plastic saw back and forth. The Close Bracket key goes up and down 
+a few times. ``Now use your socket wrench to bolt the runners to your 
+sled.'' ``A coat of paint from your sprayer, and your sled will be 
+ready for the hill!'' Three keystrokes later, voila, a purple sled. 
+``Nice work!'' The problem is, the sled isn't ready for the hill. 
+It isn't even ready for a digital hill. It's ready to be printed out. 
+But that's all. And in the process, you've learned that using tools 
+like saws and socket wrenches doesn't require any sort of real skill 
+and that elbow grease does not exist (in this world, sanding is a 
+matter of toggling the ``plane'' from side to side for about six seconds). 
+Paint dries instantly, and Undo negates everything. In the Storage 
+Shed, you can create your own ``surprise sculptures,'' but the only 
+choice is the ``material'' you're going to use: wood, metal or stone. 
+Once selected, a hunk of the stuff magically appears. ``Grab a tool,'' 
+Tonka Joe yells, ``and start chipping away!'' But it doesn't matter 
+if you use a hammer or a drill, a socket wrench or a saw. All the 
+tools do the same thing. They make chipping noises while bits of the 
+block fly off, revealing ... a concrete gorilla! A wooden cabinet! 
+A jungle gym, chipped from solid stainless steel with a spray can. 
+After that, you can move on to the Tool Challenge, where the object 
+is to pull the plastic saw back and forth as fast as you can for 30 
+seconds. ``You earned a medal on the scoreboard!'' Tonka Joe declares. 
+``The most skilled craftsman can win all six!'' The child is given 
+no choice here, no goal, no understanding of what's going on or why. 
+This software doesn't just fail to simulate real-world tools; it actually 
+makes a mockery of tools. It mocks the notion of craftsmanship. It 
+mocks the idea that skill is necessary in any context or that you 
+would even want to know how things are made. Milk comes from cartons, 
+and software comes from disks that prompt you to click Next, Next 
+and Finish. No need to understand. It's magic. That is an infantile 
+attitude. And it's almost forgivable when you're dealing with a computer 
+operating system. But it's appalling when you're dealing with a hammer 
+because even 3-year-olds can understand a hammer and what it does, 
+and how, and why. Even 3-year-olds can build things and understand 
+tools and materials, and what it means to struggle with and master 
+them. It doesn't matter whether the tools and materials are physical 
+or virtual, crayons or Play-Doh or Lincoln Logs or digital paint software. 
+The task is real, and the lessons are real. The skills outlast the 
+project. And even if the end result is taken apart or deleted or smushed, 
+it has given a kid the chance to be creative and self-expressive. 
+None of that is possible with this product. The most creative thing 
+a kid can do with Tonka Joe's ``projects'' is print them out (in black 
+and white), color them in, then run and say, ``Hey, Mom, look at this 
+doghouse I ... printed out.'' When we're adults, there is time enough 
+to be helpless and ignorant about how our tools work. We should at 
+least let our kids be capable and knowledgeable as long as they possibly 
+can, while they're still innocent enough to know what they're doing. 
+(Hasbro Interactive, keyboard peripheral and CD-ROM for Windows 95 
+and 98, $39.95; for ages 3 and up.) 
+</TEXT>
+</DOC>

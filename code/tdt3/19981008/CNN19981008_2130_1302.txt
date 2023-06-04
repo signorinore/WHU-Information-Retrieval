@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.2130.1302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news for the Yankees. Doctors in New York say the margins of 
+Darryl Strawberry's colon are completely free of disease. Strawberry 
+may be out of the hospital sometime this coming weekend. 
+</TEXT>
+</DOC>

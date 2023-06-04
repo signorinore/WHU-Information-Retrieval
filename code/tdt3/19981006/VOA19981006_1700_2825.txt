@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981006.1700.2825 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for business news. And with a report on Tuesday's activities 
+on the U.S. financial market, here's VOA Bry Kaudery in New York. 
+The Dow Jones Industrial Average closed at 70, 742. Up 16 points. 
+The Standard & Poor's 500 Index closed at 984. Down four points. The 
+Industrial Average soared by more than 150 points early in the session. 
+But, then fell back and the other major averages lagged behind all 
+day. 
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981004.1600.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computers and the Internet are changing how we work, communicate and 
+play. Now they may be changing how we eat. Danae Jones has more. Raiding 
+this refrigerator will get you much more than cold pizza. The Internet 
+fridge is just one of many high-tech inventions featured at the world 
+PC expo in makuhari, Japan. This icebox for the 21st century comes 
+equipped with a computer on the door. The manufacturer says a refrigerator 
+is the perfect place for a computer because it's used so often. a 
+refrigerator is turned on 24 hours a day, so it's an ideal setting 
+for a server. Family members pass by refrigerators at least once a 
+day. Usually, people tack on memos, such as neighborhood events and 
+school schedules on the fridge with magnets. I want people to use 
+the Internet instead of that. But the Internet fridge shouldn't be 
+limited to just keeping track of your family's busy schedule. The 
+developers recommend you make it the electronic heart of the home, 
+with hookups to your security system, TV, phone and air conditioner. 
+As you may have noticed, the fridge has no keyboard. But you can make 
+a grocery list using the touchpad screen. And if you've run out of 
+dinner ideas, talk into this microphone built into the refrigerator. 
+The computer answers her request for a delicious recipe with a chicken 
+terrine dish. The manufacturer hopes to have the refrigerator on the 
+market next year. Danae Jones, "Headline News." 
+</TEXT>
+</DOC>

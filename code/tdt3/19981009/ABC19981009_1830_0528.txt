@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981009.1830.0528 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The economy, on Wall Street today, investors were buying stocks that 
+would become cheaper because of the recent downturn in the market. 
+The Dow Jones industrials gained for than 167 points. On the NASDAQ 
+markets, stocks were up more than 73 points. 
+</TEXT>
+</DOC>

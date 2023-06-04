@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1099 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of Yahoo took a real beating today, losing 9 5/8 to 104 3/4. 
+The Internet company reported earnings that beat expectations. Yahoo! 
+Took in $16.7 million in its third quarter. That's up from last year's 
+$681,000. 
+</TEXT>
+</DOC>

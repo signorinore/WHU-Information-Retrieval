@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981003.1600.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News forecast." Snow and rain in the northern Rockies for 
+Sunday. Rain from Oklahoma, all the way into the Ohio valley and to 
+the gulf coast of Texas and Louisiana Sunday evening. As we work our 
+way into Monday, widespread rain throughout the eastern and southern 
+sections of the country. Heavier rain in the north-central plains, 
+and we'll see snow in the Rockies on Monday morning. High temperatures 
+-- on Monday, pretty cool in the north, generally in the 40s and 50s. 
+Hot in Texas once again, with highs in the 90s, but the rest of the 
+southeast will see highs in the 70s and 80s. Your extended forecast, 
+cool over the northern half of the country, throughout the extended 
+forecast period. Heavy rainfall in the northern plains, the Great 
+Lakes, all the way down into Missouri, for Monday. On Tuesday, that 
+heavy rain becomes concentrated over Iowa, Missouri and portions of 
+western Illinois, but lots of rain in the central and eastern sections 
+of the country. And then on Wednesday, that very strong and heavy 
+rainfall will be over the Great Lakes, extending as far south as northern 
+Alabama and Georgia. Remember, you can get your four-day forecast 
+for 6,100 cities at CNN.com. 
+</TEXT>
+</DOC>

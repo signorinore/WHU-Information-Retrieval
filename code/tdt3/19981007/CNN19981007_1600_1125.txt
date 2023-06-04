@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981007.1600.1125 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow lost 1 point. The NASDAQ down 48 points. 
+That's "Dollars & Sense." Kathleen? All right, thanks a lot, Kitty. 
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0485 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investigators are reportedly looking at the checklist used by the 
+crew of Swissair flight 111. One step in the list might have sent 
+power through damaged wires and then caused an electrical failure. 
+Rob Gordon has an update on the investigation. These experts are working 
+on a puzzle. A puzzle missing 90% of the pieces. What caused Swissair 
+flight 111 to crash? Why did a routine flight go so wrong? No answers 
+yet, but a few more clues. Faults recorded by the black box 0 seconds 
+before they stopped recording. The sequence and type of data anomlys 
+could provide potentially important clues about electrical components 
+and power sources, and could later help us reconstruct the events 
+that were happening within the aircraft. One of the first indications 
+there was problem was when the autopilot shut down. And there's more. 
+The TSB won't talk about it, but American ABC News says 11 minutes 
+before the plane crashed, the pilot smelled smoke. The smoke got thicker, 
+a few minutes later the lights were turned out in the passenger cabin. 
+Six minutes later, flight 111 crashed into the sea off Peggy's cove. 
+The TSB won't discuss the ABC story. They say it's protected information. 
+Recovery work will begin again on the weekend when "the sea corercess" 
+heavy lift barge arrives. That job could take weeks. Meanwhile, the 
+province's medical examiner says he's identified the remains of the 
+plane's pilots, stephan loew and captain urs zimmermann. Rob Gordon, 
+in Halifax. 
+</TEXT>
+</DOC>

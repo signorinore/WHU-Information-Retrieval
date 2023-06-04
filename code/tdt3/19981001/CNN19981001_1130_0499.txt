@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0499 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is calling for support of his education agenda today 
+at a White House event. He wants 100,000 more teachers and the building 
+or renovation of 5,000 classrooms. White House aides say it's doubtful 
+GOP leaders will offer support, but they say the event could help 
+democrats in next month's election. Republicans say a better education 
+plan would be to provide tax breaks to help parents pay education 
+bills. 
+</TEXT>
+</DOC>

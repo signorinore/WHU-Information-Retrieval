@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rallied today after a volatile week. Analysts say the market 
+was Buoyed by bargain-hunting among technology stocks. The Dow Jones 
+industrials gained 167 points, closing at 7899. The index was up 114 
+points for the week. 
+</TEXT>
+</DOC>

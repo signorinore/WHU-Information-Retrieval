@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981002.1800.2998 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, that's it for today. I'm Brian Sislack, hoping you'll join me 
+next time for another edition of Science World. It's 22 hours 50, 
+universal time. You're listening to VOA News Now. 
+</TEXT>
+</DOC>

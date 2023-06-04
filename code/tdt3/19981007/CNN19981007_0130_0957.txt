@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981007.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And 77-year-old senator John Glenn has arrived in cape Canaveral, 
+Florida, for launch rehearsal. He will accompany six other astronauts 
+aboard the space shuttle "discovery" for a nine-day mission coming 
+up in three weeks. More on these and other stories in 15 minutes. 
+</TEXT>
+</DOC>

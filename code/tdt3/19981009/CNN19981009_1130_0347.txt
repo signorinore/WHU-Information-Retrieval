@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Four workers at a computer industry plant in central Washington state 
+are in critical condition after an explosion and fire. Last night's 
+blast released a cloud of potentially lethal silicon tetrachloride 
+gas. Emergency officials ordered residents living within a mile of 
+the plant to stay indoors. The company advanced silicon materials 
+incorporated says no hazard to the community has been detected. Authorities 
+blame the explosion on equipment failure. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thursday the Senate overwhelmingly approved legislation to put off 
+taxing items sold over the Internet for three years. The Bill must 
+now be reconciled with a house version before it goes to President 
+Clinton. He's expected to sign it. Supporters of the Bill say it will 
+give the government time to figure out the best way to tax Internet 
+sales. 
+</TEXT>
+</DOC>

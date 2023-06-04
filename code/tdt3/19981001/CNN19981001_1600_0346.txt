@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The problem of parents abducting their children and hiding them in 
+other countries was discussed in the Senate today. The foreign relations 
+committee is considering a measure which would make international 
+child abduction an extraditable crime. Attorney general Janet Reno 
+says the justice and state departments are working together to improve 
+extradition procedures in these cases. But Reno says that's not always 
+an option. International child abductions are believed to run into 
+the thousands each year. The problem is growing as marriages and divorces 
+between people from different countries increase. 
+</TEXT>
+</DOC>

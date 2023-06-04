@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Senator John Glenn and six other astronauts suited up today for a 
+full dress rehearsal of their launch on the "discovery" later this 
+month. The astronauts' actual liftoff is October 29th. Those stories 
+and more in the next 15 minutes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1600.1059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors is taking another step in its effort to lure customers 
+back after strikes shut down most of its plants this summer. G.M. 
+says it will install a safety and security system on many of its trucks 
+and cars for free. The system is worth about $1,300. G.M. saw its 
+market share shrink from 31% in June to less than 21% in July as the 
+strike was taking place. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rose just slightly on Wall Street today, despite an early rally. 
+The Dow Jones industrial average gained 16 points to close at 7742. 
+</TEXT>
+</DOC>

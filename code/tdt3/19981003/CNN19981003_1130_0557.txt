@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981003.1130.0557 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+australian prime minister john howard and his conservative labor party 
+are claiming a narrow victory in today's national election. howard 
+called for early elections to change the country's tax system. in 
+his victory speech, howard promised to fight for real aboriginal reconciliation 
+by the time australia celebrates it centennial in 2001. 
+</TEXT>
+</DOC>

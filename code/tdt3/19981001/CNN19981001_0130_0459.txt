@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0459 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And then, we'll show you the 
+favorite targets of car thieves. 
+</TEXT>
+</DOC>

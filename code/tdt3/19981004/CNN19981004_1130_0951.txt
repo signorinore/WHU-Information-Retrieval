@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981004.1130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Yankee ballplayer Darryl Strawberry is resting comfortably after 
+undergoing surgery for colon cancer yesterday. 
+</TEXT>
+</DOC>

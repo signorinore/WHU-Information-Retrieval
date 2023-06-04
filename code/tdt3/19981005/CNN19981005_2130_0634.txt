@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0634 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+it appears dangerous bacteria and criminals have something in common. 
+a set of fingerprints. ann kellan checks out the latest technology 
+to keep your food safe in "tech trends." during a period of hot weather 
+last june in suburban atlanta, there was a major e. coli outbreak. 
+e. coli is a bacteria normally found in all of us but certain strains 
+such as 0157:h7 carry a toxin. georgia public health officials traced 
+the organism to this popular water park. health officials also relied 
+on a cutting-edge technology called pfge, or pulsed field gel electrophoresis. 
+it provides a way to figure out if different samples of e. coli are 
+related through a genetic fingerprint. that genetic fingerprint separated 
+the water park cases from all the other e. coli cases the health department 
+was dealing with. with the use of pfge we were able to see that the 
+cases that did not go to the water park in fact were different. here's 
+how pfge works. the e. coli bacteria from victims of an outbreak are 
+cultured to increase their numbers. the bacteria's dna is then chemically 
+cut into small pieces. this dna is processed so the pieces are separated 
+on the basis of size. a fluorescent dye makes the dna glow under ultraviolet 
+light, so the dna pattern of each sample can be seen, and compared. 
+if you look at the e. coli cases from the water park -- this is one 
+from a patient that was involved in our water park outbreak. and this 
+is another patient. and you can see they match exactly, they're all 
+connected. the centers for disease control has set up a database of 
+fingerprints called pulsenet that could help public health officials 
+all over the u.s. identify and deal with outbreaks more quickly. the 
+pfge test is only available in about seven or eight states right now, 
+but may become more widely available as this technology proves its 
+usefulness to public health. ann kellan, cnn. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981004.1130.0489 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And later -- we'll 
+show you a new generation of guardrails that could turn some catastrophic 
+accidents into mere bumps on the road. 
+</TEXT>
+</DOC>

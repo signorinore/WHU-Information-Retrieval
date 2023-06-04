@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981002.1130.1106 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "Dollars & Sense." Back to you. Thanks, Myron. Scores and highlights 
+up next in "Headline Sports." Introducing the new nicotrol inhaler. 
+Now available by prescription. K your doctor if it's right for you. 
+For more information, visit our web site... or call: 
+</TEXT>
+</DOC>

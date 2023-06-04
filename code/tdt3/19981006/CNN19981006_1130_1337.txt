@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA lockout forced the league to cancel the entire preseason, 
+Monday. The NBA is scared the player lockout will eat into the regular 
+season. 
+</TEXT>
+</DOC>

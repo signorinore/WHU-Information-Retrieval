@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> APW19981009.0783 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The malaria death rate in the country's hospitals declined from 6 
+percent to 4.2 percent over four years ending in 1997, officials said 
+Friday. The improvement is due to better diagnosis and availability 
+of medicines, said the assistant health director, Avertino Barreto. 
+Malaria is endemic to the southern African nation. 
+</TEXT>
+</DOC>

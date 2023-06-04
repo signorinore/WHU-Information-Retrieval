@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0026 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+but first, it's the end of a bumpy week on wall street. after falling 
+more than 200 points on both wednesday and yesterday, stocks rebounded 
+today amid expectations the fed may again lower interest rates. preliminary 
+figures show the dow jones industrial average closed up 135 points. 
+that's a sharp recovery from early morning trading, when the dow fell 
+102 points. 
+</TEXT>
+</DOC>

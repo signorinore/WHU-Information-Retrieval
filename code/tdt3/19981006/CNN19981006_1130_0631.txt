@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0631 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Major headaches for commuters north of Boston today. A one-mile stretch 
+of route 128 is closed in both directions, after a tanker truck, carrying 
+10,000 gallons of natural gas, collided with a car. The truck's driver 
+was killed. Workers have removed the truck from the road, but it isn't 
+known when the heavily traveled route will reopen. Adding to the problem, 
+a commuter rail station near the accident scene was closed. 
+</TEXT>
+</DOC>

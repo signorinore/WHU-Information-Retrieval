@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981006.0343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stocks were mixed Tuesday in a volatile session as the technology-heavy 
+Nasdaq declined for a second consecutive day. Traders and analysts 
+said investors remain nervous about a number of outstanding issues 
+threatening the global and domestic economy, and are using brief rallies 
+as an opportunity to sell shares. Stocks looked like they might be 
+poised for a strong rally, because many of the elements that previously 
+might have triggered waves of buying were evident early in the session: 
+a strong performance on foreign equity markets and better-than-expected 
+third-quarter earnings reports from Aluminum Company of America and 
+Motorola, two big, globally-oriented companies. Those factors did 
+in fact propel prices higher in the early hours; at one point the 
+Dow Jones industrial average was up 154 points and the Nasdaq composite 
+index was up 40 points. While the Dow managed to generate a small 
+gain, broader indexes registered declines, especially the Nasdaq. 
+The Dow rose 16.74 points, or 0.22 percent, to 7,742.98. But the Standard 
+&AMP; Poor's 500-stock index fell 3.97 points, or 0.4 percent, to 
+984.59. The Nasdaq composite index declined 25.80, or 1.68 percent, 
+to 1,510.89. The Russell 2000 index of smaller stocks dropped 4.25 
+points, or 1.26 percent, to 332.55, its ninth consecutive loss. ``The 
+market is nervous,'' said Alan Ackerman, an executive vice president 
+at Fahnestock &AMP; Co. ``We are looking at continuing fear of a world 
+recession, and an erosion of confidence that it can be staved off. 
+Growth is slowing in world markets, and needs to be stimulated.'' 
+Technology shares bore the brunt of the concern about a global economic 
+downturn and weakening earnings, as high-profile, market-moving names 
+like Cisco Systems, Microsoft and Intel were battered again. ``The 
+technology stocks are discounting the possibility of a global recessionary 
+environment in 1999,'' said Michael Molnar, a managing director in 
+sales and trading at Salomon Smith Barney. ``The mind-set that people 
+have is to sell any strength in technology, and the most vulnerable 
+stocks are the ones with maximum global exposure.'' Cisco fell 2[, 
+to 46 3/16; Microsoft dropped 3 9/16, to 97|, and Intel lost 15/16, 
+to 79|. Motorola, which released third-quarter earnings that were 
+better than expected after the market closed Monday, was an exception, 
+rising 3\, to 41 13/16. Alcoa, the world's biggest aluminum producer, 
+was the catalyst behind the rise in the Dow Jones industrial average. 
+Its shares jumped 4 5/16, to 72{, after its earnings exceeded analysts' 
+expectations. The company said that cost-cutting had helped to offset 
+lower metals prices. Wal-Mart Stores reported better-than-expected 
+sales gains for September and said that it intends to open, remodel 
+or relocate as many as 426 stores next year. Shares of Wal-Mart gained 
+2\, to 59{. Some other big retailers also rallied. Dayton Hudson rose 
+1 7/16, to 35 13/16, and Sears, Roebuck gained 1 3/16, to 43}. Financial 
+services stocks, however, continued to be beat up. J.P. Morgan &AMP; 
+Co. fell ~, to 79. Citicorp lost 1, to 85 and Merrill Lynch lost 1, 
+to 41 15/16. ``The financial sector is usually a market leader at 
+both tops and bottoms,'' said Gail Dudack, chief investment strategist 
+at UBS Securities. ``I haven't seen them turn yet, and that makes 
+me nervous. I will need to see the whole financial sector sort of 
+stabilize before I change my view that we are out of a bear market.'' 
+nn 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> MNB19981002.2100.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Much worry around these days about global financial markets and Wall 
+Street but today the stock market bounced back a bit, regaining some 
+ground after a three of this day global sell-off this week. The Dow 
+ended the day up 152 points, closing 7787. For the entire week, the 
+Dow lost 3% of its entire value. NASDAQ closed slightly higher today 
+to end at just under 1615. 
+</TEXT>
+</DOC>

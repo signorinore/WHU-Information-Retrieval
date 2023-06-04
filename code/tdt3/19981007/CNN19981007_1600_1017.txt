@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981007.1600.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was a warning from Alan Greenspan that economic growth here 
+in the United States will slow. I think it sends a signal that we 
+have some problems that will be hitting our shore, and we're starting 
+to feel them. We had the highest trade deficit two months ago in August. 
+We've got other signals that these problems are now starting to hit 
+us. We had, if you look at today's paper, the largest layoffs. The 
+layoffs last month were much bigger than the month before. Bond prices 
+moved lower today as the dollar declined sharply in value. 
+</TEXT>
+</DOC>

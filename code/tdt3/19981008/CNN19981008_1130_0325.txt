@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981008.1130.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Major league baseball is looking at a major rules change, but it has 
+nothing to do with how the game is played on the field. Congress has 
+approved legislation partially overturning a 75-year-old ruling that 
+exempted baseball from anti-trust legislation. The change would allow 
+players to go to court over anti-trust disputes with owners. President 
+Clinton is expected to sign the legislation. 
+</TEXT>
+</DOC>

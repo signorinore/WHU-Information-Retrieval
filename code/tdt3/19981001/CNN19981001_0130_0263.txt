@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0263 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The budget surplus was ignored by investors on Wall Street. The Dow 
+Jones industrial average lost 237 points to close at 7842. We'll have 
+more in "Dollars & Sense" at 46 minutes past the hour. 
+</TEXT>
+</DOC>

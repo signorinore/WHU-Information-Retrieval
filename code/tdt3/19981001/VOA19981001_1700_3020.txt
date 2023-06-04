@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981001.1700.3020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Share Index ended the day down 
+156 points. That's 3.1 percent at 4,908. While in Paris the Cack 40 
+Index was down 160 points. that's 5 percent at 3,038. The Dacks Index 
+in Frankfurt was down 336 points -- 7.6 percent at 4,095. The price 
+of gold closed in New York at $299.60 an ounce -- up $3.20. 
+</TEXT>
+</DOC>

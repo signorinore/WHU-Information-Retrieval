@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981003.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A new law that tightens U.S. borders by tracking every foreigner who 
+enters the United States has been postponed because immigration officials 
+say they are not ready to handle the job and Congress is not sure 
+it really wants the measure enforced. Congress now has until Oct. 
+15 to either repeal the law or delay it long enough for the Immigration 
+and Naturalization Service to develop a system for keeping tabs on 
+the millions of noncitizens who enter and leave the United States 
+at every airport, border crossing and seaport in the country. Border 
+states and the governments of Canada and Mexico strongly opposed the 
+measure after experts warned that requiring even simple checks could 
+cause huge lineups at the borders and delays of up to 24 hours that 
+would hurt businesses and cost millions of dollars in delayed or lost 
+trade. The measure officially took effect Thursday, but Congress voted 
+to delay it because the INS made it clear it had not developed adequate 
+technology to gather the information without causing delays. The agency 
+also does not have a system to process information estimated to be 
+so vast that in one year it would exceed all the data in the Library 
+of Congress. ``This temporary delay will provide several more days 
+for Congress to pass a legislative fix and prevent gridlock at our 
+borders,'' said Sen. Spencer Abraham, R-Mich., who wrote the stopgap 
+legislation. The Senate has already voted twice to repeal the strict 
+border measure. The House of Representatives, however, had voted to 
+delay its implementation one year, until Oct. 1, 1999. But because 
+both houses could not reach a compromise, the measure went into effect 
+Thursday. And when the immigration service did not enforce it, the 
+government agency was in the position of technically violating the 
+law. ``We told Congress early on that the technology and system did 
+not exist and would not be in place by Oct. 1,'' said Russell Bergeron, 
+an immigration service spokesman. ``And it's impossible to project 
+when such a system would be in place.'' Canadian business executives 
+and Mexican officials were relieved that the delays they feared had 
+not materialized, but they remain concerned that uncertainty on the 
+border still can cause hardship. ``You can't make plans to build cars 
+in Detroit based on parts made in Canada that might be held up by 
+10 to 20 hours crossing the border,'' said Peter Eide, head of labor 
+law policy for the U.S. Chamber of Commerce and chairman of Americans 
+for Better Borders, an organization started by individuals worried 
+about the effect of the new law. Gustavo Mohar, minister of governmental 
+affairs at the Mexican Embassy in Washington, said Mexico wants the 
+measure repealed. ``Regardless of the technology available,'' Mohar 
+said, ``it doesn't make sense.'' This latest border battle started 
+with a measure buried deep in the Illegal Immigration Reform and Immigrant 
+Responsibility Act of 1996. Section 110 of that act required the immigration 
+service to develop an automated system to track the entry and exit 
+of all noncitizens, thus providing a way of identifying immigrants 
+who stay longer than their visas allow. While the new law would affect 
+both the Canadian and the Mexican borders if applied, opposition has 
+been strongest in the north, where millions of Canadians are accustomed 
+to crossing the border without being checked. 
+</TEXT>
+</DOC>

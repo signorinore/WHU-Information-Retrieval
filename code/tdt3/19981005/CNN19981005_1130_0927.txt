@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A judge in Paducah, Kentucky, today, accepted the guilty but mentally 
+ill plea today of a teenager accused of killing three classmates and 
+wounding five others. 
+</TEXT>
+</DOC>

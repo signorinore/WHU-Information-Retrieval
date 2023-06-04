@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981006.1600.1116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the Dow gained 16. The NASDAQ down 25. 
+And that's "Dollars & Sense." 
+</TEXT>
+</DOC>

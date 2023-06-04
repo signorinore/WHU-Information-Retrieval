@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981001.1130.1072 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Nissan motor is adding a new sport utility vehicle to its model year 
+2000 lineup. It's called the X-Terra, and is smaller and less expensive 
+than Nissan's popular SUV, the Pathfinder. The X-Terra will be built 
+at the company's plant in smyrna, Tennessee, and will be introduced 
+at the international auto show in January 1999. 
+</TEXT>
+</DOC>

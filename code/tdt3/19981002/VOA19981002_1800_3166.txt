@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981002.1800.3166 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I'm Tony Riggs. It's 22 hours, 53 universal 
+time. 
+</TEXT>
+</DOC>

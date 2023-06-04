@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981006.2000.1999 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC newsroom in London, this is Pamela McCall. You're listening 
+to "The World." "The World" is brought to you by the Capital Group 
+companies, investing throughout the world for individuals and institutions. 
+This is "The World," a co-production of the BBC World Service, PRI 
+and WGBH Boston. I'm Tony Kahn. 
+</TEXT>
+</DOC>

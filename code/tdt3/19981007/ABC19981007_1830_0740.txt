@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981007.1830.0740 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government also reports that life expectancy is at an all-time 
+high. A baby born in the U.S. last year, can expect to live to the 
+year 2073. That's 76 1/2 years, as you can see. 
+</TEXT>
+</DOC>

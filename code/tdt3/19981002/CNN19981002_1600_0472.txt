@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0472 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the extended weather forecast for the u.s. is next. then, nato forces 
+gear up for possible action in yugoslavia. stay tuned. this is meteorologist 
+valerie voss with your "headline news weather" forecast for saturday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981004.1830.1192 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the justices will decide on whether to hear the Clinton administration's 
+arguments that attorney/client privilege and secret service privilege 
+should stop investigators like Ken Starr from asking questions of 
+those closest to a president. Tough questions for the nine justices, 
+who don't write the laws, but have the last word on what the constitution 
+will allow. Pete Williams, NBC news, at the Supreme Court. 
+</TEXT>
+</DOC>

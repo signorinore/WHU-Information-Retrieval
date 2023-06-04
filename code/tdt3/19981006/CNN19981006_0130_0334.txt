@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is warning that time is running short to avoid a 
+federal government shutdown. He is urging Congress to pass several 
+spending bills before the end of the week. The new fiscal year began 
+on Thursday, and nine of 13 spending measures still are unresolved. 
+Mr. Clinton has signed a law that keeps government agencies running 
+through Friday. House speaker Newt Gingrich says he is cautiously 
+optimistic lawmakers will complete their work by Saturday. 
+</TEXT>
+</DOC>

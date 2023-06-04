@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981006.1700.1082 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You are tuned to the VOICE OF AMERICA coming from Washington. I'm 
+Tom Crosby, with Susan Yackie bringing you this hour of VOA NEWS NOW. 
+</TEXT>
+</DOC>

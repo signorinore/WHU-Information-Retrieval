@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981006.2000.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow gained 17 points to close at 7743. This is NPR. 
+</TEXT>
+</DOC>

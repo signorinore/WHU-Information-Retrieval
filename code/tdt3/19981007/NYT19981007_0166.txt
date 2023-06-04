@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981007.0166 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For years Josh Gabriel, a musician and computer programmer, had looked 
+for a way to make composing and recording music as simple for the 
+average person as desktop publishing had made producing newsletters 
+and brochures. Traditionally, anyone wanting to make music had to 
+learn to play an instrument or be lucky enough to have a pleasing 
+singing voice. And even becoming an entertaining rapper required talent 
+and practice and a DJ, someone who mixed music on increasingly expensive 
+and complicated equipment. ``I just wanted to let people actually 
+get their own hands on music,'' said Gabriel. Four years ago he helped 
+to form Mixman Technologies in San Francisco and began the work of 
+building just such an enabling technology. What he came up with and 
+delivered to retail shelves last Christmas was Mixman Studio. It is 
+a software package that creates on a personal computer a self-contained 
+recording studio and a real-time mixer. The mixer, which is the heart 
+of the application, has undergone two refinements. The latest version, 
+which includes a sound-effects studio and editing capacity, is scheduled 
+to go on sale next month. All of the mixers resemble a three-dimensional 
+view of a hip-hop DJ's dual turntables. Any wav file, the common means 
+of digitally storing sound in PCs, can be loaded into Mixman. Gabriel's 
+company also sells enhanced music CDs that are packed with hundreds 
+of prerecorded samples, or clips, of music. The clips can be taken 
+from the CDs once they are placed in a CD-ROM drive much the way clip 
+art is copied from CD-ROMs. Gabriel, who is vice president and creative 
+director of Mixman Technologies, added that his company buys the rights 
+to the musical samples, some from well-known artists like George Clinton 
+and Naughty By Nature. That makes the sound clips royalty-free to 
+constomers. Once these clips _ actually short loops of musical phrases, 
+such as bass lines, synthesizer cords, vocal tracks, percussion, guitar 
+licks and sound effects _ are placed with a mouse click into Mixman 
+they become represented on the mixer by a letter or number. Hold down 
+the `I' key, for instance, and as long as it is depressed the sound 
+of a drum playing is heard. Each of the 16 keys call up musical sounds, 
+each synchronized to play together in key and tempo. The samples can 
+be layered in or out as the user wishes. ``We wanted to sort of open 
+the door for the average person into the thought processes behind 
+making music,'' said Gabriel. ``People want more customization. This 
+is customization of music down to the molecular level.'' But Mixman, 
+which is scheduled to appear also in a Mac version in December, has 
+its limitations. Creating music with complex harmonic structures is 
+practically impossible. Gabriel acknowledged that Mixman is best suited 
+for creating highly rhythmic music that tends to depend heavily on 
+repetitious elements, like hip-hop, house and raggae music often do. 
+While some musicians have rejected the idea of inviting listeners 
+to remix their finished work, others, said Gabriel, have welcomed 
+it. ``They understand that there is something to having a fan appreciate 
+in a deeper way what the artist is doing by letting them into the 
+work,'' he said. A limited version of Mixman Studio can be downloaded 
+free at www.mixman.com. The retail version costs $49.95; the deluxe 
+model, Mixman Studio Pro, with sound effects and editing additions, 
+is scheduled to be in stores in November for around $119, said Gabriel 
+who plays his Mixman as if it were a musical instrument. ``The idea,'' 
+he said while he mixed tracks without looking at his computer keyboard, 
+'' is to bring music, interactive music, to the masses.'' 
+</TEXT>
+</DOC>

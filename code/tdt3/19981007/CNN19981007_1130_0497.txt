@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0497 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." It's 
+going to be a cool day today over much of the northern midwest, only 
+into the 50s for high temperatures. We will see some 90s in the southwest. 
+80s will continue along the gulf coast. Your forecast from later today 
+on into Thursday, notice the wet weather still along the front, which 
+is going to push into the northeast by tomorrow, bringing with it 
+some showers and storms there. And the gulf coast region will remain 
+wet, too, with an area of low pressure forming along the front. High 
+pressure, fair weather most of the west, the exception in the pacific 
+northwest as the next frontal system pushes in there. Look at the 
+extended forecast now for the weekend, showers and storms along the 
+eastern seaboard during the day on Friday. And good chances for rain 
+in the pacific northwest. Temperatures will begin to turn cooler through 
+the northern Rockies as we head on into Saturday. Showers and storms 
+remain in the forecast in the east during the day on Saturday. By 
+Sunday, best chance for rain through the upper midwest, along with 
+those cooler temperatures, which will be pushing in. 
+</TEXT>
+</DOC>

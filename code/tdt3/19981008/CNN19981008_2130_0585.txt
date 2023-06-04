@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A 75-year-old Portuguese novelist has won literature's top award -- 
+the nobel prize. Jose saramago is considered a nonconformist who champions 
+the cause of the common man. The Swedish academy cited his imagination, 
+compassion and irony in announcing his selection. Among saramago's 
+books is "the stone raft," in which the iberian peninsula breaks off 
+from Europe and floats into the atlantic. His work has been translated 
+into more than 20 languages. 
+</TEXT>
+</DOC>

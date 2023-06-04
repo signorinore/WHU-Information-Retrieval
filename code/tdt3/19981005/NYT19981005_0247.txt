@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981005.0247 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+This year is the 100th anniversary of the Nobel-prize-winning experiments 
+by Marie and Pierre Curie into the origins of radioactivity, and their 
+discovery of the radioactive elements polonium and radium. Marie Curie 
+herself coined the term ``radioactivity,'' and a century ago, the 
+word conveyed promise and evoked excitement. As the spontaneous release 
+of energy from certain substances, radioactivity was regarded as a 
+newly identified force of nature, something that would surely lead 
+to insights into the structure of matter, and to practical applications 
+in medicine and science. But as they would with other 20th century 
+marvels, scientists soon realized that they might have unleashed a 
+menace. They began to suspect that radiation might be a threat to 
+health. Another decade went by, though, before those concerns were 
+taken seriously. Marie Curie tended to deny the perils of radiation, 
+despite being deeply troubled by the deaths in the 1920's of colleagues 
+and radiation workers from leukemia. Curie's decades of exposure left 
+her chronically ill and nearly blind from cataracts, and ultimately 
+caused her death at 67, in 1934, from either severe anemia or leukemia. 
+But she never fully acknowledged that her work had ruined her health. 
+Her daughter, Irene Joliot-Curie, and son-in-law, Frederic Joliot-Curie 
+_ also Nobel Prize winners _ continued her work with radioactive material. 
+Eventually, both also died of diseases induced by radiation. But by 
+all accounts Marie Curie was so intent on her research that even if 
+she had known the risks there is no reason to believe she would have 
+done anything differently _ or that she necessarily should have, given 
+her achievements. When Marie and Pierre Curie began to experiment 
+with radiation, advances in physics had just begun to capture the 
+public imagination. X-rays, discovered by Wilhelm Roentgen in 1895, 
+were being used to diagnose broken bones and help surgeons find bullets, 
+and X-ray pictures of the human body had fascinated newspaper readers. 
+The Curies set out to study radioactivity in 1898, two years after 
+Henri Becquerel discovered the phenomenon when he noticed that crystals 
+of uranium salt could fog a photographic plate. Initially, the Curies 
+studied emissions from various minerals and by the end of the year 
+had made discoveries that would lead to a Nobel Prize they shared 
+with Becquerel in 1903, and another awarded to Marie alone in 1911. 
+(Because the Nobel is not awarded posthumously, Pierre Curie, who 
+died in an accident in 1906, was not cited.) Their first accomplishment 
+was to show that radioactivity was a property of atoms themselves. 
+Scientifically, that was the most important of their findings, because 
+it helped other researchers refine their understanding of atomic structure. 
+The second, more famous discovery, was the discovery of polonium and 
+radium. Radium was the most radioactive substance the Curies had encountered. 
+Its radioactivity is due to the large size of the atom, which makes 
+the nucleus unstable and prone to decay, usually to radon and then 
+lead, by emitting particles and energy as it seeks a more stable configuration. 
+Radium does not exist free in nature; rather, like uranium, it is 
+melded into the mineral pitchblende. To study radium, the Curies spent 
+countless hours bathed in a radioactive miasma, stirring vats of pitchblende 
+in order to extract infinitesimal amounts of radium. Marie Curie struggled 
+to purify it for medical uses, including early radiation treatment 
+for tumors. But radium's bluish glow caught people's fancy, and companies 
+in the United States began mining it and selling it as a novelty: 
+for glow-in-the-dark light pulls, for instance, and bogus cure-all 
+patent medicines that actually killed people. Wristwatches with radium-painted 
+luminous dials became a fad almost overnight. The first large factory 
+to produce the glowing watches, the Radium Luminous Materials Corp., 
+was opened in 1917, in Orange, N.J. Soon, other companies opened plants 
+in Connecticut and Illinois. Several million radium watches and clocks 
+and instrument dials were made through World War II. The glowing numerals 
+had to be hand-painted onto the watch dials, a delicate task deemed 
+women's work. Claudia Clark, a professor of history at Central Michigan 
+University who wrote ``Radium Girls'' (University of North Carolina 
+Press, 1997), said the dial painters worked in ``studios,'' where 
+they mixed their own paint from a powdered base. The workers, some 
+as young as 15, painted about 250 dials a day for a cent and a half 
+apiece, five and a half days a week. Within a few years, some of the 
+young women became horribly ill from their exposure to radium, and 
+some died. They have become a notorious chapter in the history of 
+occupational disease. Clark estimates that 4,000 women were dial painters. 
+Until sometime in the 1920's, the women were encouraged to use a technique 
+called ``lip-pointing,'' which meant using their lips and tongues 
+to shape their paintbrushes to a fine tip. Not only were their mouths 
+and teeth bathed in radium all day, but the women probably swallowed 
+and inhaled it as well, and they often went home so coated with radioactive 
+paint dust that they glowed in the dark. Unaware of any risk, some 
+painted their lips, teeth, eyelids, fingernails and the buttons on 
+their clothes with the luminous solution. According to Clark, factory 
+owners actually told the women that radium was good for them, and 
+would make their cheeks glow. Meanwhile, more knowledgeable employees 
+in other parts of the plant were beginning to use protective gear 
+and shields when working with radium. And in 1921, while the dial-painting 
+studios were in full swing, Marie Curie visited America and was presented 
+with one gram of radium _ which was enclosed in a 110-pound, lead 
+lined casket. The dial-painters' first health problems turned up in 
+the 1920's, when some of the women began suffering from fatigue, anemia 
+and trouble with their teeth. When dentists tried to extract the bad 
+teeth, they were horrified to find jawbones so diseased that chunks 
+of bone came out as well. The extraction sites did not heal, and infections 
+set in. In many cases, the women's bodies were actually radioactive, 
+because radium had been absorbed by their bones. Government researchers 
+studied live and dead dial painters and used the data to calculate 
+safe exposure levels for future generations of workers handling radioactive 
+materials. By 1923, five young women from the Orange plant had died 
+from a condition that came to be called ``radium jaw.'' The same thing 
+had begun happening to dial painters in Connecticut and Illinois. 
+As more time passed, some of the women developed bone cancers. What 
+makes radium so dangerous is that it forms chemical bonds in the same 
+way as calcium, and the body can mistake it for calcium and absorb 
+it in the bones. Then, it can bombard cells with radiation at close 
+range, which may cause bone tumors or bone-marrow damage that can 
+give rise to anemia or leukemia. One radium girl who died was Margaret 
+Looney, who died in 1929, at 24, after seven years of work at the 
+Luminous Processes Plant in Ottawa, Ill. Her sister Jean Schott, who 
+still lives in Ottawa, was only 6 when Looney died, but she remembers 
+her mother rising at 5 every morning and walking a mile to the cemetery 
+to visit the grave. ``Every family has sadness and grief,'' Schott 
+said. ``Nobody gets by without it. But Margaret's death was unnecessary.'' 
+The family sought compensation, but never received any. About 50 years 
+after Looney's death, her family allowed researchers from Argonne 
+National Laboratory, which maintains the dial painters' medical records, 
+to exhume her body for study. Looney's bones, Schott said, were found 
+to be highly radioactive. A series of free lectures and films titled 
+``Marie Curie and the Centenary of the Discovery of Radioactivity'' 
+will be offered Oct. 8 and 9 at the New York Academy of Medicine, 
+and Oct. 10 at the New York Academy of Sciences. From October through 
+December, a free exhibition on Marie and Pierre Curie will be on display 
+in the lobby of the New York Academy of Sciences. For details, call 
+212-838-0230, extension 410. 
+</TEXT>
+</DOC>

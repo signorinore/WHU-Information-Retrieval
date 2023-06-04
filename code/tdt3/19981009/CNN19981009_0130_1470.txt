@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.0130.1470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Boeing engineer is claiming a new world's record for keeping a paper 
+airplane aloft. Ken blackburn of St. Louis kept his paper plane airborne 
+for 27.6 seconds. The flight took place inside the Georgia dome in 
+Atlanta. Blackburn needed four tries to beat the previous record of 
+20.9 seconds, which was set in England. The record was serious business. 
+Two timers were present to authenticate the feat. 
+</TEXT>
+</DOC>

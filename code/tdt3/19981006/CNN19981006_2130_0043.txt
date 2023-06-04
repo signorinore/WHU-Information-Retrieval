@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0043 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News," I'm Lynne Russell. President Clinton is calling on 
+all countries to do their part to stem the tide of global financial 
+turmoil. Today, he spoke at the annual meeting of the international 
+monetary fund and the world bank. He urged financial leaders to adopt 
+long-term reforms. And he called on Congress to approve $18 billion 
+for the IMF. He says immediate action is necessary to restore economic 
+stability. I am confident that if we act together we can end the current 
+crisis. We must take urgent steps to help those who have been hurt 
+by it, to limit the reach of it and to restore growth and confidence 
+to the world economy. But even when the current crisis subsides, that 
+will not be enough. The global economy simply cannot live with the 
+vast and systemic disruptions that have occured over the past year. 
+The IMF and the world bank have been vital to the prosperity of the 
+world for the past half century. 
+</TEXT>
+</DOC>

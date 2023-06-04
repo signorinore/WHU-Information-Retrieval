@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> NYT19981005.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The government announced Monday that it had sued two of the nation's 
+biggest hospital companies, contending that they had defrauded federal 
+health programs over more than 14 years through a huge scheme involving 
+bogus expense claims. The suit, brought against Columbia/HCA Healthcare 
+Corp. and Quorum Health Group in federal district court in Tampa, 
+Fla., comes after years of investigation into allegations of fraud 
+at the companies. It contends that the hospital giants routinely overstated 
+expenses in reports to the government to increase their compensation 
+from federal programs like Medicare. The Justice Department said in 
+a statement that in addition to their corporate parents, more than 
+200 hospitals in 37 states were defendants. Columbia owns some 320 
+hospitals, while Quorum owns or operates about 250 hospitals. Also 
+named in the suit was Healthtrust, a for-profit hospital chain now 
+owned by Columbia, and Quorum Health Resources, a subsidiary of Quorum 
+that is the country's largest manager of not-for-profit hospitals. 
+The lawsuit was originally filed under seal in 1993 by one corporate 
+whistle-blower. Under the federal statute governing such cases, the 
+suit was then reviewed and investigated by the Justice Department, 
+which filed its motion to join the litigation last week. For Columbia, 
+the world's largest health care company, the lawsuit marks the first 
+time since a series of government raids last year that federal officials 
+have contended that the company itself engaged in a sweeping fraud 
+scheme. The government had previously brought criminal charges against 
+four Columbia executives who had been involved in the preparation 
+of cost reports for one Florida hospital. Quorum, which has been under 
+investigation since 1993 for possible irregularities in its cost reports, 
+was part of the Hospital Corporation of America until the late 1980s. 
+Columbia bought HCA in 1994. At issue in the litigation are the workings 
+of a complex, little-understood part of modern hospitals known as 
+the federal cost-reporting system, one that has meant billions of 
+dollars in reimbursements by the government to hospitals and other 
+health care providers over the years. Those reports generate hundreds 
+of millions of dollars in payments each year to Columbia and Quorum 
+alone. Through that system, portions of costs associated with patient 
+care are reimbursed by programs like Medicare at different rates. 
+But, in its suit, the government contends that the companies intentionally 
+misrepresented costs to increase the reimbursement rate or receive 
+payment for costs that were not eligible for reimbursement. Although 
+the lawsuit does not specify the amount the government is seeking 
+from the two companies, it says that through the scheme, federal health 
+programs ``have been damaged in the amount of many millions of dollars.'' 
+Analysts have estimated that Columbia may have to pay more than $1 
+billion to settle the various fraud claims being investigated by the 
+government, including the cost-reporting case. Much of the government's 
+critical evidence in the case comes from secret, duplicate sets of 
+cost reports and work sheets maintained at the hospitals that contained 
+significantly lower expenses than those in reports submitted to the 
+government, according to the suit. Much of that information was obtained 
+by the government during a civil investigation into the two companies' 
+cost-reporting practices. In an internal statement to its employees 
+issued Monday, Columbia said that the issues raised in the suit were 
+not new. But the statement added that the government action could 
+well be an important step in bringing an end to the dispute. ``We 
+anticipate that the government joining of this lawsuit will facilitate 
+our ability to reach a resolution of these issues,'' the statement 
+said. James Dalton, president and chief executive of Quorum, said 
+in a statement Monday that the company had always strived to submit 
+honest claims to the government. ``Throughout Quorum's existence, 
+we have tried our very best to follow all the applicable rules,'' 
+he said. ``Quorum is very proud of the rigorous honesty and the highest 
+ethical values that we believe our people _ from management to all 
+of our associates _ exhibit every day.'' The lawsuit was originally 
+filed under seal by James Alderson, former chief financial officer 
+of North Valley Hospital in Whitefish, Mont., which is managed by 
+Quorum. Last week, the government filed its motion to join Alderson's 
+suit. A statement issued by Phillips &AMP; Cohen, Alderson's lawyers, 
+said that their client was ordered to file aggressive cost reports 
+with the government and establish a second document called a ``reserve 
+report.'' The second document, the statement says, contained accurate 
+information about the true expenses. When Alderson refused to follow 
+those instructions, the lawyers said in their statement, he was dismissed. 
+Stephen Meagher, a lawyer for Alderson, said that his client was not 
+available for comment. The case was brought under the False Claims 
+Act, which allows whistle-blowers to file suit on behalf of the government. 
+Under that Civil War-era law, the government can potentially recover 
+three times any amount defrauded from a federal program. If the suit 
+is successful, Alderson stands to receive as much as 25 percent of 
+any amount recovered. Lawyers involved in the case said that the investigation 
+had obtained large amounts of evidence proving the fraud and that 
+the final claim against the companies could be huge. ``The evidence 
+we have seen absolutely establishes systemic wrongdoing at Columbia,'' 
+said Meagher. ``Given the size of reimbursement claims contained in 
+the cost reports, the liability is potentially staggering.'' The 33-page 
+complaint spells out a wide array of methods it contends were used 
+to misrepresent costs and defraud federal health programs. Many of 
+those methods have never previously been disclosed. For example, the 
+suit says that the companies often misrepresented expenses in their 
+reports that were unrelated to patient care _ and thus not reimbursable. 
+The suit says that the companies included costs associated with marketing, 
+physician recruitment and even hospital televisions. Each of those 
+costs was misrepresented in the filed cost reports, according to the 
+lawsuit, but were identified correctly in the second set of reports. 
+In effect, the suit says, the companies were ``keeping two sets of 
+books _ one for the as-filed cost report and one for the reserve report.'' 
+Monday, shares of Quorum fell $1.50, to $13.50, while Columbia dropped 
+31.25 cents, to $19.75. The shares of both companies touched their 
+low price for the year. 
+</TEXT>
+</DOC>

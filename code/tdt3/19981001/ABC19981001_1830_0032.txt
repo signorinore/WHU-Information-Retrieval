@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0032 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good evening. We are going to begin with the stock market tonight. 
+Investors all over the world appear to be spooked by the current trends 
+in the global economy. It was a gloomy day on the markets in Asia 
+and Europe and south America. The international monetary fund warns 
+that there's a possibility of global recession in 1999. And today 
+on Wall Street, the Dow Jones lost 210 points to close at 7632. On 
+the NASDAQ market, heavy with those technology companies, stocks lost 
+more than 81 points. With almost half of American households invested 
+in the market, the psychology of all this is very important. Our first 
+report is from ABC's Betsy Stark. Another day, another triple-digit 
+decline. In just two days, investors have shaved $109 billion off 
+the value of the dow. Bank stocks led the downward March today. Fears 
+that banks will stop lending the money businesses need to keep growing 
+cast a pall over the entire market. Even fast-growing technology giants 
+like Dell, Microsoft and Cisco now seem vulnerable to the worldwide 
+slowdown. The Dow industrials have just closed out their worst quarter 
+in eight years. Consumer confidence is fraying. And investors craving 
+a safe place to put their money are getting out of stocks and flocking 
+to U.S. treasury bonds. The psychology of investors has turned totally 
+bearish. It doesn't make sense, given the strength of the U.S. economy. 
+But, Nevertheless, psychology is important in terms of driving markets. 
+Psychology is driving markets everywhere lower. Today Japan's Nikkei 
+slid another 1 1/2 to a new 12-year low. In Europe, the parisian stock 
+market fell 5%, the German Dax 5.5%. those are supposed to be bright 
+spots on the globe. Jittery investors are keeping an especially close 
+eye on Latin America. The next looming problem on the horizon for 
+the investor is Brazil. If Brazil devalues or otherwise has serious 
+economic problems, investors will run even more scared. And money 
+will evaporate from one more region of the world. It's a vicious cycle 
+-- the more frightened investors are, the more likely they are to 
+keep selling stocks, which only makes a bad situation worse. Betsy 
+Stark, ABC News, New York. 
+</TEXT>
+</DOC>

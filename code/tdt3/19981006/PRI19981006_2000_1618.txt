@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981006.2000.1618 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials were down -- rather 
+up 17 points at 7743. That's good news. But the NASDAQ was down 26 
+at 1511. 
+</TEXT>
+</DOC>

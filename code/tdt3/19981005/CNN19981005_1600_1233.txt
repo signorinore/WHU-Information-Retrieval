@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981005.1600.1233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBA training camps were supposed to open tomorrow, but because of 
+the lockout, they have been postponed indefinitely. And now, the league 
+has canceled the entire preseason. The regular season is scheduled 
+to begin to November 3rd. 
+</TEXT>
+</DOC>

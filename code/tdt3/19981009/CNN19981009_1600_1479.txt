@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1479 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Dennis Michael with the "Hollywood Minute." Tom Hanks is back 
+at work. Principal photography has begun on "the green mile," a film 
+based on the novel by Stephen king. Shooting is going forward in Los 
+Angeles, North Carolina and Tennessee. 
+</TEXT>
+</DOC>

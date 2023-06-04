@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street -- investors had a lot on their minds today. The Dow 
+Jones industrial average was down as much as 273 points before regaining 
+some ground. The Dow closed down 9 points at 7731 in extremely heavy 
+trading. 
+</TEXT>
+</DOC>

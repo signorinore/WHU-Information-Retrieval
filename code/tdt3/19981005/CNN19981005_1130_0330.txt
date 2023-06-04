@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton will speak this evening to a gathering of the world's 
+financial leaders about the growing global economic crisis. Yesterday, 
+federal reserve chairman Alan Greenspan met with the leaders, who 
+are in Washington for G-7 and international monetary fund meetings. 
+IMF officials say the global economic outlook has worsened considerably. 
+But there are no clear signs members have resolved differences on 
+how to deal with the crisis. President Clinton has proposed accelerating 
+emergency IMF loans to countries threatened by investor panic. 
+</TEXT>
+</DOC>

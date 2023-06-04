@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0399 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Secretary of state Madeleine Albright arrives in Israel tomorrow to 
+prepare for a possible Washington summit between Israeli and Palestinian 
+leaders. Albright will meet with Israeli prime minister Benjamin Netanyahu, 
+who says the Palestinians have not done enough to discourage terrorism. 
+Israel has offered to withdraw troops from 13% of the West Bank, in 
+exchange for more stringent Palestinian security measures. 
+</TEXT>
+</DOC>

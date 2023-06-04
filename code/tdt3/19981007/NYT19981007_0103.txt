@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981007.0103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Clinton administration this week enters the final phase of what 
+has been a highly contentious effort to hand administration of the 
+Internet over to an international nonprofit corporation. A group led 
+by Jon Postel, a founder of the Internet, presented the government 
+on Friday with its proposal for creating a California-based entity 
+called the Internet Corporation for Assigned Names and Numbers. ``This 
+organization will be unique in the world _ a nongovernmental organization 
+with significant responsibilities for administering what is becoming 
+an important global resource,'' Postel wrote. The larger significance 
+of the proposal is that it lays out the final privatization of the 
+Internet by the federal government, which financed decades of Internet 
+development as a communication tool for military and academic researchers. 
+The more immediate issue is forming an equitable plan for creating 
+and distributing ``top-level domain names,'' the identifiers like 
+.com and .org that identify what type of resource an Internet address 
+is. The .com top-level domain, for example, signifies a commercial 
+address. Until now, domain names have been administered by the U.S. 
+government _ at first directly and in more recent years under a government 
+contract granting a registration monopoly to Network Solutions, a 
+corporation based in Herndon, Va. A number of private companies have 
+demanded that they be allowed to compete with Network Solutions in 
+the lucrative business of registering domain names, while Europeans 
+and Asian have complained that their interests are underrepresented 
+in the development and administration of domain names. The Internet 
+Corporation for Assigned Names and Numbers, which is newly incorporated, 
+nominated nine interim board members to help finish writing bylaws 
+and create a permanent 19-member board responsible for introducing 
+competition and a recognition of international interests to the domain 
+registration system. Under the proposal, the corporation would also 
+make decisions on how and when to add new top-level domains. But the 
+long-awaited revamping plan by Postel's group still has a number of 
+critics, and the Clinton administration has not yet ironed out the 
+details for a smooth transition of crucial property and customer records 
+from Network Solutions to the new corporation. Ira Magaziner, the 
+adviser to President Clinton who has been overseeing the transition 
+to private governance of the Internet, had hoped to have a plan in 
+place by the time the government's contract with Network Solutions 
+expired on Oct. 1. But a last-minute breakdown in negotiations prompted 
+the Commerce Department to extend the old contract for one week. It 
+is now set to expire on Wednesday. Another extension is likely, since 
+the government will take 10 days of public comments on the plan and 
+two proposed variations before it moves forward. Many critics say 
+the Postel plan was hammered out behind closed doors, despite the 
+administration's call for a process that strove for consensus among 
+the international groups that have an interest in how the network 
+is governed. One contention about the Postel plan concerns whether 
+the new agreement would unfairly strip Network Solutions of the lucrative 
+business it has built as the monopoly registrar of top-level domains. 
+Company spokesmen declined comment beyond saying negotiations with 
+the government were continuing. A larger issue about the plan, though, 
+is whether there would be proper fiscal controls and long-term checks 
+on the powers of the proposed new board, whose members would be largely 
+appointed by the professional, advocacy and commercial organizations 
+that finance the corporation. ``The substantive problem with it is 
+that it is completely obtuse to questions of separation of powers 
+and limits and accountability,'' said Lawrence Lessig, a Harvard Law 
+School professor who has been critical of what he sees as a secretive 
+process for drafting the proposal. ``It's a perfect corporation if 
+you trusted the board members,'' Lessig said, ``just like any Communist 
+government is perfect if you trust the Communist government.'' An 
+international coalition of associations representing a range of Internet 
+interests has filed its own bylaw proposals, which would make the 
+corporation based on membership rather than one whose board members 
+are largely selected by the organizations that finance it. In another 
+objection, J. William Semich, president and chief financial officer 
+of .NU Domain, a registrar of second-level domain names, said that 
+the proposed bylaws lacked the proper budget reviews and spending 
+limits. In his letter to Secretary of Commerce William Daley, Postel 
+acknowledged the continuing opposition to his plan. He said that while 
+the organization had been formally incorporated, it had not yet elected 
+a board or adopted bylaws and did not plan to do so until the completion 
+of a Commerce Department review of the proposal. ``There are many 
+challenges left for the days and years to come, but the consensus 
+that developed around these documents provides considerable promise 
+that those challenges can also be overcome,'' he wrote. The proposed 
+interim board includes representatives of telecommunications, Internet 
+and academic interests from the United States, Japan, Australia and 
+Europe. The proposed interim board members are: _ Geraldine Capdeboscq, 
+executive vice president for strategy, technology and partnerships 
+at Groupe Bull, an international information systems group based in 
+France. _ George H. Conrades, a partner at Polaris Venture Partners, 
+based in Seattle. _ Gregory L. Crew, chairman of the Australian Communications 
+Industry Forum. _ Esther Dyson, chairwoman of Edventure Holdings, 
+a venture capital firm in New York. _ Frank Fitzsimmons, senior vice 
+president for global marketing at Dun &AMP; Bradstreet Corp. _ Hans 
+Kraaijenbrink, chairman of the executive board of the Association 
+of European Public Telecommunications Network Operators. _ Jun Marai, 
+professor of environmental information at Keio University in Tokyo. 
+_ Eugenio Triana, an Internet management consultant in Spain. _ Linda 
+S. Wilson, president of Radcliffe College. NYT-10-04-98 1820EDT 
+</TEXT>
+</DOC>

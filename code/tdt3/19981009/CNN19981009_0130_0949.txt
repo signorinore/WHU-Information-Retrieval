@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More teens are lighting up. The centers for disease control says the 
+number of young people who start smoking before age 18 has gone up 
+73% over the last decade. 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981008.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Shares on the Amsterdam Bourse took another beating Thursday as traders 
+reacted nervously to the weakening dollar and losses on other exchanges, 
+particularly Tokyo. At 0855 GMT, the 27-share AEX-index was down 28 
+points, or 3.3 percent, to 829.11 points. The Tokyo bourse closed 
+a sharp 5.8 percent lower Thursday, while the Dow Jones Industrial 
+Average also closed overnight slightly down at 7741.69 points. The 
+dollar dipped to its lowest level against the Dutch guilder since 
+January 1997, trading at 1.795 in Amsterdam. The Dutch bourse is highly 
+sensitive to the strength of the U.S. currency as a number of index 
+companies derive much of their overseas revenues in dollars. 
+</TEXT>
+</DOC>

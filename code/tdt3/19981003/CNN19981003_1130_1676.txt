@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981003.1130.1676 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+all the day's stories are two minutes away. i'm sachi koto and this 
+is "headline news." 
+</TEXT>
+</DOC>

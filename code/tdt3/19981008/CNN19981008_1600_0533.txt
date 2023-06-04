@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0533 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "Headline News weather" begins with our forecast 
+weather map. The cold front that's made its way across the entire 
+breadth of the nation will be found right along the east coast by 
+Friday morning. Still some rainfall to be found from New England all 
+the way down the east coast and through Florida. As we put our map 
+in motion, you'll see that that weather system moves away quite slowly. 
+Another frontal system pushing through the west should not have any 
+precipitation associated with it, but a second front rolls into western 
+Canada, and that could bring some rain shower activity into Washington 
+and Oregon. Here's your forecast map for high temperatures on Friday. 
+And as you can see, the plains states are warming again. They were 
+cooled off by that cold front that has moved into the east. Cool weather 
+continues in the northeast and in the northwest. In your extended 
+forecast -- on Saturday, rain showers linger along the eastern seaboard. 
+And as we move ahead to Sunday, you can see the rainfall moving through 
+the northern plains states with a few showers likely in the New England 
+states. Meanwhile, cold weather moves down across the Canadian border 
+into the northern Rockies and the northern plains states. For more 
+weather information, log onto CNN.com for four-day forecast for 6,100 
+cities. 
+</TEXT>
+</DOC>

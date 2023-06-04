@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0897 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- stocks took another beating on 
+Wall Street today. Preliminary figures show the Dow Jones industrial 
+average closed down almost 250 points. That's on top of yesterday's 
+index. The worst quarterly performance in eight years. 
+</TEXT>
+</DOC>

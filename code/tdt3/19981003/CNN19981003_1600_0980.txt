@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> CNN19981003.1600.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors took a 244-point bite out of the Dow this week as Wall Street 
+kicked off the fourth quarter. David Daniel has a review in "business 
+this week." Alan Greenspan and the federal reserve did what most people 
+expected this week -- cutting short-term interest rates. But the quarter-point 
+cut decided upon by the fed's open market committee wasn't enough 
+for Wall Street. Traders had been hoping for a half-point drop, and 
+immediately, the market dropped, as the Dow fell the remainder of 
+that day and the following two sessions as well. Prospective homebuyers 
+found a silver lining in the market's troubles -- shaken investors 
+sought refuge in the bond market and lower treasury bond yields mean 
+lower home financing costs. 30-year fixed-rate mortgages fell to their 
+lowest level since tracking began 13 years ago. Not all the week's 
+home front news was good, however. The commerce department announced 
+new home sales fell 4.4% in August, well below estimates, with sales 
+in the south hit particularly hard. And despite lower interest rates, 
+the construction boom appears to be flattening out. The commerce department 
+said this week, construction spending inched up 0.1% in August. The 
+same as in July, but far slower than June's pace. Even the positive 
+trend at the pump slid back a bit this week. The lundberg survey says 
+the average price of a gallon of gasoline rose more than a penny over 
+the past two weeks to nearly $1.09. still, gas prices for the year 
+are down about 25 cents a gallon. That's "business this week." David 
+Daniel, "Headline News." 
+</TEXT>
+</DOC>

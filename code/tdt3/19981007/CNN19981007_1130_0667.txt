@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0667 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the days top stories in two minutes, followed by the latest 
+numbers from Wall Street. And later -- a famous designer celebrates 
+30 years in fashion. 
+</TEXT>
+</DOC>

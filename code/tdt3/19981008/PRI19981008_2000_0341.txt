@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981008.2000.0341 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Frank Stachio, NPR News in Washington. This is THE WORLD. I'm 
+Tony Kahn. 
+</TEXT>
+</DOC>

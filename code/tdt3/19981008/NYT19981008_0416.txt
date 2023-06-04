@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981008.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A federal judge in Pennsylvania dealt a blow Thursday to Allied Signal 
+Inc.'s $9.7 billion hostile takeover bid for AMP Inc., ruling against 
+Allied's current effort to seek AMP shareholders' written consent 
+of its purchase offer. Allied said it would decide on Friday whether 
+to proceed with the takeover effort. In a mixed decision handed down 
+as the stock market closed Thursday, U.S. District Judge James Giles 
+called ``unlawful'' a plan by Allied Signal to have shareholders, 
+through written consent, amend the company's bylaws to gain control 
+from the board of directors over AMP's shareholder rights plan, which 
+includes an anti-takeover provision, or poison pill. The judge, who 
+sits in the Eastern District of Pennsylvania, in Philadelphia, in 
+a decision that largely favored AMP, also left intact the AMP board's 
+action earlier this year to amend the poison pill, significantly reducing 
+the percentage of shares an investor could buy before triggering the 
+pill and making it non-redeemable by any board of directors, until 
+Nov. 6, 1999. The action was taken after Allied announced its offer 
+to buy the company, as well as a tender offer to purchase up to an 
+18 percent stake in the company, and become AMP's largest shareholder. 
+But in a partial victory for Allied, the judge temporarily prevented 
+Allied's consent solicitation to expand AMP's board of directors until 
+Allied states unequivocally that ``its director nominees have a fiduciary 
+duty solely to AMP.'' Allied was seeking to expand and gain control 
+of AMP's 11-member board of directors by adding 17 new members _ 14 
+who sit on Allied's board and three Allied senior executives. It then 
+hoped to give shareholders control of the poison pill, and ultimately 
+rescind its non-redeemable clause. In a year that, before the stock 
+market's recent declines, produced the largest amount of mergers and 
+acquisitions in history _ most of them friendly _ Allied's hostile 
+bid for AMP, a leading maker of electrical connectors, based in Harrisburg, 
+Pa., has gained widespread attention. For one thing, Allied, a Morristown, 
+N.J., maker of aerospace and automotive products, is continuing to 
+pursue its cash offer for AMP despite Pennsylvania's reputation as 
+a haven for companies because of its tough anti-takeover laws. Despite 
+its recent financial struggles, AMP's perseverance is also noteworthy, 
+even as a number of Wall Street analysts and several shareholders 
+_ including members of the founding Hixon family _ have urged AMP 
+to consider the Allied offer. Investors' initial reaction to the news 
+was not positive. In after-hours trading, AMP's shares quickly fell 
+as much as 7.6 percent, to $35. Late Thursday, the stock was trading 
+at $37.50, down 37.5 cents. On the New York stock exchange, AMP closed 
+at $37.75, down 12.5 cents. Allied Signal's stock closed Thursday 
+at $34.50, down 18.75 cents. Several investors said Thursday that 
+the judge's decision to uphold the poison pill was largely expected, 
+given Pennsylvania's reputation as one of the toughest states in the 
+country for hostile corporate takeovers. Pennsylvania gives corporations 
+based there wide latitude in whether they want to entertain unsolicited 
+purchase offers. They also said they thought that Allied could still 
+proceed with its takeover offer. ``He's made it difficult for them 
+to proceed,'' said Morton Pierce, a partner and head of the mergers 
+and acquisitions practice at Dewey Ballantine, a Manhattan-based law 
+firm. ``Generally people put up independent directors so you avoid 
+conflicts of interest. In hindsight, they should have put up an independent 
+slate. They certainly could pursue it with an independent slate, but 
+they have to be willing to live with some delay.'' AMP officials said 
+they were happy with the court's decision. ``We are pleased that the 
+court has clearly recognized the conflicted nature of the Allied Signal 
+slate of nominees,'' the company said in a statement. During a television 
+interview, Allied's chief executive, Lawrence Bossidy, said he thought 
+Allied would be able to comply with the judge's request and continue 
+with its offer. Previously, Bossidy said that Allied would rescind 
+its offer if AMP's poison pill was upheld. An Allied spokesman said 
+that the company's lawyers were examining the judge's ruling and that 
+a decision would be announced by 9 a.m. Friday about whether it would 
+proceed with a tender offer to purchase up to 20 million shares of 
+AMP's outstanding common stock for $44.50 a share. As of late Tuesday, 
+investors owning more than 156.7 million, or 72 percent of the outstanding 
+shares, had tendered them to Allied, the company said. ``If we feel 
+that this is not a major obstacle to our consent solicitation, then 
+we'll go ahead,'' said Mark Greenberg, an Allied spokesman. But ``if 
+there's no way we can comply with the present slate'' of director 
+nominees, ``we may terminate the offer.'' It is unclear how the judge's 
+decision will affect legislation being considered by Pennsylvania 
+lawmakers concerning AMP. Late Tuesday, the Pennsylvania House of 
+Representatives passed legislation containing an amendment that would 
+allow Allied Signal to call a special meeting of AMP shareholders 
+to consider its $44.50 a share purchase offer. The legislation also 
+rescinded severance packages, known as golden parachutes, put in place 
+for a number of senior executives of AMP. AMP has sought to thwart 
+Allied's offer in order to allow company executives time to show investors 
+some results from a recently enacted profit-improvement plan. 
+</TEXT>
+</DOC>

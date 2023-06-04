@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981009.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times will say in an editorial on Saturday, Oct. 10: 
+The move by several big health maintenance organizations to end their 
+Medicare coverage in counties where they are losing money should come 
+as no surprise. In their headlong rush to capture part of the huge 
+Medicare market of 38 million Americans, many HMOs have made inaccurate 
+financial projections and now realize they cannot provide comprehensive 
+care at the cost they expected. Some 400,000 Medicare beneficiaries 
+whose insurers are therefore cutting them loose will now have to find 
+another HMO or go into the traditional fee-for-service Medicare program. 
+Managed care has now become a fact of life for more than 80 percent 
+of Americans covered by private insurance. But it is still quite new 
+in the government-funded Medicare world where only 17 percent of beneficiaries 
+are enrolled in HMOs and the rest are still in fee-for-service Medicare. 
+Industry shake-outs will probably continue as more of the Medicare 
+population moves into managed care. The prevailing theory among government 
+policy makers is that encouraging Medicare patients to enroll in managed-care 
+plans will save money in the long run. The 1997 Balanced Budget Act 
+greatly expanded the kinds of plans that could seek to enroll Medicare 
+beneficiaries in hopes that competition among private insurers would 
+attract more people into managed care. That shift is happening rapidly. 
+Virtually all the HMOs offer prescription drug benefits that traditional 
+Medicare does not cover. Most also charge enrollees much lower deductibles 
+and co-insurance costs than traditional Medicare does. These features 
+have been effective in drawing in the elderly, but they are also expensive. 
+Federal payments to HMOs do not take into account these new benefits. 
+Instead, the plans are paid a per-enrollee rate that differs from 
+county to county, based on past Medicare spending in each geographic 
+area. In counties where payment rates are high, HMOs have made hefty 
+profits. Where rates are lower, HMOs have a harder time. The decision 
+by Oxford Health Plans, United Healthcare Corp. and Aetna U.S. Healthcare, 
+among others, to pull out of some less profitable counties reflects 
+that business reality. Yet in the vast majority of counties where 
+some plans are leaving, other HMOs are staying and still others are 
+seeking entrance. Only about 10 percent of the Medicare beneficiaries 
+dropped by an HMO will be left with no managed-care option, an indication 
+that payment rates in most counties are sufficient. President Clinton 
+has urged expedited handling of applications by health plans to enter 
+counties without HMO options. Federal law already gives people dropped 
+from a Medicare HMO the right to buy private insurance to fill gaps 
+in traditional Medicare without regard to their health condition. 
+Clinton is also directing the Department of Health and Human Services 
+to come up with legislation to prevent this kind of insurance turmoil 
+in the future. That will be difficult. Medicare enrollees want added 
+benefits like drug coverage, but some health plans say they cannot 
+offer those benefits without higher payments from the government or 
+the enrollees themselves. For the time being, there is apparently 
+enough slack in the system to pay for the added benefits without substantially 
+raising government payments. The question is how long that slack will 
+last, even under managed care. 
+</TEXT>
+</DOC>

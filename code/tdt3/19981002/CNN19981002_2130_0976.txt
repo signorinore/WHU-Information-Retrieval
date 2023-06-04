@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981002.2130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street ended a troubled week with a rally today. After falling 
+448 points in the last two days, the Dow Jones industrials finished 
+up 152 to close at 7784. For the week, the Dow was down 244 points. 
+</TEXT>
+</DOC>

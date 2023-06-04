@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981009.0429 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Doctors in New York have become the first to try to make an infertile 
+woman pregnant by plucking the genes out of one of her eggs and inserting 
+them into a younger woman's egg that has had its own genes removed. 
+The resulting hybrid egg is then fertilized and placed into the older 
+woman's womb. It is not known whether anyone treated with the technique 
+has become pregnant. Although the new technique has been described 
+by its developer, Dr. James Grifo of New York University, as an effort 
+to help women with longstanding infertility, other scientists have 
+called it a step toward human cloning and said it raises troubling 
+ethical and medical questions. Grifo declined to be interviewed. Lynn 
+O'Dell, a spokeswoman for New York University, said the technique 
+was intended to help older women, particularly those for whom in vitro 
+fertilization had failed, to give birth to children who are their 
+own genetic offspring. Currently, the only way some of those women 
+can become pregnant is to use an egg donated by another woman. Grifo 
+reported at a medical conference on Thursday that he and his colleagues 
+had tried the new technique in just two patients so far. The first 
+woman, 47 years old, did not become pregnant, and the second, age 
+44, underwent the procedure only last week and has not yet had a pregnancy 
+test. The technique is based on the theory that many older women are 
+infertile not because of problems with the DNA in their eggs but because 
+of the age of the cytoplasm, which contains cell structures, chemicals 
+and nutrients needed to support the egg's growth and development. 
+Dr. Keith Latham, a developmental biologist at Temple University in 
+Philadelphia, said Grifo's technique might have unforeseen risks. 
+Combining the cytoplasm of one woman's egg with another woman's genes 
+could cause problems, Latham said. Cytoplasm plays an important role 
+in programming the expression of genes from both the sperm and the 
+egg, he explained. In this case, the maternal genes will have been 
+programmed by the older mother's cytoplasm, but then they and the 
+sperm will be acted on by the younger woman's cytoplasm. The different 
+sets of instructions might conflict, he said. He noted that similar 
+experiments in mice had resulted in abnormalities that were passed 
+on to succeeding generations. ``You're creating something here that 
+never exists in nature,'' he said. ``It's an admirable objective to 
+help infertile couples have children, but in this case, the application 
+is going way ahead of knowledge of the scientific or biological consequences. 
+We have no idea what the potential is for birth defects, or problems 
+in children in the next generation. It amounts to experimentation 
+on humans.'' Dr. Lee Silver, a molecular biologist at Princeton University, 
+said: ``What's most fantastic is that this is exactly the technology 
+used for cloning. It's nuclear transfer, exactly what you would do 
+in cloning, except in cloning you would be transferring an adult cell.'' 
+The technique, Silver said, is just ``the first step along the way'' 
+to human cloning. The technique also has philosophical implications, 
+he said, because any children from it will carry some genetic material 
+that came from the woman who donated the egg. That is because eggs 
+contain structures called mitochondria, which are important in cell 
+metabolism and also carry genetic material. ``Girls will pass on this 
+foreign mitochondrial DNA to all their children, and so on,'' Silver 
+said. ``These will be the first germ-line genetically engineered children.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981003.1830.1715 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We have late word on a story from our program that cancer surgery 
+today of Darryl Strawberry. The news is hopeful. The doctors say the 
+tumor they removed from his colon measured about six cent meters. 
+There is no evidence that the cancer has spread. A decision on chemotherapy 
+will come later. The initial indications are that the cancer surgery 
+on Darryl Strawberry was a success. 
+</TEXT>
+</DOC>

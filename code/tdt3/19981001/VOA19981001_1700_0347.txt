@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981001.1700.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is "VOA News Now" coming to you from Washington. I'm Tom Crosby 
+with Susan Yackie. 
+</TEXT>
+</DOC>

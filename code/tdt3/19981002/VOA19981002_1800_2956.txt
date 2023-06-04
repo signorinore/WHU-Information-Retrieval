@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981002.1800.2956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+nanobacteria. These are very, very tiny microorganisms that are just 
+a fraction of the size of normal bacteria. The researchers found nano 
+bacteria in 30 kidney stones isolated from patients. It seems the 
+tiny organisms grow a calcium-rich shell. The Finnish researchers 
+think that calcium salts from the body might layer themselves atop 
+the nano bacterial shells, forming the stones that can be so painful. 
+If this is true, antibiotics might prevent the stones from returning 
+after treatment. 
+</TEXT>
+</DOC>

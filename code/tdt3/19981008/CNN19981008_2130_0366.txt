@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The centers for disease control and prevention says smoking rates 
+among teens rose dramatically over the last decade. A study shows 
+the number of adolescents who became daily smokers before they turned 
+18 went up 73%. It says, every day, an average of 6,000 adolescents 
+try their first cigarette. And, in all, at least 4.5 million kids 
+aged 12 to 17 are smokers. Researchers are again recommending an increase 
+in tobacco prices and limiting youngsters' access to them to combat 
+the problem. 
+</TEXT>
+</DOC>

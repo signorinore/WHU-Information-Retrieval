@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981008.1130.1063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A grim announcement from the newest stock added to the blue-chip Dow 
+industrials. Citigroup, formed by the merger of Citicorp and travelers 
+group, is down -- the financial powerhouse warned investors that its 
+latest quarterly profits would plummet by more than 50%. Citigroup 
+blames the plunge on trading losses in emerging countries and bond 
+markets around the world. 
+</TEXT>
+</DOC>

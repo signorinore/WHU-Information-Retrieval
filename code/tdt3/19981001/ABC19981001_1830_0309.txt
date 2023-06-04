@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mortgage rates went down again. It's directly related to the federal 
+reserve lowering interest rates this week. The average for a 30-year 
+fixed rate mortgage has now dropped to 6.6%. however, there were other 
+signs today, the economy is slowing down overall, construction spending 
+up just a tenth of a percent in August. There is less manufacturing 
+going on. The purchasing manager's index was unchanged at 49.4% in 
+September, anything below 50% pretty much indicates a drop in manufacturing 
+activity. 
+</TEXT>
+</DOC>

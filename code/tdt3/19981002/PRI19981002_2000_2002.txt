@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981002.2000.2002 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to THE world. This is THE WORLD, a co-production 
+of the BBC World Service, PRI, and WBGH in Boston. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

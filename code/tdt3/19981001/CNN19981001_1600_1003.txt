@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981001.1600.1003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal reserve chairman Alan Greenspan was on Capitol Hill today 
+testifying before the house banking committee about last week's near 
+collapse of long-term capital management a Connecticut-based hedge 
+fund. Greenspan said fed officials helped arrange the bailout in order 
+to avert the possibility of global disruption. But some members of 
+the committee weren't buying his explanations. Committee members were 
+looking into how the fund was able to borrow so much money from banks 
+and who is watching similar funds to prevent future problems. 
+</TEXT>
+</DOC>

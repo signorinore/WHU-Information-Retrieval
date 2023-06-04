@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the white house is asking the supreme court to hear an appeal over 
+attorney/client privilege in the monica lewinksy case. a lower court 
+ruled the president's conversations with government attorneys are 
+not protected. the white house now claims independent counsel ken 
+starr misled the lower court when he argued that impeachment was too 
+remote a possibility to consider as the court reviewed white house 
+arguments on the use of attorney/client privilege. 
+</TEXT>
+</DOC>

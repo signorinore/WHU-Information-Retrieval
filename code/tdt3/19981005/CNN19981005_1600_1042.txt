@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981005.1600.1042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An order of fries at Boston chicken today costs more than one share 
+of the company's stock. The restaurant chain that built its reputation 
+on rotisserie chicken has filed for chapter 11 bankruptcy protection. 
+Boston chicken says it has closed 178 of its more than 1,100 restaurants. 
+Shares of Boston chicken closed today at 50 cents a share. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981003.0130.1363 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, Fred funk shot a second-round 5-under 67 and has a three-stroke 
+lead at the Buick challenge. Duane Walker, "Headline Sports." 
+</TEXT>
+</DOC>

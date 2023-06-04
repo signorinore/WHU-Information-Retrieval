@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981005.1830.0555 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here are some of the other items today. Boston chicken filed for chapter 
+11 bankruptcy protection. 178 market restaurants are going to close. 
+</TEXT>
+</DOC>

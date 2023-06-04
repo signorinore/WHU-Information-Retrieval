@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981008.2000.0231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow closed ten points lower at 7731. You're listening to NPR News. 
+</TEXT>
+</DOC>

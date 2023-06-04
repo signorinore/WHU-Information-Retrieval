@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1138 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street, the Dow finished up 167 points. The NASDAQ 
+gaining 74. That's "Dollars & Sense." Thanks, bev. We'll check back 
+later. 
+</TEXT>
+</DOC>

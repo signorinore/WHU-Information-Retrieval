@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981002.1800.0354 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stock prices -- higher. The Dow Industrials at the close today 
+up 152 points. I'm Dave DeForest, VOA News. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+fewer jobs are being created and unemployment is rising slightly. 
+all evidence that the economy may be slowing. the nation's unemployment 
+rate edged up to 4.6% last month. economists had expected the rate 
+to hold steady at 4.5%. meanwhile, the number of nonfarm jobs created 
+rose just 69,000. it's a much weaker employment report than was expected. 
+over the last three months, job growth is at the weakest pace in three 
+years, and what it indicates is that the global crisis is hitting 
+home. the u.s. economy is slowing down. the inflation-sensitive bond 
+market likes to hear the economy is not overheating. 
+</TEXT>
+</DOC>

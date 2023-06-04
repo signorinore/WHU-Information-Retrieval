@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0910 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Democratic congressional leaders are meeting this afternoon to discuss 
+an alternative proposal to the impeachment investigation of President 
+Clinton. The house Judiciary committee could vote Monday on how to 
+proceed. 
+</TEXT>
+</DOC>

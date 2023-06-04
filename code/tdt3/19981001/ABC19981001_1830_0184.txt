@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0184 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is something else making investors nervous today. Hedge funds. 
+These are pools of money used by a small group of wealthy investors 
+to speculate in the market in sometimes risky ways. Last week big 
+news was made when the New York federal reserve bank got brokerage 
+houses involved in rescuing a hedge fund. It was in desperate need 
+of a $3.6 billion bailout. Which raises this question -- how could 
+such a small group of investors threaten the world's financial markets? 
+Here's ABC's Barry Serafin. "hedge funds, a phrase not even in most 
+Americans' vocabulary a week ago have now become a new worry in already 
+jittery financial markets. Here's why -- banks are major lenders to 
+hedge funds. Pumping billions of dollars into speculative investments 
+here and around the world. The mere collapse of a long-term capital 
+fund and rumors that other such fund could be in trouble, have sent 
+shivers through the market. Already this week, chase Manhattan and 
+bankers trust have both felt compelled to offer public assurances 
+of their stability despite big loans to hedge funds. Federal reserve 
+chairman Alan Greenspan said today that if long-term capital management 
+had been allowed to collapse, it could have created a domino effect 
+in already-volatile world markets. Substantial damage could have been 
+inflicted on many market participants and could have potentially impaired 
+the economies of many nations, including our own. There are believed 
+to be as many as 4,000 hedge funds, all of them set up to attract 
+wealthy investors, all of them unregulated. Greenspan said today that 
+they should stay unregulated. That trying to restrict them would just 
+prompt them to move overseas. No one is suggesting that major banks 
+will go under because of this, but hedge funds have become one more 
+reason to make investors nervous. Barry Serafin, ABC News, Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981005.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Secretary-General Kofi Annan told the Security Council on Monday that 
+most recent atrocities in Kosovo had been committed by Yugoslav forces 
+but said he didn't have the means to verify Slobodan Milosevic's compliance 
+with U.N. resolutions demanding a cease-fire. 
+</TEXT>
+</DOC>

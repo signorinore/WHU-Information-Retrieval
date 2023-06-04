@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981007.0130.1093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chips started Tuesday with a bang but fizzled. The Dow Jones 
+industrial average was up more than 150 points but ended the session 
+up just 16 points, to close at 7742. Broader markets ended the day 
+lower. 
+</TEXT>
+</DOC>

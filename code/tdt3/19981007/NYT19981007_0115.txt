@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981007.0115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In June 1982, the IBM personal computer, only a few months on the 
+market, offered a maximum of 256 kilobytes of memory, a choice of 
+one or two floppy disk drives and an optional color monitor. Fully 
+configured, it cost close to $7,000. Most buyers took the standard 
+features _ a single floppy, a green-and-white monitor and 64 kilobytes 
+of memory _ which kept the price under $4,000. A hard drive was not 
+an option, but the entire operating system, which IBM had purchased 
+from a 32-person company called Microsoft, fit easily on one 128-K 
+floppy disk with room to spare. That PC was not a technological marvel 
+even by the standards of its day, but it carried the three-letter 
+monogram of the International Business Machines Corp., which elevated 
+the perception of the personal computer to the level of a serious 
+business tool in board rooms around the world. While the corporate 
+world focused on the IBM PC, another market for the computer was being 
+built around sales to a growing number of consumers who wanted computers 
+in their homes for work and play. That trend was reflected in a new 
+column called Personal Computing, which made its debut in Science 
+Times on June 22, 1982. Aimed not at business users of the new IBM 
+but at what it described as the ``home computer market,'' the column's 
+first headline offered, ``How Much Memory to Buy.'' ``The memory range 
+available in the home computer market now goes all the way from 8 
+to 128K,'' the columnist, Erik Sandberg-Diment, wrote. The computers 
+from which to choose in this range, he said, were ``the Apple II+ 
+(selling for under $2,000), the Commodore 64 ($595), Radio Shack's 
+TRS-80, Model II ($5,048) or the Osborne ($1,795).'' One measure of 
+how much about personal computers has changed in the last 16 years 
+is the fact that of the computer manufacturers represented in his 
+list, only Apple is still an industry leader. But as Sandberg-Diment 
+wrote his first column, the seeds of far more significant changes 
+had been sown that would eventually blur the line between business 
+and home computers, making the PC truly personal. Among the most important 
+developments were these: _ In Texas, the concept for a computer that 
+used the same hardware and operating system as the IBM personal computer 
+_ but that would sell for about half the price _ was sketched on a 
+paper napkin as three Texas Instruments engineers had lunch. That 
+sketch was realized in the first IBM ``clone,'' a computer that looked 
+like a portable sewing machine and went by the name Compaq but ran 
+any program made for the IBM. The Compaq eventually surpassed IBM's 
+share of the market and became the world's largest manufacturer of 
+personal computers. _ In California, Steven Jobs, chief executive 
+of Apple Computer, was rushing to adopt two revolutionary concepts 
+he had come across in a recent visit to the Xerox Corp.'s Palo Alto 
+Research Center _ a pointing device called a mouse and an operating 
+system built around a ``graphical user interface.'' Both technologies 
+became the foundation of a new relationship between people and machines 
+with the introduction of the Macintosh, in January 1984. _ In Washington 
+State, William Gates and Paul Allen, owners of the company that one 
+year earlier had licensed a second-hand operating system to IBM, were 
+planning new features for MS-DOS and new programs to run on it. Their 
+efforts eventually gave Microsoft _ and, significantly, not IBM _ 
+the power to dictate the direction of the world's fastest-growing 
+industry. _ Throughout the United States, a decentralized network 
+designed to enable academic and military researchers to share ideas 
+and text was rapidly connecting more and more campuses and laboratories. 
+It used the technology that evolved into the Internet and transformed 
+the personal computer into a window on a vast new frontier, cyberspace. 
+Yet, despite all that was about to change about the personal computer, 
+Sandberg-Diment's first column offered consumers a couple of remarkably 
+prescient observations that are as valid today as they were in the 
+summer of '82. ``Understanding the concepts involved,'' he wrote of 
+the personal computer, ``should be among the very first chores anyone 
+attempting to buy one masters. But it isn't easy, and it requires 
+a certain amount of concentration and a willingness to forgive jargon.'' 
+A few paragraphs later, he noted that ``once you get started you will 
+always yearn for as much memory as you can possibly have, and there 
+will always be models with more memory than you've got because bigger 
+and more sophisticated programs requiring ever larger quantities of 
+memory are always on the way.'' Indeed, buying a computer is still 
+a process of trying to understand the value of imponderables like 
+DVD, PCI, USB and a 100 megahertz bus. Once we have sifted through 
+all the jargon, the bottom line is that Windows 98 will not run properly 
+with less than 32 megabytes of memory, and any serious user will install 
+twice that much _ or 500 times the memory of the most powerful machines 
+described in that first Personal Computers column. And, yes, users 
+could still use just a little more. After all, the machines people 
+buy today can handle up to 384 megabytes of memory, which is 1,500 
+times the maximum of the original IBM personal computer. The current 
+standard size of the hard drive on a new computer is about 6 gigabytes, 
+almost 47,000 times the size of its original floppy drive. Yet, in 
+some ways, what has changed most about the personal computer is the 
+number of people who use one. In 1982, computers had found their way 
+into fewer than 2 percent of all households in the United States. 
+Today, more than 40 percent of all homes have at least one computer, 
+and by some estimates two or more computers are at work in almost 
+12 percent of households. And those are just the machines that we 
+think of as computers _ contraptions that have display screens and 
+keyboards and disk drives and modems. In truth, the computer is invisibly 
+ubiquitous; its processing power controls hundreds of gadgets in our 
+lives, from our cars to our telephones and stereos. In fact, as dozens 
+of new computer-powered devices are unveiled, it is becoming almost 
+impossible to distinguish what is a computer from what is not. NYT-10-05-98 
+1715EDT 
+</TEXT>
+</DOC>

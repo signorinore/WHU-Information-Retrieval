@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0964 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- the House of Representatives has voted 
+to launch a formal impeachment inquiry of President Clinton. 31 democrats 
+joined the republican majority. It will be the first such inquiry 
+since 1974. 
+</TEXT>
+</DOC>

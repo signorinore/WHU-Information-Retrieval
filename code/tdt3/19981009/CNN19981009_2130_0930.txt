@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Congress is working to approve a temporary 
+spending Bill that would prevent a government shutdown. A measure 
+that's been in place since October 1st expires at midnight. 
+</TEXT>
+</DOC>

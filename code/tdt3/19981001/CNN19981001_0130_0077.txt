@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0077 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists say they've found another genetic flaw that may raise the 
+risk of obesity. The defective Gene is involved in the production 
+of fat cells. The scientists studied 358 volunteers. 121 were overweight 
+and four of them had the defective Gene. Scientists say they believe 
+it increases growth in fat cells. The study appears in this week's 
+"New England journal of medicine." 
+</TEXT>
+</DOC>

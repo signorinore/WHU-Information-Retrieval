@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981005.1130.1040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boston chicken has filed for chapter 11 bankruptcy protection. The 
+fast-food chain is closing 178 stores, or 16% of its nearly 1,150 
+restaurants. The company, based in Colorado, says it has received 
+a commitment from a group of lenders to help it continue operations. 
+Meanwhile, 18,000 employees will be transferred. That's nearly all 
+the workers from the closed stores. 
+</TEXT>
+</DOC>

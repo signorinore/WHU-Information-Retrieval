@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981002.1600.1101 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+that's "dollars & sense." that in itself is a pacifier. "headline 
+sports" is next. an update on the baseball action. windows makes computers 
+easier, right ? but this point and click thing doesn't quite work 
+if you can't see the screen. so we built a technology that makes computers 
+easier for the blind. we first have to throw away the mouse. Good 
+morning. then, we make a computer talk to you. if you make a computer 
+easy to use by someone who's disabled, you learn how to make computers 
+easy for everyone. jerome jurenovich, "headline sports." 
+</TEXT>
+</DOC>

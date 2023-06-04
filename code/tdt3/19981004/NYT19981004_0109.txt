@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981004.0109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Of all the unknowns about the Internet, the greatest questions may 
+revolve around whether or not it will ever become a reliable money 
+maker. Granted, some companies do earn money through World Wide Web 
+sites, but for the majority the promise of e-commerce with vast new 
+markets, customers and profits remains unfulfilled. That does not 
+daunt those who believe that with customized information delivery 
+and targeted advertising, someday the Internet will become the most 
+lucrative way to sell goods and services. They picture a world in 
+which customers will leave traces of information about their habits, 
+preferences, spending patterns, economic needs and personal status 
+every time they use a computer. The information will be sorted into 
+databases and used to fashion Web sites, promotional campaigns, advertisements 
+and even junk mail that is tailored specifically to each user. Certainly 
+such visions raise concerns about privacy. Without tackling those 
+issues, however, many companies are at work on the software and hardware 
+needed to make culling the information and setting up the databases 
+a reality. One company, Thinking Media Corp. of New York, has a new 
+patent for a method of tracking how people respond to Internet advertisements 
+and commercial Web sites. The company says that its approach is singular 
+because rather than count the number of ads or Web-site pages sent 
+out by Internet server computers, it counts the sites or ads actually 
+received by the browser software on individual computers. Many Web 
+sites earn money by selling advertising space. They carry banner ads 
+in the manner of city buses adorned with placards for jeans, new movies 
+and fast-food restaurants. Surely people see those ads as the bus 
+passes, but do they pay attention to them? Do they buy the jeans? 
+By the same token, advertisers wonder whether an ad on a Web site 
+catches anyone's eye. How many people actually follow it up? There 
+are a variety of ways for advertisers to track how many ``hits,'' 
+or clicks of a mouse, a particular ad icon or Web site receives. Data 
+can be collected from central servers, or from the individual sites 
+that display the ads. But Owen Davis, the managing director and a 
+founder of Thinking Media, says the vagaries of how Internet servers 
+provide access to computer users mean those methods undercount how 
+many ads actually reach people as they sit at their terminals. That's 
+because the Internet was created as a series of independent computer 
+networks that would not be subject to total failure if one or more 
+sections went down. But that makes it difficult to track the movement 
+of information between browsers and servers that act independently 
+and do not communicate. ``What we've done is insert a very small homing 
+beacon that goes along with an ad or a Web page,'' Davis explained. 
+``It's a piece of Java, a Java applet.'' Vid Jain, the company's chief 
+creative officer, explained, ``The patent covers the idea of embedding 
+a little smart piece of software with something sent out, whether 
+it's a Web page, an ad or other resource, so when it gets to your 
+machine it gets `live,' and sends back information.'' Part of that 
+information, Davis said, is ``how much time the client spent on the 
+Web site; once the Web site is loaded, it starts a timer and it runs.'' 
+Thus, when someone uses a browser to call up a Web site, the software 
+enables Davis' company to follow that page as it leaves the server 
+and heads for its destination. The patent also eliminates a problem 
+created by the process known as caching. That refers to the time-saving 
+mechanism under which a person loads a page from a server one time. 
+After that, the page is stored on his or her PC hard drive, creating 
+a temporary backlog of recent documents. This cache means the server 
+does not continually have to send items the user has recently requested. 
+``In terms of keeping track and counting on the server side, if you 
+look at a page twice or more but the server has only sent it once, 
+then there's no way to keep track,'' Davis pointed out. With his company's 
+software, ``every time the page comes up and a person looks at it, 
+it sends back a message that it's live, that the page is live.'' Thinking 
+Media's software uses so-called cookie files that identify individual 
+computers and Internet protocols, or Web site addresses, ``as a way 
+to mark someone,'' Davis said. ``We don't know the person, but we 
+know their machine,'' he added. ``We can look at the time they spend, 
+the cached ads, we can look at the cookie and the IP, and we can collect 
+environmental variables like the browser type and the kind of operating 
+system they're on. ``The value of the cookie and IP identifiers as 
+we build a profile is that we can know that someone has seen an ad 
+twice, so we can take them off the list and swap the ad for another 
+one,'' Davis explained. ``Now we have real control over the reach 
+and frequency, and over ads and Web pages.'' The patented software 
+tracks how people use commercial Web sites as well. ``As someone moves 
+through an ad and makes use of different `decision trees,' it allows 
+us to keep track of that as well,'' he said. ``Say Barnes &AMP; Noble 
+has live chats with famous authors online. As part of their promotional 
+feature, they put up six book covers. You click on one, see a page 
+of the book, and say `enroll me in that,' and 24 hours before the 
+event Barnes &AMP; Noble sends an e-mail that says `Don't forget.' 
+``But it's also interesting to Barnes &AMP; Noble to know that you 
+looked at three other books but didn't enroll in the chats,'' he continued. 
+``Imagine that you are Coca-Cola and you put a game inside an ad. 
+There's nothing to sign up for, but somebody might play the game for 
+three minutes. That's incredibly important information because they 
+had your undivided attention for three minutes and they need to know 
+that.'' He added, ``Where an ad has some depth and requires people 
+to move through it, we can capture the time spent'' as well as other 
+statistics about use. Thinking Media's software is already in use 
+at companies like the Conde Nast unit of Advance Publications, American 
+Express, Procter &AMP; Gamble and IBM, Davis said. He and Jain received 
+patent 5,769,952. Patents are available by number for $3 from the 
+Patent and Trademark Office, Washington, D.C. 20231. 
+</TEXT>
+</DOC>

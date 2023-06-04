@@ -1,0 +1,94 @@
+<DOC>
+<DOCNO> NYT19981008.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The battering of the financial markets left few money managers unscathed 
+in the third quarter. Just ask the ones whose hypothetical retirement 
+portfolios have been tracked by The New York Times for the last five 
+years. All five managers lost money, and they clearly were not alone: 
+Only 150 of the 6,616 stock funds followed by Lipper Analytical Services, 
+in Summit, N.J., had positive returns for the three months; on average, 
+stock funds lost 14.82 percent. (Bond funds fared much better, with 
+domestic long-term bond funds returning an average of 1.36 percent 
+through Sept. 30, Lipper said. But fund portfolios for long-term goals 
+like retirement are generally built on equities, which historically 
+have returned more over time than bonds.) For the five managers, the 
+losses ranged from 9.86 percent for the ``socially responsible'' portfolio 
+built by Jack A. Brill, a San Diego investment adviser, to 15.91 percent 
+for Sheldon Jacobs, who edits The No-Load Fund Investor in Irvington, 
+N.Y. Still, Jacobs remains in first place over all, with a cumulative 
+return of 92.91 percent from July 7, 1993, when the contest began. 
+(Brill is closing in, however, with a cumulative gain of 89.66 percent.) 
+In the third quarter, Brill was helped by his small holdings in bonds 
+_ in the Vanguard GNMA fund, up nearly 3 percent, and Pax World, which 
+lost just over 2 percent. But that doesn't stop him from keeping a 
+stock-heavy portfolio. ``I still continue to think that over the long-term 
+a retirement portfolio should have an asset allocation of 85 percent 
+stocks and 15 percent bonds,'' he said, even though he does not expect 
+market volatility to end soon. ``The market is still in for a very 
+rough time over the next three to six months,'' he said. ``It will 
+probably continue these up-and-down bounces and generally move without 
+much upward direction.'' He is making just one change, adding Bridgeway 
+Social Responsibility, a three-year-old large-cap blend fund that 
+has outperformed the Standard &AMP; Poor's 500-stock index over the 
+last year, and dropping Delaware Social Awareness, which returned 
+just 2.9 percent in the last year and was down nearly 16 percent in 
+the third quarter. The rough quarter provided a vindication of sorts 
+for Harold Evensky, an investment adviser in Coral Gables, Fla. Evensky 
+lagged behind the other advisers in the last quarter because his portfolio 
+was not as concentrated as the others in large domestic stocks, the 
+best performers until recently. With the collapse of those stocks 
+in the third quarter, his portfolio took second place, despite its 
+loss of 12.71 percent. ``Hallelujah! The benefit of diversification 
+is finally showing its sweet little head,'' Evensky said. ``Not much, 
+but it's a start.'' He is making no changes in his portfolio. One 
+of his holdings, Barr Rosenberg Market Neutral, rose 1.8 percent. 
+It was among just 3 of the 43 funds held by the advisers that made 
+money in the quarter. (The other two were bond funds.) The fund aims 
+to neutralize market volatility through a mix of long and short sales. 
+In the long run, the five hypothetical portfolios continued to lag 
+behind the popular Vanguard Index Trust 500, a portfolio designed 
+to mimic the performance of the Standard &AMP; Poor's 500-stock index. 
+The Index 500 has returned 157.2 percent since the contest began, 
+compared with an average of just over 79 percent for the five advisers. 
+And only Brill beat the Index 500 in the quarter; his loss of 9.86 
+percent was slightly better than its decline of 9.9 percent. The performance 
+of the five portfolios is tracked each quarter by Lipper Analytical. 
+It excludes sales charges, transaction costs and taxes because most 
+retirement money is held in tax-deferred accounts. The five managers 
+can choose any fund open to new investors. From the outset, they were 
+asked to pick portfolios that would grow for 20 years. Susan Dziubinski, 
+editor of Morningstar Fund Investor, finished in third place for the 
+quarter, with a loss of 15.55 percent. Her heavy portfolio holdings 
+in value stocks, which tend to hold up better during market corrections, 
+did not protect her during the third quarter, when the stocks with 
+the highest price-to-earnings ratios were not necessarily hurt the 
+most. Value funds, particularly the smaller ones, were hard-hit. So 
+she is adding a growth fund _ T. Rowe Price Mid-Cap Growth _ to offset 
+her portfolio's value bias. The manager of the fund ``likes growth,'' 
+she said, ``but he won't pay ridiculous prices for it.'' To add that 
+fund, Ms. Dziubinski is shaving her holdings in Third Avenue Value 
+Small Cap and Ivy International. Eric M. Kobren, president of the 
+Kobren Insight Group in Wellesley, Mass., who finished fourth in the 
+quarter, uses only Fidelity funds in his portfolio. He is concerned, 
+he said, about a slowing economy and increasing volatility in the 
+stock market. As a result, he is doubling his position in a bond fund, 
+Fidelity Spartan Government Income, to 20 percent of the portfolio. 
+He is reducing his positions in Fidelity International Value and Fidelity 
+Capital Appreciation. In last place for the quarter, Jacobs is making 
+several changes to his portfolio. He is dropping the Mutual Discovery 
+fund for several reasons: poor performance (it lost more than 19 percent 
+in the quarter); the announcement by the manager, Michael Price, that 
+he was leaving, and the fund's doubling in size over the last two 
+years. Jacobs is also dropping Hotchkis &AMP; Wiley Small Cap, which 
+lost nearly 27 percent in the quarter. ``I think small caps will continue 
+to lag large caps the balance of the year because there will be greater 
+tax-loss selling among small caps,'' he said. He is adding to his 
+positions in Marsico Focus, bringing it to 15 percent, from 10 percent, 
+and Vanguard Total Stock Market, to 35 percent from 32.5 percent. 
+And he is creating a 12.5 percent position in the Vanguard Index Trust 
+500. ``This gives my portfolio increased representation in the large-cap 
+area,'' he said. 
+</TEXT>
+</DOC>

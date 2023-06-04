@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0107 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the world economic situation continues to take a toll on u.s. financial 
+markets. the dow jones industrial average was down 230 points, but 
+rebounded to a 58-point loss and closed at 7726. bond prices saw the 
+biggest gains of the year as investors fled stocks for the security 
+of treasuries. we'll have more on the markets at 46 past in consumer 
+news. 
+</TEXT>
+</DOC>

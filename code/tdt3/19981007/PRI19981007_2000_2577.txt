@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> PRI19981007.2000.2577 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+An unsettling example of technology out pacing government can be found 
+on the Internet. There, any child with access to the World Wide Web 
+can open the door to pornography. Today, the House of Representatives 
+is expected to vote on the Child Online Protection Act designed to 
+keep kids away from cyber porn. The bill would require commercial 
+Web sites to restrict access to material deemed harmful to minors 
+by asking for a credit card or other proof of age. Todd Lapen, associate 
+editor of "Wired" magazine says the drafters of the bill took advantage 
+of a legal precedent. The current legislation adapts a Supreme Court 
+decision which originally applied to your phone sex services which 
+said that if you require the use of a credit card for commercial service, 
+then you basically de facto imposing an age verification system because 
+not many minors have credit cards. And that's basically what this 
+legislation does. It requires the use of a credit card to verify age. 
+Now the problem with this is for most people, pornography sites are 
+the very last people they want to give their credit cards to. These 
+sites have a terrible reputation for protecting a user's privacy, 
+for allowing them to get their credit card number out of these sites, 
+databases. It's just a very insecure system. And the current legislation 
+doesn't really seem to do much to protect privacy. And basically, 
+it seems to be a really bad idea that people should be using their 
+credit cards as some sort of age verification system. Well, presumably 
+also, there would be access to the material without using your credit 
+card anyway, right? This isn't going to stop the dissemination by 
+any means of the material. It certainly won't. It will have a chilling 
+effect on the dissemination of that material within the United States. 
+That's without a doubt. But every Internet surfer knows that really 
+international boundaries are invisible when you're using the Internet. 
+And they won't do anything to stop any sort of material coming from 
+other countries all around the world: Japan, the Netherlands, Germany, 
+wherever. But what about just simply holding the people responsible 
+for whatever ends up somebody's computer who is the supplier of the 
+access to the Internet? In other words, the Internet service providers. 
+Is the thinking basically that if you can hold them responsible, then 
+they'll have to take care of the problem, police it, however they 
+can? That approach hasn't been very popular in the United States, 
+and quite frankly, I don't think that it should be. I don't think 
+it's a very wise way to go. In the same way we don't really ask our 
+telephone companies in the United States to be in the business of 
+patrolling what people say. I don't think we should be having Internet 
+providers doing the same thing. A lot of these are very small businesses. 
+People are literally running them out of their garage. They're just 
+not equipped nor would they be able to bear the expense of actually 
+monitoring what people do. But on the other hand, that approach has 
+caught on in other countries. It's taken place to a certain extent 
+in Germany. That's the tact they take where they sort have said, "Look, 
+if you're in the Internet business, it's your job to make sure that 
+some materials just do not get through." And they've shown themselves 
+to be quite serious about it by, for example, charging a senior executive 
+with Compuserve in Germany, the Compuserve online service with trafficking 
+in banned material. Can you think of any other countries that are 
+successful, relatively speaking as Germany has been in wrestling with 
+this problem? There are lots of countries that are trying in various 
+ways. China has been affected to a certain extent because what they 
+have done is basically impose an incredible amount of responsibility 
+on individual Internet users, and the fines are quite severe, and 
+the kind of registration procedures you have to go through are quite 
+serious. So it has the effect of making people understand that they 
+are certainly being watched. In Ressa, what's happened is the heirs 
+to the KGB, the FSB, the new federal security service has actually 
+imposed a lot of surveillance requirements requiring that almost all 
+Internet traffic and Web site traffic be logged and cataloged and 
+made available to the internal police on demand. Now that idea is 
+in the proposal stage right now, but it's had a very chilling effect 
+on the Internet and Ressa, because people know that the police are 
+listening. Well, very quickly then before we log out on your subject 
+all together, Todd, is there a feeling that really the whole world 
+itself will have to end up in some way sharing the same ethical system 
+the way it seems to be wrestling whether you're sharing the same cultural 
+kind of system? Well, that's actually the huge question. It doesn't 
+just affect speech regulation. It affects everything from taxation 
+to privacy to, you know, just the whole gamut of issues that come 
+up when you talk about the concept of Internet governances, the fact 
+that the Internet -- All of our systems of government that we rely 
+on right now are basically rooted very heavily in concepts of physical 
+territory and physical jurisdiction. Obviously the Internet kind of 
+makes all of that irrelevant. So the kinds of struggles that we're 
+seeing here with speech regulation are only really the beginning. 
+Todd Lapen is an associate editor of "Wired" magazine, which covers 
+online issues in the world of technology. Thanks, Todd. My pleasure. 
+</TEXT>
+</DOC>

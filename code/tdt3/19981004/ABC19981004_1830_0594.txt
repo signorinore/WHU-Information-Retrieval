@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981004.1830.0594 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many economists breathed a Sigh of relief today after the presidential 
+election in Brazil. Exit polls show President Fernando cordosa was 
+re-elected in a landslide. This week the international monetary fund 
+is expected to give Brazil a $30 billion bailout loan. 
+</TEXT>
+</DOC>

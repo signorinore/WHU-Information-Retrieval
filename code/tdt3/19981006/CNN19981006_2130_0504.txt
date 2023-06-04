@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." A cold front will move across the Great Lakes, 
+the Mississippi and Tennessee river valleys and the gulf of Mexico. 
+Showers and thunderstorms can be numerous Wednesday stretching from 
+saginaw, Michigan southward to mobile, Alabama. Look for a Ridge of 
+high pressure to build into the southern plains and across portions 
+of the Rockies, but a new cold front will move into the pacific northwest 
+with showers from the California/Oregon border to back into Washington 
+and British Columbia. High pressure holds on for one more day across 
+the northeast. But the weather should be going downhill by Thursday. 
+Temperatures will be in the 50s and 60s for the northern tier states 
+with the southern regions in 70s and 80s. The desert southwest will 
+still see highs in the 90s. On the extended forecast, rain and thunderstorms 
+for the Great Lakes and the eastern seaboard can be expected on Thursday 
+with showers and wind increasing Friday in the pacific northwest. 
+Temperatures begin to cool in the northwest as well. By Saturday, 
+50s cover most of the northern plains. You will see windy conditions 
+into the eastern slopes of the Rockies. The forecast for more than 
+6,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

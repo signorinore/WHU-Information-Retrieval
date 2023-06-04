@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981009.2000.0337 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Frank Stacio, National Public Radio News in Washington. 
+</TEXT>
+</DOC>

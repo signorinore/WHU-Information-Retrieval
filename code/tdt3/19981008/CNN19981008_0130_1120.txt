@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981008.0130.1120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is widening its investigation of price fixing in the 
+wholesale vitamin market, according to wire reports. Three U.S. affiliates 
+of major chemical and drug companies say they have been subpoenaed 
+and asked to provide documents about their pricing and sales methods. 
+Two of the largest companies involved in the lawsuit are basf and 
+Hoffman La Roche. The justice department isn't commenting on the investigation, 
+which started last year. 
+</TEXT>
+</DOC>

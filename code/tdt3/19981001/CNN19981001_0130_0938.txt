@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0938 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrials took a beating Wednesday, falling 237 points 
+to close at 7842. The Dow closed out its worst quarter in eight years. 
+</TEXT>
+</DOC>

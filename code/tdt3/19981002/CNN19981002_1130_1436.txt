@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981002.1130.1436 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Travelers don't need to go too far to experience an African safari 
+adventure. An Internet provider is making it possible for subscribers 
+to visit south Africa's world famous safari parks by logging onto 
+a new web site. Viewers get to see live pictures of animals through 
+a closed-circuit video camera mounted in a tree overlooking a waterhole. 
+The web site can be accessed on www.africam.com. 
+</TEXT>
+</DOC>

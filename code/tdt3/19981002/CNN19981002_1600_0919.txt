@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0919 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+president clinton is sticking to business. he's visiting cleveland 
+and philadelphia today to raise money for democratic candidates. 
+</TEXT>
+</DOC>

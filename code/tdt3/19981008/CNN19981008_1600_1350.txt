@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBA news, the players and the league resume collective bargains negotiations 
+for the first time after two months today. No progress made today. 
+They will meet again on Tuesday. 
+</TEXT>
+</DOC>

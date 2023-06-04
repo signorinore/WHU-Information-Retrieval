@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981004.1600.0565 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Remaining oil from the 1989 Exxon valdez spill may be hurting alaskan 
+salmon for generations. According to government researchers, the buried 
+oil pockets are able to release poisons into the water. They say the 
+pollutants can lead to stunted growth and other chronic problems for 
+the fish. The Exxon supertanker spilled 10 million gallons of oil 
+into prince William sound. Scientists hired by Exxon say the government 
+research is flawed. 
+</TEXT>
+</DOC>

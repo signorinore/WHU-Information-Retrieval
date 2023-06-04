@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street finishes the day in the minus column. Kitty pilgrim has 
+the closing numbers from the "CNN Financial News" news desk in New 
+York. Kitty, what happened? It's a busy day today. The Dow Jones industrials 
+went on a roller-coaster ride. The Dow moved higher early, and that's 
+after news that Japan may be moving to solve its banking problems. 
+The Dow moved 114 points higher, before turning down for the day. 
+The broader markets were all lower. 
+</TEXT>
+</DOC>

@@ -1,0 +1,94 @@
+<DOC>
+<DOCNO> PRI19981008.2000.2367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Leggo building blocks just about always keep your child's mind and 
+hands busy for hours, all those brightly colored bricks snapping into 
+place to form a police station or a fire engine. But the Danish manufacturer 
+isn't standing still nor are its Leggos. THE WORLD's Clark Boyd explains. 
+Putting together a Leggo creation used to sound like this: And when 
+you finally got your Leggos snapped into place, your newly constructed 
+toy sounded a little bit like this: That's right. Unless your imagination 
+took over and you ran around the room making noises like a helicopter, 
+your Leggo toy pretty much just sat there. Well, no more. Introducing 
+a Leggo for the 21st century. Meet Torbot, an autonomous robot that 
+you can program using a personal computer. Torbot's just one of the 
+creations you can make with Leggo's new line of robotic toys called 
+Mind Storms. Although Leggo is a Danish company, Mind Storms was born 
+at the Massachusetts Institute of Technology. The ideas of Mind Storms 
+actually go back a long, long way, way back to the 1960s with Seamore 
+Pappert. Fred Martin is a research scientist at M.I.T.'s media lab. 
+Back in the 1960s, Seamore was working on developing this language 
+called Logo for kids to be able to create programs on computers. And 
+one of the first things that he and his grad students developed were 
+these physical robots that were about the size of a trash can which 
+children could drive around the room with their Logo programs. And 
+that was sort of the beginnings of the ideas that led to Mind Storms. 
+The Leggo company became interested in Pappert's notions about robots 
+in the 1980s and began collaboration with M.I.T. to develop a robot 
+that would combine Leggo hardware with Pappert's Logo software. At 
+the M.I.T. media lab, Fred Martin rummages through several through 
+prototypes of the electronic brain that drives the Leggo robots. It's 
+called the RCX brick. It's a yellow Leggo style snappable block about 
+the size of a small walkman. The RCX isn't just another Leggo block, 
+though. It has a microcomputer inside. Here's how it works: First, 
+you build your robot, snapping together Leggo bricks the old fashioned 
+way. Then you write a program for your creation on your personal computer. 
+After you've completed the program, you download it to your robot 
+using an infrared sensor. Oh, and don't forget to hit the on switch. 
+We like to talk about toys that make you think or toys to think with, 
+and it's very important that education be fun, and so we don't think 
+toys a bad word. If anything, toy is a good word. Anthony Fudd wouldn't 
+shy away from using the word toy. The M.I.T. undergrad employed some 
+of his Mind Storms robots while teaching elementary school kids about 
+engineering. He says you can't help but learn something by playing 
+with Mind Storms. You can make a very simple walking robot that basically 
+just uses two motors as its output to turn some type of mechanism 
+whether it be gears or wheels to basically make it move. The you can 
+move it up from that point and add a sensor. So now you can make not 
+only a moving model but an intelligent moving model that can receive 
+input from its sensor, and then using that input, determine what it's 
+going to do next. And that's very basic to the way that real robots 
+are programmed in real research and industry. Fudd designed his first 
+Leggo Mind Storms robot to answer a question that's perplexed many 
+a great thinker: Does the light in the refrigerator go off when you 
+close the door? Well, never fear. Refrigerator Fred is here, complete 
+with sunglasses that he raises or lowers depending on the light level. 
+When you put him into a darker area such as a closed refrigerator, 
+he will raise his sunglasses. Now that happens because he has a light 
+sensor which is located on his body, and when the light sensor detects 
+a change in light level from a bright light level to a darker light 
+level, it will then cut on a motor which then causes the lever to 
+raise his Leggo sunglasses. But if Fred is stuck in the refrigerator, 
+how do you know he raised his sunglasses? Well, Fudd equipped Fred 
+with a two-second delay. If you open the fridge and Fred's glasses 
+are up, rest assured the light went off. Does Refrigerator Fred signal 
+the first step toward a more robo friendly, robo permeated society? 
+Mark Tilden, robotics research scientist at the Los Alamos National 
+Laboratory says that terminator phobia keeps many Americans from welcoming 
+such advances in robotics. People will because they've been watching 
+Frankenstein and machines that's been going nuts for years. Suddenly 
+they think, "Oh, my goodness. This machine's going to steal my Visa 
+cards and drive off to Radio Shack and raid their battery section." 
+That's nonsense, of course, but the fact is that we see it happen 
+all the time. And you're going to see that fear prevalent. We like 
+things that are biologically based and when something moves without 
+us controlling it, we get a little antsy right now just because we're 
+not used to it. But Tilden does think that Leggo Mind Storms is a 
+good first step, a way to acclimate a new generation of Americans 
+to a robotic future. Say when we're old and infirm, we can't walk 
+anymore, we'd actually put on a pair of pants which would just assist 
+in our walking so it would give us the full dignity of motion. These 
+are concepts which are currently being explored in places like Japan. 
+But I mean, it could still get to be even tackled right here. These 
+are the sort of things that we really should be looking into, but 
+the fact is it's going to take a major change in the way that people 
+think of it. Granted, we shouldn't expect the "Jetson's" robo assisted 
+cartoon lifestyle to become reality anytime soon, but don't tell Leggo 
+that. They're taking their Mind Storms robots global. Foreign language 
+versions will go on sale in Europe and Asia next year. And who knows, 
+maybe those Leggos will engage in some cross-cultural communication. 
+R2D2, you know better than to trust a strange computer. 
+</TEXT>
+</DOC>

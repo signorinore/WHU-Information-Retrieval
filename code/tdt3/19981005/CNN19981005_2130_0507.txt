@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0507 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+now the weather forecast. still ahead, how scientists are using dna 
+to track down dangerous bacteria. 
+</TEXT>
+</DOC>

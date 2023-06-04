@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0919 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the remnants of hurricane georges are lingering over the south 
+bringing heavy rain in some areas. Thousands of people still are without 
+power.
+</TEXT>
+</DOC>

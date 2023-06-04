@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0898 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- lawmakers will spend another 
+day hashing out rules for possible impeachment proceedings against 
+President Clinton. House minority leader Richard Gephardt plans to 
+meet with democrats on the Judiciary committee. 
+</TEXT>
+</DOC>

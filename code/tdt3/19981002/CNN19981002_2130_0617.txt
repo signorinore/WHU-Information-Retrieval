@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981002.2130.0617 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers at M.I.T. have come up with a way to help children turn 
+sounds into music. Ann Kellan has more in this edition of "tech trends." 
+ba ba ba ba a familiar sight -- children singing. It's how many kids 
+get their first taste of music before they're old enough to play the 
+piano or the violin. But if you are tired of the same old song, welcome 
+to the computer age. Some researchers at the M.I.T. media lab are 
+trying to shake up the way kids make music. Who can resist rattles. 
+Now, they're digital. So, this is something light and simple for kids 
+to play. Now, they don't have to understand what's going on in there, 
+just pick it up and make sound. What's going on in there, anyway? 
+So it's going through the shaking. yes. The shaking goes through a 
+wire and to a digitizer which is underneath and goes into the computer. 
+The rattles are high-tech and fun for all ages. But there's more. 
+Gan also took the plunge into -- a musical playpen? What is a musical 
+playpen? Look. Watch. According to gan, it's all about good vibration. 
+Sensors in the balls pick up movement. As you swim around, like you 
+are swimming in water, and your movement will be interpreted by the 
+computer, and that will create the music that you hearing right now, 
+for example. Remember how much fun it is to squish jello between your 
+fingers? Well, these M.I.T. researchers have come up with a way to 
+do it that not only won't get kids in trouble. Now squeezing makes 
+music. They're called squeezables. We tried many different kinds of 
+materials like foam and soft plastic, and we reached to the conclusion 
+that jell-O is the most responsive one. So how does jell-O make music? 
+Well, we have the sensors, which is a false pressure sensor. So, it 
+give you continuous control. When I squeeze the jell-O, the jell-O 
+squeezes the pressure sensors. M.I.T. researchers say it will be at 
+least a year before any of these children will be able to rock, rattle 
+or roll with the digital toys. In the meantime, most kids find a way 
+to have a good time making music. Ann Kellan, CNN, Cambridge, Massachusetts. 
+</TEXT>
+</DOC>

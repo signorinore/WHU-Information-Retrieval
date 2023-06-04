@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+77-year-old senator John Glenn went through a dress rehearsal today 
+for his historic space shuttle flight later this month. Those stories 
+and more in 15 minutes. 
+</TEXT>
+</DOC>

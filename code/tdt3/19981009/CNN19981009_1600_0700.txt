@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0700 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coast guard investigators are employing high-tech methods to track 
+down leaky oil tankers. Lab tests, satellite imagery and shipping 
+logs led authorities to a liberian tanker this week. The coast guard 
+says the tanker is responsible for two spills off the California coast 
+last month. The owner of the vessel could face civil and criminal 
+penalties. A formal investigation is under way. 
+</TEXT>
+</DOC>

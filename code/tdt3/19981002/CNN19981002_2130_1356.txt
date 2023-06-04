@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.2130.1356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, Fred funk has a three-point lead at the Buick open. Duane 
+Walker, "Headline Sports." 
+</TEXT>
+</DOC>

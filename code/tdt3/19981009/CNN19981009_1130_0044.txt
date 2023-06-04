@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a busy day in the Beltway. Congress is facing a midnight deadline 
+to pass spending legislation to avoid a partial government shutdown. 
+A temporary funding Bill runs out tonight. Press secretary Joe Lockhart 
+says President Clinton is open to another stopgap spending measure 
+that will keep uncle Sam in cash while negotiations continues. 
+</TEXT>
+</DOC>

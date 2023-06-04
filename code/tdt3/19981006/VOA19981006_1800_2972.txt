@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981006.1800.2972 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrial average closed at 7742, up 16 points. The 
+Standard & Poor's 500 index closed at 984, down 4 points. The Industrial 
+average soared by more than 150 points early in the session, but then 
+fell back and the other major averages lagged behind all day. 
+</TEXT>
+</DOC>

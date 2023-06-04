@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981004.0084 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bell Atlantic had a problem. A big corporate client in New Jersey 
+was convinced that there were problems with a new network that Bell 
+Atlantic had built for it. Bell Atlantic knew it could slove the perceived 
+problems, but simply could not spare enough engineers with the right 
+technical skills to set things straight. So the big telephone company 
+did something that once might have been unthinkable for a bearer of 
+the Bell legacy: It sought outside help. ``We looked for a resource 
+that could come in with the specific network and trouble-shooting 
+characteristics so they could work on the team,'' recalled Evelyn 
+Howe, director for business development at Bell Atlantic's data networking 
+group. The ``resource'' Bell Atlantic turned to back in the winter 
+of 1996 was International Network Services Inc., a small company based 
+in Sunnyvale, Calif., that is in the vanguard of a new industry: dedicated 
+network consulting. INS, founded in 1991, does not manufacture equipment. 
+It does not run computers. It does not re-engineer business processes. 
+It does not develop corporate strategies. What INS does do is design, 
+manage and secure communications networks. And the company does it 
+so well that it has become the network engineers' engineer _ the expert 
+that the network experts can turn to when they need a specialist's 
+touch. Besides Bell Atlantic, among the other telecommunications and 
+technology giants that have used INS are AT&AMP;T, MCI Communications, 
+Worldcom, SBC Communications, Sprint, BellSouth, Cable &AMP; Wireless, 
+Airtouch, GTE, Cisco Systems, Compaq Computer and Oracle. In its narrow 
+focus on network services, INS may be unique among public companies, 
+and for that it has been rewarded. It is true that the company's stock 
+has been slammed during the recent wave of concern about global spending 
+on communications networks, closing Friday in Nasdaq trading at $34.375, 
+down more than 37 percent from a high of $47.125 in July. Even so, 
+INS' stock price is still up 48.7 percent for the year. And unlike 
+many Silicon Valley start-ups, INS makes money. The stock trades at 
+nearly 49 times estimated per-share earnings, a reflection of the 
+company's explosive revenue growth, to $170 million in the fiscal 
+year ended in June from $16 million in fiscal 1995. The market opportunity 
+is huge. The Yankee Group, a consulting and research firm in Boston, 
+estimates that the overall market for network integration services 
+will grow to $52.7 billion in 2001 from $29.6 billion last year. Most 
+of those services today are provided by companies which generally 
+focus on doing something else, like selling equipment or managing 
+computer rooms. Karl Keirstead, who follows INS for Lehman Brothers, 
+has a highly plausible theory on the evolution of consulting markets, 
+and his notion helps put INS into context. The way Keirstead puts 
+it, corporate executives have generally been reluctant to involve 
+outsiders in the deployment and management of new technologies until 
+a big company validates the idea that outsourcing is viable. Such 
+validation is what Electronic Data Systems brought to computer services 
+business in the 1960s and what Andersen Consulting helped bring to 
+software services in the 1980s. Network services are the next stage 
+in outsourcing. The validation, at least in the eyes of the largest 
+corporations, is being performed by outsourcing operations like AT&AMP;T 
+Solutions, IBM Global Services and Bell Atlantic Network Integration. 
+Now independent companies like INS can reap the benefits. ``The goliaths 
+are now looking to the INS' for help in delivering on these contracts,'' 
+Keirstead said. And as put by Howard Anderson, the Yankee Group's 
+managing director, corporate technology managers are trying to add 
+technical expertise without adding full-time employees. But INS does 
+more than perform subcontracting work for brand-name telecommunications 
+carriers. Ascend Communications, a data network equipment maker, has 
+used INS engineers to help deploy Ascend-based networks that include 
+equipment from other companies. And Mastercard International hired 
+INS to help Mastercard move its headquarters to Purchase, N.Y., from 
+New York City in 1995. ``There were a number of challenges that went 
+far beyond simply relocating computers for 1,000 people,'' said Art 
+Carapola, Mastercard's vice-president for global internal technology. 
+``INS was commissioned to provide the network expertise we were lacking 
+in-house at the time.'' He added, ``Considering the unusually compressed 
+schedule, as well as the complexity of the network transition, I do 
+not believe we would have met our goals without INS.'' The company 
+that wins such praise from its clients was the creation of Donald 
+McKinney, one of the founders of Silicon Graphics Inc. He use his 
+textbook understanding of the inner workings of Silicon Valley to 
+create and build INS. First he turned to Sequoia Capital, the venture 
+capital firm. He wanted financing, but just as important, he wanted 
+the blessing of Donald Valentine, Sequoia's founder, who is also vice-chairman 
+of Cisco Systems. Once McKinney won support from Sequoia and Valentine, 
+it was relatively easy to convince Cisco, the leader in data networking, 
+to invest as well. But just as important, he got Cisco to begin referring 
+INS to its customers for installation and support services. Once INS 
+was on a solid footing, McKinney could step back. He is still the 
+company's chairman but has turned over the chief executive's job to 
+John Drew, a former Unisys executive. (In a sign of just how small 
+the networking industry really is, Bell Atlantic first built its relationship 
+with INS in part through a former Unisys colleague of Drew's named 
+Kevin DeNuccio, who helped found Bell Atlantic Network Integration. 
+DeNuccio is now an executive at Cisco.) Cisco still owns about 8 percent 
+of INS, which has a market value of about $1.1 billion, while McKinney 
+owns just over 30 percent. INS compensates each of its 1,000 engineers 
+at least partly in stock. McKinney and Drew hope that the stock policy 
+gives INS a recruiting advantage over larger, slower-growing companies 
+that are trying to expand into the network consulting market. ``Our 
+intellectual property goes home every night,'' McKinney said. ``What 
+we need to do is honor their requests and make them wealthy.'' As 
+put by Drew, ``Our focus and our people provide our competitive advantage.'' 
+And there is a lot of competition. Each of the telecommunications 
+carriers that INS serves as a client is also a potential competitor. 
+INS must also contend against consulting companies including Andersen 
+and KPMG Peat Marwick; computer services operations including EDS; 
+value-added resellers of networking equipment including Entex and 
+Vanstar, as well as the growing consulting operations inside telecommunications 
+equipment vendors, including Lucent Technologies. But perhaps INS' 
+most intriguing competitor is a private consulting company based in 
+New York called Predictive Systems Inc. Smaller, younger and even 
+less well known than INS, Predictive is perhaps the only company that 
+focuses exclusively on the same sort of network consulting as does 
+INS. Among its clients are Qwest Communications International, the 
+upstart long-distance carrier. Robert Belau, Predictive's president, 
+said he was now auditioning investment banks for an initial public 
+offering. Naturally, he says his company is better than INS. But if 
+he succeeds only in matching his West Coast competitor, he will have 
+done quite well, indeed. 
+</TEXT>
+</DOC>

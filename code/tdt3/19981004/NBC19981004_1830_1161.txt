@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> NBC19981004.1830.1161 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also this term, the court will decide who should set the rules for 
+encouraging competition that could lower the cost of local telephone 
+service, with billions of dollars at stake. Dozens of companies want 
+to give consumers as much choice in choosing a local phone company 
+as there is now in long distance. The court must also rule on whether 
+the government can use statistical estimates to adjust the census 
+that's used to figure seats each state gets in Congress. Without estimates, 
+the census bureau says it would undercount racial and ethnic minority 
+groups, depriving them of equal representation. 
+</TEXT>
+</DOC>

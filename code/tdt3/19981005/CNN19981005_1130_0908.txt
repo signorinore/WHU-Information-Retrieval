@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0908 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the house Judiciary committee is 
+holding historic proceedings today on whether to recommend to the 
+full house an impeachment investigation of President Clinton. The 
+republican-dominated committee is expected to recommend such an inquiry, 
+though committee democrats will argue Mr. Clinton committed no impeachable 
+offenses. 
+</TEXT>
+</DOC>

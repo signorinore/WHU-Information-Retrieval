@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0067 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government has unveiled a new plan to deal with aging aircraft 
+wiring. The old wiring has been labeled a possible factor in recent 
+crashes. One example is the TWA crash in 1996 that killed all 230 
+people on board. Some investigators believe a spark touched off an 
+explosion in the 7-47s center fuel tank. The U.S. transportation secretary 
+says the focus is on prevention. Today's U.S. fleet as an average 
+age of nearly 16 years. Ten years from now, a larger and older fleet 
+will have an average age of 18 to 20 years. Again, it is critical 
+that we act proactively today to ensure that tomorrow's passengers 
+enjoy the highest level of safety. The federal aviation has said there 
+is no need to take planes out of service but there is a need to improve 
+inspections and maintenance. 
+</TEXT>
+</DOC>

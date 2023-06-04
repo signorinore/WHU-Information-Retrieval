@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0412 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national extended weather forecast is next. And still ahead -- 
+an annual tradition that's a blessing for pets. This is Orelon Sidney 
+from the CNN weather center with your "Headline News weather update." 
+</TEXT>
+</DOC>

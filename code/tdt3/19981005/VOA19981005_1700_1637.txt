@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981005.1700.1637 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For many of our FM and medium wave listeners, your local stations 
+will be taking a two minute break at this time. This is Voa News Now. 
+</TEXT>
+</DOC>

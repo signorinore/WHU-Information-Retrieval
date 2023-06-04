@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981003.1600.0045 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News." I'm Kate snow. Leaders of the world's largest economies 
+are gathered in Washington today. Finance ministers from the G-7 nations 
+are trying to put the brakes on a financial crisis before it becomes 
+a global depression. More than a quarter of the world is in recession 
+including Japan. U.S. treasury secretary Robert Rubin says it's crucial 
+for Japan to reform its banking system and stimulate growth. CNN's 
+Bill dorman is covering the talks in Washington and says Japan seems 
+to have a broader purpose. The Japanese have brought a proposal for 
+an additional $30 billion package for Asian nations hit hardest by 
+the continuing crisis. The United States have been cautiously supportive 
+of that. But U.S. officials are also quick to point out that Japan 
+needs to focus on its own economic problems so it can help stabilize 
+other parts of Asia. The United States is proposing making a more 
+expensive line of credit to be available for economies which are not 
+slipped into deep recession but which are at risk. The meeting is 
+also shoring up support for President Clinton's plan to make it easier 
+for the international monetary fund to grant emergency loans to countries 
+in financial turmoil. 
+</TEXT>
+</DOC>

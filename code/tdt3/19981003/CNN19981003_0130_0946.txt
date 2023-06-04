@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is suggesting ways to keep the U.S. economy safe 
+from a global recession. Unemployment rose to 4.6% in September and 
+job growth was the slowest it has been in three years. 
+</TEXT>
+</DOC>

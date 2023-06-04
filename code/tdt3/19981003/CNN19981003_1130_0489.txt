@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981003.1130.0489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is orelon sidney from the cnn weather center with your "headline 
+news weather update." a chance of rain across the western u.s. and 
+the mississippi valley into the ohio river valley today. a stationary 
+front in the east will keep cooler air locked across the northern 
+regions, with warm and humid conditions south of atlanta to birmingham. 
+a chance of rain and snow will continue across the rocky mountains 
+and into the plains, as a cold front system heads eastward through 
+the weekend. high pressure means nice weather for the great lakes 
+and most of new england, with weather in the west generally quiet. 
+temperatures will hit the 90s in southern texas and southern florida. 
+you'll also see 80s across portions of the desert southwest. everyone 
+else cools off today with high temperatures in the 50s and the 40s 
+for most of the northern tier. our extended forecast includes a chance 
+of strong thunderstorms along the mississippi valley, with heavy rain 
+in the northern plains and the great lakes on monday. by tuesday, 
+much of this activity heads eastward, and a chance of showers and 
+rain enters the pacific northwest forecast. the forecast for more 
+than 6,000 cities is at cnn.com. 
+</TEXT>
+</DOC>

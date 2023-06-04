@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981007.2000.0339 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR News. Support for NPR comes from Sedecso Marriott Services 
+providing innovative approaches to food and facilities management 
+services throughout North America on the Web at sedecsomarriott.com. 
+This is THE WORLD. I'm Tony Kahn. 
+</TEXT>
+</DOC>

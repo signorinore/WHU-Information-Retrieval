@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> APW19981002.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The chairman of UBS AG, the Swiss banking giant that said it will 
+lose 2.2 billion Swiss francs (dlrs 1.61 billion) due largely to its 
+involvement in a troubled private U.S. investment fund, resigned Friday. 
+In a press release, Mathis Cabiallavetta said ``the conviction that 
+I can prove my service to the bank with this step moved me to do this.'' 
+Cabiallavetta declined any ``financial arrangement,'' the bank's chief 
+executive officer Marcel Ospel said. Three other top UBS executives 
+are also leaving, the announcement said. Ospel wouldn't discuss possible 
+remuneration for them because of contractual terms. Last Thursday, 
+UBS said it would incur a 950 million franc (dlrs 699 million) charge 
+on its exposure to Long Term Capital Management, which with other 
+losses will lead to a third quarter after tax-loss of up to 1 billion 
+francs (dlrs 735 million). An internal inquiry uncovered lapses by 
+managers in controls and decisions before and after the merger, UBS 
+said. It found no signs of gross negligence, the bank added. UBS said 
+transactions like LTCM won't reoccur. Ospel called its LTCM involvement 
+an extremely complex case in which risk was ``very underestimated.'' 
+He said the three executives were aware of that and thus left the 
+bank, but said Cabiallavetta wasn't aware of all the risks involved. 
+Ospel said the bank will learn lessons and improve risk controls. 
+Part of the problem in reconstructing the LTCM case, Ospel said, was 
+that the fund only updated its partners once a month. For a time, 
+he said, ``we were flying blind.'' The transaction with LTCM consisted 
+of an equity investment of around 270 million dlrs and a complex options 
+structure, he said. In order to hedge that position UBS bought 800 
+million dlrs worth of shares in the fund. For regulatory and accounting 
+reasons, the different legs of the transaction weren't booked in the 
+same places which is why the extent of the losses went undetected 
+for a long time, Ospel said. Ospel and interim chairman Alex Krauer 
+said UBS first informed Swiss federal regulators in early September 
+that market turmoil had caused the bank problems. Last week, the bank 
+told regulators of its losses' extent and, later in the week, of the 
+investigation's findings. Krauer, vice-chairman of UBS and also chairman 
+of drug giant Novartis, told a news conference staff changes wouldn't 
+be enough to restore confidence in the bank. He regretted the losses 
+but suggested the negative reaction was ``overdone.'' ``We promise 
+to do everything so as to not disappoint,'' he said, adding that a 
+new chairman would be sought quickly. UBS' management on Monday reassured 
+employees in a memo it remained sound and that it was investigating. 
+The bank said executives leaving by ``mutual agreement'' include Felix 
+Fischer, chief risk officer of UBS; Werner Bonadurer, former co-chief 
+operating office of Warburg Dillon Read; and Andrew Siciliano, former 
+head of rates at Warburg. After an early rise Friday to 302 francs 
+(dlrs 222) a share, which dealers said reflected enthusiasm at the 
+management shake-up, at 0913 GMT UBS shares were back down to 267 
+francs (dlrs 196). Stock market analysts said Friday more still needs 
+to be done to convince participants of UBS' long-term profitability, 
+in particular detailed announcements of what the bank plans to do 
+to prevent similar mishaps in the future. ``Confidence hasn't been 
+restored yet,'' said Gerd Ramsperger, analyst at Zuercher Kantonalbank's 
+brokerage research. 
+</TEXT>
+</DOC>

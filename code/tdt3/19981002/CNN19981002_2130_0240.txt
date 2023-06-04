@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981002.2130.0240 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The republican majority on the house Judiciary committee is trying 
+to figure out how to proceed with an expected impeachment inquiry 
+against President Clinton. Republicans favor an inquiry with no limits 
+on the subject matter or time. Democrats are asking that the investigation 
+be limited to the Monica Lewinsky matter. They want to end the inquiry 
+around Thanksgiving. And they want to provide an option for censure 
+rather than impeachment. The committee may vote Monday on exactly 
+how to proceed. 
+</TEXT>
+</DOC>

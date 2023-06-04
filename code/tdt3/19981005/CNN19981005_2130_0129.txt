@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0129 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+argentina says it has secured $5.7 billion in loans from the world 
+bank and other institutions to try and insulate its economy from the 
+financial crisis. 
+</TEXT>
+</DOC>

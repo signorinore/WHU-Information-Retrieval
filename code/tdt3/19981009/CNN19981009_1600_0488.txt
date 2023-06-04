@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Italian prime Minster Romano Prodi resigned today after his center-left 
+government lost a confidence motion by one vote. It's the first time 
+an Italian government has fallen on a confidence vote. Typically, 
+a prime minister resigns rather than face that test. The Italian president 
+has asked Prodi to stay on as a caretaker until a new government is 
+formed. 
+</TEXT>
+</DOC>

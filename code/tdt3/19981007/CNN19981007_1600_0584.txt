@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton and Congress are making it more affordable to get 
+an education. Mr. Clinton signed legislation today reducing the interest 
+rate on student loans. It is falling to the lowest level in 17 years, 
+7.43%. grants to low-income students will rise to $5,800. More money 
+for teacher training is also included in the Bill. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> ABC19981007.1830.1641 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Something new on the farm to report about. A huge farm collective 
+in the midwest has a novel way to guarantee whether its eggs are fresh 
+-- or at least when they've been laid. Basically, they run the eggs 
+through their version of a laser printer, which stamps the date it's 
+been laid -- the birth date right on the shell, in pink ink. You can't 
+miss it. The idea here is to prevent unscrupulous producers and retailers 
+from repackaging old eggs, which can make you sick. Good idea. Americans 
+eat about 55 billion eggs a year. Is this a joke? It's no joke. But 
+it may be a clever ploy -- truth in advertising, imagine that. 
+</TEXT>
+</DOC>

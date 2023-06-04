@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The University of Pennsylvania's Wharton school took first place in 
+a new list of best schools to receive a graduate business degree. 
+The biannual survey by "business week" magazine sent questionnaires 
+to about 9,600 graduating MBAs at 61 schools and 350 companies that 
+actively recruit. This was Wharton's third straight time at the top. 
+Northwestern University's Kellogg school of management placed second. 
+Rounding out the top five -- the University of Chicago, the University 
+of Michigan and Harvard. 
+</TEXT>
+</DOC>

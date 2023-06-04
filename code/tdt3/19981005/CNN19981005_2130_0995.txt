@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+general motors says vehicle sales fell 3.1% in september. nevertheless, 
+gm regained the number one sales position after a strike crippled 
+its production line last summer. 
+</TEXT>
+</DOC>

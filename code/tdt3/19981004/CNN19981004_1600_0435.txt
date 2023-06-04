@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981004.1600.0435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The annual conference of the international monetary fund and the world 
+bank is under way in Washington. Ahead of the meeting, the world's 
+leading industrialized nations held talks yesterday to address the 
+global financial crisis. They issued a statement stressing the "importance 
+of intensified cooperation" to avoid other nations from going into 
+recession. The United States is proposing the IMF provide emergency 
+loans to countries threatened by panicked investors. 
+</TEXT>
+</DOC>

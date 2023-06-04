@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981005.0402 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Motorola Inc., the wireless communications and semiconductor company 
+that has been stumbling for about two years, said late Monday that 
+its third-quarter earnings were better than expected, largely because 
+of an aggressive restructuring and cost-cutting effort. The company, 
+which had warned Wall Street a few months ago to expect a flat third-quarter 
+profit, said that it continues to suffer from weakening demand for 
+its products in Asia, but that its revamping efforts had partly offset 
+that slowdown. After the close of trading Monday, Motorola reported 
+that it had an operating profit of $40 million, or 7 cents a share, 
+excluding special charges, down from $308 million, or 51 cents a share, 
+in the period a year earlier. Revenue was $7.15 billion in the third 
+quarter, down from $7.35 billion in the quarter a year earlier. Wall 
+Street analysts, surveyed by First Call Inc., had been expecting the 
+company, which is based in Schaumburg, Ill., to earn a penny a share. 
+But the stronger-than-expected showing belies the more serious worries 
+that have surrounded Motorola, which has seen its revenues and stock 
+price hammered in recent quarters on slackening demand at home and 
+abroad for its cellular telephones and computer chips. Monday, ahead 
+of the earnings report, shares of Motorola fell $1.4375, to $38.5625, 
+its lowest level in more than five years. The stock is down more than 
+50 percent from its all-time high, which was set last year. Motorola's 
+paging, cellular and semiconductor businesses are all suffering, but 
+the company says that it is refocusing its operations, integrating 
+units and headed toward greater efficiency. ``The program is on track 
+to achieve its goal of an annualized savings rate of at least $750 
+million by mid-1999,'' said Robert L. Growney, the company's president 
+and chief operating officer. After two years of lackluster earnings 
+and heavy criticism, Motorola has moved swiftly in the last six months. 
+In June, the company said it would eliminate 15,000 jobs, or 10 percent 
+of its work force, and last month Motorola said it was suspending 
+construction of a $3 billion chip manufacturing plant in Richmond, 
+Va. Analysts have applauded the company's efforts to restructure its 
+operations and become more focused, but they say that there are few 
+signs Motorola is going to return to strong profitability anytime 
+soon. While Monday's report listed a $40 million third-quarter profit, 
+cost savings from restructuring were about $140 million, excluding 
+special charges. ``It looks like the cost-cutting savings were really 
+the difference between the break-even and the results they reported,'' 
+said Eric Buck, an analyst at Donaldson, Lufkin &AMP; Jenrette. ``This 
+is not from any underlying improvement in the business. They said 
+they're not satisfied with their financial performance and they shouldn't 
+be; they still have a long way to go.'' Motorola, however, has attributed 
+much of its slowdown to the ``continuing impact of adverse business 
+conditions in Asia and weakness in semiconductors and paging products 
+on a worldwide basis.'' But investors and analysts have criticized 
+Motorola for more than a year now for a series of corporate missteps, 
+ranging from its failure to move aggressively into the digital cellular 
+telephone market, to technical problems with some of its computer 
+chips. Cellular telephones using digital technology have become the 
+standard, and the Finnish company Nokia has garnered substantial market 
+share in recent years from Motorola, which has long been wedded to 
+analog technology. Motorola has also seen a sharp slowdown in its 
+paging business. Sales in Asia have been particularly troubling. ``The 
+Chinese market, which is the largest, is slowing, said Ajay Diwan, 
+an analyst at Goldman, Sachs &AMP; Co. ``There's a pause in spending 
+there. The million-dollar question is whether China will slow down 
+over the long run.'' With cellular telephone sales slackening amid 
+fierce competition and semiconductor demand slowing sharply in Asia, 
+some analysts said it is surprising that Motorola's revenue is down 
+just 3 percent from a year ago. The difficulties in all of its core 
+lines of business _ cellular, semiconductor and paging _ could have 
+been even worse. But Herschel Shosteck, who runs his own company in 
+Wheaton, Md., that tracks the cellular business, says that Motorola 
+is still a force in the industry. ``Motorola has an absolute hammerlock 
+on distribution,'' he said. ``Once their digital products come to 
+market they will regain market share. They're going to continue to 
+be a powerful player.'' 
+</TEXT>
+</DOC>

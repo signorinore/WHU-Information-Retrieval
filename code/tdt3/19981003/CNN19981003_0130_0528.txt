@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0528 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is coming up next. And still 
+ahead -- a new drug could be what scientists have been looking for 
+in the fight against the deadly E. Coli bacteria. 
+</TEXT>
+</DOC>

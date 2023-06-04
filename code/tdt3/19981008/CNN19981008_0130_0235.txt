@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981008.0130.0235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Visa and Mastercard sit next to each other in thousands of wallets 
+and purses. In fact, three out of every four credit card purchases 
+in the United States are charged on a visa or a Mastercard. Now the 
+federal government is saying those two have too much control. A justice 
+department suit is challenging the joint control of both networks 
+by the same group of banks. Attorney general Janet Reno says it's 
+consumers who are hurt by a lack of competition. Visa, Mastercard 
+and their member banks have agreed not to issue cards on smaller competing 
+credit card networks such as discover and American express. These 
+exclusionary rules deny consumers the ability to choose among a variety 
+of credit card products. America's consumers have lost out. Both visa 
+and Mastercard say they will defend their policies in court. A visa 
+spokesman says he believes the suit will fail because consumers have 
+unlimited choices when it comes to credit cards. The suit grew from 
+a complaint two years ago from American express. It sees the action 
+as a major step in breaking what it calls an illegal strangle-hold 
+on the industry. 
+</TEXT>
+</DOC>

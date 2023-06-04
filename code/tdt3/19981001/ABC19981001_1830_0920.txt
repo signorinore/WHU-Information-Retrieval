@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0920 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was confirmation today of something we've heard before, in fact, 
+reported here before, faith may help to save your life. Quite literally. 
+A study of mostly affluent white adults published in the American 
+journal of public health found people who attend religious services 
+have substantially lower mortality rates than people who do not. 
+</TEXT>
+</DOC>

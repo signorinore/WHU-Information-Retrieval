@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981006.1130.1142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow is now up 9d 2 points. The NASDAQ composite is up 16 1/2. 
+</TEXT>
+</DOC>

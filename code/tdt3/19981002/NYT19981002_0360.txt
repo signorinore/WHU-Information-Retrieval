@@ -1,0 +1,110 @@
+<DOC>
+<DOCNO> NYT19981002.0360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+(italics)``When we examine banks, we expect them to have systems in 
+place that take account of outsized market moves.'' _ Alan Greenspan, 
+chairman of the Federal Reserve, in congressional testimony on Thursday(end 
+italics) Ever play blackjack at your local casino? Then the name Edward 
+O. Thorp might be familiar. Thorp introduced blackjack fans to counting 
+cards in his 1962 best seller ``Beat the Dealer,'' which gave gamblers 
+an invaluable tool for trying to beat the house. Ever wonder where 
+hedge funds come from? An accomplished mathematician, Thorp started 
+one of the first and most successful hedge funds, now called Edward 
+O. Thorp &AMP; Associates, in 1969. And he has few kind words for 
+the Wall Street professionals and Nobel laureates who helped bring 
+Long-Term Capital Management, the giant hedge fund in Greenwich, Conn., 
+to its knees. Thorp said he was invited to invest in Long-Term Capital 
+when it was started in 1994, but he declined. ``I didn't want to have 
+anything to do with it because I knew these guys were just dice-rollers,'' 
+he said. ``I didn't really see where these guys had an advantage they 
+could exploit.'' Many people on Wall Street clearly thought otherwise. 
+Over the last four years, Long-Term Capital attracted money from some 
+of the world's savviest investors, and made a lot of money for them 
+during most of that period _ the salad days of the 1990s bull market. 
+But hedge funds are supposed to perform well even when markets hit 
+rough patches, as they have lately. And it is not clear whether the 
+firm's fans had ever scrutinized Long-Term Capital's investment strategy 
+with hard times in mind. ``It was just a mutual admiration society 
+at Long-Term,'' Thorp said, ``and nobody was focusing clearly enough 
+on the model.'' Aha. The model. Nowhere, except perhaps within the 
+walls of the Pentagon, the White House's Situation Room or the National 
+Weather Service, does ``the model'' hold as much sway as it does on 
+Wall Street. Some of the most profitable trading on Wall Street, especially 
+within hedge funds, involves complex, innovative products known as 
+derivatives. Derivatives are financial hybrids born in the guts of 
+a computer and intended to protect users from disadvantageous economic 
+shifts like currency devaluations or interest-rate increases. In short, 
+each derivative, its value ``derived'' from an underlying asset like 
+a stock, bond or currency, is a little model. And financial models 
+are only as good as their makers. ``The issue of relying on computer 
+models to do risk analysis is something we need to look at seriously,'' 
+said Charles Peabody, a banking analyst with Mitchell Securities Inc. 
+in New York. ``They only model for whatever humans put into them. 
+Are people putting in data that reflect the possibility of the financial 
+equivalent of a nuclear meltdown? Usually not. And then they rely 
+on computer models as if they're the word of God.'' Wall Street's 
+fascination with computer models began in the 1960s, when Thorp and 
+others set up the first hedge funds. Such funds, open only to wealthy 
+investors, used computer-aided research to uncover price discrepancies 
+between related securities. Those discrepancies could be profitably 
+exploited in such a way that investors had protection, or a hedge, 
+against big losses. In 1973, when three gifted researchers _ Fischer 
+Black, Myron S. Scholes and Robert C. Merton _ introduced the first 
+formula for accurately pricing options, the heady quantitative world 
+of finance took another big step forward. By correlating interest 
+rates, prices, volatility and time, the Nobel Prize-winning Black-Scholes 
+model tried, as would an insurance policy, to put a price tag on uncertainty. 
+Models had arrived. The advent of the personal computer in the 1980s 
+gave rise to Wall Street's young ``rocket scientists,'' schooled and 
+confident in the predictive capacities of computer models. Next to 
+investment banking, trading through computer models became the hippest 
+and most lucrative thing to do on Wall Street. Large commercial and 
+investment banks like Bankers Trust, Citicorp, Chase Manhattan, Goldman, 
+Sachs, J.P. Morgan, Merrill Lynch and Salomon Smith Barney are among 
+the world's most avid devotees of derivatives, and maintain in-house 
+systems for modeling risk. But those models have often proven flawed. 
+For example, Switzerland's UBS, Europe's largest bank, on Friday attributed 
+its $696 million loss in Long-Term in part to ``shortcomings in risk 
+management processes.'' Indeed, a series of unexpected financial shocks 
+_ the interest rate increases of 1994, the devaluation of the Thai 
+baht in 1997 and the Russian ruble this year and the odd movement 
+of bond prices over the last month _ have shown that models endow 
+their users with only a modicum of control over their financial destiny. 
+``We keep preaching how important stress-testing is,'' said Leslie 
+Rahl, a principal with Capital Markets Risk Advisers, a New York consulting 
+firm that specializes in derivatives. ``The kinds of financial problems 
+we have had are in very subtle areas, and people aren't looking for 
+these kinds of unusual events when they stress-test.'' Long-Term Capital's 
+reputation for savvy was considerably enhanced by the presence of 
+Scholes and Merton, who are partners in the firm. But bankers who 
+have belatedly examined its risk models said they were outmoded, compared 
+with others now in vogue on Wall Street. Moreover, Long-Term Capital's 
+model certainly did not take into account the unprecedented recent 
+movements in the bond market. With bond losses mounting, Long-Term 
+Capital's partners apparently hoped to recover by speculating on takeover 
+plays in the stock market. Of course, what Wall Street calls speculating, 
+the rest of the world calls gambling, and most gamblers end up ruined. 
+Still, Long-Term Capital was able to borrow mightily to make its wagers. 
+Analysts and some investors said the collapse of Long-Term Capital 
+should focus attention on the shortcomings of computer forecasting 
+_ and the quality of unregulated, privately negotiated contracts _ 
+that lie at the heart of the brave new world of modern finance. ``The 
+banking and regulatory authorities were not paying attention to the 
+amount of leverage these guys were taking on, and they should have 
+been,'' Thorp said. In the end, Long-Term Capital's brush with ruin 
+has provoked so much hand-wringing because the global financial system 
+is built on a framework of mathematical models. As such, the system 
+is fated to tremble from the strains of ever faster and more immense 
+movements of money directed by the inexact intuitions of gamblers 
+_ just the kinds of random stresses that the models cannot predict. 
+When, instead of just trembling, the financial system threatens to 
+come unglued, model or no model, mere worries turn to migraines. And 
+fast action is demanded: monetary policy shifts, IMF bailouts, or 
+in the latest case, the Federal Reserve's roping of Wall Street's 
+biggest houses into engineering the rescue of Long-Term Capital. Then 
+the models can settle down again, ripe for a blindsiding by the next 
+bolt from the blue. 
+</TEXT>
+</DOC>

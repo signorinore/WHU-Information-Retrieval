@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981004.1830.1556 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In weekend box office numbers, "antz," the animated film with the 
+voices of Woody Allen and Sharon stone, set a new record for an October 
+opening, $16.8 million. "What dreams may come" with Robin Williams 
+was a close second. In third place, "rush hour." 
+</TEXT>
+</DOC>

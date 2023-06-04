@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And researchers are testing a new drug that could fight the deadly 
+E. Coli bacteria. If final testing goes as planned, the drug could 
+be available by the end of next year. 
+</TEXT>
+</DOC>

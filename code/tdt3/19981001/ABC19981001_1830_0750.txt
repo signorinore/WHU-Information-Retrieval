@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> ABC19981001.1830.0750 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the U.S. and Canada tonight, there is intense concern. It is fair 
+to say, about the insulation used on 1,000 airplanes. It is the same 
+insulation used on Swissair flight 111 and it has been linked to fires 
+on three other planes. Swissair went down off Nova Scotia, which is 
+why the Canadians are concerned. The company that made that planes 
+warned of the fire hazard years ago. ABC's Lisa Stark is in Washington. 
+This is the type of insulation in question. Wrapped with metalized 
+mylar, it has been blamed for causing fires to spread quickly in at 
+least three McDonnell Douglas jets. The insulation was installed in 
+about 1,000 of the company's planes to shield against heat and noise. 
+It's flammability problems have been known for years. FAA fire tests 
+in the fall of 1997 showed the mylar blanket burned rapidly and was 
+totally consumed. More than a year earlier, McDonnell Douglas had 
+met with the FAA about the insulation problem and had recommended 
+airlines "discontinue use" of the material. After the fire tests, 
+the company went further, telling airlines to replace the insulation 
+at the "earliest practical maintenance period." Despite all that, 
+Swissair confirms the insulation was not removed from the MD-11 that 
+crashed last month after pilots reported smoke in the cockpit. The 
+FAA never ordered airlines to remove the insulation. If insulation 
+will fast, in a very rapid way, spread fire throughout an airplane, 
+or the skin of an airplane, you have a major problem. That's not something 
+you go back and sort through your in box and have meetings over. You 
+take immediate action. Investigators say the insulation recovered 
+so far from the Swissair crash has no fire damage. We haven't got 
+enough information or enough wreckage to make conclusions at this 
+stage. Still the FAA says it will take a second look. "Is there something 
+we can do even now?" We're doing that. We're asking those questions. 
+Today in California, airlines met with McDonnell Douglas now owned 
+by Boeing to discuss the insulation and fire issues. The company does 
+not know how many planes are still flying with the insulation on board. 
+Lisa Stark, ABC News, Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's another big losing day on Wall Street. With an unbelievable finish. 
+Beverly Schuch has the closing numbers from New York. Hi, bev. hi. 
+If you've been falling the stock market all day, you knew there was 
+a decline all day. Then the Dow staged a miraculous comeback in the 
+last 30 minutes. Despite the Dow's bounce, the overall market was 
+battered quite hard. The broader markets were all lower with the NASDAQ 
+shedding 43 point the, about 3% of its value. Financials were certainly 
+weak today. Chase Manhattan gained $1 at the end of the close. Bonds 
+also sold off in a big way. The 30-year treasury now down with 2 3/32. 
+</TEXT>
+</DOC>

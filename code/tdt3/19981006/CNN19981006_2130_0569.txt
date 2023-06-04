@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0569 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In three weeks he will be the oldest person in space. John Glenn arrived 
+for launch rehearseal today. He is practicing for a nine-day mission. 
+Glenn was the first American to orbit earth in 1962. 
+</TEXT>
+</DOC>

@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981002.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+With his neatly trimmed beard and his book-filled offices, Wesley 
+McCain, co-manager of the Eclipse Growth and Income fund, looks every 
+bit the academic. Indeed, he developed his computer-driven investment 
+strategy as an assistant professor of finance at Columbia University's 
+graduate business school. But McCain does not pine to return to the 
+ivory tower soon. ``I think I graduated from teacher to mentor,'' 
+he said. ``I don't miss institutionalized teaching at all.'' His students 
+may miss him, but their loss is investors' gain. Since its inception 
+in December 1994, McCain's fund has returned 21.9 percent a year, 
+on average, through Sept. 25, compared with 16.2 percent for its peers 
+in the mid-cap value category, according to Morningstar Inc., the 
+Chicago financial publisher. More impressive, the $103.9 million fund 
+has nicely weathered the treacherous markets of 1998. It has returned 
+2 percent so far this year, compared with a loss of 9.8 percent for 
+its category. McCain, 56, and his co-manager, Kathy O'Connor, 38, 
+label themselves ``quantitative fundamentalists.'' In quantitative 
+investing, managers rely on computer models to help them pick stocks 
+instead of, say, interviewing company executives or listening to analysts' 
+pitches. ``We visit data, not companies,'' as McCain puts it. Nor 
+do the managers rely on earnings estimates or other forecasts; they 
+use only historical and current data in their computer models. But 
+both managers still call themselves value investors. ``We look for 
+stocks that are both good and cheap,'' Ms. O'Connor said. McCain founded 
+Towneley Capital Management, sponsor of the four no-load Eclipse funds, 
+in 1971, and Ms. O'Connor joined in 1987. With the help of high-speed 
+mini-computers, the two review reams of information on more than 7,000 
+United States companies. Stocks are ranked by more than 100 measures, 
+most of them remarkably simple _ ``all basic Finance 101,'' McCain 
+said. The measures fall into two basic categories: those that uncover 
+improving operating results and those that determine relative value. 
+In the first group are basic measures like profit margin, cash flow, 
+leverage and returns on equity and assets. The co-managers then add 
+their insights to the mix, ferreting out improving results that are 
+not yet apparent to Wall Street analysts or even a company's own management, 
+McCain said. For example, a company's earnings before interest and 
+taxes may be declining; that is usually seen as a negative when it 
+comes to profitability. ``We might look at that company and say, `Margins 
+are collapsing, but asset turns are increasing, meaning that management 
+is selling off excess or slow-moving inventory,' '' he said. ``Just 
+because margins are decreasing doesn't mean a company isn't interesting.'' 
+The second type of measures, for value, includes ratios like price 
+to sales, price to book and price to cash flow. Again, simple stuff. 
+The computer then compares a company's numbers over different periods 
+with those of rivals. Unlike many other managers, McCain and Ms. O'Connor 
+set no target prices for their holdings. Typically, they hold a stock 
+for four quarters, selling only for extraordinary reasons like fraud 
+at the company. Depending on its ranking in the model after four quarters, 
+a stock may be partly or wholly sold and replaced by a stock with 
+better scores. The fund, which owns 110 stocks, in May began buying 
+shares of Lyondell Chemical, a specialty chemical company, at $21 
+to $27 a share. The operating results showed a sharp improvement. 
+Yet by McCain's standards Lyondell is very inexpensive: It sells for 
+about 1.2 times its revenue per share for the previous four quarters, 
+less than seven times its earnings for the previous four quarters 
+and for just 2.5 times book value. It closed at $21.0625 on Friday. 
+In early August, the managers bought class A shares in Food Lion, 
+the supermarket chain; among the numbers that suggested improving 
+profits were receivables, working capital and inventories. The company 
+sells for about 0.5 times its revenue for the previous four quarters, 
+while Safeway, another chain that the fund bought earlier, sells for 
+0.9 times revenue. Eclipse started buying Food Lion at $10 to $11 
+a share. It closed at $10 on Friday. 
+</TEXT>
+</DOC>

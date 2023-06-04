@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0380 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in Riverside, California, say a man opened fire in city 
+council Chambers and wounded four people this morning. The injured 
+include the mayor, two city council members and a police officer. 
+Authorities say the suspect was also shot. Police describe the suspect 
+as a former public works employee who has a wrongful termination suit 
+pending against the city of Riverside. 
+</TEXT>
+</DOC>

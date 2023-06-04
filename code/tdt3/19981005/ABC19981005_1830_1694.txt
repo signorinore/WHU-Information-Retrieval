@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981005.1830.1694 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." later, on "Nightline," 
+more on the congressional debate on impeachment. I'm Peter Jennings. 
+Have a good evening. See you tomorrow night. 
+</TEXT>
+</DOC>

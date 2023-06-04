@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0171 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If the house votes for an impeachment inquiry, a central question 
+will be -- what is an impeachable offense? Charles Bierbauer reports, 
+it's not an easy question to answer. The framers of the constitution 
+made it quite clear -- treason and bribery would be impeachable offenses. 
+They also made it murky. So would "high crimes and misdemeanors." 
+We don't know what the framers meant by "high crimes and misdemeanors," 
+and the best that we have come up with is that it means a political 
+crime. a president's offense, then, need not be criminal. You can 
+think of some things that a president or judge might do that might 
+not be strictly illegal, but might rise to the level of an impeachable 
+offense. Conducting a private war. Or perhaps lying to the Senate 
+in the course of trying to get ratification of a treaty. On the one 
+hand, that sets no bounds. On the other, that requires behavior so 
+egregious it cannot be overlooked. Richard Nixon's Watergate transgressions 
+fit the Bill. And as the impeachment process in the house built toward 
+an inevitable conclusion, Nixon resigned. But the founding fathers 
+also set a high threshold for conviction -- two-thirds of the Senate. 
+It's never been reached. Andrew Johnson remained in office in 1868 
+when the Senate fell one vote short. And Johnson was saved because 
+just enough senators crossed party lines to vote their conscience 
+in what was otherwise a political dispute. In the nation's history, 
+only seven officials -- all federal judges -- have been both impeached 
+and convicted. The impeachment process was not designed to be essentially 
+punitive. It was designed to restore the constitutional balance that 
+was somehow thrown out of whack, thrown seriously out of whack, by 
+some high-ranking public official's abuse of power. That may be why 
+an impeached and convicted official is not thrown in jail. The constitution 
+requires only removal from office. It gives the Senate the option 
+of also barring a convicted official from holding further office. 
+Charles Bierbauer, CNN, Washington. 
+</TEXT>
+</DOC>

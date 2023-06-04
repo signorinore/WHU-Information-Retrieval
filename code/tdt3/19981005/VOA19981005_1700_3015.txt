@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981005.1700.3015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Share Index ended the day down 
+102 points at 4,649. While in Paris, the Kack 40 Index was down 59 
+points at 2,980. Stocks on the Bax Index in Frankfurt were 48 points 
+lower at 3,971. 
+</TEXT>
+</DOC>

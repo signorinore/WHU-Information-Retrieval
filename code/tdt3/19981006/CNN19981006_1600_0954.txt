@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street was characterized by wild price swings once again today. 
+Blue chip stocks ending with a slight gain. The Dow Jones industrials 
+closed up about 16 points. 7742 was the level. The Dow had been up 
+154 points and down as many as 42. Winners include -- 
+</TEXT>
+</DOC>

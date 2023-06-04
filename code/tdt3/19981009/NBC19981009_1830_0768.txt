@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NBC19981009.1830.0768 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBC news "in depth." Wall Street, reeling from a global economy in 
+crisis. Your money. After getting hammered all week long, today, investors 
+apparently decided to scoop up some bargains from the wreckage of 
+the stock market. The Dow Jones industrial average rose almost 168 
+points. The NASDAQ climbed more than 73 points. For the week, the 
+Dow was up almost 115 points. But NASDAQ couldn't recover from huge 
+losses all week long and ended the week, down more than 122 points. 
+So what happens now? For some insight, we turn once again to CNBC's 
+Ron Insana. Tom, it's been one of the wildest weeks ever on Wall Street 
+with stock, bonds and the value of the dollar suffering big swings 
+day to day. Unless the federal reserve comes to the rescue quickly 
+with even lower interest rates, many investors believe in the worst 
+case scenario, the Dow could fall to the low 6000s and the economy 
+could well slide into recession. Just look at the recent damage on 
+Wall Street -- half of the stocks on the New York exchange, down almost 
+33% from their highs. And half of the stocks on the NASDAQ are down 
+a stunning 58%. The plunk in the market the last couple of months 
+is really the U.S. market catching up with the rest of the world on 
+the down side and investors beginning to worry about foreign economic 
+issues having an impact on the u.s. And the impact is reaching from 
+Wall Street to main street. Big layoffs, expected at the major investment 
+firms. Thousands of jobs will be cut and major American companies, 
+Gillette, Hewlett Packard, Raytheon, laying off thousands more. Indeed, 
+America's business leaders say it could very well get worse. In a 
+survey, 95% of them say global economic problems will hurt their companies. 
+Today's rebound in stocks was encouraging but if another hot spot 
+emerges in the global economy, then the weeks ahead could get ahead. 
+</TEXT>
+</DOC>

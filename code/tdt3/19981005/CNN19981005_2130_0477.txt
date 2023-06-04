@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0477 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the supreme court opened its new term today with several rulings. 
+in two notable decisions, the court upheld a new york city zoning 
+law used to prohibit topless dancing. the justices rejected claims 
+the 1995 ordinance discriminated against female dancers and stifled 
+erotic expression. and they said an indiana school district may continue 
+random drug testing of students who take part in extra-curricular 
+activities. several parents challenged the tests saying they were 
+an invasion of privacy. 
+</TEXT>
+</DOC>

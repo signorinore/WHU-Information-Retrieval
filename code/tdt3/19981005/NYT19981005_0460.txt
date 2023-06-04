@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981005.0460 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Tuesday, Oct. 6: As the 
+nine justices of the Supreme Court prepared to ascend the bench Monday, 
+protesters outside the building were calling attention to a collective 
+embarrassment. Of the 34 law clerks currently serving the justices, 
+they complained, 22 are white men, 11 are white women and one is a 
+Hispanic woman. There are no blacks among the group. It was a jarring, 
+if fitting, beginning for a new and potentially important Supreme 
+Court term in which issues of race, discrimination and political power 
+will loom large, challenging the conservative-leaning court to reach 
+for a new level of wisdom and sensitivity. Race is a subtext for the 
+term's most politically charged case _ a challenge to the use of statistical 
+sampling techniques needed to avoid the quadrennial undercounting 
+of minorities and poor people in the 2000 census. House Republicans 
+who brought the case are anxious to avoid increasing the political 
+power of predominantly Democratic areas. The court's task is to insure 
+a fair and accurate count. On the related subject of redistricting, 
+the court has agreed to look again at a North Carolina congressional 
+district it struck down two years ago as an unconstitutional racial 
+gerrymander. Although the revised district is more compact and now 
+has a majority of white voters, a lower court nonetheless ruled it 
+invalid. The court needs to provide guidance on the degree to which 
+legislators can take race into account in drawing district lines. 
+Another closely watched civil rights case will decide whether collective 
+bargaining agreements that provide for arbitration of conflicts bar 
+individual lawsuits against an employer for discrimination. Disallowing 
+such suits would weaken civil rights protection for many American 
+workers. The court will also hear arguments on the validity of an 
+anti-loitering law enacted by Chicago to combat street gangs. The 
+aim is sound but, as a lower court aptly noted, applying previous 
+Supreme Court rulings, the law is unconstitutionally vague and infringes 
+on the basic freedom to be on the street and associate with others. 
+A welfare case from California raises the question whether states 
+can discriminate against newcomers by granting them lower benefits. 
+There is no reason to depart from the court's principled 1969 ruling 
+invalidating complete denial of welfare benefits to newcomers as violating 
+the constitutional right to travel. Another California case concerns 
+the right of a landowner to compensation for government limits on 
+the use of his property. The outcome will offer a sign of how far 
+the court's more conservative members intend to take their crusade 
+to elevate individual property rights at the expense of the environment 
+and the ability of localities to enforce reasonable zoning rules. 
+Other important cases this term will test the court's willingness 
+_ not strong in recent years _ to protect personal privacy against 
+police incursions to search vehicles or peer through window blinds 
+in the name of fighting crime. The court should not hesitate to say 
+the Constitution does not condone the police's acting like Peeping 
+Toms. Continuing an exploration of sexual harassment issues begun 
+last term, the court has just agreed to decide the question of a school 
+district's liability for harassment of a student by another student. 
+It is hard to see how a school can avoid liability if it can be shown 
+that school officials knew of the problem and refused to intervene. 
+</TEXT>
+</DOC>

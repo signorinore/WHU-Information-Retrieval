@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The doctors know what to do, and medication is available, but researchers 
+say asthma is growing out of control. According to a survey paid for 
+by drugmaker Glaxo-wellcome, one in three children with the disease 
+were taken to an emergency room last year because of an attack. A 
+doctor of internal medicine in Chicago says physicians should spend 
+more time teaching patients about asthma, and how it can be treated. 
+</TEXT>
+</DOC>

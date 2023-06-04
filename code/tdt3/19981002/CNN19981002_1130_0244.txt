@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0244 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A turbulent day on Wall Street so far. The Dow opened with a bang 
+quickly gaining more than 5 points, but within an hour it was down 
+about 80 points. Currently it is up 5 points. Stay with us, we'll 
+have a full report at 16 minutes -- I'm sorry, in just a few minutes, 
+coming up in our "Dollars & Sense" segments. Stay with us for that. 
+</TEXT>
+</DOC>

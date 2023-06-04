@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News forecast." Heavy rainfall along the Georgia and South 
+Carolina coasts for Thursday morning due to the remnants of hurricane 
+georges. Heavy rainfall Thursday morning on the eastern slopes of 
+the Rockies. That rainfall will push its way into the southern plains 
+as a front pushes to the south. But beautiful weather over the Great 
+Lakes and northern plains due to high pressure. And a rocky mountain 
+high out west, giving Gorgeous weather there. But by Friday morning, 
+heavy rainfall is going to push into Missouri. High temperatures on 
+Thursday, much cooler due to the passage of several fronts. Generally 
+in the 50s and 60s across the country. We'll see some 90s, however, 
+along the gulf coast. Your extended forecast -- cool across the northern 
+half of the country on Friday. Heavy rain in the northwest and over 
+the southern plains. On Saturday, scattered showers and thunderstorms 
+from Iowa to Florida. Heavy rainfall, however, in the northwest. And 
+then on Saturday, we're going to see showers from the northwest to 
+the Great Lakes all the way to the gulf coast region. 
+</TEXT>
+</DOC>

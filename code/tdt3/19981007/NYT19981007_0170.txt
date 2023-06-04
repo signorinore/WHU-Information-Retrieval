@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981007.0170 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The strange red mark that kept showing up on the arms and bellies 
+of wide receivers was quickly named ``the Elway cross.'' As soon as 
+the quarterback John Elway came into the National Football League, 
+he became known for his rifle arm and rope-straight spiral. Today, 
+with a Super Bowl victory to his credit at last, Elway holds another 
+record, widely publicized by the Oddzon toy company. He has thrown 
+the finned Koosh Vortex Mach 110 more than 110 yards. Oddzon began 
+as the maker of the Koosh ball. Today, as part of Hasbro, the toy 
+giant, it belongs to the same family as Nerf, its distant rival. Together, 
+Koosh and Nerf are building better balls _ and the guns to fire them. 
+Both Nerf, the ball of one generation, and Koosh, that of the next, 
+quickly evolved into other products _ for instance, backboards and 
+hoops for closet doors. Housed in the same Silicon Valley industrial 
+park as high-tech neighbors like Zilog, the semiconductor maker, Oddzon 
+is a strange combination of off-the-wall invention and industrial 
+design. Experimental balls sail through its parking lot at lunch; 
+a few months later, they sail across kids' rooms and yards. Tom Grimm, 
+the vice president of product development, recently put out a call 
+on the Internet for Stanford design school graduates for his staff. 
+Hits in the $14 billion toy business _ two-thirds of whose products 
+are new each year _ are hard to come by. For this reason, Hasbro, 
+which just announced the closing of its last factory in Rhode Island, 
+where it has its headquarters, keeps Oddzon and Larami (the water-gun 
+people), its corporate sibling, off on their own, uncontaminated by 
+the slow product cycles of the company's older units. Oddzon will 
+soon be testing balls in a new headquarters in Napa. The company began 
+like a small electronics company, from the simple idea of the Koosh 
+ball _ named for the sound it ostensibly makes. The prototype was 
+an assemblage of rubber bands designed to teach children to play catch. 
+Then one day, an aerospace engineer named John Hunter walked into 
+the Oddzon offices with the idea for the Vortex. The Vortex is more 
+complicated than it looks. It took intensive research to figure out 
+the need for different gripping materials and the most gentle of ribbings 
+on the not-quite-symmetrical ball. The Vortex Howler added a sort 
+of whistle to the foam ball; the smaller Pocket Vortex and the Mega 
+Vortex followed. Not content with test tosses down the hall and across 
+the lot, Oddzon developed a catapult to create constant throws, hired 
+testers and even cemented thin white threads to test balls to study 
+their aerodynamics. Dr. Ilan Kroo, an aeronautical engineer at Stanford, 
+looked at ``the issue of boundary layer adhesion'' _ stall factor 
+and drag, in fancy terms. Holding test balls out the window of a speeding 
+car provided an adequate wind-tunnel substitute. The Wright Brothers, 
+after all, used a bicycle for the same purpose. The latest product 
+in the Oddzon family is the Tornado, a spring-loaded launcher for 
+rubber rings that simultaneously sail and hang when Grimm fires them 
+across the office. ``That's what we call the `wow' factor,'' he said. 
+This contrasts with the ``aspirational factor'' of a product like 
+the Vortex: be like Mike, throw like John Elway. With the Vortex, 
+I can throw a spiral every time. I couldn't replicate Elway's 110 
+yards, but with the Tornado, I achieved the promised 70-foot flight 
+almost every time. The idea for the Tornado, which the company hopes 
+will be a big Christmas hit, came from 1950s design for ring-shape 
+artillery shells, which would travel farther and straighter, thanks 
+to their aerodynamic qualities. It took months, however, to ``prove 
+the physics,'' as Grimm put it, and determine the ``spring efficiencies.'' 
+For the final product, the challenge was to find just the right spring 
+strength and wrap it all in a shape that wasn't too gunlike to turn 
+off parents _ a style Grimm calls ``swoopy doopy.'' The resulting 
+shapes are as exaggerated as the language on the box: ``awesome pinpoint 
+accuracy!'' and ``incredible distance!'' The old hard sell lives on 
+at Toys ``R'' Us. Across the country in Cleveland, Nerf has also moved 
+beyond its original ball into a line of guns that fire sponge darts 
+and disks. They bear such names as Expand-a Blast, Ratchet Blast and 
+Pulsator. Nerf and Koosh seemed poised to compete on the fun-gun battlefield. 
+Do balls lead inevitably to guns? I wondered. When I tested the Vortex 
+110, I was able to throw it only 60 yards or so. Was there a lesson 
+there? However much you improve the ball, it's the rifle arm behind 
+it that makes the difference. 
+</TEXT>
+</DOC>

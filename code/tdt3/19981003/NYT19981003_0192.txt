@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> NYT19981003.0192 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Judge Norma Holloway Johnson of the U.S. District Court has reportedly 
+appointed an outside expert to assist her inquiry into whether the 
+office of the Whitewater independent counsel had illegally leaked 
+grand jury evidence about the Lewinsky investigation. The appointment 
+was reported Saturday by Associated Press, citing unnamed legal sources 
+who said that Ms. Johnson last week secretly ordered the appointment 
+of an expert, or special master. Normally, a lawyer or law professor 
+would be appointed. The special master probably will review evidence 
+submitted by Kenneth Starr to rebut allegations that his office leaked 
+information. The special master will report to Ms. Johnson, who will 
+decide whether a penalty is required. Charles Bakaly, a spokesman 
+for Starr, and David Kendall, one of President Clinton's lawyers, 
+declined to comment. Associated Press said its sources were outside 
+Starr's and Kendall's offices. It is a violation of federal law for 
+prosecutors or their investigators to reveal information being considered 
+by a grand jury, but the law is rarely enforced. Rule 6(e) of the 
+Federal Rules of Criminal Procedure states that prosecutors ``shall 
+not disclose matters occurring before the grand jury.'' Violations 
+are considered contempt of court and are punishable by fines and even 
+prison sentences. But two law professors interviewed in February, 
+Gerald E. Lynch of Columbia University and Sara Sun Beale of Duke 
+University, said they knew of no instance in which a prosecutor was 
+charged with violating the rule. Clinton's lawyers have long complained 
+about the leaks. Paul Begala, a senior adviser to Clinton, said in 
+February: ``When I see story after story that cites sources close 
+to the investigation, I think it's fair enough to call into question 
+that someone somewhere is leaking information. And I'm pretty sure 
+it's not the president's lawyers.'' 
+</TEXT>
+</DOC>

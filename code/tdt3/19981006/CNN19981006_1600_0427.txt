@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Residents can go home, but 1,500 firefighters are still battling wildfires 
+in southern California. One firefighter and an air tanker pilot have 
+already died fighting the flames. Five structures have been destroyed. 
+Two fires started yesterday about 90 miles east of Los Angeles. Santa 
+Ana winds quickly whipped up the flames, and soon both merged into 
+a 24,000 acre inferno. Residents of banning were evacuated, but later 
+returned after the winds calmed. 
+</TEXT>
+</DOC>

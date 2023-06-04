@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0159 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal reserve chairman Alan Greenspan is putting Americans on notice 
+-- the strong economy they've grown to know and love won't last forever. 
+Speaking to a meeting of business economists, Greenspan said losses 
+in the stock market, and the shaky global economy, are bound to slow 
+growth. He predicted a decrease in personal spending and a slowdown 
+in the real estate market. He hinted the fed may cut interest rates 
+again. Greenspan emphasized the U.S. economy still is in reasonable 
+shape. We are clearly facing a set of forces that should be dampening 
+demand going forward to an unknown extent. In particular, a marked 
+shift in investor psychology away from risk and toward liquidity and 
+safety has exacerbated the problems in foreign markets, where deflationary 
+forces remain virulent and has spread to the financial markets in 
+the United States. We do not know how far it will go or how much it 
+will affect consumer and business spending here at home. This is a 
+time for monetary policy to be especially alert. Greenspan cautions 
+that the financial markets cannot function efficiently under conditions 
+of uncertainty and fear. 
+</TEXT>
+</DOC>

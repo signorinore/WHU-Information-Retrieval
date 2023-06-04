@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981005.1830.1027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+While we're on the subject of children, here's a fascinating item 
+about chewing gum and breath mints. A new study finds that a sugar 
+substitute may help prevent ear infections in young children. Xylitol 
+in it, had fewer -- and in children who did develop ear infections, 
+xylitol greatly reduced the need for ant botics. 
+</TEXT>
+</DOC>

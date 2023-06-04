@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.2130.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+ford, meanwhile, saw an increase in sales, up 4% last month. ford 
+says it will dramatically step up production for the fourth quarter. 
+</TEXT>
+</DOC>

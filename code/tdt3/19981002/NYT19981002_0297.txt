@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> NYT19981002.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After plunging the last two days, stocks rallied Friday. But the recovery 
+may be no more than the expected rebound after a long fall. Although 
+the Dow Jones industrial average rose 152 points, it had plunged 448 
+points on Wednesday and Thursday and ended the week lower, breaking 
+a three-week rally. Friday's surge was led mostly by the stocks that 
+had fallen the previous two days. And the forces that are pushing 
+stocks lower have not gone away: financial crises abroad, declining 
+earnings expectations at home and uncertainty about what the United 
+States and its allies will do to contain the situation. The selloff 
+on Wednesday and Thursday, according to some analysts, was prompted 
+by disappointment in the Federal Reserve's decision to limit its cut 
+in interest rate to a quarter of a percentage point, instead of a 
+half. Now some analysts are saying the market rallied Friday on the 
+expectation of further rate cuts by the central bank. Alfred Goldman, 
+the director of market analysis at A.G. Edwards Inc. in St. Louis, 
+had a simpler view. ``The market was oversold and bargains showed 
+up,'' he said. The September employment report, released Friday, showed 
+that job creation was less than forecast, signaling an economic slowdown. 
+That report raised expectations for further Fed rate cuts, which could 
+encourage equity investors because lower short-term interest rates 
+would help prevent a recession. But the slowdown in growth could also 
+create more earnings problems in the short term for American companies, 
+which would be a negative for equities. On a day when the stock market 
+rallied, bond prices moved higher, which also may be a negative. On 
+most days recently, when the stock market has risen, it has drawn 
+investors out of the bond market, pushing bond prices lower and their 
+yields, which move in the opposite direction, higher. But Friday's 
+bond rally may mean that many investors remain worried about the economic 
+outlook and skeptical that a stock market rally can last long enough 
+to be worth joining. The near-failure of Long-Term Capital Management, 
+the hedge fund, has caused such nervousness, said Ward McCarthy, a 
+managing director at Stone &AMP; McCarthy Research Associates in Princeton, 
+N.J., that some people believe there are only two assets to invest 
+in: Treasury securities and everything else, which is too risky. The 
+30-year bond yield dropped to 4.84 percent Friday, the lowest for 
+long-term government securities in more than 30 years. The Dow jumped 
+152.16 points, or 2 percent, to 7,784.69, while the Standard &AMP; 
+Poor's 500-stock index rose 16.21 points, or 1.6 percent, to 1,002.60. 
+The market indexes were led higher by stocks like Coca-Cola, which 
+have recently fallen after warning that their earnings would be lower 
+than forecast, and by financial stocks, which had been hurt by fears 
+of the fallout from Long-Term Capital. Coca-Cola rose 2 11/16, to 
+58 15/16; Citicorp climbed 6}, to 95, and Bankers Trust finished 2] 
+higher at 57 7/16. Oil stocks also rose. The Nasdaq index, which is 
+dominated by big technology stocks, rose 2.65 points, or two-tenths 
+of 1 percent, to 1,614.98. It was held back by sharp falls in Peoplesoft, 
+which fell 8 3/16, to 24 5/15, and BMC Software, which dropped 6[, 
+to 51~. Peoplesoft makes software used to track personnel and inventories 
+and is facing stiff competition in a market that is being hurt by 
+slowing growth. BMC, a maker of corporate management software, may 
+have been hurt by fear of fallout from that market. The Russell index 
+of 2,000 smaller-company stocks fell 0.33 point, or 0.9 percent, to 
+349.71, indicating that the rally Friday focused on the bigger-name 
+companies that have drawn investor attention all year. One of the 
+big decliners was Monsanto. It plunged almost 15 percent before rallying 
+to close at 52, down 2[, on rumors that the company's pending acquisition 
+by American Home Products was collapsing. Analysts said investors 
+had become suspicious of the deal's closing after American Home Products 
+repeatedly delayed the release of the deal's proxy statement. American 
+Home Products said Friday that the acquisition was still on track. 
+As investors look ahead, the key to the outlook seems to be what the 
+United States and its allies will do to try to contain the economic 
+crisis that has toppled Asia and engulfed Russia and now menaces Latin 
+America. To that end, President Clinton announced a series of initiatives 
+Friday that coincide with the semiannual meeting of the International 
+Monetary Fund and the World Bank in Washington. Goldman of A.G. Edwards 
+argued that one of the sparks for Friday's rally was the approval 
+of bank reform legislation in Japan, a key part of any program to 
+turn around the Japanese economy. There are two obvious paths from 
+here. Both seem to be positive for bonds. One is not good for stocks. 
+Under the first scenario, there would be more money for the IMF; a 
+provisional rescue package for wobbling countries in Latin America, 
+and more international cooperation, reassuring investors that the 
+contagion can be contained. Although contained, the economic drag 
+from the recessions in much of the rest of the world would still force 
+the Fed to lower interest rates further. That would be good for bonds 
+and could stabilize stocks. Alternatively, there would be no rescue 
+package for Latin America and no new money for the IMF. That would 
+put more pressure on the Fed to cut rates. This would not be good 
+in the near term for stocks, as it would encourage fears that the 
+crisis might spread to Latin America and finally the United States. 
+But a new flight to safety and prospect of much slower growth here 
+would send bond prices higher and yields lower. 
+</TEXT>
+</DOC>

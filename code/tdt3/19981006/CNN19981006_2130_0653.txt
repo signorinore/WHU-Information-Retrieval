@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0653 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some Americans may find themselves ill-equipped to judge the many 
+candidates and political issues come election time. In this edition 
+of tech trends, Ann Kellan reports on a new way to prepare. Negative 
+political ads like these -- This smelled like government waste to 
+me. My opponent things the job is done. Hey Al, stop messing with 
+my Medicare. He said he wouldn't take special interest money. May 
+be all you get on some candidates or issues. But starting this week 
+through November 3rd, a new non-profit web site called web, white 
+and blue can help you find out more. This icon appears at a number 
+of popular web sites including Yahoo!, AOL, excite and CNN interactive. 
+What you do is double click on that icon. It takes you to the web, 
+white and blue site. From there, you can go to dozens of other web 
+sites -- some giving you information about candidates and issues. 
+If what you want is information on the New York Senate race, you click 
+onto New York. You get the Senate race, and you can get all the information 
+you want about that race. One of my favorite features is the fact 
+you can enter your address or your zip code and through that find 
+out who represents you in these different races. According to political 
+scientist Michael rich, people with higher income and education will 
+likely have Internet access to this information, others may not. Further 
+polarizing those that have information and those who don't. It's not 
+clear yet whether it going to result in more people voting. Organizers 
+hope by putting this icon on a broad spectrum of web sites from ESPN 
+sportszone to Hispanic online, it will jump start nonvoters to get 
+out and vote. Ann Kellan, CNN, Atlanta. 
+</TEXT>
+</DOC>

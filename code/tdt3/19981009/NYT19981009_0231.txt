@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981009.0231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Peter de Jager enjoys kidding about his unlikely emergence as the 
+Paul Revere for the year-2000 computer crisis. ``I'm not very good 
+on dates,'' de Jager says with a laugh, explaining how he cannot recall 
+when he bought his aging Ford Explorer or how long he has lived in 
+his modest split-level home in this Toronto suburb. ``Antoinette,'' 
+he calls to his wife. ``When did we move here?'' But it has been a 
+long time, since de Jager, a former computer programmer, has joked 
+about how computers handle dates. His voice was not the first to warn 
+that the world was sitting on a computer time bomb that could explode 
+at the dawn of 2000. But it was an essay he wrote five years ago titled 
+``Doomsday 2000'' for the trade magazine Computerworld that is widely 
+regarded as the information-age equivalent of the midnight ride of 
+Paul Revere, as the alarm that stirred the industry into taking the 
+year-2000 menace seriously. ``We and our computers were supposed to 
+make life easier; this was our promise,'' de Jager wrote. ``What we 
+have delivered is a catastrophe.'' The problem, of course, is that 
+many computers and software programs recognize years by only their 
+last two digits _ and, with the shift of centuries, they may identify 
+``00'' as 1900 or not recognize it at all. The resulting miscalculations 
+and malfunctions could disrupt banking, telephones and virtually any 
+other service industry. Since then, de Jager has become something 
+of a folk hero in his crusade to publicize the problem. He figures 
+that he averages more than five interviews a day, and his goal this 
+year was to cut back his commitments so he could at least be home 
+on weekends. ``It's lonely on the road,'' said de Jager, the father 
+of two teen-age sons. He said he could not shake his regret at missing 
+the funerals of his brother in 1996 and his father this year. ``I'm 
+as close to burnout as you can get without seeing charred edges,'' 
+he said. There are benefits, of course. De Jager, 43, earned a six-figure 
+income last year for the first time. Having bumped his standard speaking 
+fee to $7,000 from $4,000, he stands to do even better this year. 
+De Jager, who had moved up from his programming duties to jobs in 
+systems management and giving speeches on managing technology before 
+encountering year-2000 fame, acknowledges that his new status also 
+has its rewards. He has lectured the world's central bankers in Basel, 
+Switzerland, on the perils of inaction, rubbed shoulders with powerful 
+chief executives at the World Economic Forum in Davos, Switzerland, 
+and gained access to leading politicians in Washington and other capitals. 
+His name is on the stock index of software companies that make much 
+of their money from year-2000 business, and his three-year-old Web 
+site (year2000.com) is a focal point of news and discussion about 
+the problem. ``It's an adventure I'll be able to talk to my grandchildren 
+about,'' he said. And yet, in an age when getting rich _ the faster 
+the better _ seems to be the operating principle in most businesses, 
+de Jager is leading the modest life style of someone who expects celebrity 
+to be fleeting. His nondescript three-bedroom ranch home, chosen for 
+its proximity to the Toronto airport, sits deep in a crowded subdivision. 
+He bought a similar house across the street to use as an office. The 
+de Jagers recently bought a vacation getaway _ not a beachfront mansion 
+in Miami but rather a 77-acre farm that is a 45-minute drive from 
+home. De Jager is no longer surprised by insinuations that he is trying 
+to cash in on his fame _ but he continues to be upset by them. ``I 
+don't own a single share of any year-2000 stock,'' he said, referring 
+to software and consulting companies that deal with the problem. ``In 
+seven years of speaking, I've never mentioned a vendor from the stage, 
+and I could easily have made a million dollars by endorsing something.'' 
+A large, bearded man who seems to draw energy from a podium, de Jager 
+made public speaking a full-time job in 1993 after discovering a talent 
+for boiling things down to simple metaphors and pithy pronouncements. 
+``He's a contrarian by nature, and he's garrulous,'' said Dennis Eskow, 
+a journalist in 1989 when he first met de Jager, then the head of 
+information technology at a Canadian clothing company. ``With a slightly 
+different sensibility, he could be a stand-up comic.'' Lately, de 
+Jager has been annoying many former allies by chastising audiences 
+for moving ``straight from denial to defeatism.'' He has been predicting 
+that the year-2000 bug will turn out to be disruptive but not necessarily 
+disastrous. Businesses and governments can avert an electronic Armageddon, 
+he preaches, if they will press ahead with efforts to upgrade computers 
+and figure out contingency plans. Sometimes you can get by with ``steppingstones 
+instead of a bridge,'' he has been saying. De Jager was born in South 
+Africa, but his family moved among that country, his mother's native 
+Ireland and Canada before settling in Canada in 1971. All that ``made 
+me someone very cognizant of change and what goes into problem-solving,'' 
+he said. So how does de Jager plan to spend New Year's Eve 1999? He 
+has received a stream of invitations to events large and small that 
+would either celebrate the industry's victory over the year-2000 threat 
+or wallow in its defeat. But he says he intends to be sitting with 
+his family at O'Connor's, a popular pub for Irish musicians in Doolin, 
+County Clare, where his mother lives, slaking his thirst and playing 
+the bodhran, a goatskin drum. ``I'm not very musical, but I can keep 
+time,'' he said. 
+</TEXT>
+</DOC>

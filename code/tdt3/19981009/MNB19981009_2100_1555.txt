@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> MNB19981009.2100.1555 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now to look at the weather forecast across the nation. We go 
+to WNBC television in New York and meteorologist Janice huff. Hi, 
+Brian. Most of the nation is dry tonight. But across the northeast, 
+an area of low pressure continues to spin and spin, and heavy rain 
+now across parts of eastern Pennsylvania and over New England. Down 
+to block island, long island, two to three inches of rain. Temperatures 
+in the 50's right now in Seattle, 62 at lake Tahoe. Earlier today, 
+were you at 20 degrees this morning, it was very chilly there. 40's 
+across the heartland and parts of the midwest, Ohio valley. South 
+Florida into the 80's tomorrow. 70's from North Carolina over towards 
+St. Louis. 70's and 80's for most of California. Los Angeles, 74 high 
+tomorrow. Phoenix, 94. A few showers in Seattle. Boston, another rainy 
+day. The jet stream tomorrow will allow more cool air to build across 
+the Rockies. Snow in the higher elevations. Cool air in the northeast 
+by Monday. Thunderstorms across Florida Monday. Windy and warm across 
+southern California. That's the weather around the nation. Thanks. 
+</TEXT>
+</DOC>

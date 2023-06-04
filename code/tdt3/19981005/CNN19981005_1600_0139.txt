@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0139 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay tuned to "Headline News" throughout the day and evening for the 
+latest information coming out of the Judiciary committee meeting. 
+</TEXT>
+</DOC>

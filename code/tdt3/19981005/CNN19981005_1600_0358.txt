@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+China signed a key human rights treaty today at the United Nations. 
+The international treaty guarantees freedom of expression and religion, 
+a fair trial and protection against torture and arbitrary arrest. 
+The U.N. high commissioner for human rights welcomed the signing, 
+but said it would take more than just words to prevent abuses. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0648 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Have you found yourself doing any California dreaming in these early 
+days of autumn? When a study in "psychological science" asked nearly 
+2,000 college students from the midwest and California about quality 
+of life, both groups predicted those living in the golden state would 
+be happier. They were then asked to rate their own satisfaction. It 
+turned out those living in Ann arbor, Michigan, or Columbus, Ohio, 
+were just as happy as students in sunny Los Angeles or Irvine, California. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981008.2000.1619 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In other financial news, on Wall Street this time, the Dow Jones Industrials 
+closed down ten points to 7732. The NASDAQ closed down also, 43 points 
+to 1419. 
+</TEXT>
+</DOC>

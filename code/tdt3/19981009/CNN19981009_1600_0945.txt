@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has been busy today, too, attending a ceremony honoring 
+top police officers, then meeting with Germany's chancellor-elect. 
+Meanwhile, the house Judiciary committee won't begin its impeachment 
+inquiry until after elections. 
+</TEXT>
+</DOC>

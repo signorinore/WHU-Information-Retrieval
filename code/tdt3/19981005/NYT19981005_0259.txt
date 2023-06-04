@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> NYT19981005.0259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+This ancient university town, with its winding streets and medieval 
+grandeur, has contrived to earn its place on maps of the contemporary 
+world, too. Ever since the structure of DNA was discovered here in 
+1953, Cambridge has been a leading world center for molecular biology. 
+And with the help of a recent bonanza from a long dead American pharmacist, 
+Cambridge scientists have become leading players in the effort to 
+decipher the human genome. At least one-third, and maybe half, of 
+the 3 billion DNA units in the genetic programming of human cells 
+are to be deciphered at the Sanger Centre in the nearby village of 
+Hinxton. The Sanger Centre has produced more human DNA sequence than 
+any of the seven American universities supported by the National Institutes 
+of Health as part of its human genome project. The center's director, 
+John E. Sulston, a biologist with a gentle voice and a heavy thatch 
+of white hair, is unusual for a scientific administrator in that he 
+still spends much of his time working in the laboratory. He is best 
+known for having traced the exact lineage in which the single egg 
+cell of the roundworm Caenorhabditis elegans gives rise to the 959 
+cells of the adult, a feat which took nearly 10 years of patient microscope 
+work. Sulston and his principal financial backer, the Wellcome Trust 
+of London, wield a certain influence in the human genome program run 
+by the National Institutes of Health, with which they are allied in 
+an international consortium. In May, when the NIH seemed inclined 
+for a few days to let a new commercial venture take over human DNA 
+sequencing, Sulston and Michael Morgan, the Wellcome Trust's program 
+officer, declared that the human genome had to be in the public domain 
+and that if the NIH dropped out they would sequence it all themselves. 
+The NIH quickly regained its nerve. Money and tradition are two pillars 
+of the Sanger Centre's prominence. The money comes from the Wellcome 
+Trust, a long dormant London philanthropy founded by an American pharmacist, 
+Henry S. Wellcome, who moved to Britain in 1880. Enjoined by Wellcome's 
+will never to sell any part of its major asset, the pharmaceutical 
+company Burroughs-Wellcome, the trust was for years unable to translate 
+its growing wealth into real income. The trustees recently sidestepped 
+this restriction at a time when the company had struck gold with AZT, 
+the anti-AIDS drug, and other medicines. Sale of the company furnished 
+the trust with an endowment currently worth $17 billion, making it 
+the world's largest medical research philanthropy. The Wellcome Trust 
+has spent $120 million to build a Genome Campus at Hinxton, and has 
+committed $350 million more to the Sanger Centre for sequencing the 
+human genome. The center's interest in sequencing the human genome 
+can be traced, in a long but unbroken thread, to the discovery of 
+DNA, deoxyribonucleic acid, by James Watson and Francis Crick. At 
+the Cambridge Laboratory of Molecular Biology, Crick, with his colleague 
+Sydney Brenner, turned to determining how the genetic message is encoded 
+in DNA. With that task complete, the two men decided the brain was 
+the next biological problem worthy of their attention, and Brenner 
+resolved to crack the nervous system of the microscopic roundworm, 
+C. elegans. That enterprise did not work out. The wiring diagram of 
+the little creature's nervous system turned out to have 5,000 connections, 
+far too many for its behavior to be computed, as Brenner had hoped. 
+But the cadre of students, many of them American, whom Brenner recruited 
+to work on the worm, began to transform C. elegans into a powerful 
+pilot project for understanding for the first time how an animal is 
+put together at the level of its genes. A major step toward this goal 
+was taken by Sulston one of Brenner's English students. After drawing 
+his famous lineage map of how C. elegans is constructed from an egg, 
+Sulston decided to determine the position of the worms' genes on their 
+chromosomes, a task known as mapping. The map that he and others devised 
+soon pointed to the concept of sequencing the worm's DNA. The method 
+for sequencing, or determining the order of the chemical units in 
+DNA, was devised by another Cambridge scientist, Fred Sanger, after 
+whom the Sanger Centre is named. The DNA sequencing method won him 
+his second Nobel Prize in 1980. (The first was for sequencing proteins). 
+But Sanger's DNA method was manual, and its speed was such that it 
+would have taken 1,500 scientists working for a century to decipher 
+the human genome. When machines for sequencing DNA became available, 
+based on an elegant adaptation of the Sanger method, Sulston and his 
+colleague Alan Coulson believed it might be possible to sequence the 
+full genome of the worm. With 100 million base pairs of DNA, its genome 
+is a 30th of the size of the human genome. Sulston and Coulson started 
+the worm sequencing project in 1990 in collaboration with Robert H. 
+Waterston, another of Brenner's worm students who is now director 
+of the Genome Sequencing Center at Washington University, St. Louis. 
+It was only after the worm genome project proved manageable that they 
+and other biologists gained the confidence to propose sequencing the 
+human genome. Scientists who study the worm have a strong ethos of 
+sharing their techniques and data, an attitude that Sulston and Coulson 
+did much to foster through their development of the worm's genetic 
+map. They and Waterston have tried hard to inject the same community 
+attitude into study of the human genome, though it is a field turbulent 
+with larger egos and the brusque manners of those who see fortunes 
+to be made. The Sulston-Waterston alliance has quietly generated the 
+bulk of all DNA sequenced to date, being the most productive sequencers 
+of both worm and human DNA. But the two centers' steady progress on 
+the human genome was suddenly put at risk in May when a commercial 
+rival jumped into the genome race, contending it would complete the 
+job in two years. The rival was a company formed by the instrument 
+maker Perkin-Elmer and J. Craig Venter, the pioneer of sequencing 
+of bacterial genomes. If their effort, now named Celera, were to finish 
+first, the public programs paid for by the Wellcome Trust and the 
+National Institutes of Health might seem wasted effort. Sulston said 
+he firmly believes that Celera will not produce a DNA sequence of 
+the completeness and accuracy that scientists need. ``The truth of 
+the matter is that the Perkin-Elmer enterprise needs to make a profit, 
+the public needs a structure that will serve biomedical research for 
+the rest of time,'' he said. ``So my main reaction is to make sure 
+that whatever happens in that company doesn't derail that objective. 
+Humanity will be the poorer if it does.'' Throwing down the gauntlet 
+to Venter, Sulston and Waterston said in the current issue of Science 
+that their rival's strategy for sequencing the human genome was likely 
+to prove ``woefully inadequate'' because of its probable inability 
+to distinguish between the many regions of similar DNA sequence. On 
+the other hand new advances have ``removed doubts about the feasibility'' 
+of their own approach, they said. nn 
+</TEXT>
+</DOC>

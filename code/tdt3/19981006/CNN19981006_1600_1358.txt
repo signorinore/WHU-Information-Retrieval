@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.1600.1358 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Penn and teller are turning the trick for the fx network. Dennis Michael 
+has that and more, in this "Hollywood Minute." This is Dennis Michael 
+with the "Hollywood Minute." 
+</TEXT>
+</DOC>

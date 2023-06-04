@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street worries that the global financial turmoil may be headed 
+its way. 
+</TEXT>
+</DOC>

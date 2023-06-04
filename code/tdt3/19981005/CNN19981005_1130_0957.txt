@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The losses accelerate on Wall Street. Let's get the latest numbers 
+from Valerie Morris at the CNN Financial News room. Stocks are getting 
+slammed across the board. That's pretty much the picture. Technology 
+stocks suffering some of the worst losses pushing the marks lower 
+steep declines in markets overseas especially in Japan. The Dow Jones 
+taking back much of Friday's surge. The Dow is down almost 146 points. 
+IBM is leading the Dow's downturn. Shares of big blue tumbling 5 13/16 
+at 119. The broader markets are all lower with the NASDAQ composite 
+plunging 85 points. Among the tech stack stocks that are weighing 
+on that index -- 
+</TEXT>
+</DOC>

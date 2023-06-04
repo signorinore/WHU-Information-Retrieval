@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981006.0342 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Advanced Micro Devices Inc. reported an unexpected return to profitability 
+in its third quarter Tuesday, helped by strong sales of the company's 
+K6-2 microprocessor. It was the second chip company to provide an 
+unanticipated bit of good news about earnings, a possible sign of 
+a rebound in the chip industry. Motorola Inc. reported better-than-expected 
+earnings Monday. Advanced Micro officials said the K6-2, which offers 
+similar performance to Intel Corp.'s Pentium chips but at a lower 
+price, was being used in the majority of personal computers selling 
+for under $1,000. They said PC manufacturers appeared to have worked 
+through an inventory glut, which had depressed microprocessor sales 
+in previous quarters. Sales of non-microprocessor products were flat, 
+they said. Advanced Micro, which had not expected to make money in 
+the quarter, reported results after the close of the market. Advanced 
+Micro shares closed at $19.88, up $1.50, on the New York Stock Exchange. 
+Motorola shares also rose Tuesday after the company said late Monday 
+that chip sales would rise next year and that it was on track to meet 
+fourth-quarter earnings estimates. Motorola said it expected chip 
+sales to increase 7 percent to 9 percent worldwide in 1999, compared 
+with an 11 percent drop in 1998. Mark Edelstone, an analyst with Morgan 
+Stanley, said the positive reports from Advanced Micro and Motorola 
+were evidence of a turnaround in the chip industry, particularly for 
+those companies that supply personal computer manufacturers. ``Motorola 
+reported orders up 5 percent from the previous quarter,'' he said. 
+``Motorola has not reported sequential order growth in the third quarter 
+in any other year this decade.'' For AMD's third quarter, which ended 
+Sept. 27, the company earned $1 million, or 1 cent a diluted share, 
+compared with a loss of $31.7 million in the comparable period a year 
+ago. Sales increased 15 percent, to $685.9 million, from $596.6 million 
+in the third quarter of 1997. Analysts surveyed by First Call Corp. 
+had expected Advanced Micro to post a loss of 11 cents a share. ``We're 
+seeing a strengthening of the market worldwide in PCs,'' said AMD 
+chairman and chief executive W.J. Sanders in a telephone conference 
+call with securities analysts. ``The worst is behind us. We're gaining 
+market share because of the superior technology we have.'' Sanders 
+quoted a report by PC Data, a market research firm in Reston, Va., 
+which said systems powered by AMD-K6 family processors captured 31 
+percent of the total U.S. retail market for desktop systems in August, 
+the latest period for which data were available. In the rapidly growing 
+market for sub-$1,000 systems, PCs powered by AMD-K6 family processors 
+captured a 54 percent market share, the highest penetration the company 
+has yet achieved. Edelstone said that on a global basis, Advanced 
+Micro's share of the total microprocessor market was in the low teens, 
+and that the company shipped about 4 million microprocessors in the 
+quarter, compared with about 23 million for Intel. But he said Advanced 
+Micro had gained share and would continue to do so at least in the 
+near future. ``We think they will continue to take share in the fourth 
+quarter,'' he said. ``Then the question is will they have the necessary 
+infrastructure,'' to support new products in 1999. AMD also said Tuesday 
+that Sony Corp. planned to use its K6-2 microprocessor in new Vaio 
+computers to be introduced later this month in Japan. The new Sony 
+Vaio Combo will feature the K6-2 350 megahertz processor that has 
+enhanced audio and video technology, Advanced Micro said. It is the 
+first time Sony has used an Advanced Micro K6 chip. 
+</TEXT>
+</DOC>

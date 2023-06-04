@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> PRI19981002.2000.0117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The nation's unemployment rate edged slightly higher in September 
+as job creation slowed. The Labor Department said the jobless rate 
+rose to 4.6 percent. A federal separate report showed that non-farm 
+payrolls grew by only 69,000 last month. That's the slowest rate of 
+growth in almost three years, and it's down sharply from August when 
+new jobs increased by 309,000. Katherine Abraham, the commissioner 
+of Labor Statistics, said the weak job growth reflects an unusually 
+small increase in service jobs and job losses in manufacturing in 
+construction. 
+</TEXT>
+</DOC>

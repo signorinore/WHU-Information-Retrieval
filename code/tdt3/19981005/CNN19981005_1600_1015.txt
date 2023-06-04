@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981005.1600.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An airline alliance pays off double for passengers of a shuttle service. 
+U.S. airways and American airlines say they're both giving northeast 
+shuttle service passengers frequent-flyer miles for a single flight. 
+Customers taking U.S. air's shuttle connecting New York to Boston 
+and Washington can now earn miles on the frequent-flyer programs of 
+both companies. So instead of the 500 miles passengers used to get, 
+they can now earn a total of 1,000. 
+</TEXT>
+</DOC>

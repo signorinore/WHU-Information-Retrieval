@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981005.1830.0581 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Gambling analysts in Nevada report today that thanks to the Asian 
+crisis, casino profits are down. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1600.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is scrutinizing some fees that boost your long-distance 
+Bill. The federal communications commission is considering lowering 
+so-called "access fees" charged by local phone carriers to connect 
+long-distance calls. The fees are passed along to customers and make 
+up about 40% of a monthly long-distance Bill. Some local phone companies 
+argue that lowering the fees would lead to increased local rates. 
+</TEXT>
+</DOC>

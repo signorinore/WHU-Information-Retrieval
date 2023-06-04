@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the House of Representatives has voted 
+to begin an impeachment inquiry into President Clinton. Mr. Clinton 
+says he hopes the process will be constitutionally fair and timely. 
+House Judiciary committee chairman Henry Hyde says no hearings will 
+take place until after the November elections. 
+</TEXT>
+</DOC>

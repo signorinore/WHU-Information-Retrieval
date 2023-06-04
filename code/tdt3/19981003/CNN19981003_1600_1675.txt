@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981003.1600.1675 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories in two minutes. I'm Kate snow. This is "Headline News." 
+</TEXT>
+</DOC>

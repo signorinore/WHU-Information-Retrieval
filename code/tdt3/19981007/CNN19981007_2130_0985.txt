@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+AT&T is hoping it and its customers will get lucky with its newest 
+Venture. The telecommunications giant has started the "lucky dog" 
+phone company, a new long distance service that lets people make less 
+expensive calls by dialing extra digits. And one that offers customers 
+prizes, like airline tickets and TVs. AT&T wants to compete with other 
+dial-around services. It decided not to use its own name, though, 
+for fear it would lose its existing customers. 
+</TEXT>
+</DOC>

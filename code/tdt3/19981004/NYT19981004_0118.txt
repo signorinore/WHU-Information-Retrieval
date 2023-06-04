@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981004.0118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When Jeff Stewart started Square Earth, a company based in New York 
+that develops World Wide Web applications for Fortune 500 companies, 
+he knew that managing cash flow would be almost as important as getting 
+business. As a former consultant with Ernst &AMP; Young's financial 
+services division, he knew how large companies operated, and realized 
+that collections, and thus cash flow, would be a problem. ``The bigger 
+the company, the longer it takes to get paid,'' he said. Painfully 
+late payments _ the dirty little secret of running a small technology-based 
+company, especially one catering to Fortune 1000 companies _ are a 
+major problem for many of New York's ``Silicon Alley'' companies. 
+While most vendors expect small businesses to pay outstanding bills 
+within 30 days _ not one day later _ small companies often find themselves 
+struggling to get paid by companies with vast accounting departments 
+where no one seems accountable. Square Earth was acquired in January 
+by Proxicom, based in Reston, Va., and Stewart now serves as marketing 
+director for Proxicom's financial services practice. Making payroll 
+is no longer his responsibility, but from day one as chief financial 
+officer of Square Earth, he had a systematic, methodical, nearly obsessive 
+strategy for collecting his receivables, which ranged from $50,000 
+to $300,000 per invoice. ``We would structure the deal to allow us 
+to invoice as quickly as possible,'' he recalled. ``We would cut invoices 
+on time. The invoice would be constantly monitored. We would follow 
+up three days after we sent the invoice out to make sure it was received. 
+On day 15, we would follow up again, and on day 28, we'd make sure 
+it was being processed.'' Stewart concedes that this vigilance did 
+not always expedite an invoice, but it did let him know where things 
+stood. ``Our invoices were payable on demand,'' he said. ``So if the 
+company normally paid in 200 days, well, then we'd get paid on day 
+200. I don't think they noticed what our terms were.'' As the company 
+grew, Stewart secured a credit line from Silicon Valley Bank East 
+that he described as ``critical to our growth.'' ``It wasn't such 
+a big risk for Silicon Valley Bank,'' he said, ``because all of our 
+customers were Fortune 500 companies, so the bank knew it was going 
+to get paid.'' Credit lines, however, are hard to come by. For instance, 
+Silicon Valley Bank East generally only grants them to technology 
+companies that already have venture backing or some other investor 
+support. ``Square Earth was already generating decent revenues,'' 
+said Doug Marshall, the bank's vice president. ``They were at a break-even 
+point and had an angel investment,'' referring to financial backers 
+who provided seed money. Ben Boissevain, managing director of E-Technologies 
+Associates, a firm that helps technology companies raise money, says 
+that while it is not impossible to get a credit line, the opportunity 
+costs are high. ``Sometimes it's just easier to get venture funding,'' 
+he said. For clients who pursue a credit line, Boissevain suggests 
+opening personal and business accounts at the bank, getting to know 
+the loan officer by name, talking to him or her about the business, 
+and then eventually asking for a small credit line. ``It's a step-up 
+process,'' he said. ``The banker needs to trust you as an individual.'' 
+Marc Suzdak, formerly general manager and co-founder of a New York-based 
+Web design company, Oculus Interactive, applied the personal approach 
+to his collection process. When IBM became an Oculus client, Suzdak 
+found out who could push the button to get a check cut and then made 
+it a point to develop that relationship. ``It's a client relationship 
+people generally overlook completely,'' he said. ``Late payment can 
+be the death of a small business.'' Through a series of phone calls 
+and a strategy of respect and courtesy, Suzdak got to know the button 
+pusher as a friend, and vice versa. IBM owed Oculus anywhere from 
+$25,000 to $50,000 at any given time, and ``our checks came in on 
+time, sometimes overnight,'' he said. ``Just like in anything else, 
+people take care of people who they like.'' Oculus was sold last June 
+to Blair Lake New Media, and Suzdak is now with a Web development 
+software firm, Arcus. He never met his phone friend at IBM. Stephen 
+King's company, Virtual Growth Inc., has served as a bookkeeping and 
+accounting service for 150 Silicon Alley companies. In addition to 
+standard accounting services, the firm handles billings and collections. 
+King often finds himself doling out advice to managers in positions 
+similar to those of Stewart and Suzdak. ``We recommend to our clients 
+that they clearly understand the chain of command when dealing with 
+larger companies,'' he said. ``Where does the invoice have to go before 
+it gets paid? What's the process? They need to find out the time-frame 
+for payment. What is the minimum amount? If it's going to take too 
+long, we advise them to bill a month in advance and to build that 
+into the contract.'' Collections are difficult for any size business. 
+Invoices are lost. Someone is waiting on an approval of an approval. 
+The guy who signs the checks is on vacation. Sometimes, the customer 
+simply knows he can draw the vendor out because the vendor needs the 
+business and is not going to jeopardize the account. Large corporations 
+can manage all these problems with entire departments dedicated to 
+collections and bankers at their heels. But what small companies have 
+are overdue notices from their insurance companies, employees waving 
+deposit slips on the 15th and 30th, and late-payment fees adding up 
+on their personal credit cards. So the entrepreneur must find creative 
+ways to circumvent the issue, learning how to manage not only his 
+company's cash flow but those of its clients. Now safely ensconced 
+in an established company and with a direct-deposited salary, Stewart 
+has the luxury of reflecting on the early days. ``When you're eight 
+to 10 employees, you can max your credit card out to make payroll,'' 
+he said. ``But once your payroll exceeds your life savings, you know 
+things are getting serious. That's when you think about paying the 
+bills constantly. It's on your mind when you go to sleep at night 
+or when you're brushing your teeth.'' 
+</TEXT>
+</DOC>

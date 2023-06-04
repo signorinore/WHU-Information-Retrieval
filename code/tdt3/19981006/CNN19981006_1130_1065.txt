@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.1130.1065 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors were comforted by a surprise earnings report from Motorola. 
+The world's largest maker of phones, pagers and Telecom equipment 
+posted a better-than-expected quarterly profit. Still, Motorola's 
+earnings are down 13% from the same period last year. To boost its 
+profits, Motorola set a restructuring program back in June, which 
+included laying off 10% of its work force, or 15,000 workers. Shares 
+of Motorola jumping nearly 4.5 at 43. 
+</TEXT>
+</DOC>

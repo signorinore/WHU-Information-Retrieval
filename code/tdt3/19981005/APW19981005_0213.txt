@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> APW19981005.0213 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Swiss-Swedish engineering group Asea Brown Boveri said Monday it has 
+won a contract worth more than dlrs 350 million to build a power plant 
+in the United States. The order for a 1,000 megawatt power plant near 
+Dallas, Texas was placed by American National Power Inc., a subsidiary 
+of Britain's National Power PLC, ABB said in a statement. In addition 
+to the engineering and construction work, as the engineering and construction 
+work, ABB is to supply four gas turbines and associated steam turbines, 
+electrical generators and heat recovery steam generators to the project. 
+The plant will be one of the largest merchant power plants in the 
+United States, delivering power according to short-term market demands 
+rather than longer-term contracts. 
+</TEXT>
+</DOC>

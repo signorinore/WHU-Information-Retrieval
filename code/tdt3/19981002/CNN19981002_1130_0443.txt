@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0443 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." A cold front moving across the west will help 
+generate a chance of rain and possibly some high elevation snows for 
+Montana and Idaho, into Wyoming. An area of showers and a few thunderstorms 
+are also possible across the midwest and to the Great Lakes as a low 
+pressure storm tracks the northeast. Look for rainshowers also across 
+southern Florida and a trough of low pressure bringing a chance of 
+rain into the pacific northwest. Temperatures in the northeast, the 
+Great Lakes and the northern plains stay in the 50s, with a few 40s 
+in the forecast for Nebraska and Iowa. Temperatures will be in the 
+50s and 60s for the pacific northwest, but warming into the 60s near 
+San Francisco. L.A. should be in the 70s, with 80s and 90s covering 
+the desert southwest, and 90s expected in southern Texas. The extended 
+forecast includes scattered showers in the west, with a few severe 
+thunderstorms in the Great Lakes and the gulf coast states on Sunday. 
+Severe activity remains through Monday, with showers tapering off 
+in the northwest before a new storm system moves in on Tuesday. 
+</TEXT>
+</DOC>

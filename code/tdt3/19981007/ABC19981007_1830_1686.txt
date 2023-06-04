@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981007.1830.1686 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Later on "20/20", extended 
+warranties, what they really are, and if you really need them. And 
+on "Nightline," the global economic crisis. I'm Peter Jennings. Have 
+a good evening. See you tomorrow night. 
+</TEXT>
+</DOC>

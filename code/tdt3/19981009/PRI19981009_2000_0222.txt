@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981009.2000.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices were higher on Wall Street today. The Dow Jones Industrials 
+closed 167 points higher to end the day at 7899.52. You're listening 
+to National Public Radio News. 
+</TEXT>
+</DOC>

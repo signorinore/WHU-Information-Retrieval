@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981008.1830.0829 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street went on another wild ride today, at one point the Dow 
+Jones industrial average dropping nearly 275 points. But it found 
+its footing at the end of the day and closed down about ten points. 
+The NASDAQ finished down more than 43 points. 
+</TEXT>
+</DOC>

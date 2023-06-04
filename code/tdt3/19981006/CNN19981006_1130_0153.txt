@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0153 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Treasury secretary Robert Rubin says the economic troubles in Asia 
+are having a direct impact on the prosperity of America's farms, workers 
+and businesses. According to a treasury department study, every state 
+has seen declining exports. Kansas saw an 18% drop in agricultural 
+exports to Asia in the first quarter of this year, compared to the 
+same period last year. Minnesota experienced a 50% decline. New York 
+state saw a 31% decline. 
+</TEXT>
+</DOC>

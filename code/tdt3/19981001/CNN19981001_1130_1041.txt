@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981001.1130.1041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, the upper crust is growing in the United States. More than 
+1.3 million American taxpayers reported an adjusted Gross income of 
+$200,000 or more in 1995. That according to the most recent statistics 
+by the Internal Revenue Service. As a group, they paid a total of 
+$182.5 billion in federal taxes. But they're also a crafty lot -- 
+close to 1,000 of those top earners paid no taxes at all. That's thanks 
+to a variety of tax credits, itemized deductions and deductions for 
+borrowed money used to make investments. 
+</TEXT>
+</DOC>

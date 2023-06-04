@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981005.1800.3060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+General Motors reported North American car and truck sales fell by 
+more than three percent in September as the company struggled to recover 
+from recent strikes but the Ford Motor Company says its sales rose 
+almost five percent last month. 
+</TEXT>
+</DOC>

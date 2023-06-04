@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981007.0875 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices fell Wednesday on the London Stock Exchange. The Financial 
+Times Stock Exchange 100-share index was down 25.1 points, or .5 percent, 
+at 4828.9 points. Volume was 1.073 billion shares compared with 1.069 
+billion shares Tuesday. 
+</TEXT>
+</DOC>

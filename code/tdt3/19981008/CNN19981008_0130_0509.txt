@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981008.0130.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. Temperatures 
+will remain rather mild across the central United States. 70s and 
+80s all the way from the dakotas and into Texas. 70s and 80s can also 
+be found across the southeastern United States. 50s and 60s are wrapped 
+around the Great Lakes into the northeast as well as Washington, Oregon 
+and portions of the great basin. In our forecast for Thursday going 
+into Friday, a frontal system stretching all the way from Canada, 
+along the eastern seaboard and into the gulf of Mexico will trigger 
+some wet weather from Atlanta, to Charlotte and into Philadelphia 
+as well as into New York City. Temperature-wise, in Anchorage, it 
+will be a cool 45 and still some gusty trade winds across the Hawaiian 
+islands. Showers and storms are expected Friday into the mid-atlantic. 
+Temperatures will cool down across Canadian border states for Saturday, 
+and by Sunday we're expecting 40s across central Canada with windy 
+conditions for the interior west. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.1130.1100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street T. Dow is now down 19 points. The NASDAQ is off 
+24. 
+</TEXT>
+</DOC>

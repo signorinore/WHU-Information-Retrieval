@@ -1,0 +1,206 @@
+<DOC>
+<DOCNO> NYT19981001.0436 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+John William Meriwether was the consummate trader. He knew when to 
+hold, he knew when to fold. But as the chairman of Long-Term Capital 
+Management LP, he failed to recognize that his luck and his money 
+were fast running out. Last week they did run out, as a consortium 
+of big international banks and brokerage firms agreed to inject $3.65 
+billion into Long-Term Capital, the giant hedge fund that Alan Greenspan, 
+chairman of the Federal Reserve Board, worried would disrupt the global 
+financial markets if it failed. A quiet, introverted man with a head 
+for numbers and a love of chance, Meriwether by all accounts was deemed 
+most likely to succeed by those who worked with him over the years. 
+A student of the bond markets, he knew their anomalies _ and how to 
+play them _ better than anyone. But in his previous work as a bond-trading 
+star at Salomon Brothers, Meriwether had something he would sorely 
+come to need at Long-Term Capital: the backing of a big firm with 
+the deep pockets that can let a trader ride out almost any market 
+storm. Throughout the very public bailout of recent weeks, Meriwether 
+has remained a man of mystery. He has given only a couple of interviews 
+over the years and is rarely seen on the celebrity charity circuit 
+in New York, unlike other men and women of fortune on Wall Street. 
+He has even bought up most of the photographs taken of him in recent 
+years. So what kind of a man is Meriwether? And how could such a reputedly 
+brilliant trader who had chalked up so many successes over the last 
+25 years wind up nearly bankrupting his firm? Meriwether is not talking 
+about his past, present or future. But conversations with people who 
+have worked with him in his years on Wall Street reveal a man revered 
+by those around him, who nonetheless remained remote, even lonely; 
+a man always hunting for the edge that would make his bets _ whether 
+in bonds, at the race track or on a Chicago Cubs game _ more calculated 
+than wild. He is a man whom co-workers describe as scrupulously honest, 
+yet who has been associated with two of the biggest disasters in Wall 
+Street history: the 1991 attempt by a Meriwether underling to rig 
+the market in two-year Treasury notes and now the fall of Long-Term 
+Capital Management. People who have never met Meriwether may remember 
+him as the man featured at the start of Michael Lewis' book ``Liar's 
+Poker.'' As recounted there, Meriwether supposedly challenged John 
+Gutfreund, then the chairman of Salomon Brothers, to up the ante from 
+$1 million to $10 million in a game of ``I dare you'' played with 
+serial numbers on a dollar bill. Gutfreund, no pansy himself, walked 
+away, according to the book. This story almost certainly helped forge 
+the romantic view of Meriwether as a Wall Street cowboy, willing to 
+make a bet that even his rich boss shrank from. The only trouble is, 
+it never happened. According to people who were there, it was not 
+Meriwether who made the challenge. It was John O'Grady, a gregarious 
+and blustery Salomon partner who ran technical support for the traders. 
+O'Grady died in 1989. (Lewis, who is traveling, was not available 
+for comment.) According to those who know him well, the story is also 
+out of character, because Meriwether made only the most calculated 
+of bets, both personally and for the firm. He loved to bet on Chicago 
+Cubs games, for example, but would not do so until he had first received 
+the weather report to see which way and how hard the wind was blowing 
+at Wrigley Field. That way he could better guess how the Cubs home-run 
+hitters might do against the opposing pitchers. ``These weren't big 
+bets,'' said a person who had knowledge of them at the time. ``He 
+just liked to have a lot of things he could analyze.'' More often 
+than not, he came away a winner. From Golf Caddie to Club Owner Born 
+in Chicago in 1947, Meriwether grew up on the city's South Side. Like 
+another famed money manager _ Peter Lynch of Fidelity _ Meriwether 
+caddied at a nearby golf course to earn money. Friends believe Meriwether 
+is an only child. In 1969, he received a bachelor's degree in business 
+from Northwestern University. He earned an MBA from the University 
+of Chicago in 1973. The next year he moved to New York, a 27-year-old 
+recruit in Salomon Brothers' vaunted management-training program. 
+Another member of that program recalls that Meriwether was friendless 
+in New York and roomed at a Manhattan athletic club. His first assignment 
+was on the desk that arranged financing for the firm's customers, 
+called the repurchase or repo department. It was there that Meriwether 
+first made his mark. The desk was a fairly limited operation and acted 
+as a service function for the government bond desk. ``It had never 
+been a money-making proposition,'' said a person who was there at 
+the time. ``But John Meriwether turned it into that.'' Meriwether's 
+second assignment was to trade short-term agency securities, such 
+as those backed by the Federal Intermediate Credit Bank. Aided by 
+what people who worked alongside him called a near-photographic memory, 
+Meriwether took this backwater of the bond market and made it spectacularly 
+profitable. He understood better than others the proper differences, 
+or spreads, between the yields on agencies and those on Treasuries, 
+which are backed by the full faith and credit of the government. In 
+a precursor to this summer's events, spreads on agency securities 
+began to widen dramatically in the mid-1970s. What caused the change? 
+A near-bankrupt New York City propelled investors out of anything 
+that looked at all risky for the relative safety of Treasuries. Meriwether 
+knew two things: that the widening in the spreads was an aberration 
+and that the agency securities he traded, while not formally backed 
+by the government, were still good. He was right. ``He bought every 
+single one he could, with the acknowledgment of the senior partners,'' 
+recalled a former associate. ``He rode out the bad bumps. Boy, did 
+it work well.'' Then, in the late 1970s, Meriwether had an even better 
+idea. Through dealing with Salomon Brothers' customers, he saw the 
+beginnings of a business that would prove extremely profitable for 
+the firm. It was the bond arbitrage business, the ability to capitalize 
+on small discrepancies in prices between specific bonds and the newly 
+developed futures contracts that were based on them. The business 
+was in the infant stages _ a bank in Cleveland was good at it and 
+some of the Wall Street dealers were getting better. Why not Salomon 
+Brothers? He approached the firm's partners _ it was still a partnership, 
+not yet a public company. ``Why should we be executing these trades 
+for some of these new arb firms when we can do them ourselves?'' he 
+asked. Meriwether was given the go-ahead. Deja Vu, of Sorts, but Different 
+The story of Meriwether's first home run on the arbitrage desk is 
+eerily similar to the Long-Term Capital story now unfolding. But there 
+is a big difference: Meriwether did the bailing out then and he _ 
+as the banks and Wall Street firms that poured billions into Long-Term 
+Capital now hope to do _ later capitalized on the comeback of a troubled 
+portfolio. A big player in the Treasury futures market was a firm 
+called J.F. Eckstein &AMP; Co., which had made a big bet that a disparity 
+in prices between Treasury bill futures and the underlying security 
+would converge. But in a brief two weeks, the prices of the bills 
+rocketed. Eckstein, who expected prices to fall, was quickly depleting 
+capital, struggling to meet margin calls. ``It was the first real 
+period of turmoil in the fledgling financial futures markets, and 
+Meriwether understood it,'' Eckstein recalled Thursday. Almost alone 
+in the market as a willing buyer, Meriwether took over a good part 
+of Eckstein's portfolio. ``The Treasury bills loosened up and the 
+prices converged,'' one trader said. ``Meriwether made a fortune.'' 
+Eighteen years later Meriwether finds himself in a similar position. 
+Unlike Eckstein, however, Meriwether is still running his firm. Looking 
+back, it is easy to see how Meriwether might later have been felled 
+by thinking that when spreads widen, they always come back. After 
+all, with spreads on emerging market debt, junk bonds and mortgage-backed 
+securities much wider this spring than in years, they had to narrow, 
+didn't they? Once they did, anyone willing to take the gamble would 
+generate a windfall. There is one big difference, however. At Salomon 
+Brothers, when Meriwether asked for the necessary capital to make 
+a huge trade, or additional money to cover it when it temporarily 
+lost value, he always got it. At Long-Term Capital Management he was 
+not so lucky. Indeed, when he went to his clients in early September 
+with hat in hand, he did so still a staunch believer that his money-losing 
+trades would come back. Never mind that the paper losses in these 
+roughly $90 billion in positions had eroded his capital to just $600 
+million from $4.8 billion at the start of 1998. Convinced the trades 
+would work out in the end, he asked for more money to shore up his 
+capital and allow him to keep the positions. Salomon Brothers might 
+have given it to him. But this time, he was turned down. A Natural 
+Gambler, but a Careful One Back at Salomon Brothers, Meriwether made 
+partner in 1980. As his prominence in the firm grew, so did his ability 
+to take greater risk. Indeed, he thrived on it, former colleagues 
+say. ``He liked to be involved with chance,'' one said. ``But it was 
+always calculated.'' Meriwether was a natural gambler. He would take 
+his group to Atlantic City, N.J., roughly twice a year. Department 
+meetings would sometimes be held at the Meadowlands race track in 
+New Jersey. Meriwether's love of horses extends beyond the track. 
+He houses several thoroughbreds on his property in the northern reaches 
+of Westchester County. And he is a trustee of the New York Racing 
+Association, which operates Belmont Park, Aqueduct and Saratoga Springs. 
+Meriwether's wife, the former Mimi Murray, is a rider who trained 
+for the Olympic team. In 1982, Salomon Brothers was bought by Phillip 
+Brothers, a commodity trading firm known on the Street as PhiBro. 
+Some sources who were at Salomon Brothers at the time say one reason 
+it took place was that top partners worried about what might happen 
+if Meriwether's big trades went bad, wiping out the partnership. With 
+the takeover, their own money was no longer on the line backing his 
+bets. Yet Meriwether's bigger and bigger bets kept paying off during 
+the 1980s, generating bigger and bigger profits for the firm. By today's 
+standards, Meriwether did not earn an outsized paycheck at Salomon 
+Brothers. In 1989 he took home roughly $8 million; the next year he 
+received $10 million. But in 1991, disaster struck. A trader on Meriwether's 
+desk, Paul Mozer, tried to corner the market in an issue of two-year 
+U.S. Treasury notes. While Meriwether reported the infractions to 
+his superiors, the violations were not reported to the Treasury until 
+much later. The scandal shook Salomon Brothers to its core. Gutfreund 
+and Thomas Strauss, the president, left when Warren Buffett, a big 
+owner of Salomon stock, took over to help clean up the mess. Meriwether 
+resigned. He later settled an administrative proceeding with the Securities 
+&AMP; Exchange Commission in which he neither admitted nor denied 
+that he had been negligent as a supervisor. He agreed to a three-month 
+suspension and a $50,000 fine. By this time, Meriwether was quite 
+wealthy. But it was his investment in his new firm, Long-Term Capital 
+Management, that brought him true riches. Although his net worth is 
+a secret, former colleagues estimate that at the peak, he was probably 
+worth more than $200 million. One Calculation Left Undone For years, 
+Meriwether lived humbly. From 1981 until 1993, home was the same small 
+apartment on York Avenue, on Manhattan's upper East Side. While he 
+lived relatively modestly, he had expensive tastes in golf clubs, 
+joining three of the most prestigious in the United States: Shinnecock 
+Hills on eastern Long Island, Winged Foot Golf Club in Westchester 
+County and Cypress Point, near Pebble Beach, Calif. He is said to 
+shoot in the 70s. He even owns a golf course in Waterville, Ireland, 
+with some of his partners. Meriwether is a deeply private man who 
+lets in only a handful of people. These people are, in return, very 
+protective. ``He is a very quiet person, even introverted,'' said 
+one former Salomon partner. At Salomon, he was known to be always 
+available to people who wanted to bounce an idea off him. ``One of 
+the reasons he inspired the loyalty he did was that he would not try 
+to take the credit,'' said Stephen Modzelewski, a former colleague 
+of Meriwether who now runs a hedge fund. ``Usually the managers would 
+steal the ideas of subordinates.'' Among his colleagues, his integrity 
+was never in doubt. He would suddenly remember, on occasion, to pay 
+up on a bet long since forgotten by everyone else. Stunned by the 
+recent unfolding of events at Long-Term Capital Management, former 
+colleagues cannot help but wonder how such a bad thing could have 
+happened to such a brilliant person. Apparently neither Meriwether 
+nor any of his associates, including two Nobel laureates in economics, 
+had bothered to do a worst-case scenario on their trades. If they 
+had, these people believe, the firm would never have been leveraged 
+to the degree that it was. At Salomon, recalled a former trader there 
+who worked with Meriwether, ``we would always do what we called the 
+`yield-to-worst' calculation, which took into effect the world going 
+down.'' Apparently, yield-to-worst was one calculation Meriwether 
+either ignored or forgot to do. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981008.1130.0447 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane georges is now the third costliest hurricane on record. 
+Actuaries estimate georges caused $2.5 billion in insured losses throughout 
+the U.S. and its island territories. Puerto Rico was hardest hit with 
+$1.7 billion worth of damage. Only hurricane Andrew in 1992 and hurricane 
+Hugo in 1989 were more destructive. Georges also claimed 465 lives. 
+</TEXT>
+</DOC>

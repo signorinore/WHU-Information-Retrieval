@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981005.1800.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In finance, ministers from industrialized and developing nations are 
+meeting here in Washington. They're discussing the worsening global 
+financial situation. The 22 nation group has urged greater openness 
+by all countries, tougher banking regulations and consideration for 
+making investors pay for their own mistakes rather than be bailed 
+out. That's the latest. I'm Robert Burns, VOA News. 
+</TEXT>
+</DOC>

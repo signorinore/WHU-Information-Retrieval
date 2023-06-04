@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981007.1830.1057 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Japan, when the government merely suggested it would do something 
+to strengthen the banking system, the stock market went up 6%. 
+</TEXT>
+</DOC>

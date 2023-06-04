@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981007.2000.1601 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Jones Industrials closed today down just one 
+point at 7742. The NASDAQ took a tumble though, down 48 points to 
+1463. 
+</TEXT>
+</DOC>

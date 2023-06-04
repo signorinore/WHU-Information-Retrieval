@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981001.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Norway's official unemployment rate fell to 2.2 percent at the end 
+of September from 2.6 percent one month earlier and 3.0 percent in 
+September 1997, the state Labor Directorate announced Thursday. The 
+agency said 51,200 people were registered as being completely unemployed 
+in late September, compared to 59,100 in late August and 68,100 one 
+year ago. The main reason for the decline in the jobless rate was 
+that the number of people employed in state work and training programs 
+increased to 11,900 in September from 8,900 in August. The official 
+unemployment rate does not include those employed in government programs. 
+</TEXT>
+</DOC>

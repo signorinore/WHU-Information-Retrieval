@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981005.0716 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Belarusian capital recorded its earliest snowfall of the year 
+in 16 years on Monday. Snow has not fallen in Minsk on or before Oct. 
+5 since 1972, said Tatiana Yatzkevich, head of the city's weather 
+service. She could not say how much snow had fallen. 
+</TEXT>
+</DOC>

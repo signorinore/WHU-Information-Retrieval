@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981007.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Shares of AMP Inc. rose as much as 6.3 percent Wednesday as investors 
+expressed optimism that legislation passed by the Pennsylvania House 
+of Representatives late Tuesday could help Allied Signal in its $9.7 
+billion hostile takeover bid for the company. The proposal, a series 
+of amendments attached to another banking measure, specifies that 
+during the 12 months after an unsolicited takeover bid for a company, 
+shareholders can take action on the proposal only at a scheduled meeting. 
+But a new amendment to the proposal would allow Allied Signal to call 
+a special meeting of AMP shareholders to consider its offer to buy 
+the electrical-connector maker for $44.50 a share. The legislation 
+also rescinds severance packages, known as golden parachutes, recently 
+put in place for a number of senior executives of AMP, based in Harrisburg, 
+Pa. Investors reacted favorably to the news. AMP shares, after rising 
+as high as $40, closed at $37.875, up 25 cents. ``The board should 
+now instruct management to negotiate, with Allied Signal or any other 
+third party, a fair price for all shareholders,'' said Peter Schoenfeld, 
+chairman of P. Schoenfeld Asset Management, an investment advisory 
+firm. Schoenfeld said his firm tendered ``several hundred thousand'' 
+AMP shares to Allied. An AMP spokesman said the company was pleased 
+with the support it had from the Legislature. Despite the House vote, 
+uncertainties linger. The state Senate, now in recess, is not expected 
+to vote on the bill before Tuesday. The Senate then could pass the 
+legislation or change it, which could require another House vote. 
+Although Gov. Tom Ridge has said he supports the AMP measure, he recently 
+expressed concern about the bill to which the AMP amendments are attached: 
+legislation intended to protect Mellon Bank Corp., based in Pittsburgh, 
+from a hostile offer from the Bank of New York. In addition, a federal 
+judge in Philadelphia is expected to rule as early as Thursday on 
+whether Allied Signal can proceed with plans to gain control of AMP's 
+board in order to rescind AMP's anti-takeover provision and force 
+the company to consider its $44.50-a-share offer. If successful, the 
+tender could make Allied the company's largest shareholder. By Wednesday, 
+investors had tendered about 156.7 million, or 72 percent of the outstanding 
+shares, to Allied, the company said. 
+</TEXT>
+</DOC>

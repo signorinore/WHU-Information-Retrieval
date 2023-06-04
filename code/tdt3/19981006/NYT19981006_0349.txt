@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981006.0349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Chicago program has significantly improved the dangerously low immunization 
+rates among the city's poor children through incentives that require 
+parents to report to authorities monthly, instead of quarterly, to 
+receive federal food vouchers. Once the children receive the appropriate 
+vaccinations, the parents are allowed to return to quarterly vouchers, 
+under an interagency program that for the first time links local immunization 
+efforts to federal food distribution. Results of the project were 
+reported in Wednesday's Journal of the American Medical Association. 
+Immunization rates among the 13,760 children, all two years old or 
+younger, increased from 56 percent to 89 percent over the 15 months 
+when parents or guardians were required to report monthly to receive 
+the vouchers. The ongoing program began in June 1996. When the parents 
+report to authorities to receive their vouchers, health workers warn 
+them about the risks children face without immunizations and tell 
+them where the children can receive free shots. Sometimes the shots 
+are even provided at the same office. But among a comparison group 
+of 2,821 children whose guardians had to report only quarterly to 
+receive their food vouchers, the immunization rate remained substantially 
+unchanged over the 15 months, even though that group received the 
+same counseling and services, according to the journal report. Since 
+the results were documented, those children and their families have 
+been moved to the monthly incentive program. Dr. Edward Hoekstra and 
+Dr. Charles LeBaron of the federal Centers for Disease Control and 
+Prevention, who conceived and helped coordinate the $271,000 Chicago 
+project, said in the journal article that the agencies' staffs were 
+crucial to the project. Until now, LeBaron said in an interview, government 
+agency collaboration had been difficult for various bureaucratic and 
+budgetary reasons. ``This program shows,'' he said, ``that with such 
+collaboration some very simple methods can have a major impact on 
+health.'' The perils of low immunization rates became clear in the 
+1989-91 measles epidemic in the United States when 55,000 people contracted 
+the disease and 130 died from it. Since then, immunization rates have 
+risen in much of the nation, an average of more than 80 percent, but 
+lag behind in some poor urban communities, where the rate is as much 
+as 30 percent. Chicago's immunization project was run by the city's 
+Department of Public Health and the agency known as Supplemental Nutrition 
+for Women, Infants and Children, or WIC. The WIC program, set up in 
+the 1960s, is coordinated by the United States Department of Agriculture, 
+which makes available surplus farm products. The Centers for Disease 
+Control and Prevention conceived the incentive program and assisted 
+local officials in carrying it out. Dr. Philip Landrigan, a pediatrician 
+and head of the Department of Community and Preventative Medicine 
+at Mount Sinai Medical Center in New York, praised the results. ``The 
+lesson,'' he said, ``is that if this program of incentive intervention 
+and cooperation between government agencies can work in Chicago, it 
+can be exported and used elsewhere.'' But Dr. David Wood of the Shriners 
+Hospital for Children in Tampa, Fla., and Dr. Neal Haflon of the School 
+of Medicine at the University of California at Los Angeles, in an 
+accompanying journal editorial, cautioned against quick generalizations 
+about possibly expanding the program. They said a number of special 
+circumstances might have been at work in Chicago, including close 
+interagency cooperation, that could be difficult to duplicate elsewhere. 
+Still, Wood said in an interview, ``The need for what was accomplished 
+in Chicago was just huge.'' The program includes vaccinations against 
+whooping cough, polio, mumps, diphtheria and tetanus. 
+</TEXT>
+</DOC>

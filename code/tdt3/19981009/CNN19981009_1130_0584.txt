@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FAA is considering ordering inspections and repairs on older versions 
+of the most popular passenger plane in the world. The agency is concerned 
+about the forward pressure bulkhead on Boeing 737s. A crack in the 
+bulkhead could trigger the rapid depressurization of the aircraft. 
+A final ruling is expected in early 1999. 
+</TEXT>
+</DOC>

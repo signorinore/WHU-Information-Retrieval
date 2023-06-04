@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.1600.1096 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+back on wall street, the dow gained 152 points today. the nasdaq gained 
+2. 
+</TEXT>
+</DOC>

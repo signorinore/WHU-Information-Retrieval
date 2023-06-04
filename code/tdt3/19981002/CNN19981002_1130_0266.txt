@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0266 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The insurance information institute estimates hurricane georges could 
+cost the United States and the Caribbean nearly $2 billion. Georges 
+also is responsible for the deaths of at least 381 people. Along the 
+coast of Louisiana, residents say georges did wipe out a huge mosquito 
+population that had been plaguing the area. 
+</TEXT>
+</DOC>

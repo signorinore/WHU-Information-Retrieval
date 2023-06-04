@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981006.1700.2886 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Share Index ended up 205 points 
+at 4854. While in Paris, the Cac 40 Index was up 157 points at 3136. 
+Stocks on the DAX Index in Frankfurt were 214 points higher at 4185. 
+</TEXT>
+</DOC>

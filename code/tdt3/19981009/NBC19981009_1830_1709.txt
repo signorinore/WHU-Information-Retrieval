@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> NBC19981009.1830.1709 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for this Friday. Now, here is a look at two 
+of the stories that we will be bringing you on Monday. A blizzard 
+of mailings to homeowners. They look like checks but they are loans 
+on your house. Interest rates are high. The penalties can be disastrous. 
+If you can't make the payments, you are going to lose your home. It 
+is a staggering business. Be careful. And trying to start a family. 
+Science takes a big step. Great promise for a new fertility treatment. 
+Far better chances of having a baby. Much lower risks of multiple 
+births. I'm Tom Brokaw. I'll see you on Monday. 
+</TEXT>
+</DOC>

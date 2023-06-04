@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0228 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is on the campaign trail today. He's on his way 
+to Cleveland and Philadelphia to promote and raise money for democratic 
+candidates. He attended a democratic fundraiser in Washington last 
+night that raised $600,000. 
+</TEXT>
+</DOC>

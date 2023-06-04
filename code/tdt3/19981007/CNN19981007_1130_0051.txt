@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A busy news day in the world of higher education. President Clinton 
+is to sign a higher education Bill today that would give students 
+their cheapest loans in nearly 20 years. The legislation also raises 
+the ceiling on higher education grants and work study programs for 
+needy students. The bipartisan effort passed easily in both the Senate 
+and the house. 
+</TEXT>
+</DOC>

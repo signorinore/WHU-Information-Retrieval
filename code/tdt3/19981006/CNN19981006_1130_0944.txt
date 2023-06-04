@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The full House of Representatives takes up the question of an impeachment 
+investigation this week. Yesterday, the house Judiciary committee 
+voted along party lines to recommend one. 
+</TEXT>
+</DOC>

@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981007.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Among the many pleasures of Richard Panek's elegant new book, ``Seeing 
+and Believing: How the Telescope Opened Our Eyes and Minds to the 
+Heavens,'' is its epigraph by John Cheever: ``The children have built 
+something out of an orange crate, something preposterous and ascendant. 
+...'' This poetically captures the technical side of Panek's story, 
+the children being mankind, the orange crate being the telescope, 
+and the ``something preposterous and ascendant'' being audacious new 
+theories about the universe that time and again defied what passed 
+for common sense. Panek's story begins, of course, with Galileo in 
+November 1609, improving a rumored novelty involving the correct alignment 
+of two lenses in a leaden tube and his use of it to discover other 
+planets in our solar system. From here the author traces the technical 
+progress of the telescope through lengthening, the addition of a magnifying 
+eye piece and the placement of measuring devices within. A crucial 
+discovery along the way was that observing the heavens had less to 
+do with magnification than with the gathering of light, and this led 
+to the use of telescopes with mirrors, photography and spectroscopy 
+or the passing of telescoped light through a prism to analyze its 
+sources. Only with the development of the radio telescope was it discovered 
+that ``visible light covered only 2 percent of the electromagnetic 
+spectrum,'' Panek writes. But with the coming of the computer and 
+the space satellite, astronomers could drill a ``hole ... through 
+the heavens,'' as Panek puts it. In December 1995, the Hubble Space 
+Telescope revealed that the universe comprised not 10 billion galaxies, 
+as had been previously thought, but some 50 billion. All this amazing 
+technical evolution is described here with clarity and ease. Panek 
+is a freelance reporter, an award-winning short-story writer and the 
+author of ``Waterloo Diamonds,'' a social history of an Iowa community 
+told through its baseball fortunes. He writes about science with practiced 
+fluency. If you haven't yet gotten matter like quasars, pulsars and 
+gamma rays entirely straight in your mind, this book will prove invaluable. 
+But what makes ``Seeing and Believing'' most unusual is the way Panek 
+treats the implications of his history, the way he shows how the telescope's 
+development moved in advance of mankind's understanding. To convey 
+this as vividly as he does requires a skill just as demanding as the 
+ability to explain new developments, namely a capacity to imagine 
+and make clear how people saw things in the past. The metaphor he 
+uses to describe how the telescope affected human consciousness begins 
+with the discovery of perspective in Italian Renaissance art, which 
+served to eliminate what he calls ``the sacred backdrop of old, the 
+golden or black curtain against which saints and Savior had enacted 
+their symbol-drenched dramas.'' He continues: ``The uniform backdrop 
+of old was a presence that didn't fully reveal itself until it was 
+absent. Only then did it yield its secrets: how it had represented 
+an unwavering, unthinking assumption; how its uniform surface of gold 
+or black provided a sensibility unto itself; how that sensibility 
+reflected a singular point of view, saints of a certain size, Virgin 
+of another, Jesus of a third, all arrayed according to a hierarchy 
+that could belong only to the mind of God. But now it was gone, and 
+what replaced it was a point of view that could belong only to the 
+human eye _ and only to an eye seeing the world as if for the first 
+time.'' Two centuries later, with Galileo's use of the telescope in 
+1609, ``man had completed the intellectual journey he had begun'' 
+with ``the introduction of perspective into art,'' Panek continues. 
+The sacred backdrop had become a curtain to be opened, and ``man had 
+gone from being the apple of God's eye to being God's eye.'' With 
+similar verve, ``Seeing and Believing'' describes the shock of all 
+the revolutions created by the telescope. As Panek sums up: ``The 
+flatness of Earth, the immobility of the globe, the perfectly circular 
+paths of the planets, the earth's position at the center of the Kosmos, 
+the sun's position at the center of a new cosmos, the fixed positions 
+of the stars, the stars themselves as the extent of the universe, 
+the universe as all that we could ever hope to see, and all we could 
+ever hope to see as all there is _ all the assumptions safely based 
+on observation were gone.'' As for the tool that swept these assumptions 
+away: ``Now, in the aftermath of the New Astronomy of invisible light, 
+to say nothing of the dark matter revolution, it turned out that the 
+instrument in any incarnation came with its own inherent set of limitations, 
+not on what to expect or where to look, but on how to look, not on 
+the available information, but on the nature of the information itself.'' 
+Yes, the children have built something out of an orange crate, something 
+preposterous and ascendant. And Panek has shown how those who built 
+ascendant things kept falling down, only to discover that the place 
+they had fallen down to was wonderfully different and very strange. 
+As he himself sums up the case he has so persuasively made in ``Seeing 
+and Believing,'' ``The relationship between the telescope and our 
+understanding of the dimensions of the universe is in many ways the 
+story of modernity.'' PUBLICATION NOTES: `SEEING AND BELIEVING' How 
+the Telescope Opened Our Eyes and Minds to the Heavens By Richard 
+Panek 198 pages. Viking. $21.95. 
+</TEXT>
+</DOC>

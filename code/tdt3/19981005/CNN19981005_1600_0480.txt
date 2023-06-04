@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0480 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The forecast for more than 6,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0730 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You're looking at the future of television. The first public display 
+of a live high definition TV hdtv, broadcast was presented in New 
+York Thursday. The launch of the new digital technology is being compared 
+to the unveiling of color TV in the '60s. Right now there aren't many 
+sets ready for hdtv. But 42 stations nationwide convert to the new 
+signal in November. 
+</TEXT>
+</DOC>

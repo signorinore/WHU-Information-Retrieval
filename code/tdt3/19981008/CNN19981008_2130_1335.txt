@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.2130.1335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is young field katarangi out of New Zealand. He's tied with David 
+Duval atop the leaderboard after one round of the michelob classic 
+in Williamsburg, Virginia. 
+</TEXT>
+</DOC>

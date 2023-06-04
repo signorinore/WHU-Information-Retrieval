@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981009.0279 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Dull, damp and rather dismal weather will prevail 
+across the Northeast on Saturday as low pressure drifts east along 
+the southern New England coast. A large disturbance at 20,000 feet 
+over eastern Pennsylvania will circulate cool, moist air from the 
+Atlantic into Maine, resulting in periods of heavy rain. Thick clouds 
+and lighter showers will linger as far west as the central Appalachians 
+where daytime readings will average ten degrees below seasonal levels. 
+Mainly sunny, pleasant conditions will dominate the region from the 
+central Great Lakes to the Gulf Coast. The morning will be cool in 
+the interior South, but afternoon temperatures will return to normal 
+readings. A cold front crossing southern Florida will be preceded 
+by considerable clouds and scattered showers, but it will turn drier 
+across the northern third of the state. Warmer air will stream northward 
+into the Plains as low pressure approaches the eastern Rockies. Increasing 
+humidity will cause clouds to form in the Missouri Valley. A cold 
+front will press southward into Minnesota and the Dakotas while clouds, 
+chilly winds and a little rain will be found behind the front. Inclement 
+weather with mountain snow and valley rain will occur from central 
+Montana to northern Idaho as cool air from the North Pacific pushes 
+inland to the central Rockies. Meanwhile, the Northwest will stay 
+dull along the Coast with brighter skies across the interior. Winds 
+from the east will descend the Sierra, bringing dry and milder weather 
+to California. Elsewhere, the desert Southwest will stay seasonably 
+hot with abundant sunshine. Focus: Last Minute Upgrade Early Friday, 
+Tropical Storm Lisa was located near 43 degrees north latitude over 
+the Atlantic Ocean about 650 miles west of the Azore Islands Q a position 
+far removed from its breeding grounds over tropical seas. Just as 
+the storm started to lose its uniform tropical characteristics and 
+undergo a metamorphosis into an extratropical low pressure system, 
+the National Hurricane Center upgraded Lisa to a hurricane. The energy 
+needed for Tropical Storm Lisa to achieve the higher grade of hurricane 
+came from an upper-level low pressure system and its associated temperature 
+contrasts. 
+</TEXT>
+</DOC>

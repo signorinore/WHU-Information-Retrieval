@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981005.1830.0574 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing has 36 new commercial jets on the market. 
+</TEXT>
+</DOC>

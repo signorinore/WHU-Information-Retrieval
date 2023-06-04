@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The judge in the Paula Jones civil case has ordered the unsealing 
+of all documents related to her sexual harassment suit against President 
+Clinton. The release is scheduled for October 19th. 
+</TEXT>
+</DOC>

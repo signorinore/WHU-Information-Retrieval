@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0426 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An area of low pressure will continue moving across the northern plains, 
+dropping rain and snow across the Rockies. A cold front system will 
+be moving across the eastern U.S. and Texas, bringing in cooler temperatures, 
+but not before strong thunderstorms head across the region and into 
+the deep south. Rainfall will be decreasing across portions of the 
+west and a high pressure Ridge will be building in, but a cold front 
+system moving into the pacific northwest could mean rainfall increasing 
+on Wednesday. High temperatures will be in the 50s and 60s for most 
+of the west. You'll see 70s and 80s across the deep south and across 
+portions of the southwest. The extended forecast continues a chance 
+of strong thunderstorms moving eastward on Wednesday, with rain across 
+the Great Lakes. A few showers will change into heavier rain on Thursday 
+in the pacific northwest, as the eastern storm continues to March 
+across the Great Lakes. By Friday, just look for rainfall across the 
+Great Lakes and New England, with scattered showers and thunderstorms 
+in the south. 
+</TEXT>
+</DOC>

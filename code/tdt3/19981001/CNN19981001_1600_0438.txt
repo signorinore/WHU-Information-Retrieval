@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0438 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Friday. As high pressure builds into the eastern United 
+States, it will be cooler, but rather pleasant as well. Look for a 
+few showers over upstate New York and northern New England, and a 
+thunderstorm or two over northern Florida. Rain and thunderstorms 
+will continue to produce heavy downpours through the plains states, 
+and rain showers in the pacific northwest will accompany cooler weather 
+into a region. High temperatures there, 50s and 60s. But we'll see 
+just 40s and 50s from the northern Rockies to New England. In the 
+south, mostly 70s and 80s with a few 90s in the desert southwest and 
+parts of Texas. Looking ahead to Saturday, rain showers northwest 
+with showers and storms over the Mississippi river valley. On Sunday, 
+the showers stretch from the northwest to the upper midwest with thunderstorms 
+in the Mississippi river valley again. For Monday, wet weather from 
+northwest to the midwest, down to the gulf coast, with the coolest 
+air over the northern Rockies. Don't forget, four-day forecasts 6,100 
+cities on CNN interactive at CNN.com. 
+</TEXT>
+</DOC>

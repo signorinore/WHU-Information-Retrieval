@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The puck drops tonight as the NHL season begins with three games on 
+the schedule. For the second straight year, opening night will include 
+a long-distance affair as San Jose and Calgary hook up for two games 
+in Tokyo. 
+</TEXT>
+</DOC>

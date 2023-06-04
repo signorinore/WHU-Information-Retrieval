@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Taking a look at this hour's top stories -- President Clinton is facing 
+the biggest test of his political career. The house passed an open-ended 
+measure to begin an impeachment inquiry by a vote of 258 to 176, with 
+31 democrats defecting to the GOP's side. President Clinton says the 
+matter is out of his hands. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- President Clinton appealed for 
+urgent action at the annual meeting of the IMF and world bank today. 
+He said finance leaders must avoid causing a run on nations. 
+</TEXT>
+</DOC>

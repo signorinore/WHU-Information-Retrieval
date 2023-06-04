@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> PRI19981007.2000.0267 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Food and Drug Administration is warning people with implanted 
+medical devices to be wary of metal detectors. The agency says it's 
+received a few reports of metal detectors interfering with pacemakers, 
+heart defribilators, and other devices. NPR's Dan Charles reports. 
+Metal detectors and the gates that stores sometimes use to stop shoplifters 
+produce magnetic fields. Twice in recent years, they set off heart 
+defibrilators which deliver a shock that makes the heart beat properly. 
+About a dozen people have problems with their spinal cord stimulators 
+which control chronic pain. In other cases, pacemakers were affected 
+but the problems were mild and temporary. The FDA says it's not a 
+big problem. There have been only a handful of these reports and nobody's 
+been seriously hurt. Most problems occurred when people leaned against 
+a metal detector or when handheld detectors got right next to an implanted 
+device. The FDA says people with these devices shouldn't be afraid 
+of metal detectors, just don't linger too close to them. Dan Charles, 
+NPR News, Washington. 
+</TEXT>
+</DOC>

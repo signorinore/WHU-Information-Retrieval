@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981004.1130.0602 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Darryl Strawberry's doctors say they should know in a week whether 
+the New York Yankees star is cancer free. They're waiting on test 
+results to learn whether the disease spread to his lymph nodes. Strawberry 
+underwent surgery yesterday for the removal of a malignant tumor in 
+his large intestine. His doctors say the surgery went well. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court is starting to Wade through its next batch of cases. 
+It opened its fall term today. The high court has already accepted 
+46 cases on matters ranging from sexual harassment to immigration 
+and deportation. The sexual harassment case will determine whether 
+schools can be held liable for conduct between students. The court 
+also will hear arguments over the constitutionality of a Chicago city 
+ordinance police are using to keep gang members off the streets. Legal 
+experts say the court's docket is full of key issues, but few that 
+attract wide public interest. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981005.1800.2971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Right now it's time for business news. We go to New York for a report 
+on the financial markets. Here's VOA's Breck Ardery. The Dow Jones 
+Industrial average closed at 7726, down 58 points. The Standard & 
+Poor's 500 Index closed at 988, down 14 points. Now during the day's 
+trading, the industrial average twice dropped by more than 200 points, 
+but made a strong recovery in the last hour of trading, a recovery 
+which analysts say was largely fueled by futures related buying and 
+other technical factors. 
+</TEXT>
+</DOC>

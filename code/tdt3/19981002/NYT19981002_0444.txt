@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> NYT19981002.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Saturday, Oct. 3: The Clinton 
+administration's decision to make methadone more accessible to heroin 
+users is a long-needed change in national policy. Gen. Barry McCaffrey, 
+head of the White House's Office of National Drug Control Policy, 
+has proposed allowing physicians to administer methadone in their 
+offices. Currently it is dispensed only in special clinics, limiting 
+the number of people who can use this treatment. Only about 115,000 
+of the estimated 800,000 Americans addicted to opiates are participating 
+in methadone maintenance programs. Decades of experience have shown 
+that methadone treatment is the most effective way to control heroin 
+addiction. Methadone blunts the craving for the opiate, with substantial 
+benefits to society. A federal study has found that those on methadone 
+maintenance cut their heroin use by 70 percent and their criminal 
+activity by 57 percent, and increased their full-time employment by 
+24 percent. Scientific panels convened by the National Institutes 
+of Health and the National Academy of Sciences have all recommended 
+that government regulations be eased so that more people can benefit 
+from methadone. Yet ignorance and prejudice persist. Several states 
+ban methadone programs despite clear evidence of the treatment's effectiveness. 
+The tirades against methadone by Mayor Rudolph Giuliani of New York 
+suggest that even senior officials need further enlightenment. Giuliani 
+seems to believe that only abstinence can control addiction, and his 
+administration continues to press forward with plans to end methadone 
+maintenance programs at city hospitals that currently serve 2,100 
+addicts. But medical experts, who applaud McCaffrey's recommendation, 
+point out that many opiate-dependent individuals cannot remain free 
+from heroin without medication. No single approach works for every 
+addict, but methadone, when properly administered and coupled with 
+counseling, has helped thousands reclaim their lives. Under the new 
+national policy, many more addicts might do the same. 
+</TEXT>
+</DOC>

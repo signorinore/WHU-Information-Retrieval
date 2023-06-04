@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0214 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An Indiana school district can keep conducting random drug tests on 
+all students who take part in extracurricular activities. Today the 
+U.S. Supreme Court let stand a lower court ruling that says the tests 
+do not violate students' privacy rights. The school policy had been 
+challenged by the parents of four students. 
+</TEXT>
+</DOC>

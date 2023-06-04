@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> CNN19981008.2130.0642 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA's Hubble telescope has produced new images that are letting astronomers 
+take a trip back in time to get a look at the history of our universe. 
+Rick Lockridge reports in this tech trends. In a tiny corner of the 
+sky in one of the darkest, emptiest regions of deep space, the Hubble 
+telescope's powerful new infrared camera has found the faintest, most-distant 
+galaxies ever seen. Perhaps 12 billion light years away. In a sense, 
+this is the Lewis and Clark expedition of astronomy is the was I like 
+to think of it. We could have found nothing, as Allan said. The fact 
+we did find new objects means we have not reached the edge here. The 
+new pictures show baby galaxies, still clumpy and uneven only a few 
+hundred million years after the birth of the universe. Scientists 
+think the hot spots in this picture indicate areas of intense star 
+formation. And they hope Hubble's newly enhanced ability to see far 
+across space and therefore far back in time will help answer longstanding 
+questions about the history of our universe. We can put together a 
+much more complete scenario of how our universe changes from this 
+starless gas cloud to this intricate system of galaxies, stars and 
+planets that we see today. The Hubble's new infrared camera, installed 
+by a space shuttle crew last year, makes it possible for the telescope 
+to see through the shrouds of space dust that obscure distant objects. 
+This view is from Hubble's regular camera. When you look at the same 
+galaxy through the new infrared camera, you can see where the dust 
+was interfering with the old picture. NASA says better pictures than 
+these are unlikely until the planned launch of the so-called next 
+generation space telescope in 2007. Rick Lockridge, CNN. 
+</TEXT>
+</DOC>

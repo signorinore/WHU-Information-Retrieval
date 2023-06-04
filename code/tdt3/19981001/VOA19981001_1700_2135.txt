@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981001.1700.2135 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices closed sharply lower Thursday, amid continuing concern 
+that Asia's recession will spread around the world. At the close the 
+Dow Industrial's down 210 points. I'm Dave DeForest, VOA News. 
+</TEXT>
+</DOC>

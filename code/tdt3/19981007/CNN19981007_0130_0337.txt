@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981007.0130.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn and the rest of his space shuttle crew arrived at cape 
+Canaveral Tuesday for a countdown rehearsal. It's one of the final 
+preparations before the space shuttle discovery blasts off on October 
+29th. Among other things, in the next three weeks, the astronauts 
+will practice emergency escapes from the launch pad. Glenn says he's 
+feeling great. At 77, he'll be the oldest person ever in space by 
+16 years. 
+</TEXT>
+</DOC>

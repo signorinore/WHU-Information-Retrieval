@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is expected to sign a Bill today that gives college 
+students the cheapest loans in 20 years. It sets a current interest 
+rate just under 7.5%. 
+</TEXT>
+</DOC>

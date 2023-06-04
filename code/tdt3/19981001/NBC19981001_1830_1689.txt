@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> NBC19981001.1830.1689 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Tom Brokaw and I'll be back here tomorrow night. 
+</TEXT>
+</DOC>

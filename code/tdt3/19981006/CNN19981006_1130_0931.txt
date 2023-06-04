@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- world financial leaders are hearing 
+President Clinton's plan to ease the global economic crisis today. 
+Mr. Clinton unveiled his ideas at the IMF/world bank annual meeting 
+in Washington. 
+</TEXT>
+</DOC>

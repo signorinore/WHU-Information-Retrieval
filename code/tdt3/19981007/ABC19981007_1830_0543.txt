@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> ABC19981007.1830.0543 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tonight we have the clearest picture yet of what happened on Swissair 
+flight 111 in the final minutes. They still do not know why the plane 
+crashed off Nova Scotia last month. We have learned some of the details 
+from the plane's recorders that tell us what the passengers and the 
+crew were going through. Here's ABC's Lisa Stark. This is the McDonnell 
+Douglas MD-11 that crashed off the coast of Canada. On the evening 
+it took off from New York, everything seemed routine. About one hour 
+into the flight, 20 minutes before the crash, the crew notices an 
+unusual smell. The Colt, who was flying, turns the control over to 
+the captain and gets out of his seat to investigate. He reports there 
+is nothing down where he looked. Leaving some investigators to suggest 
+the copilot may have checked the electronics bay under the cockpit 
+and found nothing. Which may mean electronics in the overhead panel 
+are the source of the problem. The crew calls in a flight attendant. 
+Can she smell smoke in the passenger cabin, they ask. No, but she 
+does smell it in the cockpit. The flight data recorder shows no indication 
+of fire from the engines or cargo holds. Within three minutes of smelling 
+something, the captain indicates he can now definitely see smoke in 
+the cockpit. A minute later the crew makes its first distress call 
+of "pan, pan, pan" to request a landing. Within two minutes after 
+that, the cockpit crew has put on their oxygen masks. It is 11 minutes 
+before the crash. In the back of the plane, dinner is being served, 
+passengers now learn something is wrong. A flight attendant announces 
+the plane will land in Halifax in 20 minutes to 25 minutes, an indication 
+pilots still feel they have plenty of time to get the plane safely 
+on the ground. The pilot begins an emergency checklist trying to isolate 
+the source of the smoke. The first step, turning off all power to 
+the cabin, which leaves just emergency lighting in the back of the 
+plane. Flight attendants are told use flashlights to pick up meal 
+trays. They report the passengers remain relatively calm. It is not 
+calm in the cockpit. At this point, six minutes before the crash, 
+something goes terribly wrong. At the same moment, both pilots scramble 
+for the radio to declare an emergency. They need to land immediately. 
+The data recorder now picks up problems with a flight control computer 
+and other systems. Within 30 seconds, the copilot reports he has lost 
+all of his main instruments. Seconds later, both data and voice recorders 
+quit working. And there is no further communication with air traffic 
+control. Six minutes later, the plane hits the water. Lisa Stark, 
+ABC News, Washington. 
+</TEXT>
+</DOC>

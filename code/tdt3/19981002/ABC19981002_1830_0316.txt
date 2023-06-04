@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981002.1830.0316 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, investors seemed encouraged that governments 
+were at least talking about agreements on ways to address the world's 
+financial crisis. The Dow Jones industrials gained more than 152 points 
+to close at 7784. On the market, where it's up and down, stocks gained 
+more than two points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981003.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the days before Hurricane Georges struck the Gulf Coast last week, 
+storm forecasters faced one of their most trying responsibilities: 
+predicting the inherently uncertain behavior of a hurricane in time 
+to move people out of harm's way. The basic problem is that even though 
+experts have improved their ability to forecast the track of a hurricane 
+by 30 or 40 percent in the last decade or so, the predictions are 
+still off, on average, by about 200 miles 72 hours before the storm's 
+expected landfall. In extreme cases, it takes 72 hours to carry out 
+a mass evacuation. Even 12 hours ahead, the error is still 40 to 50 
+miles. When it comes to predicting the intensity of a storm when it 
+reaches land, forecasters admit they have even less skill. And they 
+have almost none in forecasting how large an area the hurricane will 
+affect once it comes ashore. ``We're back in the dark ages relative 
+to that,'' said Jerry Jarrell, the director of the National Hurricane 
+Center in Miami. ``I'm not sure anyone knows where to begin to attack 
+that problem.'' So what do forecasters do? ``The cardinal rule is 
+that you can't afford to get people killed because you're underprepared,'' 
+Jarrell said as the center began to wind down from its encounter with 
+Georges late last week. ``So you have to overprepare. It's just that 
+simple.'' That means erring on the side of caution and issuing hurricane 
+watches for areas where the odds of the storm striking may be low. 
+But this carries a risk of its own. ``If you overprepare too much,'' 
+said Jarrell, ``you're going to have a public that doesn't believe 
+you.'' After Georges ripped through the Caribbean, killing more than 
+300 people and leaving more than 150,000 homeless, it forced 30,000 
+to flee the Florida Keys and prompted the authorities to urge or order 
+some 1.5 million people to evacuate Louisiana alone. Thousands more 
+were told to leave coastal areas of Mississippi, Alabama and the Florida 
+panhandle. But clearly not everyone fled. In fact, more people stayed 
+in the Keys than left. The use and misuse of predictions in many fields 
+is a topic only now receiving attention from scientists, and uncertainty 
+haunts almost all attempts to predict natural phenomena. The atmosphere 
+presents a particularly tough problem because its fluid behavior is 
+so chaotic and unpredictable. With hurricanes, ``There is always error 
+in the forecast, and always will be'' said Dr. Jerry Mahlman, director 
+of the National Oceanic and Atmospheric Administration's Geophysical 
+Fluid Dynamics Laboratory at Princeton University. ``The trick is 
+to pound the error down.'' Mahlman's laboratory has played a major 
+role in reducing the margin of error. Its global computer model of 
+hurricane behavior, in operation since 1995, is largely responsible 
+for the recent improvement in forecasting hurricane tracks. It is 
+now the official lead prediction model _ first among a group of models 
+_ used both by the National Hurricane Center and the Navy. Thirty-six 
+hours before Georges hit land, the center correctly predicted that 
+the storm would curl to the northeast of New Orleans. As coastal development 
+along the Gulf and the Atlantic has blossomed in the last few decades, 
+expanding populations have made evacuation an increasingly time-consuming 
+and disruptive exercise. But it isn't simply a matter of inconvenience. 
+Estimates have put the cost of evacuating a hurricane-prone stretch 
+of built-up coastline at hundreds of thousands of dollars a mile or 
+more. A false alarm, then, is not to be shrugged off, nor is the burden 
+it puts on forecasters. ``These folks in the hurricane center are 
+under incredible pressures and I think they do marvelously well in 
+the face of those pressures,'' Mahlman said. The Hurricane Center 
+errs on the side of safety in two ways when it issues hurricane warnings, 
+Jarrell said. First, it expands the area that it expects will actually 
+experience hurricane-force winds. ``We know we're overwarning probably 
+by a factor of two,'' he said. This, he said, is an attempt to issue 
+an honest forecast while at the same time ``telling people how to 
+allow for error.'' The second way of building in a margin of safety, 
+he said, is to encourage local officials and other disaster managers 
+to make their preparations as if the hurricane will be one category 
+stronger than the forecast specifies. Hurricane intensity is rated 
+in categories from 1 to 5, with 5 the strongest. Sometimes, Jarrell 
+acknowledged, the caution does seem to be excessive in retrospect. 
+He also acknowledged the risk that if this happens too much, people 
+will not accept the forecasts in the future. But the exercise is a 
+tradeoff between that risk and the need for people to respond to the 
+threat of immediate danger. ``I guess you hope their memory's not 
+that long,'' he said. In the end, Jarrell said, the greatest value 
+of improved hurricane forecasts may be that bigger stretches of coastline 
+can now be eliminated from concern when warnings are issued. ``We 
+are expanding the number of people who don't have to worry,'' he said. 
+</TEXT>
+</DOC>

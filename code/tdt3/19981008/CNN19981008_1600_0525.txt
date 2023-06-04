@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0525 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. and still ahead -- a pleasure 
+trip turns disastrous. 
+</TEXT>
+</DOC>

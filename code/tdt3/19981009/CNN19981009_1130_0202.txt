@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981009.1130.0202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Congress has until midnight to pass spending legislation to avoid 
+a partial government shutdown. A temporary federal funding Bill runs 
+out tonight. The new fiscal year began October 1st, but action is 
+still needed on 8 of the 13 spending bills for the new year. The lawmakers 
+are expected to pass another stopgap measure to keep federal agencies 
+functioning for at least two more days. That will allow weekend negotiations 
+with the Clinton administration over budget disputes. 
+</TEXT>
+</DOC>

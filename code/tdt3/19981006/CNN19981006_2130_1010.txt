@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.2130.1010 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The big apple played host to a big Strawberry treat today. Kellogg's 
+unveiled the world's largest pop Tart at Madison square garden to 
+commemorate the pastry's 35th anniversary. More than 545 pounds of 
+flour, 495 pounds of filling, 800 pounds of icing and 150 pounds of 
+sprinkles went into making the giant Tart. It measured 25' x 35' and 
+was available for sampling by morning commuters. 
+</TEXT>
+</DOC>

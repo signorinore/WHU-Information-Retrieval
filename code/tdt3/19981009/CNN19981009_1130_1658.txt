@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.1130.1658 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We're back after a break. Stay tuned for news of impeachment and an 
+impending government shutdown. I'm Catherine Callaway. This is "Headline 
+News." 
+</TEXT>
+</DOC>

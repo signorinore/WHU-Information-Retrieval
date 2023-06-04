@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.1130.1094 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more business news, check out our web site at cnnfn.com. you can 
+also use the site to get stock quotes and advice on personal finance. 
+And it's all free. 
+</TEXT>
+</DOC>

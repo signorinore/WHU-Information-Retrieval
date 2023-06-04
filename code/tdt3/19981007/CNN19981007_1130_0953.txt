@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Across Russia, this has been a day of protest over the country's continuing 
+economic problems. Demostrators are calling for payment of back wages 
+and pension benefits, as well as improved living conditions. 
+</TEXT>
+</DOC>

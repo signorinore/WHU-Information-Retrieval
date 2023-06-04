@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981005.1700.1031 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to the Voice of America coming to you from Washington. 
+I am Tom Crosby with Susan Yackie bringing you this hour of VOA News 
+Now. It is 21 hours, 18 minutes universal time. 
+</TEXT>
+</DOC>

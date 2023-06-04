@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.1600.1090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow fell 210 points. The NASDAQ lost 81. 
+That's "Dollars & Sense." Back to you, Chuck. All right, Kitty, thank 
+you. 
+</TEXT>
+</DOC>

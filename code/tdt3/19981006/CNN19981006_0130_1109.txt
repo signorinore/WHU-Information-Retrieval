@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981006.0130.1109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors says vehicle sales fell 3.1% in September. Nevertheless, 
+GM regained the number one sales position, after a strike crippled 
+its production line over the summer. Ford, meanwhile, saw an increase 
+in sales -- up 4% last month. Ford says it will dramatically step 
+up production for the fourth quarter. 
+</TEXT>
+</DOC>

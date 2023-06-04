@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0606 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hundreds of homes are being threatened this morning by wildfires east 
+of Los Angeles. 30 mile per hour winds are fanning the flames near 
+the town of banning. Hundreds of people who evacuated, have been allowed 
+to return to their homes. The fires are blamed for two deaths. A firefighter 
+collapsed while hosing down roofs, and the pilot of an air tanker 
+is presumed dead. His plane crashed while he was battling the flames. 
+</TEXT>
+</DOC>

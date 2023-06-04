@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> ABC19981005.1830.1204 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week we are going to take "A closer look" at privacy. There is 
+simply no doubt about it, we have less than we used to have. The digital 
+age has made us all more vulnerable. And living in a country where 
+people are so inclined to file lawsuits has not helped. Tonight, we 
+are going to focus on privacy in the workplace, because as it turns 
+out, our employers are increasingly able to know an enormous amount 
+about us if they choose. And they do choose. The American management 
+association surveyed 1,000 of its member companies, more than 40% 
+of the companies say that they watch and listen to their employees 
+every day. It's safe to say that in the digital world almost everything 
+you do is recorded. This woman knows all about keeping an eye on employees. 
+Her company, computer forensics, is hired to do just that. Is my fax 
+machine vulnerable, is my telephone vulnerable, is all the electronic 
+equipment in my office vulnerable? It's easy to forget that there's 
+these little devices that we're so used to using that can store amazing 
+amounts of information. And that's a lot of recording. These days, 
+all the every day office tools have memory chips. And somewhere in 
+your company there may be a machine like this scanning the output 
+of every member of the company. Perhaps recording you. Companies routinely 
+listen to voice mail, read E-mail and check computer files. Even if 
+you think you have deleted them. Files can be restored on your computer. 
+It just takes a few seconds to get them back. Voice mail can be retrieved 
+too, the law protects phone calls we make to an outside number but 
+any voice mail or internal calls are company property. So whatigsen 
+does an employee have? The law doesn't protect the employees when 
+they walk in the door in terms of privacy. Companies tenned to say 
+they monitor employees to protect themselves against lawsuits and 
+theft. All of these legitimate reasons why employers will monitor 
+employees. But it doesn't make it right to do it without telling the 
+employees. The American management survey says that 93% of the companies 
+surveyed do inform their employees, though there is no federal law 
+that says they must. People come to the office every day. They're 
+used to being in the office. Do they tenned to forget they should 
+be on guard? Yes, they do. You've seen this where, for example, there's 
+video surveillance and the cameras will go up and for the first few 
+days that the cameras are in place people are dressing better they're 
+sitting up straighter. They're acting differently. But after just 
+usually like two or three days, that wears off. There is no question 
+we are all vulnerable with so much information out there. What might 
+be more surprising is the way some employers use all that information. 
+Even things they come across by accident, even things that are not 
+true. ABC's Michele Norris begins in Kentucky. Ben Walker dedicated 
+30 years of his life to FBI. But the job took its toll. Struggling 
+with depression, Walker began seeing a psychiatrist referred to him 
+by the FBI. I was convinced that it should have remained confidential. 
+But it did not. Here's what happened -- Walker's doctor was investigated 
+for committing fraud.ab state officials discovered allegations that 
+Walker was abusing prescription drugs. That information was sent to 
+the FBI and used to force Walker off the job, even though the allegations 
+turned out to be false. I'm glad that I got help. But I don't think 
+I should have paid the price. Increasingly, employers walk a fine 
+line between checking out employees and violating their privacy. A 
+recent study of 300 fortune 500 companies found that more than one-third 
+review medical records before hiring or promoting employees. Computerized 
+background checks are now common place, and workers are especially 
+vulnerable when a mistake shows up in their files. Bronti Kelly, for 
+example, has a long criminal record, even though he's never been arrested. 
+why? Because a thief stole Kelly's wallet and used the stolen I.D. 
+during several arrests. It has become an entangled nightmare that 
+I wouldn't wish on anyone. The real bronti Kelly now carries a letter 
+confirming that he is not a criminal. But when potential employers 
+run background checks, his criminal record still shows up. It will 
+say for the rest of my life, "bronti W. Kelly, arrested for arson, 
+shoplifting, burglary," and so on. And I will be forever scarred for 
+the rest of my life with that information on my file. In the workplace 
+of the future, privacy may well become a thing of the past. Michele 
+Norris, ABC News, Washington. 
+</TEXT>
+</DOC>

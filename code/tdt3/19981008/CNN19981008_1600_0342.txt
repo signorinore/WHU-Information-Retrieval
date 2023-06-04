@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0342 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also today, the president vetoed a $4 billion farm rescue plan. The 
+White House calls the GOP measure insufficient. Democrats favor a 
+$7 billion plan. Meanwhile, Congress still must finish work on 8 of 
+the 13 spending bills for fiscal 1999. Temporary spending authority 
+expires Friday. 
+</TEXT>
+</DOC>

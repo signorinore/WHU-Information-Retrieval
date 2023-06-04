@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981002.1800.3589 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We invite our listeners now to stay tuned to VOA News Now, as we continue 
+with a summary of world news. It's 23 hours, universal time. From 
+Washington, this is VOA News Now. 
+</TEXT>
+</DOC>

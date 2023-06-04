@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> ABC19981001.1830.1257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Getting ready is much easier said than done. To make changes in a 
+big company or a city's computer system involves months of scanning 
+through millions of lines of computer code. Is there any reason to 
+be optimistic at all? The thing about the computer is, you can have 
+a problem in one part of the world and fix it in another. ABC's Mark 
+Litke reports from Madras, India. Make your way through the clogged 
+streets of old Madras, past the factory making shirts for the gap, 
+and you've reached the future. This is the tata company, the largest 
+of more than 100 Indian firms now working around the clock to slay 
+the millennium bug, and doing battle for a who's who of American corporations 
+-- Boeing, American express, GE, Prudential, Hewlett-Packard and many 
+more. Why turn to India? Size is import, number of people, infrastructure, 
+the computing equipment. And you've got it all here? Yeah. As with 
+the millennium bug itself, it's in the numbers. India's advantage, 
+it simply has more skilled, English-speaking programmers than any 
+other country outside the U.S. most are still trained in the early 
+computer languages needed to fix old computer codes. And they work 
+for one-tenth the wages of programmers in the west. Would the west 
+solve this problem without India? I don't believe so. Not now and 
+not quickly. Despite the fact that half this country's nearly 1 billion 
+people still can't read or write, India is one of the world's most 
+computer-literate societies. In many public schools here, children 
+get hands-on computer education from the earliest grades. There are 
+also thousands of private schools, mostly small storefront operations. 
+In India, Microsoft chief Bill Gates is a superstar. Jim Thomas left 
+IBM to work for the tata company. The quality that's coming out of 
+software from India now is exceeding the quality coming out of software 
+from the United States. While that point is debatable, there's no 
+argument that with millions of lines of computer code still to be 
+scanned for the year 2000 fix, a country seemingly mired in the last 
+century is now vital for overcoming the first big hurdle of the next 
+century. Mark Litke, ABC News, Madras, India. 
+</TEXT>
+</DOC>

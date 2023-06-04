@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981009.1830.1690 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Don't forget "20/20" and 
+"Nightline" later this evening. i'm Charles Gibson. For all of us 
+at ABC News, have a great weekend. 
+</TEXT>
+</DOC>

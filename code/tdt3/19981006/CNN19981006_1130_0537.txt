@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0537 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." Much 
+cooler weather will be spreading in through parts of Texas and into 
+Oklahoma today. Forecast temperatures only in the 60s, out in advance 
+of the front, though still warm along the Florida gulf coast and back 
+into Louisiana, some highs will be in the 80s, as 50s continue, too, 
+through much of the upper midwest. Check of your forecast for later 
+today on into Wednesday, most of the wet weather continues from the 
+Great Lakes all the way back down to the gulf coast along a strong 
+cold front, which could produce some severe thunderstorms along gulf 
+coast regions today. Still, fair weather lingers in the northeast. 
+New front in the pacific northwest will bring another chance for some 
+showers. The extended forecast on Thursday, most of the east coast 
+will be wet with rain and thunderstorms. Showers will affect the pacific 
+northwest as temperatures will be coolest in the Great Lakes and warmest 
+in the southwest. Same trend continues on Friday, rain continues in 
+the northeast. We will find showers and windy conditions in the pacific 
+northwest. And by Saturday, rain should begin to taper off in the 
+east, but continue in the pacific northwest. 
+</TEXT>
+</DOC>

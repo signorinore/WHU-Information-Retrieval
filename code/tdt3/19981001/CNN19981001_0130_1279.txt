@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.0130.1279 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In a related story, CNN "sports illustrated's" Tom verducci is reporting 
+that Darryl Strawberry left Yankee stadium Wednesday afternoon for 
+a local hospital where he is undergoing tests for colon cancer. A 
+Yankees source told verducci that Strawberry is not cleared to play 
+baseball and will not play until doctors determine exactly what the 
+spot is on his colon. 
+</TEXT>
+</DOC>

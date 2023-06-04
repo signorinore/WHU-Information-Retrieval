@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is celebrating its 40th anniversary today. The aeronautics division 
+was founded in 1958 and began conducting space missions within months. 
+NASA's best known accomplishments include project Apollo's lunar landing 
+and projects gemini and Mercury during the 1960s. In the 1980s, NASA 
+launched the space shuttle program. The organization has also conducted 
+missions to every planet in the solar system except Pluto. 
+</TEXT>
+</DOC>

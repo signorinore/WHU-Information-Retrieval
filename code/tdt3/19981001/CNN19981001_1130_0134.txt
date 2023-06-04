@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0134 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno and a Senate committee are focusing on 
+the issue of international parental abduction today. Extradition treaties 
+typically do not require nations to return a parent who has fled any 
+country with a child over the objections of the other parent. Experts 
+estimate there are thousands of such cases each year. Two senators 
+have introduced a measure that would make international child abduction 
+an extraditable crime. 
+</TEXT>
+</DOC>

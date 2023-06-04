@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981008.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Bank of England cut its benchmark interest rate by one-quarter 
+of a percentage point Thursday, reflecting concern about global financial 
+turmoil and fears of recession among British exporters and manufacturers. 
+It was the bank's first such action since June 1996. The general response 
+to the reduction, to 7.25 percent from 7.5 percent, however, was that 
+it would make little immediate difference to Britain's economic slowdown. 
+``What makes a difference is the signal that rates are coming down,'' 
+said Holger Schmieding, an economist at Merrill Lynch &AMP; Co. ``It 
+was important in that those expectations were not disappointed.'' 
+The reduction had little effect on currency trading and did nothing 
+to halt the slide of British equity markets. London's Financial Times 
+100 index slumped 2.7 percent Thursday, to 4,698.90 points. The British 
+rate cut matched a similar quarter-point reduction by the Federal 
+Reserve in the United States last week and coincided with indications 
+that interest rates internationally are falling. Japan, Canada and 
+Spain have also cut rates; Portugal and Ireland are expected to drop 
+their higher rates to the average among the nine other nations preparing 
+to introduce the single European currency on Jan. 1. The Bank of England's 
+nine-member Monetary Policy Committee _ which is responsible for setting 
+interest rates _ said it had taken the action because the worsening 
+international climate had damaged business and consumer confidence. 
+The bank's guidelines are primarily to hold down inflation to a target 
+of 2.5 percent. Despite indications this week that British paychecks 
+are soaring, the bank said Thursday that inflation might fall to less 
+than 2.5 percent, making it ``appropriate'' to cut interest rates. 
+The modest reduction disappointed some analysts who had been hoping 
+for a reduction of half a percentage point. ``It's obviously a move 
+in the right direction, and it's obviously part of what's necessary,'' 
+said David Mackie, an economist at J.P. Morgan. ``But the Bank of 
+England has a lot more to do. The economy is going to be very weak 
+next year, and they'll need to react to that by cutting rates aggressively.'' 
+Thursday's rate cut came after projections by Gordon Brown, the Chancellor 
+of the Exchequer, that growth would be far slower next year than the 
+government had first forecast _ possibly as low as 1 percent. 
+</TEXT>
+</DOC>

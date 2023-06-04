@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981005.0362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A group of communications, software and financial services companies 
+plans to announce an alliance Tuesday aimed at creating standards 
+for speech recognition that will push electronic commerce and the 
+Internet beyond the boundaries of the personal computer, potentially 
+making it accessible to anyone with a telephone. The announcement, 
+to be made at an industry trade show in New York, is intended to expand 
+the ability to perform Internet transactions or retrieve data from 
+the World Wide Web by using speech-recognition technology to translate 
+spoken words into data commands transmitted via the Web. The companies, 
+which include Motorola Inc., SAP AG, Visa International, Broadvision 
+Inc., and Nuance Communications, a unit of SRI International, describe 
+their effort as V-Commerce and argue that telephone access will break 
+down the last barrier remaining between the mass of consumers and 
+the Internet. Currently access to the Internet is limited to those 
+with personal computers and Internet capability, but increasingly 
+executives in both the computer and communications industries envision 
+a new Internet platform that will be controlled by voice and will 
+display information on a small portable screen. In the last year speech 
+recognition technologies have improved significantly, making it possible 
+for a number of companies to begin deploying systems that answer questions 
+for phone call and package routing, stock trading, banking, airline 
+reservations and other commercial transactions. Now the companies 
+are making an effort to integrate voice systems with Internet and 
+corporate data bases. The new drive toward integration will make it 
+possible for consumers to pose questions by telephone and then receive 
+data in a variety of different ways, including by phone, portable 
+devices such as pagers and cell phones, or in the Web browser of their 
+personal computers. ``We see voice recognition making tremendous advances,'' 
+said Todd Chaffee, executive vice president for corporate development 
+and alliances at Visa. ``Voice technology is going to lead to a massive 
+extension of electronic commerce beyond those with PC's.'' In the 
+future, according to the alliance executives, it will be increasingly 
+simple to use a telephone to make a query such as ``tell me the flights 
+from San Francisco to New York leaving tomorrow.'' The answer to that 
+question could then be immediately spoken by phone, or displayed on 
+a pager or in a computer Web browser. Currently, gaining access to 
+the same information via a Web browser alone can require as many as 
+15 mouse clicks and take up to three minutes. Nuance is one of a small 
+group of companies, including Applied Language Technologies, Lernout 
+&AMP; Hauspie Speech Products NV, Dragon Systems and the IBM Corp., 
+that are now developing basic speech recognition technologies that 
+are speaker-independent and do not require training. This is a significant 
+advance and is permitting wider deployment of voice applications, 
+such as recent Nuance systems that permit call routing at Sears, Roebuck 
+or stock information at Schwab. Both Visa, the credit card processor, 
+and Motorola are investors in Nuance and both companies are moving 
+to deploy both new services and products that are based on the new 
+voice technologies. Visa executives said the company had created prototypes 
+of five voice-based financial services including credit card activation, 
+lost and stolen card replacement, travel planning, voice banking and 
+bill payment. The services will be available commercially next year. 
+Motorola executives said the communications company was working to 
+create new Internet standards that would make speech extensions to 
+standard Internet services simple to implement. The company recently 
+introduced a new voice Internet standard called Voice Markup Language, 
+or VoxML, to allow software developers to add speech to their Web 
+applications. Because VoxML applications can be deployed on standard 
+Web servers, the company maintains it is straightforward to add the 
+technology. ``Motorola looks at this area as a fundamental element 
+of our strategy,'' said Maria Martinez, vice president and general 
+manager of Motorola's Internet division. One of the strengths of the 
+VoxML standard is that it would permit responses to voice queries 
+to be displayed on a variety of existing Web devices, from pagers 
+to browsers. ``So far, electronic commerce has been constrained by 
+the PC,'' said Ron Croen, Nuance's chief executive officer. ``We're 
+intent on making the audience larger by an order of magnitude.'' 
+</TEXT>
+</DOC>

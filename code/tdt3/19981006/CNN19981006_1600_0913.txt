@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0913 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The president also met today with IMF and world bank leaders and told 
+them it's time to take urgent steps against the global economic crisis. 
+He stressed the importance of a coordinated effort to resolve the 
+turmoil. 
+</TEXT>
+</DOC>

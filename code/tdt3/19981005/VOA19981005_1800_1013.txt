@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981005.1800.1013 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're tuned to the Voice of America, coming to you from Washington. 
+I'm Teresa Erickson with Tony Riggs bringing you this hour of VOA 
+News Now. It's universal time. 
+</TEXT>
+</DOC>

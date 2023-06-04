@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981003.0130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+1,100 Boeing workers got 60-day layoff notices Friday. Most of them 
+are white-collar workers in the puget sound area in Washington. Boeing 
+says it's the first step in a move to cut 28,000 jobs by the end of 
+the year. Boeing hopes to find jobs for the laid-off workers within 
+the company before December 4th. 
+</TEXT>
+</DOC>

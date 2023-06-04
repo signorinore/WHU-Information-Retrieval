@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981002.2130.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the extended weather forecast. This is meteorologist 
+Valerie Voss with your "Headline News weather forecast" for Saturday. 
+Stormy weather will spread from the central and southern plains into 
+the Mississippi river valley with cool and quiet conditions on the 
+east coast. A few thunderstorms over Florida. Rain will persist in 
+the northwest as cool air builds into that region as well. Highs just 
+in the 40s and 50s from the northern Rockies across the northern plains 
+into New England. Mostly 70s and 80s through the south, but south 
+Texas will once again see 90s. Looking ahead to Sunday, look for showers 
+and storms from the northwest to the Great Lakes to the gulf coast. 
+On Monday, strong storms push into the plains states with cool air 
+building into the rocky mountains. For Tuesday, rain and possible 
+snow showers in the northwestern U.S. we'll see scattered showers 
+and storms from the Great Lakes to the gulf coast. The coolest air, 
+New England and the northern plains, some temperatures just in the 
+50s. Most of the south will be in the 80s. Don't forget, four-day 
+forecasts for 6,100 cities on CNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

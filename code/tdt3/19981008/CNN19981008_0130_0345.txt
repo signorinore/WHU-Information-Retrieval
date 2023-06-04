@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981008.0130.0345 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house has passed a Bill that would require companies to verify 
+the age of an Internet user before it shows material deemed harmful 
+to minors. Companies would also have to get parental consent before 
+collecting personal information about children from the net. Analysts 
+say the Bill contains the first federal privacy regulations for the 
+Internet. Several Internet companies are working on their own privacy 
+initiatives to show Congress further regulation isn't needed. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981006.1830.0408 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, an early rally faded, but the Dow industrials held 
+on to gain 16 3/4 points, to close at just under 7743. The NASDAQ 
+fell 25 points, to 1510. 
+</TEXT>
+</DOC>

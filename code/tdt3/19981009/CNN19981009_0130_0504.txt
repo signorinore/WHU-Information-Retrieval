@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0504 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And coming up -- scientists 
+say they're figuring out more and more about how cancer works. We'll 
+find out how this could revolutionize treatments. 
+</TEXT>
+</DOC>

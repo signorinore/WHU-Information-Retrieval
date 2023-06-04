@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981005.1130.0474 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." Temperatures 
+today quite cool through the Rockies. In the Denver area, temperatures 
+only in the 40s, as will be the case over much of Wyoming. In contrast, 
+still warm over much of Texas and back into the southeast with highs 
+in the 80s and 90s. Your forecast weather maps later today on into 
+Tuesday, most of the wet weather right through the midwest. We'll 
+find strong storms along that front today, back through the southern 
+plains and moving into the southern Mississippi river valley as we 
+head on through the day tomorrow. High pressure and fair weather will 
+continue in the northeast as well as much of the west. The extended 
+forecast -- showers and storms continue in the southeast during the 
+day on Wednesday, extending back through the Great Lakes. Temperatures 
+remain cool through the northern lakes, still warm in the southwest. 
+On Thursday, the threat for rain best in the southeast back through 
+the Great Lakes as temperatures remain cool in the northern Great 
+Lakes. And as we head into the day on Friday, more rain from the Great 
+Lakes into the northeast. Showers and storms will be moving off the 
+eastern seaboard. For more weather information, including four-day 
+forecasts for 6,100 cities, log into CNN.com. 
+</TEXT>
+</DOC>

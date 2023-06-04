@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Secretary of state Madeleine Albright is heading to the Middle East 
+for meetings with Israeli and Palestinian leaders. She's expected 
+to talk separately Tuesday with Israeli prime minister Benjamin Netanyahu 
+and Palestinian authority President Yasser Arafat. They are expected 
+to finalize an agreement over Israeli troop withdrawal from the West 
+Bank, and Palestinian security measures at a meeting with President 
+Clinton this month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the virginia supreme court today rejected an appeal by governor jim 
+gilmore to reinsert the feeding tube of a severely brain-damaged man. 
+yesterday, the family of hugh finn withdrew a tube that had been keeping 
+finn alive for three and a half years. in his appeal, the governor 
+said denying finn food and water is meant to make him die. but the 
+high court agreed with a lower court ruling that said withholding 
+nutrition from the patient allows him to die naturally and isn't considered 
+a mercy killing. 
+</TEXT>
+</DOC>

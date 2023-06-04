@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981007.0184 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Retrieving information from an increasingly tangled World Wide Web 
+is one of the most common online activities. Retrieving information 
+that's actually useful is far more rare. While search engines mostly 
+use roving software robots to scour the Web, the Mining Co. (www.miningco.com), 
+a relatively new vehicle on the information superhighway, is trying 
+to prove that it has found a higher technology: the human brain. Since 
+February 1997, the Mining Co. has built its Internet information gathering 
+power on the shoulders of scores of people, called guides, scattered 
+over the planet. Each guide, a specialist in a topic of Web interest, 
+like politics, humor or jazz, is responsible for searching the Internet 
+and listing and building the best Web sites in their subjects. ``Our 
+guides use search engines that pull up all that stuff and then they 
+pick the gems out, polish them and present them,'' said Scott Kurnit, 
+the president, chief executive and founder of The Mining Co. The guides, 
+which must complete an intensive 15-week training course, are also 
+expected to regularly moderate online chats, maintain bulletin boards, 
+write original material and promptly answer e-mail from users. Underscoring 
+The Mining Co.'s uniquely human quality, head shots with accompanying 
+names (and biographies on demand) of the guides are a common part 
+of the sites. They tend to keep search results from overwhelming users 
+by eliminating irrelevant and repetitious Web sites, as well as dead 
+links. For instance, a broad search done this week on the single word 
+``Clinton'' using Alta Vista found 1.8 million Web pages, the first 
+one being ``Presbyterian College, Clinton, S.C;'' the same search 
+on The Mining Co. found 1,568 documents, the first one being ``Starr's 
+End Game - U.S. Politics'' a grouping of information and resources 
+complied by a guide, Rowena Wall, who has worked on various political 
+campaigns. ``Until software becomes much more intelligent and can 
+filter out the garbage, humans can do this better,'' said Michael 
+Griffis, a stocks guide (http://stocks.miningco.com) for The Mining 
+Co. in Aurora, Ohio. His wife, Susan Griffis, is also a guide for 
+cookbooks (http://cookbooks.miningco.com). The dependence on guides 
+differs, said officials for The Mining Co., from the Internet search 
+giant Yahoo that uses some people to build and maintain its directory 
+of sites, but still heavily depends on machines to do much of the 
+work. This is esepcially evident, some critics of Yahoo say, when 
+a search can't be satisfied by Yahoo's directory the search is then 
+automatically routed to a traditional search engine. But a spokeswoman 
+for Yahoo suggested that the company's use of people, while not disclosing 
+how many, to assemble and manage its directory of sites makes The 
+Mining Co. less distinctive than purports to be. In fact, an open 
+search of the word ``Clinton'' on Yahoo found 541 sites organzied 
+into 50 categories, the first one being ``government: U.S. government: 
+Politics: Political Issues: Clinton administration.'' But The Mining 
+Co. maintains that its especially personal touch and depth of guide 
+expertise and passion in their areas makes it unique on the Internet. 
+``Where we are similar to Yahoo we think we do a better job,'' said 
+Jake Levich, The Mining Co. senior editor. Today the service has 639 
+guides in more than 20 countries all wired together by the same Internet 
+technology that they serve. The Mining Co., says Kurnit, covers 12,000 
+topics for three million regular users. The guides have 350,000 links 
+to Web sites, 75,000 pages of its own content and 360 electronic newsletters. 
+And while the privately held company is not yet turning a profit, 
+people are discovering the service. Media Metrix, which measures the 
+traffic of the Internet, listed The Mining Co. as 85 in November 1997 
+among sites accessed from home and work. Last month, the most recent 
+information available, the service was placed at 43 in that category. 
+The company gets revenue through advertising. Guides are paid a percentage 
+of those revenues based largely on the popularity of their sites, 
+Kurnit said. For example, the service's most visited site, one about 
+video game strategies, earned its guide $5,000 last month. Other guides 
+could make as little as $100 a month. Kurnit said an added benefit 
+of having people so involved in creating and maintaining the service, 
+which he describes as a hybrid of an online community and navigation 
+tool, is that it brings together people as well as information. ``First 
+and foremost people are looking for directory assistance on the Internet,'' 
+said Kurnit. ``They are generally not happy with what they've found.'' 
+</TEXT>
+</DOC>

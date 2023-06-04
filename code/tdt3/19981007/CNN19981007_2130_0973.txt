@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a bumpy ride on Wall Street today. Stocks fell more than 100 
+points this afternoon after a morning rally. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.1079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aircraft engine maker pratt & bhitny is eliminating 2,000 jobs or 
+6% of its workforce. It currently employs about 33,000 people worldwide. 
+The jobs being eliminated will be split fairly between Connecticut 
+and England. Shares jumping $1.50. 
+</TEXT>
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> NYT19981008.0032 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Thursday, Oct. 8: So here 
+we are again, edging toward Election Day with no firm idea of what 
+the ballots in New York City will look like. In particular, the referendum 
+section, often tucked down at the lumbago level of the ballot, is 
+still very much in doubt. The cause for this confusion is a highly 
+vocal and political battle between Council Speaker Peter Vallone and 
+Mayor Rudolph Giuliani. Vallone, who is running for governor, wants 
+an item on the ballot that asks voters whether public funds can be 
+used to move Yankee Stadium from the Bronx to Manhattan. The mayor, 
+objecting mightily to such a limitation on his powers, quickly established 
+a contrived Charter Revision Commission to find its own referendum 
+that would automatically bounce Vallone's off the ballot. So Vallone 
+and his City Council went to court _ in the Bronx, of course _ and 
+got a hometown judge to rule for the Vallone referendum. State Supreme 
+Court Justice Douglas McKeon, who describes Yankee Stadium as ``the 
+tabernacle of sport,'' ruled that the mayor's commission did not make 
+a comprehensive review of the charter before devising its ``slapdash'' 
+referendum on campaign reform. The mayor retorted that ``when you 
+present a political question to a judge who is the product of the 
+Democratic machine, you get a Democratic answer, not an honest answer 
+to the question.'' The city immediately appealed, and was granted 
+a stay. The best outcome would be if a higher legal authority found 
+a way to keep both referendums off the ballot. The Vallone effort 
+could harden the negotiating process on Yankee Stadium and complicate 
+the task of keeping the team in New York City. The mayor's referendum 
+is, in many ways, even worse. The mayor used a legitimate process 
+for revising the city's constitution as a crude political tool. His 
+referendum threatens to disrupt one of the best campaign finance systems 
+in the country. These two referendums may be clever political gamesmanship, 
+but they are a disservice to New York City voters. 
+</TEXT>
+</DOC>

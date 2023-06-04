@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+more evidence from independent counsel ken starr's report is now public. 
+thousands of additional pages of documents were released today by 
+the house judiciary committee. among them are transcripts of telephone 
+conversations between linda tripp and monica lewinsky. testimony from 
+several key figures in the investigation was also released. 
+</TEXT>
+</DOC>

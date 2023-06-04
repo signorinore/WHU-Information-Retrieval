@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "Headline Sports," I'm Russell Biven. Well, less than 24 hours 
+after losing to the padres in ten innings, the Braves will once again 
+host San Diego in game two of the national league championship series. 
+Tonight's matchup pits Tom glavine against Kevin brown. Nobody in 
+this locker room has taken anything for granted. Regardless of the 
+fact that we're 1-0 right now, it doesn't mean squat, because you 
+still have to go out and play the game. We didn't take things for 
+granted to get in this position, and we're not going to start now. 
+San Diego could be without slugger Greg Vaughn. He left last night's 
+game with a strained left quadriceps. 
+</TEXT>
+</DOC>

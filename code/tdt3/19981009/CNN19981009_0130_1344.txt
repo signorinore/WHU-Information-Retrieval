@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981009.0130.1344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Yankees series resumes in Cleveland even at one win apiece. 
+</TEXT>
+</DOC>

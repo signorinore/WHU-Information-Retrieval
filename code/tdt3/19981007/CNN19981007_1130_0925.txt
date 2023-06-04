@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Taking a look at the top stories now -- the head of the federal reserve 
+says the U.S. economy is in relatively good shape. But Alan Greenspan 
+this morning told a group of business economists the combination of 
+the American stock market decline and overseas economic troubles cloud 
+the picture of the future. 
+</TEXT>
+</DOC>

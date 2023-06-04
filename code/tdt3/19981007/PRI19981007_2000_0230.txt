@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981007.2000.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Industrials closed unchanged. This is NPR News. 
+</TEXT>
+</DOC>

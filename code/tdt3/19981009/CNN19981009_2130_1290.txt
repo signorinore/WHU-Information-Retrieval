@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.2130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "Headline Sports." The Yankees and Indians are 
+battling in game three of the American league championship series. 
+Jim thome has gone deep for Cleveland. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981005.1800.3075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+AT&T, the telecommunications giant, will buy the Vanguard Cellular 
+Systems Company in a deal worth $1.5 billion. That takeover will expand 
+AT&T's wireless telephone business in the Eastern United States. 
+</TEXT>
+</DOC>

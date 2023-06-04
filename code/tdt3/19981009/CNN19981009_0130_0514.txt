@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. Temperatures 
+will be quite mild across the central United States. Readings rebound 
+into the 70s. Across the Canadian border states, look for temperatures 
+in the 60s, but 50s can be found into the northeast and New England 
+and much of the pacific northwest, in Alberta, Canada, and into British 
+Columbia. Lots of 90s can be found in the desert southwest. It'll 
+be unsettled for the next several days for the pacific northwest. 
+Washington and Oregon will pick up some showers and some thunderstorms 
+are possible. Finally, a frontal system makes its way mostly off the 
+eastern seaboard. Still some lingering showers for sections of New 
+York and into Maine. It'll be another round of breezy conditions across 
+the Hawaiian islands and cooler in portions of the Caribbean. In the 
+extended forecast, chillier temperatures can be expected into the 
+northern Rockies. That continues for Sunday's forecast where plenty 
+of rain and wind will occur going into the midwest by Monday and into 
+the lower Mississippi river valley. For more weather information, 
+you can log on to CNN.com. 
+</TEXT>
+</DOC>

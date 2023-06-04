@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> NYT19981006.0345 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bond prices ended lower Tuesday for the first time in six trading 
+sessions, reflecting some gains in battered overseas stock markets 
+that diminished demand for Treasury securities as a safe haven investment. 
+The 30-year bond fell 8/32, to a price of 112 7/32. The bond's yield, 
+which moves in the opposite direction from the price, rose to 4.73 
+percent from its 12-year low of 4.72 percent Monday. After the enormous 
+gains over the last few weeks in the bond market as investors sought 
+a safe-haven from tumbling stocks, analysts said it was understandable 
+to see a pullback. Robert Pugliese, senior vice president and director 
+of fixed income at the J.W. Genesis Financial Corp. in Boca Raton, 
+Fla., said bond prices have risen so quickly and yields fallen so 
+much that the market is now vulnerable to sudden sell-offs. ``Investors 
+realize that we are at very lofty prices levels,'' he said. ``With 
+the government long bond yielding in the neighborhood of 4.70 percent, 
+the market is susceptible to any kind of negative news.'' 
+</TEXT>
+</DOC>

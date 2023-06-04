@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First -- stock prices are sharply lower on Wall Street this morning. 
+At this hour, the Dow Jones industrials index is down 156 points. 
+Analysts say investors are worried about forecasts of lower corporate 
+profits and fears of financial problems around the world. We'll have 
+the latest from Wall Street in "Dollars & Sense" at 46 minutes past 
+the hour. 
+</TEXT>
+</DOC>

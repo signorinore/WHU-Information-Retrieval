@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981009.0332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Last quarter, mutual fund investors learned just how wrong they can 
+be when they do the right thing. The right thing in the last few months 
+has been for investors to exit stocks altogether, or at least to cut 
+their holdings in equities and take refuge in bonds. But investors 
+who did so got it wrong if they fled to funds that buy corporate debt, 
+emerging-markets issues, mortgage-backed securities or convertibles. 
+That is because the market witnessed an event in the last quarter 
+that is rare indeed: Treasuries left other bonds in the dust. Typically, 
+all bonds trade in tandem vis-a-vis Treasury securities with similar 
+maturities. But in the decoupling of bond prices, which began in August 
+and has continued, prices of corporate bonds, junk issues, mortgage-backed 
+securities and emerging-markets bonds have fallen while Treasury securities 
+have risen. Adding insult to this injury, even if investors did things 
+doubly right _ abandoning stocks and getting into a fund that buys 
+Treasury securities _ they found that they would have been better 
+off owning individual Treasuries outright. For these two reasons, 
+bond funds demonstrated their severe limitations during the most recent 
+quarter. Pile on top of these disappointments management fees _ in 
+general about 1 percent _ and you have a sad story for investors in 
+bond funds. Of course, most bond fund returns were not anywhere near 
+as dismal as those of stock funds, many of which registered double-digit 
+declines during the quarter. While taxable bond funds as a group eked 
+out a gain of 0.3 percent in the quarter ended Sept. 30, municipal 
+bond funds returned 2.83 percent. When specific areas of the bond 
+market are examined, it becomes clear that the average bond fund came 
+in well below its corresponding index. For example, the tiny gain 
+for taxable funds was far below the 4.23 percent return of the Lehman 
+Brothers Aggregate Bond Index, which is used by Morningstar Inc., 
+the Chicago financial publisher, as the benchmark for the universe 
+of taxable bond funds it tracks. Long-term corporate bond funds rose 
+an average 1.52 percent compared with the 4.95 percent return of their 
+benchmark index. Similar stories are seen in fixed-income areas that 
+showed big losses for the quarter _ emerging-markets and high- yield 
+bonds. The J.P. Morgan emerging-markets bond index lost 21.23 percent, 
+while the average fund in the area fell 32.37 percent. And the First 
+Boston high-yield bond index declined 6.15 percent; the average junk-bond 
+fund lost 7.71 percent. Both benchmarks are used by Morningstar. Municipal 
+bond funds that invest in long-term issues nationwide returned 2.92 
+percent, modestly less than the 3.08 percent return of the Lehman 
+Brothers index but considerably less than the Bond Buyer long-term 
+index, which rose 4.37 percent in the quarter. And the First Boston 
+convertible bond index was down 10.85 percent, versus a loss of 11.2 
+percent loss for the average convertible bond fund. (But a comparable 
+Merrill Lynch convertible bond index was also down 11.2 percent) . 
+It is not unusual for indexes to beat the returns of individual managers. 
+It happens in more and more stock funds every year. The trouble is, 
+mimicking the returns of various fixed-income indexes is far more 
+difficult for investors than mirroring the performance of the main 
+stock indexes. There are several reasons for this. One is a bond's 
+maturity. Unlike stocks, which are essentially open-ended investments, 
+bonds mature, or repay principal at a predetermined date. Bond funds, 
+to diversify and have enough cash to cover shareholder redemptions, 
+typically invest in bonds of varying maturities and durations _ the 
+amount of time it takes to receive the present value of all the interest 
+and principal payments from a bond. However, bonds of a certain maturity 
+are likely to perform quite differently than those of another. In 
+the third quarter, for instance, the biggest decline in yields _ 23 
+percent _ and biggest corresponding rise in price came in the five-year 
+Treasury note. But the average duration of Treasury bonds held by 
+Morningstar's universe of government bond funds is eight years, not 
+the five-year paper that provided the biggest bump. What that meant 
+is that funds with lots of bonds maturing in eight years did not move 
+up as much as those limited to five-year maturities. Of course, nobody 
+could have predicted that five-year securities would attract so many 
+investors. And, going forward, longer-term Treasuries could outperform. 
+But given that bond funds are constrained in their holdings, it does 
+make picking spots in the market rather tough. Differences in credit 
+quality _ a big risk associated with fixed-income investing _ are 
+another reason it is difficult to mimic bond fund indexes. Although 
+bonds of many different qualities declined during the quarter, those 
+with lower grades fell much further than their higher-quality brethren. 
+Too many iffy issues in junk-bond funds dragged down their performance 
+much further than the indexes. The best returns in the quarter were 
+in funds that invest in long-term Treasuries. These include the closest 
+thing to owning long-term bonds outright, the various American Century 
+Benham Target funds, which own bonds with specific maturities. Five 
+of these funds, which returned between 8.41 percent and 10.4 percent, 
+landed in the top 20 taxable bond funds during the quarter. On the 
+other side of the ledger, some emerging-markets bond funds did so 
+poorly that they lagged behind even the worst-performing stock funds. 
+The two biggest money-losers in the taxable bond arena were the Morgan 
+Stanley Institutional Emerging Debt A fund, which lost almost 40 percent 
+of its value, and Phoenix B Emerging Markets Bond fund, down 36.11 
+percent. Losses in some junk-bond and convertible-bond funds were 
+not as severe _ but still nasty. The John Hancock High Yield Bond 
+B fund fell 18.06 percent during the third quarter. Morgan Stanley 
+Dean Witter B Convertible fund lost 15.29 percent. Proving that fund 
+managers can make a difference, some of the other winning taxable 
+bond funds were those that buy international fixed-income securities, 
+like FFTW International Fixed Income, up 10.42 percent. How could 
+some international bond funds do so well when the vast majority declined? 
+The manager of FFTW International, Liaquat Ahamed, chief investment 
+officer of Fischer Francis Trees &AMP; Watts in New York, made three 
+good calls. He had longer-term bonds in the portfolio, stuck with 
+countries rated AA or better and concentrated holdings in Germany. 
+The fund's small size also helped: it has just $77 million in assets. 
+Even though bond returns are outpacing those of stocks, bond funds 
+have other pitfalls to be aware of. While owning a portfolio of bonds 
+in a fund can reduce the risk that one particular bond issuer will 
+fail, you're never quite sure of what you own. And because funds hold 
+bonds of different maturities, it's tougher to buy a fund for a specific 
+purpose, like paying for a child's college education in 12 years. 
+Such a goal can be achieved easily through holdings of individual 
+bonds, typically zero-coupon securities, which make no payments until 
+maturity. But an even bigger problem lies in fund costs. With returns 
+in the low single digits, expenses of 1 percent are a big bite out 
+of shareholders' pockets. And because the management of these funds 
+is typically less active than that of a stock fund, one wonders about 
+the bang shareholders are getting for their bond buck. 
+</TEXT>
+</DOC>

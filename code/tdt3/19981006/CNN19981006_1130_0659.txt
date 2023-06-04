@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.1130.0659 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A national cancer institute study says cold breakfast cereal is the 
+main source of key vitamins and minerals for many youngsters. While 
+that's good, researchers say children are missing fiber and important 
+cancer-fighting substances found in fruits and vegetables. Diet experts 
+recommend encouraging children to have their cereal with fruit on 
+it or along with a glass of juice. 
+</TEXT>
+</DOC>

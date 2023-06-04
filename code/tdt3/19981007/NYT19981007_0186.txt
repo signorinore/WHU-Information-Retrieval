@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981007.0186 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The laptop in front of me looked as if it was running Wordperfect, 
+the mouse felt as if it was interacting with a copy of Wordperfect, 
+and for all intents and purposes, it (italics)was(end italics) Wordperfect. 
+The difference was hidden: there was no Microsoft foundation supporting 
+the product. This laptop _ an IBM 486 Thinkpad provided by the Corel 
+Corp., the makers of Wordperfect _ ran the Linux operating system. 
+And Wordperfect worked fine. Wordperfect, one of the popular word-processing 
+programs developed at the beginning of the desktop PC explosion, is 
+one of the last rivals left to challenge Microsoft in the world of 
+office automation. So no one is surprised that Corel is looking for 
+ways to thwart Microsoft's domination. One strategy is to make sure 
+that people can use Wordperfect with any one of the non-Microsoft 
+options left. A writer tapping away won't notice the difference between 
+using the word processor on a Linux machine or using it on one with 
+a Microsoft operating system. The letters keep popping up after the 
+keys are hit. The paragraphs are still aligned, formatted, tabulated 
+and indexed in the same way. The process of producing the document 
+is remarkably similar. Still, differences emerge from time to time. 
+Using a Linux-run machine with Wordperfect is much like spending time 
+in Europe, where the plugs, switches and everything else is slightly 
+different. Linux, for instance, stores paths to files with forward 
+slashes, not the back slashes used in Microsoft products. Most of 
+these minor details shouldn't be too hard for experienced users to 
+relearn. Novices and people who live in mortal fear of pushing the 
+wrong button, however, could be driven nuts by such things. There 
+are more substantial differences as well. Macintosh and Windows machines, 
+for example, keep fonts in a central repository where all programs 
+can use them. But Linux lacks a central bank for fonts, and they may 
+not be available for all software on the system. (Wordperfect comes 
+with its own batch of fonts that aren't installed for other programs, 
+in part because of licensing restrictions.) Differences like these 
+require a bit more learning to work around, but none are crippling. 
+There are also surprising similarities. Wordperfect runs under a version 
+of X Windows, a non-Microsoft program, known as Kde that handles much 
+of the same thing as Microsoft Windows. Some features are strikingly 
+similar to those of Windows, which makes life easier for novices moving 
+to the platform. There is a task bar and a button that works much 
+like the Windows Start button. They're close enough that Microsoft 
+might wonder why it worked so hard to defeat Apple's claim that the 
+look and feel of a product could be copyrighted. One hidden benefit 
+of Linux may be in the lower demands it makes on computers. Many users 
+run Linux and Wordperfect on older 486-based computers. Still, people 
+who choose to use Linux and Wordperfect need to adopt a bit of a frontier 
+settler's mentality. The products are not dressed up with the musical 
+notes or splashy graphics that accompany Microsoft and Apple products. 
+In fact, the machines start up with thousands of tiny messages filled 
+with words like ``SNMP'' and ``daemon'' _ which can be safely ignored. 
+Michael C.J. Cowpland, chief executive of Corel, said the company 
+was working to make it as easy as possible to switch to Linux. It 
+is developing a product line known as Netwinder that will bundle Wordperfect 
+and other products, like spreadsheets and browsers, into one computer 
+running Linux. That will be available in late fall or early winter. 
+Wordperfect 8 will be released this fall. 
+</TEXT>
+</DOC>

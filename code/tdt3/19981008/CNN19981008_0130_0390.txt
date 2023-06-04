@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981008.0130.0390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New government figures show the number of AIDS deaths last year fell 
+47%. About 46 Americans A-day died of AIDS in 1997. That's down from 
+118 in 1995. New AIDS drugs are getting most of the credit for the 
+sharp decline. AIDS is now the 14th leading cause of death in the 
+United States, down from number ten. 
+</TEXT>
+</DOC>

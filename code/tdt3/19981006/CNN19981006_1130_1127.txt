@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981006.1130.1127 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The Guinness book of records" is setting some records of its own. 
+The book's publisher says sales doubled this year due to a marketing 
+pitch aimed at teenagers and the availability of the book in supermarkets 
+and in drug stores. 
+</TEXT>
+</DOC>

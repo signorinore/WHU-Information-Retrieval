@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is orelon sidney from the cnn weather center with your "headline 
+news" weather update. a strong ridge of high pressure will build into 
+the northern rockies and most the plains states as a low-pressure 
+storm tracks eastward into the great lakes and the mississippi valley. 
+there may be some lingering rain and possible snow across the dakotas 
+and into the western lakes on tuesday with a cold front trailing southward 
+into texas. some thunderstorms on tuesday could be severe along the 
+front and across portions of the deep south. high pressure will continue 
+also across most of new england and low pressure storm moving into 
+the pacific northwest will increase the chance of showers on wednesday. 
+high temperatures will be in the 40s and 50s for the northeast, the 
+rockies and the northern plains into the texas panhandle. look for 
+70s and 80s across the deep south and the southwest. the extended 
+forecast includes rain showers and thunderstorms generally east of 
+the mississippi river heading eastward on thursday. showers increase 
+across the pacific northwest through friday with rain and showers 
+becoming scattered in the south by friday. the forecast for more than 
+6,000 cities is at cnn.com. 
+</TEXT>
+</DOC>

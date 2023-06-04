@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981006.1830.0651 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street saw some hope in all the talk about stopping the economic 
+turmoil. The Dow Jones industrial average rose nearly 17 points. But 
+that optimism did not spread to the NASDAQ, which fell 26 points. 
+The top five technology stocks were -- 
+</TEXT>
+</DOC>

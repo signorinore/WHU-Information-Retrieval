@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0605 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wal-Mart has issued an apology for an in-store promotion in which 
+dozens of people were hurt. A store in brick, New Jersey, dropped 
+balloons stuffed with prize coupons from the ceiling. Nearly 50 people 
+were injured in the scramble for the balloons, some as young as 2 
+years old. In the words of a Wal-Mart spokesman, "it's safe to say 
+we won't do anything like this again." 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another study published in "the journal" suggests a new procedure 
+may allow surgeons to dramatically reduce the number of lymph nodes 
+they remove during breast cancer surgery. Doctors routinely take out 
+the lymph nodes around the armpit to determine if the cancer has spread 
+to other parts of the body. The new procedure involves injecting radioactive 
+material around the tumor and then removing only the nodes that absorb 
+it. In a study of 443 patients, the procedure was 97% accurate in 
+identifying cancerous nodes. 
+</TEXT>
+</DOC>

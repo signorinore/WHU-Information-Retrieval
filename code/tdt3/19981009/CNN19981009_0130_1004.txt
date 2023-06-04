@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981009.0130.1004 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computermaker Packard bell says it will cut its U.S. workforce by 
+up to 1,000 jobs by the end of the year in order to increase efficiency 
+and trim costs. The Sacramento-based company has 5,000 U.S. employees 
+and is the fifth-largest supplier of personal computers. Packard bell 
+says it has no plans to cut its operations in Europe or Asia. 
+</TEXT>
+</DOC>

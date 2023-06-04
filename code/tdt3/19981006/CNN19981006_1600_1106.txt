@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.1600.1106 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For all the latest market news, check out our web site at cnnfn.com. 
+you can use the site to get stock quotes and all the day's business 
+news. 
+</TEXT>
+</DOC>

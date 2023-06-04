@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.0130.0706 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first American to orbit the earth is getting ready to return to 
+space 36 years later. Senator John Glenn is back at Kennedy space 
+center for his first flight rehearsal since February 1962. At 77, 
+he will become the oldest person in space when the shuttle discovery 
+blasts off on October 29th. Glenn will participate in medical experiments 
+comparing the effects of aging with the effects of weightlessness. 
+</TEXT>
+</DOC>

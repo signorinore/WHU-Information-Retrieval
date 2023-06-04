@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, the United States beat England 3-0 on the opening day of 
+the dunhill cup. Tiger Woods, Mark O'Meara and John Daly all won. 
+</TEXT>
+</DOC>

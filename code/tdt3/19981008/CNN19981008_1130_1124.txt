@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981008.1130.1124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Right now the Dow is down, 183 points. That's "Dollars & Sense". Catherine, 
+back to you. 
+</TEXT>
+</DOC>

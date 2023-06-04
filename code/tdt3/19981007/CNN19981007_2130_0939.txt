@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0939 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The cost of going to college went up this year. The college board 
+reports tuition at private institutions rose 5%, making the average 
+cost about $14,500 a year. Tuition at public universities rose 4%. 
+</TEXT>
+</DOC>

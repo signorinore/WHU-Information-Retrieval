@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0381 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Alaska is facing the country's largest measles outbreak this year. 
+Health officials are considering a second vaccination for the state's 
+80,000 students. The outbreak started last month at a high school 
+in Anchorage. Since then, there have been 18 confirmed cases and 22 
+suspected cases. Officials say without a second round of vaccinations, 
+it's likely the disease will spread. 
+</TEXT>
+</DOC>

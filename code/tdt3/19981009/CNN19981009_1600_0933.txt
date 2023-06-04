@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In top stories -- Congress won't leave today for its fall break as 
+scheduled. Lawmakers are working on a temporary spending Bill to keep 
+the government running. And this weekend, they'll try to complete 
+seven remaining spending bills. 
+</TEXT>
+</DOC>

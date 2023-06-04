@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981009.2000.0056 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From National Public Radio News in Washington, I'm Frank Stacio. The 
+House today approved a temporary spending bill aimed at keeping the 
+government going over the weekend. The chairman of the House Appropriations 
+Committee, Republican Bob Livingston said, there is not going to be 
+a shutdown. Meanwhile, negotiations between the White House and Congress 
+continue in an effort to reach agreement on a permanent spending plan 
+for the new fiscal year. 
+</TEXT>
+</DOC>

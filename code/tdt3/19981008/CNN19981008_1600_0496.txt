@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0496 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane georges is being called the third costliest storm on record. 
+The insurance industry estimates georges caused $2.5 billion in damage 
+in the United States and U.S. territories. It ripped through the Caribbean 
+two weeks ago and ravaged four gulf coast states. Puerto Rico was 
+hardest hit with $1.7 billion in insured losses. Florida took the 
+worst hit on the mainland with $325 million in losses. 
+</TEXT>
+</DOC>

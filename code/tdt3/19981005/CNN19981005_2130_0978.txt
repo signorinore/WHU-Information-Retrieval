@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981005.2130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+blue chips dipped slightly on wall street today upon worries about 
+the global financial problems. the dow closed down 58 points at 7726. 
+at one point, it was more than 200 points lower. the nasdaq index 
+had its fifth-biggest point drop ever, down 78 points. 
+</TEXT>
+</DOC>

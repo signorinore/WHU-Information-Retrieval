@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> APW19981009.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An accord among the parties vying for a stake in Telecom Italia SpA's 
+digital TV platform Stream appears one step closer, Italian newspapers 
+reported Friday. Officials at Telecom weren't immediately available 
+for comment. Italian financial daily Il Sole 24 Ore reported Friday 
+that agreement has come on the size of the stakes. The question of 
+how much Rupert Murdoch's British Sky Broadcasting Group PLC will 
+own has been a sticking point. According to Sole, Murdoch will accept 
+a 20 percent stake in Stream, considerably lower than his first request 
+for a 40 percent stake. France's Canal Plus SA, which controls existing 
+Italian digital provider Telepiu, will get a 15 percent stake which 
+may later be turned over to Murdoch, the report said. State television 
+RAI was expected to get a 14 percent stake. Telecom will retain 51 
+percent of its digital pay-TV unit Stream. Telecom now owns 100 percent. 
+</TEXT>
+</DOC>

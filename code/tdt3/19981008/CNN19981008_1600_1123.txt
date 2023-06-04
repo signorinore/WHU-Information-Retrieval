@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1123 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, back on Wall Street, the Dow closing down 9 points. The 
+NASDAQ composite down 43. That's "Dollars & Sense." Kathleen? A wild 
+day. It sure was. Thanks, Beverly. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0251 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+House minority leader Dick Gephardt is meeting with democrats on the 
+Judiciary committee at this hour to discuss an alternative proposal 
+to the impeachment investigation of President Clinton. The panel is 
+set to meet Monday to vote on how to proceed. Democrats say there's 
+no need for a wide-ranging, open-ended investigation. They propose 
+limiting the inquiry to the Monica Lewinsky matter, and setting a 
+time limit for its completion. Republicans, however, are calling for 
+an open-ended probe similar to the 1974 Nixon impeachment hearings. 
+</TEXT>
+</DOC>

@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981006.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the first big combination of Internet retailers, the two biggest 
+online music stores are in the final stages of negotiating a merger. 
+N2K, of New York, and CD Now of Jenkintown, Pa., are preparing to 
+merge, people involved in the negotiations said Tuesday. The deal 
+will be structured as a merger of equals, with management shared between 
+the two companies, they said, declining to discuss the financial terms. 
+Representatives of both companies declined to comment. Both companies 
+were once the darlings of Internet investors, but in recent weeks 
+their stocks have fallen not only below their highs but well below 
+their initial offering prices. CD Now's stock ended at $7.9375 Tuesday, 
+up 43.75 cents, giving it a market capitalization of $139 million. 
+N2K's stock closed at $4.50, down 25 cents, giving it a market capitalization 
+of $64 million. Although they are both online music stores, the two 
+companies are very different in terms of history and style. N2K was 
+founded by Larry Rosen and David Grusin, music industry veterans who 
+founded the GRP record label. The company has emphasized deep content 
+and information about music through various sites devoted to genres 
+such as Rocktropolis and Jazz Central Station, as well as sites devoted 
+to individual artists like Leonard Bernstein. All of these sites linked 
+to Music Boulevard, its online store. Playing off the experience of 
+its founders, N2K had started a record label as preparation for the 
+day when music can be downloaded directly to users, bypassing CD manufacturing 
+altogether. But recently, the company pulled back from this business, 
+halted the signing of new artists and laid off some staff. CD Now 
+was founded by Jason and Mathew Olim, 29-year-old twins. Its business 
+has been much more streamlined, emphasizing a simple fast way to buy 
+music. Increasingly, it has added tools to help users find music they 
+like by showing them choices of other people who have similar tastes. 
+CD Now has been much more aggressive in signing up ``affiliates'' 
+_ that is, other web sites about music _ often run by fans, that refer 
+surfers to their store in return for a commission. CD Now has 100,000 
+affiliates, while N2K has about 7,000. Both companies offer essentially 
+the same stock because they both use the same wholesale distribution 
+firm, Valley Record Distributors, to warehouse the CD's and ship them 
+to their clients. CD Now is bigger with sales of $11 million in the 
+last quarter. N2K had sales of $10 million, but it is growing faster. 
+CD Now said it has 569,000 customers and N2K said it has 522,000 customers. 
+Each of the two companies has raised money in public stock offerings 
+and spent much of it to secure the rights to be the exclusive music 
+seller on various Internet Portal sites. CD Now is on Yahoo and Lycos, 
+while N2K is on America Online, Excite and Netscape. Combined, the 
+two companies would have about 45 percent of the online music market, 
+according to industry estimates. One important source of competition 
+is Amazon.com, the pioneering online bookseller, which has recently 
+added a music store. Another big player is Columbia House, the music 
+club owned by Time Warner Inc. and Sony, which offers online music 
+clubs and a regular store called Total E. Advisers to the transaction 
+do not expect any antitrust problems because online music sales still 
+represent a small portion of the overall market. 
+</TEXT>
+</DOC>

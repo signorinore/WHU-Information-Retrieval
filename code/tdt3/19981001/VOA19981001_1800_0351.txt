@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981001.1800.0351 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now coming to you from Washington. I'm Theresa Erickson 
+with Tony Riggs. 
+</TEXT>
+</DOC>

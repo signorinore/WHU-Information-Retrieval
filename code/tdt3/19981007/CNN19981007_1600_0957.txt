@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An estimated 2.5 million Russians took to the street today to protest 
+economic conditions there. They called for back payment of wages and 
+the ouster of President Boris Yeltsin. Those stories and more in 15 
+minutes. 
+</TEXT>
+</DOC>

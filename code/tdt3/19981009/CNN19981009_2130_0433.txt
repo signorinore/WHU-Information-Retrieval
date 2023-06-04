@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Senator John Glenn and the rest of the crew of the shuttle "discovery" 
+rehearsed their launch today at the Kennedy space center in Florida. 
+Today's practice run ended with three seconds remaining on the countdown 
+clocks. The crew then practiced an emergency evacuation. 36 years 
+ago, Glenn became the first American to orbit earth. "Discovery" is 
+scheduled to lift off October 29th. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981003.1600.1366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, Andre Agassi is on to the finals of the grand slam cup with 
+a remarkable comeback against karol kucera. He'll face Marcelo Rios 
+for the $1.3 million jackpot Sunday. Matt Yallof, "Headline Sports." 
+</TEXT>
+</DOC>

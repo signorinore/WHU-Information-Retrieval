@@ -1,0 +1,228 @@
+<DOC>
+<DOCNO> NYT19981004.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+At the start of the '90s, when employers' health insurance costs were 
+surging 15 percent a year, the giant Sprint Corp. was quick to shift 
+to health maintenance organizations and their businesslike management 
+of medical care. Sprint's costs promptly stabilized. Today, its comprehensive 
+benefit program stands as a model of what Congress and industry envisioned 
+four years ago when they rejected President Clinton's health plan 
+and left the health care system to the tides of the marketplace. Yet 
+along the hallways at Sprint headquarters here, the great expectations 
+for managed care have dimmed. In a score of interviews with workers 
+and managers, no one recounted the kind of HMO horror story that makes 
+headlines: The wrong leg amputated, a child denied a transplant. Instead, 
+they said they had found managed care to be exasperating, callous 
+and sometimes just senseless. Kevin Leroy, a Sprint sales compensation 
+manager, says his HMO, Cigna, saved his 10-year-old daughter's life 
+with months of hospitalization to help her conquer a mysterious immune 
+system disorder. But it also required him to interrupt three days 
+of work to get a third doctor's opinion before authorizing hernia 
+surgery for him. The toddler son of Elsa Wong, a project manager, 
+suffered an ear infection for a year before her HMO primary-care physician 
+sent him to a specialist. When Phyllis Van Kamp, a secretary, had 
+the fever and deep cough of bronchitis, a clinician told her over 
+the phone to try aspirin for a few days. Today managed care plans 
+are entrenched in the economy, enrolling 61 percent of the population, 
+according to the American Association of Health Plans. But managed 
+care has lost its luster as an industry and as the answer to the nation's 
+health care needs. Managed care has so far served as a different way 
+to pay for medical care, not a better way to provide it. Its savings 
+to large employers have been real, contributing significantly to the 
+current economic boom, but they are likely to prove temporary, while 
+coverage has become more expensive for small businesses and the self-employed. 
+Perhaps most important, managed care has shifted many consumers' concern 
+from cost to quality. In a New York Times poll in July, 85 percent 
+of respondents said the health care system needs fundamental change, 
+barely below the 90 percent who said the same thing in a Times/CBS 
+News poll in 1994 before the Clinton health plan died. Although 68 
+percent said they were satisfied with the quality of their family's 
+health care, 30 percent said they were not, up from 19 percent in 
+1994. And the percentage dissatisfied with the cost of health care 
+was practically unchanged, 46 percent now compared with 47 percent 
+then. When asked about health maintenance organizations, 58 percent 
+of respondents said the HMOs had impeded doctors' ability to control 
+treatment, compared with 17 percent who said they had improved it. 
+And though a 1995 Harris Poll found more people saying managed care 
+would improve the quality of care rather than harm it, the Times poll 
+found a sharp reversal, 50 percent saying care would be harmed and 
+only 32 percent saying it would be improved. ``Four and a half years 
+ago, the country was at a watershed and didn't know it,'' said Dr. 
+Leo Henikoff, chief executive of the Rush-Presbyterian-St. Luke's 
+hospital system in Chicago. ``One option,'' he said, ``was a highly 
+government-regulated system. That was the Clinton plan, and the country 
+abhorred it. They took the other option, to throw health care to the 
+marketplace, and four years later, people don't like what they're 
+getting.'' The discontent at one time had put health care back at 
+the center of political debate, with Democrats especially seizing 
+on the issue. But more recently it has been eclipsed in Congress by 
+the scandal involving President Clinton, and although both the White 
+House and Congress had been considering ``patient protection'' laws, 
+nothing is likely to emerge this year. At the state level, more than 
+40 states have chipped away at the marketplace model with new regulations. 
+But no two states have adopted the same restraints and there is no 
+agreement on a comprehensive system that might work better. Within 
+the health profession itself, experts are predicting a far more wrenching 
+debate focusing on ways to improve health care, not the system that 
+pays for it. Managed care was promoted as a means of reducing costs 
+by emphasizing preventive care and purging redundant and unnecessary 
+care. But now the practice of managed care is seen as little more 
+than a short-sighted way to manage costs. ``Managed care so far is 
+largely an insurance phenomenon,'' said David Lawrence, chief executive 
+of Kaiser Permanente of Oakland, Calif., the nation's largest nonprofit 
+health maintenance organization. ``So far, we've had not much impact 
+on the quality of care,'' he said. ``Ironically, the way to do that 
+is by improving care, not by withholding it.'' But for all the populist 
+vilification of managed care companies like Aetna and United Health 
+Care, Cigna and Kaiser, the companies work within constraints set 
+by other, often mightier, businesses. These are the nation's largest 
+employers, its Sprints. A study published in the April issue of The 
+New England Journal of Medicine said, ``Large portions of the health 
+care system have undergone revolutionary change, and not for the purpose 
+of improving health care, but in order to reduce the cost of doing 
+business for large corporations.'' Dr. Paul Ellwood, a retired pediatric 
+neurologist in Jackson Hole, Wyo., and an early proponent of managed 
+care, said there is ``a misconception about who's in charge. It's 
+not the HMOs. It's the large corporate buyers of medical care.'' Corporations 
+with tens of thousands of employees know they can break an HMO by 
+terminating its contract, so they can draw the line on what they will 
+pay. That, more than the much scorned HMO ``utilization manager'' 
+who must approve doctors' procedures, defines the services that employees 
+get and those they are denied. Prescription plans, for example, often 
+limit the medications that are covered, because employers object to 
+the cost of covering all medications, said Donald Brain Jr., a consultant 
+in Kansas City who negotiates plans for small businesses. Such a plan, 
+Brain said, might include one antidepressant, Prozac, but not another, 
+Zoloft. So if a physician decides Zoloft is more suitable for a patient, 
+the patient will have to pay for it himself if he wants it. The patient 
+blames the HMO, Brain said, ``but it's the employer who makes the 
+decision.'' Large corporations can also use their leverage to obtain 
+a good mix of care and prices. ``We're trying to provide a healthy 
+work force to the best of our ability, provide choice to the best 
+of our ability and attract good people and keep them,'' said J. Robert 
+Dinneen Jr., assistant vice president for corporate benefits at Sprint. 
+Not all employees, however, are benefiting. While workers for big 
+companies like Sprint get a break on the cost of their health insurance, 
+tens of millions of others, the employees of small businesses that 
+lack Sprint's negotiating clout, have seen their costs continue to 
+rise at the 1980s rate. In a survey last year of companies with fewer 
+than 200 workers, the journal Health Affairs found that the average 
+monthly payroll deduction for family health insurance had leaped from 
+$34 in 1988 to $175 in 1996. Harold Thornton, the owner of National 
+Consulting Services near Kansas City, a firm with eight full-time 
+employees, ended his contract with Humana last year after it told 
+him his premium would go up nearly 50 percent in 1998. After considering 
+six other health plans, his employees chose United Healthcare, which 
+offered more benefits and more choice than Humana but still raised 
+their premiums 25 percent. Because Thornton says he can afford to 
+pay just 50 percent of the premiums for his employees, they pay $75 
+to $600 a month for health insurance, depending on their age and coverage. 
+That is five to 10 times more than workers pay at Sprint, which covers 
+90 percent of premiums. ``If you think that you're going to get anywhere 
+near the benefits or costs and resulting value that a large business 
+such as Sprint is going to receive,'' Thornton said of small businesses, 
+``you will be woefully disappointed.'' Still, there are limits to 
+how much large employers can squeeze managed care companies, and corporations 
+like Sprint are starting to accept larger increases in premiums in 
+return for improved services and more options. This year Sprint accepted 
+a 3.8 percent increase, after three years when increases totaled 3.2 
+percent. An increase of 5 percent to 6 percent is likely for next 
+year, Dinneen said. ``We're giving up some clout for choice,'' he 
+said. ``We're assuming it will be much tougher this year to keep rates 
+at as modest an increase as they have been in the past.'' Increases 
+are likely in any case, however, because in their race to enroll the 
+work force, 49 percent of the nation's 650 HMOs lost money through 
+September last year, said InterStudy Publications in Minneapolis, 
+which tracks the industry. Four years ago, InterStudy said, 90 percent 
+were profitable. Ominously for the economy, employers and subscribers, 
+HMOs are trying to rebuild their profits with higher premiums. As 
+the Kansas City area's largest private employer, Sprint has immense 
+leverage over HMOs that want its business, but there is still tension 
+between its goals: keeping costs down, and keeping employees not only 
+healthy and productive but also happy with their benefits. The formula 
+Sprint has settled on works, to a point. Employees say they usually 
+get the care they need. But they say that under managed care, routine 
+events like having blood drawn or having a baby can become exasperating 
+and, if they drop their guard, something worse. Susan Ott would seem 
+to have an edge on the system as human resources director for the 
+Local Telecommunications Division. But halfway through her second 
+pregnancy, her HMO, Cigna, switched her from St. Joseph's Hospital 
+near her home in Overland Park, Kan., to Baptist Hospital in Kansas 
+City, Mo., 45 minutes away. Ms. Ott had gestational diabetes and had 
+to have blood drawn once and sometimes twice a week, and Cigna required 
+that she use Baptist. Finally she complained to her obstetrician, 
+so he did it in his office. Ms. Ott still had to go to Baptist to 
+deliver, however. She was in for another surprise. ``I was checked 
+in and out in 23 hours,'' she said. ``I was John Wayne, walking down 
+the hall with my newborn.'' Congress later mandated that hospitals 
+allow two days for births, but Ms. Ott had already had enough of Cigna. 
+She switched to another HMO with a Sprint contract. Sprint offers 
+an unusually large range of choices: five managed care plans and HMOs, 
+plus two traditional fee-for-service plans, which permit employees 
+to seek whatever care they want wherever they want. That option can 
+be expensive, however, costing a family needing a lot of care as much 
+as $6,000 a year, so less than 20 percent of the work force chooses 
+it. In managed care plans, each subscriber typically has a primary 
+care ``gatekeeper,'' the physician who provides all routine care, 
+keeps his charts and refers him to specialists. Sprint employees, 
+though, have stumbled upon a peculiar feature of many HMOs: the phantom 
+gatekeeper. The gatekeeper function survives: Charts are kept, medicines 
+are prescribed and referrals are made. But when a patient visits the 
+clinic, he sees whoever is available. It is rarely the same doctor, 
+and sometimes it is a nurse. Having little confidence that anyone 
+really knows them or their conditions, some Sprint workers have devised 
+a strategy to make the plans work for them. They trust their own instincts. 
+They do their own research. They don't accept no for an answer. They 
+persist. In effect, they manage their managed care. Phyllis Tasby 
+and her family have been covered by Kaiser for 11 years. ``I love 
+my primary care physician,'' said Ms. Tasby, a Sprint human resources 
+manager. Kaiser was instrumental in helping her stop smoking and lose 
+weight, she said. Then last year, she brought in her 13-year-old son 
+because his left leg was bowing. A doctor correctly diagnosed it as 
+Blount's disease, a condition in which the upper shin bone stops producing 
+bone tissue. ``But they didn't tell me anything about it,'' Ms. Tasby 
+said. ``I went on the Internet and found information myself.'' When 
+she went back to Kaiser and asked about corrective surgery, ``They 
+told me I shouldn't do anything until he was 16.'' ``So I went outside 
+Kaiser,'' she said. ``I paid $350 to a specialist. He told me I should 
+do the surgery now.'' Again she returned to Kaiser, and this time 
+she was referred to a Kaiser orthopedist, who also recommended surgery. 
+The boy had the operation in January and Kaiser covered it. ``I won't 
+quit Kaiser,'' Ms. Tasby said. But she has learned something about 
+life with an HMO. ``They think, `What the customer doesn't know won't 
+hurt. If they ask, we'll give it to them.''' Critics of managed care 
+say that so far the marketplace has been a ham-handed manager of medicine. 
+In cutting premiums to attract employers and patients, in chipping 
+away at excess and in wringing discounts from its physicians, hospitals 
+and drug companies, HMOs have produced scant evidence that care itself 
+is actually managed, or that the health plans' customers are any healthier. 
+There is plenty of evidence that some hospitals and their doctors 
+are providing erroneous, excessive and inappropriate care, while others 
+do much better. Dr. Lawrence of Kaiser, for example, said some hospitals 
+deliver five times as many babies by Caesarean section as others, 
+most of them unnecessary. The New England Journal of Medicine has 
+found that 34.5 percent of all women who get mammograms in their 40s 
+receive false positive results and then often are treated unnecessarily. 
+Estimates of preventable deaths in hospitals, those arising from mistakes 
+and mistreatment, range from 120,000 a year to 180,000. ``Sloppy care 
+is not cheap care,'' said Bruce Fried, a former assistant secretary 
+in the Department of Health and Human Services. Analysts say that 
+true management of care can curb the cost of errors and excess. They 
+look to the developing discipline of evidence-based medicine to enable 
+doctors make better decisions on treatment. Already, Kaiser has begun 
+recording patients' charts, treatments and treatment results in computers 
+across its entire network with the goal of learning what practices 
+and treatments work best. Shifting to evidence-based medicine, however, 
+will require immense investments in computers and great changes in 
+how HMOs and doctors do business. And so its proponents are not making 
+the kinds of sweeping promises that HMOs made in the '80s, when managed 
+care was still a movement, before the nation's giant insurance companies 
+stepped in. The benefits of evidence-based medicine will be a while 
+coming, cautioned Uwe Reinhardt, a health care economist at Princeton 
+University. Its best hope? ``That after two or three years of premium 
+increases, business and government will say, `This doesn't work,' 
+and that will wake us up.'' 
+</TEXT>
+</DOC>

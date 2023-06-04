@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981005.1600.0208 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have Wall Street's reaction in our "Dollars & Sense" report 
+at 16 past the hour. 
+</TEXT>
+</DOC>

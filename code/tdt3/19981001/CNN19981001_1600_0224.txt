@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0224 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investigators looking into the crash of Swissair flight 111 may have 
+another lead. The airline says insulation blamed for four jet fires 
+has been found in the Swissair wreckage. The Thermal and sound insulation 
+blankets are approved by the FAA. But McDonnell Douglas, the manufacturer 
+of the MD-11, recommended last year Swissair replace the insulation 
+with a more fire retardant type. Swissair flight 111 crashed off Nova 
+Scotia last month, killing all 229 people on board. 
+</TEXT>
+</DOC>

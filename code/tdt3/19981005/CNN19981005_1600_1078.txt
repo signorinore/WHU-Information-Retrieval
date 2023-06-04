@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981005.1600.1078 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow finishes down 58 points. NASDAQ down 7. 
+</TEXT>
+</DOC>

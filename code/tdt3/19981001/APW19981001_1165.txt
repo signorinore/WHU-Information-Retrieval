@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981001.1165 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 12,791,400 98 27-32 Down 
+2 29-32 ViacomB 2,491,100 56 15-16 Down 1 1-16 Keane 2,245,700 33 
+7-8 Down 2 1-8 SP MidCap 1,201,800 57 11-64 Down 2 41-64 EchoBay 1,064,900 
+2 9-16 Up 3-16 DJIA Diamnds 1,006,600 76 11-32 Down 1 27-32 BemaGold 
+741,900 1 7-16 Up 1-16 TWA 733,500 5 1-4 Down 7-16 GetchellGld 729,000 
+20 3-8 Down 11-16 NaborsInd 633,300 14 3-8 Down 13-16 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981007.0130.0363 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chrysler is recalling 685,000 cars that can roll away under certain 
+conditions when left in park. The recall covers the Chrysler Cirrus 
+and Dodge stratus models from 1995 through '98 and the Plymouth breeze 
+and Chrysler sebring made from 1996 through '98. Chrysler will notify 
+affected drivers in December. Chrysler is also recalling 157,000 factory 
+installed child seats. The affected models are the Chrysler town and 
+country, Dodge caravan and grand caravan and the Plymouth Voyager 
+and grand Voyager minivans for years 1996 and '97. 
+</TEXT>
+</DOC>

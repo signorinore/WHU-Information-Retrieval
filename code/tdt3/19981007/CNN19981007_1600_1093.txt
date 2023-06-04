@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981007.1600.1093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Richard Branson, the head of virgin atlantic airways, may one day 
+be riding the rails. Branson has expressed interest in running a high-speed 
+rail system that would connect with virgin flights. That, according 
+to an official with Florida's rail consortium. The consortium is already 
+working with several European companies to develop a bullet-train 
+system connecting Orlando to Miami and the Tampa bay area. If the 
+system is up and running in the year 2006, as praned, it could link 
+with virgin atlantic airways flights. 
+</TEXT>
+</DOC>

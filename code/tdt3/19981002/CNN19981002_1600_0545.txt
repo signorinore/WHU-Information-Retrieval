@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0545 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+don't forget, four-day forecasts for 6,100 cities on cnn interactive 
+at cnn.com. 
+</TEXT>
+</DOC>

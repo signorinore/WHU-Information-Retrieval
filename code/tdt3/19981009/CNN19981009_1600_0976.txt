@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981009.1600.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street stocks finish out the week with some big gains. For the 
+details and more, let's head up to New York and Beverly Schuch. Hi, 
+Beverly. Hi, Sachi. Thanks. Kind of a rough week. Investors came back 
+to the market today looking for buying opportunities after a week 
+of volatility that left many blue chip technology stocks still badly 
+battered. For the week, the Dow gained 115 points, about .05%. If 
+you're a long-term investor, this is not the time, I think, to really 
+be extending yourself or taking any kind of a risk. You might be better 
+off in short-termed fixed -- 
+</TEXT>
+</DOC>

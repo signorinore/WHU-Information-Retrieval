@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government is turning its attention to wiring on aging 
+aircraft. On Thursday, transportation secretary Rodney Slater and 
+FAA chief Jane garvey are scheduled to unveil a new effort to address 
+the problem. Faulty or worn-out wiring may have been a factor in several 
+recent air disasters including TWA flight 800 and Swissair flight 
+111. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981002.1700.2164 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+u.s. stock prices ended the week higher today. I'm Dave DeForest VOA 
+News. 
+</TEXT>
+</DOC>

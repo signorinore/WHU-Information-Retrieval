@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> NYT19981006.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After years of policy debates, hand-wringing and foiled attempts, 
+the managed care revolution is finally coming to the city's 1.2 million 
+Medicaid recipients. And the details indicate just how hard the transition 
+will be. Information brochures featuring a woman with her child and 
+dog will be remade for Muslim residents of Brooklyn _ without the 
+dog and with more modest dress. Doctors fluent in Tagalog will have 
+to be found. People with no telephones will have to be tracked down 
+with a detective's diligence and be made to understand that, perhaps 
+for the first time in their lives, they need to choose a doctor. Nearly 
+every state in the union has required at least some of its Medicaid 
+recipients to enroll in managed care plans; in several counties in 
+upstate New York, mandatory managed care has already begun. But New 
+York City's plan _ whose first phase is expected to be up and running 
+by the end of the year, pending federal approval _ is not just the 
+nation's largest. It is also likely to be the toughest to put into 
+effect because of the city's vastly multilingual population, the depth 
+of its social problems and relative inexperience with managed care 
+among even its most affluent residents. The stakes are enormous _ 
+19 percent of New York City's nonelderly population is on Medicaid. 
+Both the city and the state, which each pick up a quarter of the cost 
+of Medicaid, have made their move into managed care a crucial goal, 
+asserting that it will ease the historically huge fiscal burden while 
+providing better care for the poor. ``From a public health perspective, 
+we're very hopeful that managed care will create an opportunity to 
+provide more preventative health to correct the fragmented fee-for-service 
+programs for the poor,'' said city Health Commissioner Neil Cohen. 
+``We think there are many gains.'' But many health care policy experts, 
+some government officials and advocates for the poor seriously doubt 
+New York's readiness. ``I believe they are not there yet,'' said Susan 
+Dooha, a policy analyst at the Gay Men's Health Crisis, the AIDS service 
+organization. ``The moving trucks are outside the house, and the people 
+are painting the walls, but I am not confident that the medical home 
+is ready.'' The components of the rollout range from the mundane to 
+the profound, and each has provoked concern. Most advocates for the 
+poor say, based on the experiences of the 365,000 residents who have 
+voluntarily enrolled in limited areas of the city, that there has 
+been far too little thought put into how beneficiaries, many of them 
+illiterate, non-English speaking, transient or without phones, will 
+be informed of this sea change. In addition, recent surveys have found 
+that many doctors' offices and health maintenance organizations, which 
+have grown by leaps and bounds in recent years, lack the proper technical 
+systems to monitor care. There is also an important economic concern: 
+whether New York state will be able to save money and still entice 
+the commercial HMOs, which have been dropping out of Medicaid across 
+the country. So far, only five of the participating HMOs in the city's 
+mandatory program are commercial companies _ Oxford, HIP, Empire, 
+Wellcare and United Health Care. The rest are what are called provider-sponsored 
+health plans, run by the hospitals, clinics and the like that have 
+traditionally served the poor or HMOs that were set up for low-income 
+patients exclusively. The fleeing of commercial HMOs raises two larger 
+problems: While there appear to be enough doctors to handle the first 
+stage of the rollout, many people fear that further on there will 
+be too few primary care physicians and specialists to give high-quality 
+care. This is especially worrisome, they say, in poor neighborhoods, 
+which have traditionally been underserved by doctors and where patients 
+tend to be far sicker than the general population. Further, if most 
+of the Medicaid HMOs are run by the same hospitals and clinics that 
+have been serving Medicaid recipients for years, will mandatory managed 
+care be able to fulfill its promise of better care, with a wider universe 
+of choices, at lower cost? Put another way, will the city essentially 
+end up with separate but unequal managed care systems, one for the 
+poor and one for the middle class? The most vexing problem is also 
+the hardest to quantify. People on Medicaid, who have long sought 
+out health care only after they get sick, at low-income clinics and 
+hospital emergency rooms, will now have to wrap their minds around 
+a totally different system of care. And dealing with a referral system 
+that has often confused and frustrated a relatively stable and well-educated 
+middle class will be at least as tough for those on Medicaid. ``I 
+don't think they're ready,'' said Michael Sparer, an assistant professor 
+at the Columbia University School of Public Health, who has done several 
+studies of Medicaid managed care around the country. What he found 
+is that states that gave the least thought to the enrollment process 
+fared the worst. While no state is quite comparable to New York in 
+size, they have lessons to offer. Tennessee, for example, did not 
+give proper forethought to its enrollment process and was totally 
+unprepared to see enrollment grow from 35,000 people to 275,000 literally 
+overnight. Minnesota prohibits direct marketing by health care plans 
+but had an extensive outreach and education component to its program, 
+which helped beneficiaries understand what they were getting into. 
+California had a large immigrant population, like New York, and failed 
+to staff its program sufficiently in the beginning, which caused problems. 
+The state used enrollment by mail with limited outreach and education, 
+which resulted in confusion. The program also suffered from a lack 
+of commercial HMO participation. California is still ironing out its 
+kinks but has one advantage over New York: its long history with managed 
+care. New York City and state officials acknowledge these concerns 
+and insist that they have learned from their botched attempt to move 
+Medicaid recipients voluntarily into managed care earlier in the decade. 
+``We have exercised a great deal of caution and diligence,'' said 
+Robert Hinkley, a spokesman for the state Health Department. This 
+time, the city will move slowly, starting with lower Manhattan, parts 
+of Brooklyn and Staten Island, and will branch out in stages around 
+the five boroughs. Each phase will take 13 months, with starting dates 
+staggered at five-month intervals. Few people say that the old system 
+_ traditional fee-for-service medicine _ was ideal. Many doctors would 
+not see Medicaid patients because they found payments too low, and 
+so most Medicaid patients sought care in grim clinics or emergency 
+rooms. Last year, New York City spent $2.8 billion on Medicaid. Under 
+managed care, Medicaid patients will go to the doctors in their plan, 
+rather than seeking out any doctor who accepts Medicaid. Instead of 
+being reimbursed per visit, providers will get monthly rates, known 
+as capitation, for each patient. Outside of the cost savings to the 
+state, managed care, in theory, will benefit everyone. Emergency rooms 
+would no longer be overburdened with nonurgent visits. Patients with 
+chronic conditions like asthma would be seen regularly, cutting down 
+on their acute care and decreasing hospital stays. And Medicaid patients 
+would sit side by side with lawyers and professors, getting care from 
+the same providers serving large HMOs. But can New York pull it off? 
+The Health Care Finance Administration, the federal agency that granted 
+the state the right to switch to mandatory Medicaid managed care, 
+will ultimately have the final vote on the city's readiness, when 
+it studies and reports on it this month. The federal government's 
+approval of the move to mandatory managed care did not come easily. 
+Earlier in the decade, Mayor Rudolph Giuliani began to push for Medicaid 
+recipients to move voluntarily into managed care programs. The effort 
+was quickly stymied by fraudulent practices by managed care companies 
+that caused the city to nearly shut down its effort to market their 
+plans. Since then, the environment for managed care has altered greatly. 
+At that time, managed care companies were fighting one another for 
+Medicaid business. But New York ended up being far less generous than 
+they had anticipated, and the potential for profit was cut even more 
+when the state introduced a competitive bidding process that resulted 
+in rate cuts of 10 to 30 percent, depending on the plan. As a result 
+of clamoring among HMO companies, there have since been slight rate 
+increases, but rates are still far below what most plans are looking 
+for. ``We strongly believe the success of any Medicaid managed care 
+program relies on a rate structure that supports the services,'' said 
+Leslie Moran, a spokeswoman for the HMO Trade Conference in Albany. 
+Ms. Moran said capitation averaged $102 a person, compared with the 
+average of $142 a person in fees for service, causing many health 
+maintenance organizations upstate to drop out. ``If you are a doctor 
+already serving 1,200 patients, how many more can you sign up?'' said 
+Ms. Dooha of Gay Men's Health Crisis. ``Also, you're talking about 
+a very sick population, so do we have a sufficient distribution and 
+array of specialists? And who will suffer? Will people be getting 
+a five-minute physical? Or will the uninsured no longer get attention? 
+What falls out is of concern to all.'' It seems now that for the earliest 
+stages, the supply of primary care doctors will not be a huge problem. 
+``The bottom line is that capacity is not as bad as we expected going 
+into it,'' said John Billings, director of the Health Research Program 
+at the Robert F. Wagner School for Public Service at New York University, 
+whose capacity study is considered the gold standard in the industry. 
+But while the state defines sufficient capacity as one doctor to 1,500 
+patients, many advocates for the poor and health care experts feel 
+that is too low. Capacity is also defined by how available doctors 
+are, another problem cited by experts. There is also a fear among 
+most health care experts that once the plan starts moving into areas 
+like the South Bronx and remote parts of Queens, there will be fewer 
+doctors and clinics that serve Medicaid patients. In a 1996 study 
+of New York City's health care centers for the poor, the United Hospital 
+Fund, a nonprofit research organization, found that only half of those 
+surveyed had doctors available after hours and on weekends. This is 
+important because discouraging Medicaid recipients from using emergency 
+rooms for ordinary care is one of the program's main goals. What is 
+more, only about half regularly called patients who missed appointments, 
+or reminded them to show up. These numbers improved only slightly 
+in a follow-up study in 1997. But perhaps most daunting is the enrollment 
+process itself. Medicaid recipients will soon be sent packages informing 
+them that they need to pick a plan, and detailing how to apply for 
+an exemption. People with HIV and severe mental illness need not join 
+managed care programs if they do not wish to do so. Maximus Inc., 
+a broker hired by the state to take over the enrollment process, has 
+not yet made these packages public. But the potential problems are 
+clear enough. Will recipients open a package that comes in the mail, 
+especially if they cannot read it? What if they change apartments 
+frequently, which is common, and never get the package? Other issues 
+include the fact that the original letters to recipients do not clearly 
+state who is exempt, and there is concern about whether people will 
+get sufficient guidance through the enrollment process. ``The city 
+and state have done no outreach,'' said Christine Molnar, director 
+of the Medicaid managed care education project for the Community Service 
+Society of New York, an advocacy group that is working with beneficiaries 
+in Brooklyn to help the enrollment process. ``There is no basic education 
+on managed care, how it works, what is mandatory, what isn't. ``The 
+most common thing we hear is that someone goes to the clinic and presents 
+their card and learns they can't go,'' Ms. Molnar said. ``We hear 
+a lot of people who can't get a referral or go to a specialist they 
+traditionally went to and get stuck with a bill or get rejected or 
+get referred to someone out of network.'' 
+</TEXT>
+</DOC>

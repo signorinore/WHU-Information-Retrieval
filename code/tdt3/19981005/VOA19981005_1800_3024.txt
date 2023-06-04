@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981005.1800.3024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+There was also concern about a news report that Japanese banks are 
+facing an acute capital shortage and are in worse shape than had been 
+thought. 
+</TEXT>
+</DOC>

@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981002.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+How can lower prices possibly be bad? Who, for example, is not pleased 
+to buy a new car today for less than the same model cost a year ago? 
+That isn't hypothetical. Prices really have dropped for some models. 
+But beware: The cheerful experience of paying less today for a new 
+car, or new shoes, or anything else may become a haunting experience 
+tomorrow. The phenomenon in question is deflation, which means a general 
+decline in prices. The word had become an antique from the Great Depression. 
+But the spreading Asian crisis, plunging stock prices and excess capacity 
+(more goods are produced than people will buy) are bringing deflation 
+back into the language. Alan Greenspan, the Federal Reserve chairman, 
+now uses the word, most recently declaring that ``deflation from the 
+Far East is heading our way.'' And gradually deflation is becoming 
+a familiar idea. Deflation is not yet happening in the United States. 
+Prices are not falling across the board. But they are dropping for 
+a growing number of goods. Cars are one example. So is some apparel, 
+steel and fuel oil. The Consumer Price Index, covering both goods 
+and services, continues to rise, at a very mild 1.6 percent a year. 
+But the index for goods alone rose by only 0.2 percent in the 12 months 
+ended in August, the smallest gain in nearly 40 years. Over the broad 
+spectrum of goods and services, says Mark Blaug, an economic historian, 
+``inflation is clearly converging toward zero.'' Zero inflation has 
+a happy side. A small wage increase adjusted for nonexistent inflation 
+represents a real improvement in buying power. Deflation can also 
+be a happy experience, when the next new suit claims a smaller share 
+of a month's wages than the last one did. But deflation, unfortunately, 
+is not limited to falling prices. It can mean falling wages, too, 
+and it becomes painful when incomes fall faster than prices. In fact, 
+there is a good deflation and a bad deflation, and something in between. 
+Good deflation was the American experience from 1870 until 1896. Prices 
+fell almost every year, but wages and profits, instead of being squeezed 
+out, climbed. The reason was rapidly rising productivity. In an era 
+of rapid expansion and much new technology, the revenue each worker 
+earned for his company rose despite falling prices. More money was 
+available for both wages and profits, and both rose. Consider transportation. 
+As railroads spread across the country, replacing horses, more freight 
+and more passengers were moved longer distances, faster, through all 
+seasons. Revenue per railroad worker rose while rates fell. The telephone 
+brought a similar result in communications, and the Sears, Roebuck 
+catalogue in retailing. ``The 19th-century deflation was productivity 
+driven and the current deflation is not; it is driven by excess capacity 
+around the world,'' said Jeffrey Madrick, who is writing a book on 
+productivity. Various economists agree. Official statistics show little, 
+if any, enduring improvement in the weak rate of productivity growth 
+that has prevailed for 25 years. A few experts maintain that a new 
+era of rising productivity has dawned that is not yet captured in 
+the statistics. But these days, as prices fall or cease to rise, corporate 
+profits have grown more slowly or disappeared entirely. Job growth 
+has also subsided, and layoff announcements appear more frequently. 
+Rising productivity does not seem to be saving the day. Does that 
+mean the United States is condemned to experience the bad kind of 
+deflation again? Not necessarily. The Depression featured the classic 
+bad deflation. A stock market crash, unexpected bankruptcies, defaults, 
+bank runs and bank failures dried up the credit on which any economy 
+depends. With prices and wages falling rapidly, people and companies 
+found themselves without enough income to repay debts. That produced 
+more defaults, and even harder times. Something like that is happening 
+in Asia today, and could spread to the United States. But having learned 
+from the Depression, governments today have the policy tools and knowledge 
+to prevent this. What's more, they know how to to get a stagnant economy 
+moving again, by using big increases in government spending, if lower 
+interest rates don't do the trick. If good deflation seems unlikely 
+and bad deflation preventable, the in-between scenario could well 
+develop. Prices would fall slowly, not swiftly, and corporate revenue 
+would contract gradually, leaving less money for wages and profits. 
+Without faster productivity growth, as Blaug put it, ``there will 
+be increasing conflict between labor and management over who gets 
+what share of the smaller pie.'' 
+</TEXT>
+</DOC>

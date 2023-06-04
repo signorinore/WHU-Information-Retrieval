@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981007.2000.1999 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC Newsroom in London, this is Pamela McCall. You're listening 
+to THE world. This is THE WORLD, a co-production of the BBC World 
+Service, PRI, WBGH in Boston. I'm Tony Kahn. 
+</TEXT>
+</DOC>

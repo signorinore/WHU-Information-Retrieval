@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981004.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The international monetary fund has opened it's annual conference 
+in Washington. It will seek solutions to the world's spreading financial 
+turmoil. 
+</TEXT>
+</DOC>

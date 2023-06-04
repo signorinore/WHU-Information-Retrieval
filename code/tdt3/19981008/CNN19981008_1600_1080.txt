@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981008.1600.1080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Packard bell/NEC says it will cut its U.S. workforce by as many as 
+1,000 jobs, or 20%, by the end of the year. The California-based company 
+is majority-owned by Japan's NEC corporation. The staff reduction 
+is not expected to affect overseas operations of Packard bell in either 
+Europe or Latin America. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks getting bounced around on Wall Street today. Let's turn to 
+Valerie Morris again in New York. Hi, Valerie. Thanks very much. After 
+a Negative start, stocks and Dow industrials are posting modest gains. 
+Investors are reacting to strong gains in Asian markets last night. 
+The Dow fell 37 points, then gained as many as 114 points earlier. 
+</TEXT>
+</DOC>

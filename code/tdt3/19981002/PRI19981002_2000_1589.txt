@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981002.2000.1589 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Business news. Now after two days of big declines, stocks rose today. 
+The Dow Jones Industrials posted a 152 point gain to close at 7785. 
+The NASDAQ picked up three points to close at 1650. 
+</TEXT>
+</DOC>

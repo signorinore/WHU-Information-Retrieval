@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981003.1600.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Violent weather in northern Texas has damaged 36 homes and injured 
+several people. Hardest hit was the town of Graham, 105 miles west 
+of Dallas. A tornado there last night damaged homes and flipped over 
+two cattle trucks. Flights in and out of the Dallas-FT. Worth international 
+airport were canceled temporarily and a control tower was briefly 
+evacuated because of high winds. 
+</TEXT>
+</DOC>

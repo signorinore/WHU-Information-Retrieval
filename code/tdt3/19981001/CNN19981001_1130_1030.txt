@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.1130.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Despite fears of a global recession, the U.S. job market remains tight. 
+Initial jobless claims fell by 5,000 last week to their lowest level 
+in more than five months. Economists had expected a rise. 
+</TEXT>
+</DOC>

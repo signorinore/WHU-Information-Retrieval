@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, about 1,100 evacuees are allowed to return to their homes as 
+crews fight two huge wildfires in southern California. Two people 
+have been killed fighting the flames, which have burned 21,000 acres. 
+</TEXT>
+</DOC>

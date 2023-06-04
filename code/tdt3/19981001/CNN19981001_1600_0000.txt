@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+By the bell after another down day on Wall Street. What a way to start 
+a new month. Good afternoon. I'm Chuck Rockets with "Headline News." 
+</TEXT>
+</DOC>

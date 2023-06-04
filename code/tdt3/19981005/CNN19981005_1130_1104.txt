@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981005.1130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- the Dow is now down 145 points, the NASDAQ 
+composite is off almost 60. That's "Dollars & Sense." Back to you, 
+Catherine. 
+</TEXT>
+</DOC>

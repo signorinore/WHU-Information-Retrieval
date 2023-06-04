@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> NYT19981009.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After years of lagging behind pure equity funds, balanced mutual funds 
+are suddenly looking a lot more attractive. Balanced funds, which 
+hold a mixture of stocks and bonds, tend to underperform during bull 
+markets, but their bond holdings can salvage some returns when equities 
+head south. Think of them as a good hedge against an overheated stock 
+market or a global recession. ``Any time risk is that high in equities, 
+it's always a good idea to look at less risky alternatives, and balanced 
+funds fall into that category,'' said Norman G. Fosback, editor of 
+the Mutual Fund Forecaster, a newsletter in Deerfield Beach, Fla. 
+``Balanced funds, as a class, are extremely attractive.'' Still, the 
+class includes a lot of individual differences. Some balanced funds 
+are split between two managers _ one for the stock assets, one for 
+the bonds. The funds can also have a fixed or variable asset split 
+and enormously different objectives. The first trick in picking a 
+balanced fund is to understand its exposure to the stock market as 
+well as its interest-rate risk from bonds. The average balanced fund 
+lost 6.7 percent in the third quarter _ a return not so good as the 
+1.8 percent gain for the average bond fund but far better than the 
+13.4 percent slide of the average stock fund, according to Morningstar 
+Inc., the financial publisher in Chicago. Balanced funds are about 
+half as volatile as stock mutual funds _ but for unwary investors, 
+certain balanced funds may be riskier than a conservative stock fund. 
+In fact, some balanced funds are not very balanced. Portfolio managers 
+may make big bets on the stock market, or even on certain types of 
+stocks. Avondale Total Return, for example, has almost 86 percent 
+of its assets in stocks and just 9 percent in bonds. The Berger Balanced 
+fund, by contrast, has 50 percent of its assets in stocks, 18 percent 
+in bonds and the rest in cash. In a down market, such differences 
+between funds can produce a vast gulf in results. For the year through 
+Sept. 30, Avondale's 1.7 percent return was far below Berger's 13.7 
+percent. The types of stocks in a balanced fund can also throw performance 
+out of kilter. Consider the Smith Barney Security and Growth fund, 
+which has a nearly 50-50 split between stocks and bonds. The fund 
+may look evenly balanced, but the majority of its stock holdings are 
+in small companies, which are getting hammered in this market _ as 
+is the fund, down 9.4 percent through the third quarter of this year. 
+While balanced funds as a group are known for their stability, certain 
+funds still change the weightings in their portfolios radically and 
+quickly. Provident Investment Counsel Pinnacle Balanced, for example, 
+has cut its stock holdings to about 62 percent, from 74 percent in 
+July, according to Jeffrey Miller, managing director of the fund. 
+It has returned 12.7 percent this year through Sept. 30. Alliance 
+Growth Investors is another balanced fund that has unloaded stocks. 
+Nicholas D. Carn, the portfolio manager, recently cut his equity holdings 
+to 55 percent, from 68 percent in July and 82 percent in January. 
+``Obviously, the high stock exposure is one of the things that has 
+helped our performance'' in the bull market, he said. The fund returned 
+5 percent in the first three quarters. Investors looking for a less 
+risky balanced fund, he said, can put their money in Alliance Conservative 
+Investors, which has only about 23 percent of its holdings in stocks 
+and returned 6.8 percent in the period. While bonds give these funds 
+more stability, they have their own risks. The longer the bonds' maturities, 
+the higher the interest-rate risk. Long-term bonds usually pay higher 
+interest rates than short-term bonds, but if rates rise, a fund dominated 
+by long-term bonds is locked in at a lower rate of return. Interest 
+rates have fallen recently because investors, fearing that the economic 
+collapses of Asia and Russia might spread, have retreated to the safety 
+of the United States Treasury bond market. That has driven up prices, 
+pushing down yields, which move in the opposite direction. Balanced 
+funds can hold many different types of bonds _ corporate and municipal, 
+as well as Treasury _ with varying maturities. The Mainstay Total 
+Return B fund, for example, is holding bonds with an average maturity 
+of 13.2 years, while Avondale Total Return is holding short-term debt 
+with an average maturity of two years. For the first three quarters, 
+Mainstay's 7.8 percent gain beat Avondale's return by more than 6 
+percentage points. ``Balanced funds are usually sold as conservative 
+investments, but if you've got a fund that is concentrated in small 
+stocks and long-term bonds, you don't have a conservative product,'' 
+said Steve M. Lipper, senior vice president at Lipper Analytical Services, 
+the research firm in Summit, N.J. Mutual fund experts caution investors 
+to read the current and past semiannual reports to see what kind of 
+securities a fund is holding and the changes the portfolio has made. 
+An investor's tax bracket will also influence her choice of balanced 
+mutual funds. One option for investors in the top brackets is USAA 
+Growth and Tax Strategy, a fund with about 51 percent of its assets 
+in tax-free bonds and 49 percent in growth stocks. It returned 2.8 
+percent in the first three quarters. Then, of course, there is always 
+another option. Sheldon Jacobs, editor of the No Load Fund Investor, 
+a newsletter in Irvington, N.Y., recommends that investors do their 
+own portfolio balancing by buying separate stock and bond funds. That, 
+he said, gives them more control over the amount and types of stocks 
+they are holding and enables them to plan their tax gains and losses 
+more effectively. 
+</TEXT>
+</DOC>

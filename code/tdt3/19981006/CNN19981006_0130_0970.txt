@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks fell Monday, with the technology sector suffering the greatest 
+losses. The Dow Jones industrial average lost 58 points to close at 
+7726. The NASDAQ composite index, which is composed largely of technology 
+stocks, fell 78 points or 4.8%. that's the fifth largest one-day drop 
+ever. In the bond market, the yield on the benchmark 30-year treasury 
+bond is at its lowest level -- 4.71%. 
+</TEXT>
+</DOC>

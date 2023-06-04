@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a tornado touchdown in Oklahoma. A tiny town took a direct hit. 
+At least seven people died in flooding in Missouri. These and other 
+top stories in 15 minutes. 
+</TEXT>
+</DOC>

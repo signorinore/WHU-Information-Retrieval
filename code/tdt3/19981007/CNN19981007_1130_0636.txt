@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0636 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In southern California, the Santa Ana winds that quickly spread fires 
+are dying down, helping firefighters make some progress. A ten-acre 
+fire in San Marcos, California, is under control. Containment is expected 
+later in the day. Firefighters in Riverside county have a 24,000-acre 
+fire near banning 50% contained. North of there, in Taylor, a 2,400-acre 
+fire is expected to be fully controlled by tomorrow night. 
+</TEXT>
+</DOC>

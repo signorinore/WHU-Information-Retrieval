@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And U.S. envoy Richard Holbrooke is still trying to convince Yugoslav 
+President Slobodan Milosevic to withdraw Serb troops from Kosovo. 
+Those stories and more in 15 minutes. 
+</TEXT>
+</DOC>

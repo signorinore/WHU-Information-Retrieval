@@ -1,0 +1,140 @@
+<DOC>
+<DOCNO> NYT19981007.0271 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Historically, getting a musical composition published was more than 
+a practical way of putting a new score into circulation. It was a 
+tangible sign that a composer had arrived on the scene and was to 
+be taken seriously. That situation has changed. The music publishing 
+business was already in crisis some 15 years ago, when personal computer 
+programs enabled composers to create manuscripts as attractive and 
+legible as engraved published scores. Now that such programs have 
+become less complicated and more flexible, the computer-generated 
+score is the standard. Many composers still write music by hand. But 
+most create scores through the musical equivalent of desktop publishing, 
+and this practice has profoundly changed the way music is distributed 
+and the very meaning of publishing. Copyright lawyers, royalty collection 
+agencies and musicians everywhere are racing to keep pace with the 
+technology. Naturally, the changes affect many other areas of art 
+and commerce, including the cataloging of music, as a striking recent 
+example makes clear. In May, Hinshaw, a music publishing house, released 
+``The Literature of Chamber Music,'' by Arthur Cohn: a four-volume, 
+3,075-page encyclopedia of chamber works, ranging from Baroque trio 
+sonatas to contemporary compositions. Decades in preparation, it was 
+the final work of Cohn, a tireless scholar and musician who died in 
+February at 87, before this labor of love was published. If you are 
+a musician looking for an unusual work to perform _ a string trio 
+by the Mexican composer Manuel Ponce, perhaps _ or a program annotator 
+wondering why a Haydn string quartet (Op. 50, No. 6) is nicknamed 
+the ``Frog,'' this compilation will be invaluable. But ``The Literature 
+of Chamber Music'' is less comprehensive when it comes to music by 
+living or recently deceased composers, because Cohn focuses for the 
+most part on published works. In the case of Mendelssohn, most of 
+whose chamber works were published, that selection procedure is adequate. 
+But it is less so with a turn-of-the-century composer like Milhaud, 
+and quite inadequate with a living master like Donald Martino, whose 
+works have mostly been self-published. Martino's catalog of chamber 
+pieces is extensive, but Cohn lists only five. Just one work by John 
+Harbison is included, even though this Pulitzer Prize-winning composer 
+has written many chamber pieces that have been performed widely. Even 
+the ``Kroslish'' Sonata, by the flinty genius Ralph Shapey, which 
+was composed in 1985 for two high-profile musicians, the cellist Joel 
+Krosnick and the pianist Gilbert Kalish, is not included, presumably 
+because it has yet to be published by a major house. Cohn made a valiant 
+effort to include published works no longer available, reasoning correctly 
+that they were obtainable from libraries. Of course, even an encyclopedia 
+has to stop somewhere, and if Cohn had tried to include every discoverable 
+piece, ``The Literature of Chamber Music'' would probably have been 
+24 volumes. Still, the sketchy listings of more recent works signal, 
+however inadvertently, the tremendous change the personal computer 
+has wrought on music publishing. Most composers started giving up 
+on the major publishing houses long ago. The engraving of classical-music 
+scores is an expensive process, and the market for them has never 
+been large. To keep 1,000 copies of even so important a work as Elliott 
+Carter's Cello Sonata in stock represents an enormous investment. 
+And as in other fields, smaller, principled publishing houses have 
+increasingly been sold to conglomerates. Even family-run companies 
+with important catalogs, like Carl Fischer, enter publication limbo 
+when ownership changes hands, as Cohn knew from his experience as 
+director of ``serious music'' at Fischer. So it was natural for composers 
+to step into the breech, as Gunther Schuller did in the late 1970s, 
+founding two publishing companies, Margun and Gunmar, to disseminate 
+a wide range of contemporary works. If the big firms were not going 
+to take care of composers, he reasoned, composers had better take 
+care of themselves. But most composers know little about the business 
+side of music, says Fran Richards, the director of concert music for 
+the American Association of Composers, Authors and Publishers. As 
+the oldest and largest performing rights organization in the country, 
+ASCAP licenses compositions and collects royalty fees for its members. 
+``Composers think that if they put themselves in the hands of a big 
+publishing house, then the gates of heaven will open,'' Ms. Richards 
+said. ``They are getting wiser, but they must engage themselves in 
+the business, and I work continually with composers to help.'' Ms. 
+Richards offers a simple illustration of the complexity of the problem: 
+a new piece is played before 5,000 listeners at a national flute convention, 
+and many flutists want to order it. But from whom? There used to be 
+two choices: if it is published, order it from the publisher; if not, 
+get a copy directly from the composer. But computer technology has 
+created new options, the most intriguing being the growth of small 
+companies that work with scores prepared by composers on computers. 
+One such company is Davidge Publishing, founded six years ago by Gail 
+Davidge, a 46-year-old single mother with a background in marketing, 
+who runs it part-time from her home near St. Paul. Ms. Davidge tends 
+to a roster of 14 composers, but there are aspects of the publishing 
+business, as it has been done by the major houses, that Ms. Davidge 
+does not do. ``I don't do engraving of manuscripts but work from computer-prepared 
+scores,'' she said. ``I don't proofread scores. I don't keep large 
+quantities of music in stock.'' It is more cost-effective to keep 
+a hard copy on file and photocopy quantities of scores as ordered. 
+Most important, unlike major publishers, Ms. Davidge does not pick 
+and choose among a composer's works. She accepts everything into her 
+catalog. ``I take a holistic approach to the business,'' she said. 
+``I work with composers closely and get to know them as people. I 
+even help with grant proposals and contract writing. It's a very symbiotic 
+relationship.'' Relieved of the cost of engraving scores and maintaining 
+large stocks, Ms. Davidge can concentrate on proselytizing for her 
+composers, marketing their works, mailing requested scores and seeing 
+that royalty fees are collected. Significantly, she offers her clients 
+a co-copyright arrangement, which is unusual. In book publishing, 
+it has been traditional for the author to retain the copyright to 
+a book. In music publishing, for reasons that have never been adequately 
+explained, the composer has traditionally ceded the copyright to the 
+publisher. So Ms. Davidge's policy is attractive and may be a model 
+for the future. ``There is no mechanism within the big corporate structure 
+of major publishing houses to devote time and energy to introducing 
+a new work of music,'' she said. ``I don't get paid for my time. It 
+can take 18 months for a publisher's royalty fee to be returned after 
+a piece has been performed, a long lag time for a restless corporate 
+entity. My share of a first year's royalty for a new work might be 
+$12. But I believe in my people and believe that in time they will 
+have works with a good return.'' Among the composers Ms. Davidge is 
+literally banking on are up-and-coming names, including Scott Lindorth, 
+Tina Davidson, Paul Schoenfield, Randall Woolf and Scott Wheeler. 
+There is a downside to the new technology, says composer Charles Fussell, 
+who is a holdout. Fussell still prepares his scores by hand, though 
+when the Newton Symphony in Massachusetts commissioned a work from 
+him, the orchestra paid for the preparation of a handsome engraved 
+score. That work, ``Wilde: A Symphony in Three Movements for Baritone 
+and Orchestra,'' was a finalist for the 1991 Pulitzer Prize in music. 
+``I miss music stores,'' Fussell said recently, places where you can 
+go and browse through scores. There are not many left, and it's a 
+tremendous loss.'' The work of the American Music Center in New York, 
+which serves as a clearing house for works by living American composers, 
+is therefore critical, Fussell added. But here, too, the computer 
+is coming to the rescue, in this case with the Web site. Increasingly, 
+musicians browse through new compositions via Web sites. Of course, 
+Cohn's survey of chamber music will also help spread the word. When 
+Cohn started preparing this work decades ago, the personal computer 
+did not exist, so it is understandable that his volumes take no account 
+of the implications of the computer for publishing. ``Arthur was the 
+kind of scholar who reverently pored over scores by great composers,'' 
+Ms. Richards said. ``So everyone should remember how precious, how 
+revitalizing it is to be involved with bringing a new work, a new 
+score, to the public for the first time.'' Increasingly, those scores 
+will be prepared on computers. Composers and publishers will communicate 
+via e-mail. Musicians will browse through Web sites in search of new 
+works. And if everyone involved adapts, the future could be bright 
+indeed. 
+</TEXT>
+</DOC>

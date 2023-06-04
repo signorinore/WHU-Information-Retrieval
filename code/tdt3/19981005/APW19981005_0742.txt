@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> APW19981005.0742 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Buffeted by troubles at home and abroad, prices on the Amsterdam Stock 
+Exchange closed sharply lower Monday, pushing the benchmark index 
+to the lowest close since early June 1997. The 27-share AEX Index 
+finished Monday at 829.31 points, down 19.28 points, or 2.3 percent, 
+but off its intraday low of 825.98 points. A profit warning late Friday 
+by ABN Amro, the largest Dutch bank, pushed down its shares by 3.1 
+percent. Internationally, the lack of concrete measures coming out 
+of the Group of Seven's weekend meeting to fight the global financial 
+crisis and ongoing troubles in Asia was responsible for the overall 
+gloomy sentiment in Amsterdam. The lower opening on Wall Street Monday 
+weighed on stocks even further. 
+</TEXT>
+</DOC>

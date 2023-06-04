@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981005.0329 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Technology stocks fell sharply Monday, leading the stock market lower 
+as the troubled world economy seemed to undermine investor sentiment. 
+From Japan came the news that some Japanese officials think that their 
+big banks are in much worse financial shape than previously thought. 
+From Washington, where the world's financial leaders were gathered 
+for the twice a year meeting of the International Monetary Fund and 
+the World Bank, came no reassurance that world leaders would be able 
+to act quickly to turn the situation around. ``It doesn't look like 
+enough is going to be done fast enough,'' Jeffrey Applegate, chief 
+U.S. strategist at Lehman Brothers, said. Three of the major stock 
+gauges fell to within easy striking distance of their Aug. 31 lows, 
+while the index of smaller company stocks breeched that low Monday. 
+Foreign stock markets also ended lower, with Japan's Nikkei index 
+down 2.08 percent to its lowest close in nearly 13 years. Brazil's 
+Bovespa index was off 4.5 percent, despite the apparent re-election 
+of President Fernando Henrique Cardoso, who was leading in returns 
+from Sunday's election. How fast Cardoso moves to cut government spending 
+and work with the IMF on a backup rescue plan will be watched closely 
+by investors, who fear that an economic collapse in Brazil would lead 
+to a recession in the United States. As investors were shunning stocks 
+they were rushing again into bonds, pushing yields even lower. The 
+yield on the 30-year Treasury bond plunged to 4.72 percent and has 
+now fallen 0.4 percent in the last week. But although stocks finished 
+lower, a sharp, end-of-the-day rebound in the Dow Jones industrial 
+average and the Standard &AMP; Poor's index of 500 stocks staved off 
+a much steeper decline. The Dow, which was down almost 233 points 
+finished off just 58.45 points, or 0.8 percent, at 7,726.24. The S&AMP;P 
+index was off almost 38 points before rallying to close down just 
+14.04 points, or 1.4 percent, at 988.56. The Nasdaq index, which is 
+dominated by technology stocks, plunged 78.29 points, or 4.85 percent, 
+to 1,536.69. Cisco Systems plunged 13.3 percent, Dell Computer was 
+off 8 percent, Intel fell 3.95 percent and Microsoft declined 2.82 
+percent. Part of the selloff was triggered by a report in The Washington 
+Post Monday that the Federal Trade Commission was investigating whether 
+Cisco had illegal conversations with Lucent Technologies and Northern 
+Telecom about dividing up the networking market. Cisco confirmed the 
+investigation. But selling pressure also seemed to come from the fear 
+that a slowdown in the American economy would lead to a sharp decline 
+in sales of networking and other Internet and computer products. This 
+belief probably was aided by the warnings of several technology companies, 
+including Aspen Technology and Avid Technology, that their third-quarter 
+earnings would fall below expectations. Capital spending, which supports 
+much of the computer industry, has been one of the strong foundations 
+of the economy for the last several years. But there are signs that 
+capital spending is beginning to slow. The recent sharp fall in the 
+stocks of financial companies and the recent reports of their losses 
+will further curb computer investment in this crucial area. If world 
+leaders cannot reassure investors that they can contain the current 
+financial crisis, investors will focus more and more on the possibility 
+of the American economy finally tipping from slow growth into a recession. 
+Applegate is not forecasting a recession yet but said that ``there 
+is a growing chance of a pretty significant slowdown.'' With Stephen 
+Slifer, the chief U.S. economist at Lehman Brothers, he is re-evaluating 
+his outlook and said that ``all the numbers are going to be lower.'' 
+This includes his forecast of 1,150 for the S&AMP;P 500 at the end 
+of this year. Lawrence Meyer, a governor of the Federal Reserve Board, 
+said in a speech Monday that the Fed cut its interest rate target 
+last week by a quarter of a percentage point because the central bank 
+believed the economy will slow next year. He said the cut was part 
+of a strategy to allow the economy to slow with a soft landing, not 
+a recession. Marshall Acuff, the equity strategist at Salomon Smith 
+Barney, argued that ``the best case is slow growth next year, not 
+a recession.'' And if that is the case, the Dow could stay above the 
+7,400 level. But, he added, the odds for a recession are bigger than 
+the odds for a sudden strong recovery. 
+</TEXT>
+</DOC>

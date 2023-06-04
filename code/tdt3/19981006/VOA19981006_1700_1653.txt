@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981006.1700.1653 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For many of our FM and medium-wave listeners, your local stations 
+will be taking a short break now, but we'll be back in two minutes. 
+This is VOA news now. 
+</TEXT>
+</DOC>

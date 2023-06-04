@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981009.0380 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Many investors give more thought to breakfast than to their money 
+market funds, which they have used mainly as a place to park their 
+cash between stock trades. But with the average money market fund 
+now leading the performance race against stocks _ and these days, 
+that lead seems to widen almost every week _ people are starting to 
+take these funds more seriously. General-purpose money funds have 
+been yielding around 5 percent, while the average domestic stock mutual 
+fund was down 13.4 percent in the third quarter. Indeed, $94 billion 
+poured into them in the third quarter, the largest quarterly inflow 
+on record, according to IBC Financial Data of Ashland, Mass. Few investors, 
+however, examine what their money-market funds own or try to determine 
+whether the funds have made the best choices. A first consideration 
+in picking a money market fund is its expenses, since the returns 
+do not vary much. ``Investment brilliance doesn't show itself in a 
+money market fund,'' said Gary Schatsky, a fee-only financial planner 
+in New York. ``Therefore, I advise my clients to look for funds with 
+the lowest expenses.'' Finding such funds can be more complicated 
+than it sounds. To draw in cash, many funds temporarily waive their 
+expenses, which can run as high as 1.86 percent of assets, or offer 
+high teaser rates. These funds may be good deals for investors with 
+short time horizons, though not necessarily for long-term investors. 
+Then there are funds that have consistently low expenses but offer 
+little convenience. The funds with the lowest expenses generally have 
+high minimum investments _ often $20,000 or more _ and allow check-writing 
+only for big dollar amounts, while perhaps charging high fees for 
+each check. Such a fund has little appeal to the big group of investors 
+who see their money market funds as high-yield checking accounts for 
+big-ticket monthly expenses like mortgages and car payments. But it 
+may have great appeal for another group: those who want to keep their 
+money untouched for six months to a year or longer. Many companies 
+now offer funds for both types of investors. Scudder Kemper Investments, 
+for instance, started the Zurich Yieldwise Money fund in April 1997 
+to attract savers. It requires a $25,000 minimum investment, allows 
+an account holder to write checks of only $1,000 or more and charges 
+$2 for every check. The fund, which ranked 12th among general purpose 
+funds, had a seven-day yield of 5.29 percent through Sept. 29 and 
+an expense ratio of 0.34 percent of assets. Zurich Yieldwise is meant 
+for an investor ``who wants to maximize the return on the cash portion 
+of their portfolio, but again isn't planning to spend the money anytime 
+soon,'' said Michael Harrington, who runs the Zurich money funds for 
+Scudder Kemper. By contrast, the Zurich Money fund has a minimum of 
+only $1,000 and allows unlimited check-writing for amounts of $500 
+or more. The fund, ranked 37th on the general purpose list, has an 
+expense ratio of 0.48 percent and a seven-day yield of 5.13 percent 
+through Sept. 29. Money market funds are a lot like mutual funds _ 
+a pool of assets owned by many investors _ with an important difference. 
+Each day, mutual funds must price the securities in their portfolio 
+according to market price, which creates a fluctuating net asset value, 
+while money funds have a constant net asset value of $1 a share. That 
+means an investor's principal remains intact in a money fund despite 
+market fluctuations. The Securities and Exchange Commission requires 
+these funds to invest mostly in top-quality short-term securities. 
+The securities must have maturities of 13 months or less, and the 
+average maturity of the entire portfolio cannot be more than 90 days. 
+The restrictions on credit quality protect investors from default, 
+while the short-maturity rules protect investors from interest-rate 
+risk, said Peter Crane, managing editor at IBC. Performance of money 
+funds is described in terms of the current seven-day, or SEC, yield: 
+the annualized return of the dividend payouts of the underlying securities 
+for the previous seven days. The funds also report the ``effective 
+seven-day yield,'' which calculates what the return would be if the 
+dividends were reinvested. Investors should also consider longer-term 
+statistics, like one-year or five-year total returns, which include 
+any capital gains, Crane said. Investors should also decide whether 
+they want a taxable fund or a tax-free fund, which may yield more 
+than the taxable fund after taxes. Relatively high yields have added 
+to the appeal of a different tax-free investment _ municipal bond 
+funds. But the same is not true for tax-free money funds, which have 
+an average yield of 3.23 percent, or more than one and a half percentage 
+points below the 4.87 percent of general purpose funds. That makes 
+tax-free funds beneficial only to investors in the top tax brackets. 
+And some tax-free funds that are specifically aimed at investors in 
+high-tax states like California or New York. There are two types of 
+taxable funds: government funds and the higher-yielding general purpose 
+funds. Government funds must buy mostly short-term Treasury securities 
+and obligations of government agencies like the Federal Home Loan 
+Mortgage Corp., while general purpose funds can invest in higher-yielding 
+short-term debt, like certificates of deposit issued by banks or savings 
+institutions and bankers' acceptances, which are short-term notes 
+issued by commercial banks, according to IBC. Even fatter yields are 
+found in corporate commercial paper. Investors in government funds 
+tend to be more conservative. For that reason, Crane recommends funds 
+that buy only Treasury securities. People who invest in general purpose 
+funds are taking on slightly more risk for a little extra yield. 
+</TEXT>
+</DOC>

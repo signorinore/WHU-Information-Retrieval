@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0201 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. government is taking steps to ensure all airplanes are safe, 
+regardless of their age. It's focusing on wiring and electrical problems 
+that have been a factor in several recent accidents. The FAA has announced 
+new inspection safety guidelines for older planes. Transportation 
+secretary Rodney Slater says it's essential passengers now and in 
+the next millennium are ensured the highest standard of safety. 
+</TEXT>
+</DOC>

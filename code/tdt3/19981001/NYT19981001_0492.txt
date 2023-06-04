@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981001.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Following are excerpts from testimony by Alan Greenspan before the 
+House banking panel: Had the failure of LTCM triggered the seizing 
+up of markets, substantial damage could have been inflicted on many 
+market participants, including some not directly involved with the 
+firm, and could have potentially impaired the economies of many nations, 
+including our own. With credit spreads already elevated and the market 
+prices of risky assets under considerable downward pressure, Federal 
+Reserve officials moved more quickly to provide their good offices 
+to help resolve the affairs of LTCM than would have been the case 
+in more normal times. In effect, the threshold of action was lowered 
+by the knowledge that markets had recently become fragile. Moreover, 
+our sense was that the consequences of a fire sale triggered by cross-default 
+clauses, should LTCM fail on some of its obligations, risked a severe 
+drying up of market liquidity. The plight of LTCM might scarcely have 
+caused a ripple in financial markets or among federal regulators 18 
+months ago _ but in current circumstances it was judged to warrant 
+attention. ... Quickly unwinding a complicated portfolio that contains 
+exposure to all manner of risks, such as that of LTCM, in such market 
+conditions amounts to conducting a fire sale. The prices received 
+in a time of stress do not reflect longer-run potential, adding to 
+the losses incurred. Of course, a fire sale that transfers wealth 
+from one set of sophisticated market players to another, without any 
+impact on the financial system over all, should not be a concern for 
+the central bank. Moreover, creditors should reasonably be expected 
+to put some weight on the possibility of a large market swing when 
+making their risk assessments. Indeed, when we examine banks we expect 
+them to have systems in place that take account of outsized market 
+moves. However, a fire sale may be sufficiently intense and widespread 
+that it seriously distorts markets and elevates uncertainty enough 
+to impair the overall functioning of the economy. Sophisticated economic 
+systems cannot thrive in such an atmosphere. ... On Sept. 23, the 
+private sector parties arrived at an agreement providing a capital 
+infusion of about $3.5 billion in return for substantially diluting 
+existing shareholders' stake in LTCM. Control of the firm passed from 
+the current management to a committee determined from the outside 
+by the new investors. Those investors intend to shrink LTCM's portfolio 
+so as to reduce risk of loss and return the remaining capital to the 
+investors as soon as practicable. I do not rule out the possibility 
+that the new owners of what is left of LTCM may decide to keep part 
+of it in business. That is their judgment to make. This agreement 
+was not a Government bailout, in that Federal Reserve funds were neither 
+provided nor ever even suggested. Agreements were not forced upon 
+unwilling market participants. Creditors and counterparties calculated 
+that LTCM and, accordingly, their claims, would be worth more over 
+time if the liquidation of LTCM's portfolio was orderly as opposed 
+to being subject to a fire sale. And with markets currently volatile 
+and investors skittish, putting a special premium on the timely resolution 
+of LTCM's problems seemed entirely appropriate as a matter of public 
+policy. ... It is questionable whether hedge funds can be effectively 
+directly regulated in the United States alone. While their financial 
+clout may be large, hedge funds' physical presence is small. Given 
+the amazing communication capabilities available virtually around 
+the globe, trades can be initiated from almost any location. Indeed, 
+most hedge funds are only a short step from cyberspace. Any direct 
+U.S. regulations restricting their flexibility will doubtless induce 
+the more aggressive funds to emigrate from under our jurisdiction. 
+The best we can do in my judgment is what we do today: Regulate them 
+indirectly through the regulation of the sources of their funds. ... 
+For so long as there have been financial markets, participants have 
+had on occasion to weigh the costs and, especially, the externalities 
+associated with fire-sale liquidations of troubled entities against 
+short-term assistance to tide the firms over for a time. It was such 
+a balancing of near-term costs and longer-term benefits that presumably 
+led J.P. Morgan to convene the leading bankers of his age _ both commercial 
+and investment _ in his library in 1907 to address the severe panic 
+of that year. Such episodes were recognized as among those rare occasions 
+when otherwise highly effective markets seize up and temporary ad 
+hoc responses were required. The convening of LTCM investors and lenders 
+last week at the Federal Reserve Bank of New York could be viewed 
+in that long tradition. It should similarly be viewed as a rare occasion, 
+warranted because of the potential for serious disruptions to markets. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981007.1600.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories this hour -- in a move some analysts see 
+as an indication interest rates could drop further, federal reserve 
+chairman Alan Greenspan says there are dark clouds on the economic 
+horizon. Greenspan says the U.S. economy is still strong and credit 
+is still flowing, but regulators need to keep a close watch on financial 
+turmoil overseas. 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The price of higher education is increasing at a lower rate than previous 
+years, but college tuition still is going up faster than inflation. 
+The college board reports the average increase is 4% this academic 
+year for a typical four-year public institution. That raises tuition 
+and fees $132 to $3,243. Even though they say there are a lot of students 
+taking out loans, Congress lowered the interest rates on loans this 
+year, so that money is at a better rate, and students can now save 
+about $600 over ten years if you borrow about $12,000. So you can 
+pull together a package, you can borrow money, you can look at regional 
+schools. Lots of students go east or west, but the schools in the 
+middle need to fill their seats. 
+</TEXT>
+</DOC>

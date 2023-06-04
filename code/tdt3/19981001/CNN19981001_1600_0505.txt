@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study says a multivitamin a day could help prevent colon cancer 
+in women. Researchers also found eating fruits and vegetables rich 
+in folate provided the same benefits. The study looked at folate intake 
+and found women who had a diet rich in the B vitamin for 15 years 
+reduced their risk of colon cancer by 75%. Leafy green vegetables, 
+orange juice and fortified cereals are rich in folate. 
+</TEXT>
+</DOC>

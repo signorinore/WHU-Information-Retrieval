@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981008.2130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The slumping stock market is helping more American airlines pilots 
+retire early. Pilots get most of their retirement money from a company 
+mutual fund. The "Wall Street Journal" says a contract quirk gives 
+them a three-month window to retire at a set share price. Although 
+the fund's value has dropped 10% since July, pilots who retire now 
+can take advantage of July stock prices. That payout can be worth 
+hundreds of thousands of dollars. As a result, American has had to 
+cut back on flights to Latin America. 
+</TEXT>
+</DOC>

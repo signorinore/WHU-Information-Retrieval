@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981009.1830.1199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to some "hot spots" making news -- in cape Canaveral, Florida 
+-- for the first time in 36 years, John Glenn suited up for flight, 
+strapped on his parachute and climbed into a spaceship for a launch 
+drill. The shuttle "discovery" is set to blast off in three weeks 
+with the 77-year-old Glenn aboard. His mission -- to study the effects 
+of aging in space. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981007.1600.1060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of Amazon.com were hit hard today. They fell 15 1/16 to 93 
+1/4 on word that Germany's Bertelsmann is buying half of its online 
+Venture. Barnesandnoble.com. there were also reports that the two 
+biggest online music retailers would be merging. According to published 
+reports, n2k and CD-now are preparing to join forces. The combined 
+company would be the industry's largest music site. Both alliances 
+could pose a big challenge to Amazon.com which sells music and books 
+over the Internet. 
+</TEXT>
+</DOC>

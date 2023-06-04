@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981007.1130.0078 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton's news comes just in time for the release of the 
+latest figures of college costs. The college board says the price 
+of going to college rose an average of 4% this academic year. That's 
+less than in previous years, but still more than double the rate of 
+inflation. You can see a lot of students now calling financial offices 
+now at schools and saying "X" school has offered me a little more 
+money, I'm a higher-profile student, I'm the type of student that 
+would round out your class. Do you want me? Will you give me more 
+money? It's a very good option right now, people are doing it. 
+</TEXT>
+</DOC>

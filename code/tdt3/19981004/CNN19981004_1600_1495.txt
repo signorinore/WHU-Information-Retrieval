@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981004.1600.1495 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It might look like a prop from a cartoon, but it's a real weapon. 
+The French defense ministry has developed a rifle that fires around 
+corners. The weapon uses a miniature camera in its scope to transmit 
+targets onto a tiny video screen attached to the soldier's helmet. 
+The French hope the gun will become the weapon of the future, letting 
+troops take cover while locking onto targets. 
+</TEXT>
+</DOC>

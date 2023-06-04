@@ -1,0 +1,140 @@
+<DOC>
+<DOCNO> NYT19981005.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Combining technology with fantasy, the United States is about to send 
+an experimental probe into space to test some of the favorite concepts 
+of science fiction. The robot craft not only will be driven by an 
+advanced ion propulsion engine, it will also take care of itself, 
+navigating through space on its own and occasionally calling home 
+to let people on Earth know how it is doing. The spacecraft, called 
+Deep Space 1, is to be a testbed for new technologies that may be 
+incorporated into the next generation of probes sent to explore the 
+solar system and beyond in the next century. Engineers at the National 
+Aeronautics and Space Administration say the mission, which could 
+be launched as early as Oct. 15., is one of the first designed to 
+send a spacecraft away from the Earth with technology-testing, and 
+not science, as the main objective. Dr. Wesley Huntress, NASA's associate 
+administrator for space science, said Deep Space 1 was part of a new 
+program to examine and validate unusual technologies that could be 
+used to produce more efficient, cheaper scientific spacecraft. Those 
+planning science missions are sometimes reluctant to risk trying promising, 
+but untested, new technologies or approaches, he said. High-risk, 
+but relatively low-cost, missions like Deep Space 1 should give planners 
+more confidence in trying some of these new ideas in their projects, 
+Huntress said. Appropriately, this harbinger of the future space program 
+comes on the heels of NASA's 40th anniversary, which was celebrated 
+last week. Deep Space 1, a 1,000-pound craft crammed with miniature 
+instruments and devices, is to test 12 innovative technologies in 
+its first few months in space. Among the technologies aboard are an 
+autonomous navigation system, a miniature integrated camera and imaging 
+spectrometer, an integrated ion and electron spectrometer, advanced 
+software with artificial intelligence that lets the spacecraft help 
+run its own mission as situations change, and a variety of new, low-power 
+electronics. If all goes well, Deep Space 1's primary mission will 
+culminate in July when the craft makes a very close flyby of a small 
+asteroid called 1992 KD. Afterward, if the spacecraft is healthy and 
+NASA chooses to extend the mission, the probe will fly on to visit 
+a dying comet known as Wilson-Harrington in January 2001. After that 
+encounter, the craft could visit the comet Borrelly, one of the most 
+active to regularly visit the inner solar system, in September 2001. 
+The mission is expected to cost $152 million, including $42 million 
+for the conventional rocket used to fire the spacecraft away from 
+Earth, project officials said. But most of the attention being paid 
+to Deep Space 1 is focusing on its solar-electric propulsion system, 
+a variation on the concept of ion drive that has been a mainstay of 
+science fiction for decades. While ion propulsion units have been 
+tested in space before, and small ion engines have recently been used 
+to stabilize communications satellites in high Earth orbits, the new 
+mission will mark the first time that this type of engine will be 
+used as the primary drive system for a spacecraft. ``I first heard 
+of ion propulsion in 1968 during a Star Trek episode,'' said Dr. Marc 
+Rayman of NASA's Jet Propulsion Laboratory in Pasadena, Calif., the 
+chief mission engineer for Deep Space 1. An ion engine uses fuel 10 
+times more efficiently than conventional rockets, he said, but it 
+produces an almost imperceptible amount of thrust. This type of engine 
+works by letting it fire continuously for months or years, gradually 
+adding momentum to a spacecraft in the vacuum of space, instead of 
+burning all of its fuel in a few minutes at high thrust, as conventional 
+rockets do. ``Ion propulsion is acceleration with patience,'' Rayman 
+said. Deep Space 1 will be sent on its way from Cape Canaveral, Fla., 
+boosted by a three-stage Delta rocket. Between two and four weeks 
+after launching, engineers will begin testing the ion drive, running 
+it for a 10-day period that will be interrupted every other day for 
+navigation tests. After the shakedown period and a couple of weeks 
+to evaluate the results, the engine will be switched on for long-term 
+thrusting that may continue for several months. John Stocky, manager 
+of propulsion technology at the Pasadena laboratory, which is managed 
+by the California Institute of Technology, said the craft would have 
+186 pounds of xenon gas aboard to fuel the engine, ample supplies 
+for the primary and extended missions. The xenon, a heavy, inert gas, 
+will not be burned like conventional rocket fuel, but charged electrically 
+to create high-speed particles that leave the engine so fast that 
+they produce thrust. ``We are trying to turn into fact today what 
+was science fiction yesterday,'' Stocky said. When the ion engine 
+is running, he said, xenon is injected into a chamber and bombarded 
+with high-speed, negatively charged electrons produced by heating 
+a barium-calcium-aluminate material carried in tanks near the engine. 
+These electrons, guided by magnetic rings around the chamber, hit 
+the xenon atoms, knocking away one of the 54 electrons orbiting each 
+atom's nucleus. The resulting atoms, with a net positive charge, are 
+known as an ions. At the end of the chamber, which opens into space, 
+are two metal grids made of molybdenum grids that are charged positively 
+and negatively, respectively. The charges in the grids create an electrostatic 
+pull on the xenon ions, accelerating them out of the engine and into 
+space at more than 62,000 miles per hour, producing 3,000 tiny beams 
+of thrust. Stocky said it was important to keep the engine chamber 
+and the rest of the spacecraft electrically neutral by keeping the 
+ions moving away. If a charge builds up in the spacecraft from the 
+escaping plume, ions leaving the chamber might come back and negate 
+any thrust. So an electrode at the rear of the engine shoots electrons 
+into the glowing blue ion stream leaving the grids, replacing missing 
+electrons and neutralizing the electrical charge of the escaping xenon. 
+The engine on Deep Space 1 should produce about one-250th of a pound 
+of thrust, Stocky said, comparable to the force exerted by a single 
+sheet of typing paper resting on the palm of a person's hand. But 
+this steady thrust increases the speed of the spacecraft by about 
+30 feet per second each day, enough to increase Deep Space 1's speed 
+over the life of the primary mission by 8,000 mph, engineers said. 
+At times, the ion engine will be turned off and the spacecraft will 
+coast, engineers said. The spacecraft will stop the engine once a 
+week to take its bearings and send routine signals to Earth, they 
+said, and it also will remain off for periods of months in an extended 
+mission when extra energy is not needed as it shapes its orbit around 
+the Sun. To provide the electrical power to run the engine, Deep Space 
+1 will use a new type of solar power array never before flown in space 
+that concentrates and focuses sunlight onto 3,600 electricity-producing 
+solar cells. The craft will have a pair of solar wings that expand 
+to 38.6 feet across when fully extended and these arrays will produce 
+15 to 20 percent more power than similar devices the same size. Atop 
+the solar cells sit 720 cylindrical lenses made of silicone. The lenses, 
+which look like glass cylinders cut down the middle, gather incoming 
+sunlight on the rounded outer surfaces and focus it down to the solar 
+cells below the flat sides of the half-cylinders. Development of the 
+arrays is co-sponsored by the Pentagon's Ballistic Missile Defense 
+Organization. Previous unmanned space missions have required ground 
+controllers to constantly monitor conditions on the spacecraft and 
+provide navigational information to keep them on course. Rayman said 
+Deep Space 1 would require fewer than a dozen controllers on Earth, 
+instead of the hundreds needed for some previous missions, because 
+it would keep track of itself. About once a week, the spacecraft will 
+take pictures of stars with asteroids in the background and use this 
+information to navigate itself, including having the ability to adjust 
+its course and decide how close it will come to the asteroid and comets 
+it targets. ``Using stars and asteroids as reference points, the spacecraft 
+takes pictures of the sky and infers where it is and where it wants 
+to go,'' Rayman said. Instead of constantly sending information on 
+its condition to Earth, the craft will occasionally send special signal 
+tones that signify different states of well-being. The tones range 
+from ``everything is operating acceptably'' to ``there is a problem 
+that may require help if it worsens'' to ``need urgent assistance 
+from the ground.'' All the technologies of Deep Space 1 combine to 
+point to an entirely new way of designing and operating robotic scientific 
+missions away from Earth, Rayman said. ``It's like having one's car 
+find its own way from Los Angeles to Washington, D.C., and park itself 
+within one foot of its destination, all the while getting 300 miles 
+to the gallon of fuel,'' he said. ``This has the potential to change 
+everything.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> APW19981007.1118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Electronic commerce is projected to mushroom into a trillion-dollar 
+global phenomenon by 2005, yet vital questions about security and 
+reliability trouble many businesses and consumers. In one of the most 
+ambitious attempts yet to ease those doubts, delegates from 29 of 
+the world's wealthiest countries opened a three-day conference on 
+electronic commerce Wednesday. Sponsored by the Organization for Economic 
+Cooperation and Development, the meeting is an unprecedented get-together 
+of government officials and private-sector executives seeking to figure 
+out who should regulate global electronic commerce _ and how. Rifts 
+already have developed between countries favoring government intervention 
+in protecting consumer interests and those who believe initiatives 
+should be industry-led. The European Union, Canada and much of Asia 
+advocate regulation to protect personal information on the Internet. 
+The EU is preparing to prohibit the transmission of sensitive data 
+to countries that do not adopt adequate privacy laws. The United States, 
+on the other hand, is campaigning for voluntary private-sector codes 
+of conduct. ``It would be very bureaucratic for governments to try 
+and set up enforcement mechanisms and it would stifle the development 
+of electronic commerce,'' Ira Magaziner, an adviser to President Bill 
+Clinton, said in a pre-conference briefing. ``We don't feel you can 
+effectively protect privacy that way. We think you're in a sense misleading 
+your people because you're saying: `Don't worry, we'll protect your 
+privacy,' when in effect you can't.'' The challenge of the conference 
+will be to find common ground. ``If each country works independently 
+to establish its own system, it could cripple the potential for international 
+electronic commerce,'' said Canada's industry minister, John Manley. 
+Top corporate executives will be trying to drive home the importance 
+of reaching an international agreement. ``Unless you bring people 
+together like this, it will be very difficult to build consensus,'' 
+said David Seibel, a managing partner with Andersen Consulting Canada. 
+``We see a cooperative regulatory environment as one of the critical 
+factors that's required to support the development of the electronic 
+economy.'' Ministers will be tackling other issues besides regulation, 
+including standards on encryption technology, agreement on intellectual 
+property protection and how to collect taxes on electronic transactions. 
+</TEXT>
+</DOC>

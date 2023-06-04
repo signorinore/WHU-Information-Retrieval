@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981002.1130.0287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A congressional subcommittee is hearing from HMOs today that are seeking 
+higher payments from Medicare patients. The HMOs say they're having 
+trouble covering costs and they may have to pull out of certain parts 
+of the country. But Medicare officials say the government is providing 
+adequate payment to hmos. Last year, Congress cut the annual raises 
+for the HMOs to 2%. Those raises had been as high as 10%. About $6 
+million Medicare beneficiaries are enrolled in HMOs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- a day of debate, a vote to remember -- 
+the Judiciary committee ordered an impeachment inquiry into President 
+Clinton. The full house is expected to vote this week. 
+</TEXT>
+</DOC>

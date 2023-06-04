@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981001.1130.0435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News" weather. It's 
+going to be a pretty chilly day, very autumn-like over the northern 
+Great Lakes, where it will only be in the 40s today. 50s cover much 
+of the Great Lakes, and into portions of the northeast. The heat continues 
+though, south Texas, record highs yesterday in Houston, should be 
+well into the 90s once again today. Forecast weather maps, the remnants 
+of georges finally moving away from the southeastern atlantic coast 
+by later on today. We do have increasing moisture, though, back through 
+the plains states by late tomorrow, and that'll trigger some showers 
+and storms as cooler weather builds in through much of the eastern 
+U.S. extended forecast now for the weekend. On Saturday we'll find 
+showers and storms through the midwest, and some showers in the pacific 
+northwest. Temperatures will remain cool over much of the northern 
+tier. On Sunday, windy conditions through the Great Lakes, find some 
+thunderstorms in the midwest, and showers continue in the pacific 
+northwest. By Monday, scattered showers and storms continue through 
+the midwest, and cooler air will again be sinking in through the northern 
+Rockies, where highs will only be in the 50s . For more weather information, 
+log in to CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> MNB19981008.2100.2572 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, the winner of this year's nobel prize for literature was announced 
+today. It went to a Portuguese writer, Jose saramaga. This is the 
+first time the prize has been awarded for works written in Portuguese. 
+He was nominated for the nobel several times before but he never won. 
+He was unaware of today's announcement until his publisher tracked 
+him down in an airport with the good news. One of his best known works 
+is a novel called "the stone raft." 
+</TEXT>
+</DOC>

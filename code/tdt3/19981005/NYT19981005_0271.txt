@@ -1,0 +1,182 @@
+<DOC>
+<DOCNO> NYT19981005.0271 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It is a warm, luminous day, and the prairies and woodlands of the 
+Cedar Creek Natural History Area, 30 miles north of the Twin Cities, 
+are buzzing with life. Crickets chirp. Bees and butterflies float 
+from bloom to bloom amid scores of species of grassland plants carpeting 
+the flatlands that run between groves of trees presided over by stately 
+bur oaks two centuries old. The nine-square-mile tract, some of it 
+undisturbed since before Europeans arrived in these parts, and some 
+of it in various stages of recovery from decades of farming, is a 
+fragment of the mosaic of tallgrass prairie and oak savanna that once 
+covered great stretches of the country's midsection. But this swatch 
+of the mosaic is special, as G. David Tilman, an ecologist at the 
+University of Minnesota, is about to demonstrate. Tilman points to 
+a brilliant green square on the ground that is thick with short, curly 
+grass, much thicker and greener than the vegetation on neighboring 
+plots. Intuition might suggest that the thick green plot represents 
+the healthier chunk of the ecosystem. Not so, as Tilman has shown 
+in one of scores of revealing and ambitious experiments _ the combination 
+of their large scale and long duration may be unique _ for which he 
+has become known. In this case, he added varying amounts of nitrogen, 
+a powerful fertilizer, to different plots to determine the nutrient's 
+effect on the ecosystem's functioning. It is a question of some import, 
+since human activities like farming and the burning of fossil fuels 
+are dumping nitrogen wholesale into the biosphere. Among the pearls 
+of ecological evidence that have so far emerged from the Tilman experiments 
+are these: _ As nitrogen rises, the number of plant species declines; 
+the thick green grass, a species called quack grass, which happens 
+to proliferate wildly in high-nitrogen soil, has crowded out other 
+species in its plot. _ As the number of species declines, so does 
+the total production of biomass, the amount of plant material as measured 
+by dry weight. _ The decline in diversity of species also makes the 
+impact of drought on the ecosystem much worse; the more species there 
+are, Tilman says, the more chance there is that some will be drought-resistant. 
+_ If enough nitrogen is added, it pushes the ecosystem into increasingly 
+chaotic oscillations culminating in a crash of plant populations. 
+_ When these high-nitrogen plants crash, die and decompose, more nitrate 
+leaks into the soil and then into ground water and surface runoff, 
+possibly impairing water quality and promoting harmful blooms of algae. 
+The main message sent by these results, Tilman says, is that the more 
+species there are in an ecosystem (up to a point), the more productive, 
+resilient and stable it will be. This is a question of some importance 
+for conservation policy, given a running political debate over whether 
+it is important to preserve as many species as possible. But the Tilman 
+experiments may have an even more basic value to the young science 
+of ecology. Controlled experimentation _ in which the experimenter 
+essentially attempts to hold all variables constant except the one 
+whose effect is being tested _ is routine in many sciences, but until 
+relatively recently it had not been widely employed by ecologists. 
+Even now most such ecological experiments are small and short. Tilman 
+thinks big and long-term: His manipulations of the prairie-savanna 
+ecosystem have involved some 140 experiments over the last 17 years, 
+with scores to hundreds of plots in each experiment and many of the 
+investigations lasting for years. About 35 are now in progress. What 
+Tilman often does, said Stuart Pimm, an ecologist at the University 
+of Tennessee, is take a snippet of an idea that may have been around 
+for a while and subject it to ``an incredibly well-replicated and 
+thought-out experiment, and you say, `Yeah, that's it, he's nailed 
+that one down.''' ``It makes it very compelling, very exciting,'' 
+Pimm said. Peter Kareiva, an ecologist at the University of Washington, 
+in Seattle, said many scientists would not even attempt Tilman's work. 
+``They say it can't work, it's too complicated, or there are too many 
+confounding factors in the experiment,'' Kareiva said. But Tilman 
+is an ebullient optimist _ words pour from him in a torrent of enthusiasm 
+_ and Kareiva says it is this optimism that drives the ambitious experimentation. 
+Tilman's goal is to help make ecology a rigorous mathematics-based 
+discipline like, say, physics. He wants to reduce the principles of 
+ecosystem function to mathematical equations that scientists can use 
+to predict how nature will behave under varying conditions. Success 
+in this effort would be a boon to ecology, where efforts to conserve 
+and restore natural landscapes are often based more on educated guesswork 
+than on firmly delineated and codified scientific principles. Many 
+other ecologists doubt that the complexities of ecology can ever be 
+reduced to a few general principles. Tilman believes they can, and 
+his method, a classic one in the hard sciences, is to formulate a 
+theory (expressed graphically in this case), reduce it to equations, 
+then test it on the ground at Cedar Creek. Usually, he says, the theory 
+turns out to be partly right and partly wrong. So then it is is time 
+to reformulate the theory. And so on. Many associates praise Tilman's 
+willingness to experiment and to risk being wrong so boldly. ``Dave 
+does not lack for guts in terms of putting his money where his mouth 
+is,'' said Mark Schwartz, a former Tilman student who is now an ecologist 
+at the University of California at Davis. Tilman himself sees the 
+question of sometimes being wrong a little differently. For him, the 
+part of the theory that turns out to be wrong opens the way to further 
+understanding. ``Where things fall apart,'' he says, ``is where I 
+get excited.'' Tilman, 49, started out to be a physicist. But in his 
+undergraduate years at the University of Michigan in the late 1960s, 
+he came to believe that the biggest and most interesting questions 
+in physics had already been answered. What to do? He had always had 
+a love of biology and of the natural world. As one of four children 
+growing up in a beach home near St. Joseph, Mich., he went to sleep 
+to the sound of Lake Michigan lapping the shoreline. In Little League, 
+where he was not a bad player, his teammates called him the Professor; 
+he was often less interested in the game than in the flowers and bugs 
+in the outfield. So it was natural that his search for an alternative 
+to physics should lead him to biology, and in turn to ecology, a science, 
+he says, that ``reminded me of what it must have felt like to have 
+been Newton or others back in the early days of physics.'' In ecology, 
+big questions still remained unanswered; masses of information from 
+the field awaited rigorous analysis and a theoretical framework to 
+explain it. And there was the added bonus of ecology's role in helping 
+preserve the environment. For his doctoral thesis at Michigan, he 
+plunged immediately into the world of experimental ecology. Intrigued 
+and disturbed by the growth of algae in Lake Michigan, he studied 
+the response of scores of the lake's different algal species to their 
+two main nutrients, phosphate and silicate. He tested each species 
+in the laboratory and found that each required a different ratio of 
+the two nutrients. In 1976, at the age of 26, he arrived at the University 
+of Minnesota with his wife, Cathie (they now have four children, aged 
+9 to 21). Within a week of taking up his position as an assistant 
+professor, he was walking around the grasslands of Cedar Creek, and 
+soon concluded that the prairie was even better than a lake for investigating 
+the relationship between nutrient amounts and species diversity: ``Soil 
+sits there year after year,'' he says, ``and you can measure exactly 
+what a plant is experiencing.'' From the start, his experiments focussed 
+on the basic mechanics, as it were, of ecosystem functioning. His 
+underlying assumption was (and is) that the structure of ecosystems 
+is controlled by two major processes: interaction between consumers 
+and the resources they consume (plants and nutrients, for instance, 
+or predators and prey) and the recycling of nutrients (as in decomposition 
+of dead material). And so Tilman and his fellow experimenters set 
+to work, dividing expanses of ground into control and experimental 
+plots, blocking them off from each other when necessary, and then 
+manipulating variables like species composition, nutrients and soil 
+fungi. The main focus of the experiments has been on what controls 
+diversity of species and how diversity affects the functioning of 
+ecosystems. The largest, most rigorously controlled test, now under 
+way, is called BioCon. It involves 340 experimental plots on 20 acres 
+of Cedar Creek land. In 1993 the experimenters employed road scrapers, 
+plows and disks to scrub the plots (they had once been farmland) clean 
+of weeds and invasive species. Then they seeded the plots with native 
+prairie plants, varying the number of species from 1 to 32 per plot 
+and choosing the species in each plot at random. The plan is to follow 
+all the plots for several years and record the abundance of each species 
+through time. ``These experiments are slow,'' Tilman says. ``It's 
+five or so years before you trust many of the results.'' That is, 
+until the components settle into some sort of long-term equilibrium, 
+they may send false signals about how the ecosystem works. The researchers 
+are also investigating a number of ecosystem dynamics. Does diversity 
+make a difference in plants' susceptibility to disease, for instance? 
+There is reason, Tilman says, to believe that low diversity increases 
+vulnerability. The idea is that the lower the diversity, the more 
+abundant are the plants of any one species, and the closer they are 
+together, allowing disease _ in this case, fungal diseases _ to spread 
+from one plant to another. At one plot, a doctoral candidate, Charles 
+Mitchell, was picking through a thick stand of little bluestem grass, 
+estimating the percentage of leaves and leaf area covered by the telltale 
+brown-rust spots of fungal disease. He had already looked at thousands 
+of plants and was entering the data as he collected it on the keyboard 
+of a hand-held computer. (Twenty years ago, notes Tilman, the lack 
+of computer capacity would have made it impossible to analyze the 
+mass of data he and his students are collecting.) A few yards away, 
+perhaps a dozen people weeded plots to keep the experiments from being 
+clouded by invasive plants. And in one spot, whooshing, computer-controlled 
+jets of air loaded with carbon dioxide continually adjusted the amount 
+of the gas flooding an experimental plot to keep it at about double 
+the pre-industrial concentration. Here, the idea is to manipulate 
+both carbon dioxide and nitrogen, two chemicals with which humans 
+are flooding the biosphere, to determine their combined effects on 
+plant diversity. There are many more variables being looked at as 
+well, and the lush, unruly, highly complex mixture of plants that 
+make up the prairie at Cedar Creek vividly raises the question of 
+whether it is really possible, out in nature, to control everything 
+that needs to be controlled in a valid way. Schwartz notes, for instance, 
+that weeding the plots changes the amount of biomass in them, and 
+this, he says, introduces an experimental weakness. Other scientists 
+say that hidden variables, unrecognized and unaccounted for by the 
+experimenter, may produce misleading results. ``You just can't control 
+everything,'' Schwartz says. Moreover, he is one of those who questions 
+whether it is possible to boil ecosystem behavior down to a few relatively 
+simple mathematical equations. The attempt to do so, he said, is ``good 
+for ecology, but I also think it's realistic to think it may be more 
+complicated than that.'' Pimm, the Tennessee ecologist, for one, believes 
+it is better to try ``than just to throw your hands up and say it's 
+impossible.'' And in fact, he said, ``David has shown that a lot of 
+the things we thought were impossible can be reduced to patterns.'' 
+</TEXT>
+</DOC>

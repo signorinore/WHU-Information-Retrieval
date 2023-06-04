@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981002.1600.1473 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is dennis michael with the "hollywood minute." 
+</TEXT>
+</DOC>

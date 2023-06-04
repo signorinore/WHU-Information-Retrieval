@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> NYT19981002.0295 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+During a rough patch for stocks in general last week, financial shares 
+in particular took a beating. Though bank and brokerage stocks rallied 
+Friday with the overall market, most of these shares remain near their 
+lows for the year. Investors may be tempted to think that recent market 
+turmoil makes bargains out of the financials. After all, Bankers Trust 
+is trading at 1.1 times its book value, down from the 2.4 multiple 
+it fetched just five months ago. Merrill Lynch trades at 1.73 times 
+its book value, down from a multiple of 4 in July. Does Friday's rally 
+mean that the rout in these shares is over? Bank stocks may have jumped 
+on hopes that Brazil's financial woes would be stanched by an international 
+bailout. Investors also seem to think that another interest-rate cut 
+is in the offing. But optimism on both of these matters is not enough 
+to argue for a stampede into international financial services shares. 
+There are solid reasons to hold off from bottom-fishing in the group 
+right now. One is the not-unreasonable fear that other bombs from 
+the hedge fund world might soon drop on the big international banks 
+and brokerage firms that do business with these risk-takers. UBS, 
+the world's second-largest bank, said on Friday that its chairman, 
+Mathis Cabiallavetta, and three top executives had resigned in the 
+wake of the bank's taking a $696 million charge as a result of its 
+investment in Long-Term Capital Management. The bank said the resignations 
+came after internal auditors found ``shortcomings in risk-management 
+processes.'' Even if Long-Term Capital's near-collapse is the last 
+fund disaster, the heavy exposure that banks and brokers have to the 
+fund does not give investors confidence that effective risk controls 
+are in place at financial firms. The announcement from UBS confirms 
+that. Douglas R. Cliggott, head of United States equity market strategy 
+at J.P. Morgan Securities in New York, is wary of financial services 
+stocks for other reasons. ``To have confidence to move back into the 
+group, we'd want to see actual stability _ as opposed to the hope 
+of stability _ in emerging economies, a movement toward a more positive 
+yield curve and some cost-reductions at banks and brokers,'' he said. 
+The yield curve is a big factor here. Even though the Federal Reserve 
+cut interest rates by one-quarter of a point last week, longer-term 
+rates are still well below the federal funds rate of 5 percent. The 
+2-year Treasury note closed at a yield of 4.16 percent on Friday and 
+the 10-year at 4.28 percent. When long-term interest rates fall below 
+the short-term variety, profit margins at banks get squeezed. That's 
+because banks are unable to make as much money in their long-term 
+loans as they can when shorter rates are lower. So as long as the 
+yield curve remains flat, as it is today, banks' profitability will 
+be pinched. Bank earnings may also be hurt by the contraction in credit 
+that began with the collapse in emerging markets this summer and was 
+exacerbated by the crash of Long-Term Capital. Banks seem increasingly 
+unwilling to lend; if this goes on for long, the loss of fees will 
+harm financial institutions' results. It will also hurt the overall 
+economy. How financial stocks fare is significant because, as Cliggott 
+points out, the fortunes of these companies are inextricably linked 
+to the performance of the entire stock market. Financial companies 
+account for almost 17 percent of the Standard &AMP; Poor's 500-stock 
+index, one of its larger components. Indeed, financial stocks have 
+led the overall market up and down in each of the last eight years. 
+Recent weakness in these shares has contributed to stock market malaise. 
+``Financial stocks are a wonderful microcosm of the economy,'' Cliggott 
+said. As a result, until they recover, the overall market might not. 
+For this reason, Cliggott sees the market remaining in a trading range 
+of 950 to 1,050 on the S&AMP;P 500. For how long? ``Until we get some 
+confidence about earnings,'' he said. 
+</TEXT>
+</DOC>

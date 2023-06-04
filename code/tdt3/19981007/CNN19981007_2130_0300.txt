@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981007.2130.0300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton signed a Bill today, cutting the cost of college 
+loans. The new higher education Bill sets the interest rate at just 
+under 7.5%. that's the lowest level in 17 years. An average student 
+graduating $13,000 in debt would save about $700 over a 10-year repayment 
+period. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981005.1130.1023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing has warned 1,100 workers they may be laid off, perhaps within 
+60 days. It's the company's first move in its goal to cut 28,000 jobs 
+by the end of next year. A Boeing spokesperson says at least three-quarters 
+of those losing their jobs will be white-collar workers. 
+</TEXT>
+</DOC>

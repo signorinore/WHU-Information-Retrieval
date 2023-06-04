@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981001.1600.0294 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is making an 11th-hour pitch for his education agenda. 
+He invited congressional democrats to the White House today for a 
+ceremony highlighting his stalled educational proposals. He wants 
+to hire 1,000 more teachers as well as rebuild or refurbish 5,000 
+classrooms. With Congress set to adjourn, the White House admits there 
+is little chance lawmakers will heed his move for more funding. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981006.1600.0686 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A check of the top stories is next, followed by closing numbers from 
+Wall Street in "Dollars & Sense." 
+</TEXT>
+</DOC>

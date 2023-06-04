@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981007.1830.0886 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumer news, the justice department filed a major lawsuit against 
+visa and Mastercard. The government accuses them of limiting competition 
+in the credit card industry. Consumers are hurt, the government argues, 
+because they prohibit banks that carry their credit cards from also 
+offering competitors cards. 
+</TEXT>
+</DOC>

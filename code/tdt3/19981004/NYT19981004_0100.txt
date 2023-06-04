@@ -1,0 +1,132 @@
+<DOC>
+<DOCNO> NYT19981004.0100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Supreme Court term that opens Monday has the potential to produce 
+significant rulings in such areas as civil rights and federal regulation, 
+with a mix of constitutional and statutory cases on a docket that 
+is still very much a work in progress. The court's calendar is also 
+a mix of old and new: The justices will revisit the familiar issues 
+of sexual harassment and redistricting, while also undertaking their 
+first review of the 1996 law that was intended to increase competition 
+in the telecommunications industry. In a case of immediate practical 
+importance, the court has scheduled an expedited argument next month 
+on whether the Census Bureau can proceed with its plan to adjust for 
+the expected undercount in the 2000 census by using statistical sampling. 
+A special three-judge U.S. District Court here ruled on Aug. 24 that 
+sampling was barred by federal law, leaving plans for the census in 
+doubt until the Supreme Court resolves the issue. The court has 45 
+cases on its docket for decision, roughly half the number it will 
+decide by the time the term ends late next June. A few of the cases 
+waiting in pipeline could, if granted during the next few months, 
+convert an already interesting term to one of extremely high visibility. 
+Among these is the Clinton administration's appeal of a ruling in 
+July that the attorney-client privilege does not shield communications 
+between the president and White House lawyers (Office of the President 
+vs. Office of Independent Counsel, No. 98-316). Also awaiting the 
+court's review, but not yet granted, is a constitutional challenge 
+to a school voucher program in Wisconsin, upheld by that state's Supreme 
+Court, that permits the use of vouchers for parochial school tuition 
+(Jackson vs. Benson, No. 98-376). Another of the pending appeals, 
+a campaign finance case from Cincinnati, could provide the justices 
+with a vehicle for re-examining the court's precedents equating campaign 
+spending with free speech. In this case, City of Cincinnati vs. Kruse, 
+No. 98-454, the city is defending limits on expenditures for City 
+Council elections. A U.S. Appeals Court invalidated the $140,000 spending 
+limit on the basis of the Supreme Court's 1976 ruling in Buckley vs. 
+Valeo. Cincinnati is arguing that unlimited campaign spending has 
+been so damaging to the country that the justices should revisit their 
+1976 precedent that found spending limits to violate the First Amendment. 
+Of the cases the court has already accepted, the census sampling case 
+could have the most immediate impact _ but then again, it may not. 
+One question is whether the House of Representatives, where the Republican 
+majority opposes the use of sampling techniques, had standing to bring 
+the lawsuit in the absence of any concrete, institutional injury to 
+itself. The administration is arguing in its appeal, Department of 
+Commerce vs. U.S. House of Representatives, No. 98-404, that the suit 
+should have been dismissed, noting that no matter how the census is 
+conducted, the House of Representatives will still consist of 435 
+members and will still exercise the same constitutional powers. The 
+stated aim of the sampling effort is to adjust for the several million 
+people the census will predictably miss, as the last one did, if it 
+counts heads in the traditional manner. The heated politics around 
+the issue reflects the fact that the undercount is not neutral; members 
+of minority groups and poor people living in cities are missed most 
+often and, consequently, the predominantly Democratic areas where 
+these people live would benefit the most if they were accounted for. 
+Beyond the census issue, another of the court's cases could affect 
+the next round of reapportionment. For the third time in five years, 
+the court will review a congressional districting case from North 
+Carolina. The justices invalidated, as an unconstitutional racial 
+gerrymander, the state's earlier effort to comply with the Voting 
+Rights Act by creating an irregularly shaped, majority-black district. 
+Now, the 12th Congressional District has another new shape, somewhat 
+more compact and with a slight majority of white voters. The question 
+in Hunt vs. Cromartie, No. 98-85, is whether the district is still 
+invalid, as a special panel of three federal judges ruled last spring. 
+The court's answer could determine the extent to which legislators 
+can take race into account in drawing new district lines after the 
+next census. In its last term, the court ruled in four sexual harassment 
+cases, one of which, Gebser vs. Lago Vista Independent School District, 
+concerned harassment by teachers of students. The court ruled that 
+Title IX of the Education Amendments of 1972, which prohibits sex 
+discrimination in school programs that receive federal money, made 
+school districts liable for harassment by teachers if it could be 
+shown that school officials knew of the problem and refused to intervene. 
+The new case, Davis vs. Monroe County Board of Education, No. 97-843, 
+presents the question of a school district's liability for harassment 
+of a student by another student. The federal appeals court in Atlanta 
+ruled last year that Title IX did not apply to the situation. The 
+Supreme Court appeal was filed by a woman whose daughter was harassed 
+for months by a boy in her fifth-grade classroom in Macon, Ga., where 
+school officials refused to take action despite repeated complaints. 
+In another civil rights case, the court will decide whether collective 
+bargaining agreements that provide for arbitration of disputes bar 
+individual lawsuits against an employer for discrimination on the 
+basis of race, sex, age or disability. Most labor agreements these 
+days contain arbitration clauses, and there has been widespread dispute 
+in the lower courts over whether these apply only to workplace issues 
+arising under the contract, or whether the clauses also bar access 
+to federal court by employees seeking to vindicate their rights under 
+federal civil rights law. This closely watched case is Wright vs. 
+Universal Maritime Services Corp., No. 97-889. While the sexual harassment 
+and arbitration cases present statutory questions, the court also 
+has some important constitutional cases that raise civil rights issues. 
+The justices will review a Chicago anti-loitering ordinance under 
+which the police can arrest people they suspect of being gang members, 
+and who refuse an order to move along after being seen lingering with 
+another person ``with no apparent purpose'' in a public place. The 
+Illinois Supreme Court last year struck down the law, under which 
+the police had made some 43,000 arrests in three years, on the ground 
+that it was impermissibly vague and imposed arbitrary restrictions 
+on individual liberty. Anti-loitering laws were common before the 
+court struck down several of them in the 1970s, and this case, Chicago 
+vs. Morales, No. 97-1121, is being watched closely to see whether 
+the court adheres to those precedents. A welfare case from California 
+also implicates the court's precedents, raising the question of whether 
+states can discriminate against newcomers in the distribution of benefits. 
+In 1996, Congress authorized states to reduce welfare benefits for 
+new residents. The federal appeals court in San Francisco blocked 
+California from putting into effect its two-tiered welfare policy, 
+under which new residents are held for the first 12 months to the 
+benefits they would have received in their home states. In a 1969 
+decision, Shapiro vs. Thompson, the Supreme Court ruled that it violated 
+the constitutional right to travel for states to deny all welfare 
+benefits to newcomers. A question in the new case, Anderson vs. Roe, 
+No. 98-97, is how that precedent applies to a reduction rather than 
+elimination of benefits. Finally, the case with the highest economic 
+stakes may be the court's review of an appeals court decision last 
+year that sharply limited the federal government's role in opening 
+up the $100 billion market for local telephone service under the Telecommunications 
+Act of 1996. There are a number of separate questions in AT&AMP;T 
+vs. Iowa Utilities Board, No. 97-826, which is actually a group of 
+eight cases with so many parties and such complex regulatory issues 
+that the court has scheduled an unusual two hours, instead of one, 
+for argument on Oct. 13. A basic issue is the allocation of regulatory 
+authority, in making important pricing decisions under the 1996 law, 
+between the Federal Communications Commission and state regulators. 
+Would-be entrants into the market for local service are on the government's 
+side, while the incumbent local carriers are on the side of the states. 
+</TEXT>
+</DOC>

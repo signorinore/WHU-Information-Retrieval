@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981001.1130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A survey of the nation's purchasing managers shows manufacturing activity 
+slowed for the fourth straight month in September. The recent slowing 
+follows 22 months of consecutive growth and provides further evidence 
+of a slowdown in the nation's industrial activity. Manufacturers are 
+exporting less to Asia because of the economic turmoil in that region. 
+</TEXT>
+</DOC>

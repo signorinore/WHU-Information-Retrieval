@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981001.0130.0909 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Republicans and democrats are celebrating the first budget surplus 
+in 29 years. The federal government reports an estimated $70 billion 
+budget surplus for fiscal 1998. 
+</TEXT>
+</DOC>

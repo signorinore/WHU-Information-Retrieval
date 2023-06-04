@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981002.1600.0491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+cool high pressure will continue across much of the eastern u.s., 
+although the south will warm up a bit with a warm front moving through. 
+a few showers and storms will be across florida. rain and thunderstorms 
+will move from the plains into the mississippi river valley. a trough 
+across the northwest will keep some rain showers through that region. 
+in the higher elevations, that could be snow. saturday's highs -- 
+40s and 50s from the great basin, the northern rockies to new england. 
+we'll see mostly 70s and 80s across the south, but 90s in south texas. 
+looking ahead to sunday, we'll see showers from the northwest to the 
+great lakes to the gulf of mexico with not too much change in temperatures. 
+on monday, strong storms push out into the plains states. cooler air 
+will push into that region as well with a bit of a warm-up over the 
+ohio valley. for tuesday, it'll be pretty wet across the eastern two-thirds 
+of the country with rain and mountain snow showers in the northwest. 
+</TEXT>
+</DOC>

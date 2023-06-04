@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981006.0130.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. A 
+frontal system makes very little progress over the next several days. 
+It extends from the Great Lakes all the way down into Texas. Behind 
+the front it is cooler and drier, but along the frontal system, we 
+could expect potentially heavy amounts of rainfall. Look for stormy 
+skies in Minneapolis, Chicago, St. Louis, Little Rock and even into 
+Dallas, Texas. Temperature wise 60s plunge all the way into Texas. 
+Warmer readings into the southeast and the desert southwest. Look 
+for 32 degrees in Fairbanks Alaska, but breezy conditions across the 
+Hawaiian islands. Extended forecast is calling for showers and storms 
+across the southeast. Then by Thursday, a pickup in the moisture for 
+the pacific northwest and still 90s in the desert southwest. Going 
+into Friday, that rain pushes into the Great Lakes region as well 
+as into the northeast with more showers expected for the pacific northwest. 
+If you want more weather information, you can log on to CNN.com for 
+four-day forecasts for 6,100 cities. 
+</TEXT>
+</DOC>

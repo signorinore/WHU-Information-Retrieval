@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981008.1600.0285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The president focused on Medicare today. He promised to help an estimated 
+50,000 Medicare beneficiaries affected by the decision of HMOs not 
+to renew their Medicare contracts next year. Mr. Clinton says federal 
+approval for other plans hoping to take up the slack in coverage will 
+be expedited. He promised to keep Medicare recipients fully informed 
+on the status of their benefits. I am launching a comprehensive public 
+information campaign to make sure all affected seniors understand 
+the health coverage plans that are already available to them. We'll 
+bring together a broad public and private coalition from the aarp 
+to the older women's league to the social security administration 
+to local offices on aging to educate seniors about all their rights 
+and options. We must say to them, "losing HMO coverage does not mean 
+losing Medicare coverage. You are still protected by Medicare." 
+</TEXT>
+</DOC>

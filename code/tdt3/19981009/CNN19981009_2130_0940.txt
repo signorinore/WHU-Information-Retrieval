@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981009.2130.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers have developed a Gene-transfer method that could produce 
+a baby with arguably three parents. Genes from an infertile woman 
+would be combined with eggs from a fertile woman and sperm from a 
+man. The procedure is still in the testing phase. 
+</TEXT>
+</DOC>

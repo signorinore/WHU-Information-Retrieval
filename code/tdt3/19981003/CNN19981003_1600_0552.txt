@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981003.1600.0552 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A 25-mile oil slick in the gulf of Mexico appears to be moving away 
+from shore, sparing sensitive wildlife. The oil sprang from a leaking 
+underwater pipeline that connects to a bp oil platform 100 miles southeast 
+of New Orleans. The pipeline has been shut down. Just what caused 
+a 10-mile slick near San Francisco is still a mystery. The spill is 
+near one of the most productive seabird breeding grounds in the pacific. 
+So far, 35 birds have been found dead. Another 40 were taken to a 
+wildlife center. 
+</TEXT>
+</DOC>
